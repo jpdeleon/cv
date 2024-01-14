@@ -27,28 +27,31 @@ def format_pub(args):
     ind, pub = args
     fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
 
-    # Hack: Handle missing white space
+    # Hack: Handle formatted o
     pub["authors"] = [
-        a.replace("deLeon", "de Leon") for a in pub["authors"]
+        a.replace("de Le{\\'o}n", "de Leon") for a in pub["authors"]
     ]
+    try:
+        n = [
+            i
+            for i in range(len(pub["authors"]))
+            if "de Leon, J." in pub["authors"][i]
+        ][0]
+        pub["authors"][n] = "\\textbf{de Leon, Jerome}"
 
-    n = [
-        i
-        for i in range(len(pub["authors"]))
-        if "de Leon, J." in pub["authors"][i]
-    ][0]
-    pub["authors"][n] = "\\textbf{de Leon, Jerome}"
-    if len(pub["authors"]) > 5:
-        fmt += "; ".join(pub["authors"][:4])
-        fmt += "; \\etal"
-        if n >= 4:
-            fmt += "\\ (incl.\\ \\textbf{jpdeleon})"
-    elif len(pub["authors"]) > 1:
-        fmt += "; ".join(pub["authors"][:-1])
-        fmt += "; \\& " + pub["authors"][-1]
-    else:
-        fmt += pub["authors"][0]
-
+        if len(pub["authors"]) > 5:
+            fmt += "; ".join(pub["authors"][:4])
+            fmt += "; \\etal"
+            if n >= 4:
+                fmt += "\\ (incl.\\ \\textbf{jpdeleon})"
+        elif len(pub["authors"]) > 1:
+            fmt += "; ".join(pub["authors"][:-1])
+            fmt += "; \\& " + pub["authors"][-1]
+        else:
+            fmt += pub["authors"][0]
+    except Exception as e:
+        print(e)
+        
     fmt += ", {0}".format(pub["year"])
 
     if pub["doi"] is not None:
