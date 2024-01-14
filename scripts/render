@@ -16,12 +16,10 @@ spec.loader.exec_module(utf8totex)
 
 JOURNAL_MAP = {
     "arxiv e-prints": "ArXiv",
-    # "Monthly Notices of the Royal Astronomical Society": "\\mnras",
+    "Monthly Notices of the Royal Astronomical Society": "\\mnras",
     # "The Astrophysical Journal": "\\apj",
     # "The Astronomical Journal": "\\aj",
     # "Publications of the Astronomical Society of the Pacific": "\\pasp",
-    "iau general assembly": "IAU",
-    "american astronomical society meeting abstracts": "AAS",
 }
 
 
@@ -29,22 +27,22 @@ def format_pub(args):
     ind, pub = args
     fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
 
-    # Hack: Handle missing hyphens
+    # Hack: Handle missing white space
     pub["authors"] = [
-        a.replace("Foreman Mackey", "Foreman-Mackey") for a in pub["authors"]
+        a.replace("deLeon", "de Leon") for a in pub["authors"]
     ]
 
     n = [
         i
         for i in range(len(pub["authors"]))
-        if "Foreman-Mackey, D" in pub["authors"][i]
+        if "de Leon, J." in pub["authors"][i]
     ][0]
-    pub["authors"][n] = "\\textbf{Foreman-Mackey, Daniel}"
+    pub["authors"][n] = "\\textbf{de Leon, Jerome}"
     if len(pub["authors"]) > 5:
         fmt += "; ".join(pub["authors"][:4])
         fmt += "; \\etal"
         if n >= 4:
-            fmt += "\\ (incl.\\ \\textbf{DFM})"
+            fmt += "\\ (incl.\\ \\textbf{jpdeleon})"
     elif len(pub["authors"]) > 1:
         fmt += "; ".join(pub["authors"][:-1])
         fmt += "; \\& " + pub["authors"][-1]
@@ -119,7 +117,7 @@ if __name__ == "__main__":
 
     # Compute citation stats
     npapers = len(ref)
-    nfirst = sum(1 for p in pubs if "Foreman-Mackey" in p["authors"][0])
+    nfirst = sum(1 for p in pubs if "de Leon" in p["authors"][0])
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
     hindex = sum(c >= i for i, c in enumerate(cites))

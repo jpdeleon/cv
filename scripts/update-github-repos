@@ -9,7 +9,7 @@ headers = {"Authorization": "Bearer {0}".format(os.environ["GITHUB_API_KEY"])}
 
 query = """
 {
-  user(login: "dfm") {
+  user(login: "jpdeleon") {
     pinnedItems(first: 6, types: [REPOSITORY]) {
       totalCount
       edges {

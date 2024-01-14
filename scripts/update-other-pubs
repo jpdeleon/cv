@@ -8,8 +8,8 @@ import requests
 
 def get_number_of_citations(url):
     headers = {
-        "User-Agent": "DFM's CV updater",
-        "From": "foreman.mackey@gmail.com",
+        "User-Agent": "Jerome's CV updater",
+        "From": "jerome.deleon@gmail.com",
     }
     r = requests.get(url, headers=headers)
     try:
