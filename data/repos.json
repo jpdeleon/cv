@@ -6,91 +6,91 @@
         "edges": [
           {
             "node": {
-              "name": "tinygp",
-              "description": "The tiniest of Gaussian Process libraries",
-              "url": "https://github.com/dfm/tinygp",
-              "homepageUrl": "https://tinygp.readthedocs.io",
-              "forkCount": 21,
+              "name": "tql",
+              "description": "TESS Quick Look light curve analyser",
+              "url": "https://github.com/jpdeleon/tql",
+              "homepageUrl": null,
+              "forkCount": 2,
               "stargazers": {
-                "totalCount": 262
-              },
-              "watchers": {
-                "totalCount": 9
-              }
-            }
-          },
-          {
-            "node": {
-              "name": "showyourwork",
-              "description": "A workflow for reproducible and open scientific articles",
-              "url": "https://github.com/showyourwork/showyourwork",
-              "homepageUrl": "https://show-your.work",
-              "forkCount": 43,
-              "stargazers": {
-                "totalCount": 501
-              },
-              "watchers": {
                 "totalCount": 5
+              },
+              "watchers": {
+                "totalCount": 3
               }
             }
           },
           {
             "node": {
-              "name": "emcee",
-              "description": "The Python ensemble sampling toolkit for affine-invariant MCMC",
-              "url": "https://github.com/dfm/emcee",
-              "homepageUrl": "https://emcee.readthedocs.io",
-              "forkCount": 436,
+              "name": "tql-gallery",
+              "description": "TQL outputs for TOI",
+              "url": "https://github.com/jpdeleon/tql-gallery",
+              "homepageUrl": null,
+              "forkCount": 0,
               "stargazers": {
-                "totalCount": 1391
+                "totalCount": 0
               },
               "watchers": {
-                "totalCount": 87
+                "totalCount": 1
               }
             }
           },
           {
             "node": {
-              "name": "corner.py",
-              "description": "Make some beautiful corner plots",
-              "url": "https://github.com/dfm/corner.py",
-              "homepageUrl": "http://corner.readthedocs.io",
-              "forkCount": 221,
+              "name": "chronos",
+              "description": "analysis of Tess data focused on young host stars",
+              "url": "https://github.com/jpdeleon/chronos",
+              "homepageUrl": null,
+              "forkCount": 2,
               "stargazers": {
-                "totalCount": 471
+                "totalCount": 5
               },
               "watchers": {
-                "totalCount": 18
+                "totalCount": 3
               }
             }
           },
           {
             "node": {
-              "name": "exoplanet",
-              "description": "Fast & scalable MCMC for all your exoplanet needs! ",
-              "url": "https://github.com/exoplanet-dev/exoplanet",
-              "homepageUrl": "https://docs.exoplanet.codes",
-              "forkCount": 52,
+              "name": "cluster-gallery",
+              "description": "Check it out at https://jpdeleon.github.io/cluster-gallery/",
+              "url": "https://github.com/jpdeleon/cluster-gallery",
+              "homepageUrl": null,
+              "forkCount": 0,
               "stargazers": {
-                "totalCount": 195
+                "totalCount": 1
               },
               "watchers": {
-                "totalCount": 19
+                "totalCount": 1
               }
             }
           },
           {
             "node": {
-              "name": "daft",
-              "description": "Render probabilistic graphical models using matplotlib",
-              "url": "https://github.com/daft-dev/daft",
-              "homepageUrl": "https://docs.daft-pgm.org",
-              "forkCount": 119,
+              "name": "fastquant",
+              "description": "fastquant \u2014 Backtest and optimize your ML trading strategies with only 3 lines of code!",
+              "url": "https://github.com/enzoampil/fastquant",
+              "homepageUrl": "",
+              "forkCount": 229,
               "stargazers": {
-                "totalCount": 666
+                "totalCount": 1339
               },
               "watchers": {
-                "totalCount": 17
+                "totalCount": 49
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "toi1696",
+              "description": "validation paper by Mori et al.",
+              "url": "https://github.com/jpdeleon/toi1696",
+              "homepageUrl": null,
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 0
+              },
+              "watchers": {
+                "totalCount": 3
               }
             }
           }
