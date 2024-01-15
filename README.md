@@ -49,8 +49,8 @@ Theme: Discovery and characterization of transiting exoplanets
 
 ## Publications
 
-refereed: 192 / first author: 16 / citations: 6,567 / h-index: 35
-(2024-01-14)
+refereed: 192 / first author: 16 / citations: 6,573 / h-index: 35
+(2024-01-15)
 
 ### Refereed publications
 
@@ -449,7 +449,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021Icar..35414028A)\]
 DellaGiustina, D. N.; Kaplan, H. H.; Simon, A. A.; Bottke, W. F.;
 *et al.* (incl. **jpdeleon**), 2021, *[Exogenic basalt on asteroid
 (101955) Bennu](http://dx.doi.org/10.1038/s41550-020-1195-z)*, Nature
-Astronomy, **5**, 31 \[[55
+Astronomy, **5**, 31 \[[57
 citations](https://ui.adsabs.harvard.edu/abs/2021NatAs...5...31D)\]
 
 Tatsumi, E.; Sugimoto, C.; Riu, L.; Sugita, S.;
@@ -477,7 +477,7 @@ DellaGiustina, D. N.; Burke, K. N.; Walsh, K. J.; Smith, P. H.;
 *et al.* (incl. **jpdeleon**), 2020, *[Variations in color and
 reflectance on the surface of asteroid (101955)
 Bennu](http://dx.doi.org/10.1126/science.abc3660)*, Science, **370**
-\[[76
+\[[77
 citations](https://ui.adsabs.harvard.edu/abs/2020Sci...370.3660D)\]
 
 De Prá, M. N.; Pinilla-Alonso, N.; Carvano, J.; Licandro, J.;
@@ -699,7 +699,7 @@ Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
 mini-Neptune in a triple-star
 system](http://dx.doi.org/10.1093/mnras/stz139)*, Monthly Notices of the
 Royal Astronomical Society, **484**, 3522
-([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[18
+([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3522H)\]
 
 , 2019, *[A Tail Structure Associated with a Protoplanetary Disk around
@@ -712,7 +712,7 @@ Barnouin, O. S.; Daly, M. G.; Palmer, E. E.; Gaskell, R. W.;
 *et al.* (incl. **jpdeleon**), 2019, *[Shape of (101955) Bennu
 indicative of a rubble pile with internal
 stiffness](http://dx.doi.org/10.1038/s41561-019-0330-x)*, Nature
-Geoscience, **12**, 247 \[[170
+Geoscience, **12**, 247 \[[171
 citations](https://ui.adsabs.harvard.edu/abs/2019NatGe..12..247B)\]
 
 Esposito, M.; Armstrong, D. J.; Gandolfi, D.; Adibekyan, V.;
@@ -752,7 +752,7 @@ Associated with Image-Based Mapping of Small Bodies in Preparation for
 the OSIRIS-REx Mission to (101955)
 Bennu](http://dx.doi.org/10.1029/2018EA000382)*, Earth and Space
 Science, **5**, 929
-([arXiv:1810.10080](http://arxiv.org/abs/1810.10080)) \[[21
+([arXiv:1810.10080](http://arxiv.org/abs/1810.10080)) \[[22
 citations](https://ui.adsabs.harvard.edu/abs/2018E&SS....5..929D)\]
 
 , 2018, *[ALMA Reveals a Misaligned Inner Gas Disk inside the Large
