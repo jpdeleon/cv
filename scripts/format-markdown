@@ -8,16 +8,26 @@ if __name__ == "__main__":
 
     results = []
     prev = ""
+    # Iterate through each line in the README file
     for line in lines:
+        # Skip lines starting with "=" or "<span> ="
         if line.startswith("=") or line.startswith("<span> ="):
             continue
+        
+        # Check for lines starting with "**" and no previous line
         if line.startswith("**") and prev == "":
             parts = line.split("**")
-            if not parts[1].startswith("Foreman-Mackey"):
+            # Check if the name does not start with "de Leon"
+            if not parts[1].startswith("de Leon"):
+                # Add modified lines to the results list
                 results += ["## " + parts[1], ""] + parts[2:]
                 continue
+        
+        # Add the current line to the results list
         results.append(line)
+        # Update the previous line variable
         prev = line.strip()
 
+    # Write the modified lines back to the README.md file
     with open("README.md", "w") as f:
         f.write("\n".join(results))
