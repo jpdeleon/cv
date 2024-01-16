@@ -22,9 +22,9 @@ g.ecc.u-tokyo.ac.jp](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp) \| Phone: +81
 <div class="list">
 
 
-As of [^1], published  refereed papers with  total citations, and an
+As of [^1], published refereed papers with total citations, and an
 h-index of ; a complete listing can be found on [Google
-Scholar](https://scholar.google.co.jp/citations?hl=en&user=_Z8ialwAAAAJ).
+Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=list_works&sortby=pubdate).
 
 Taught 2 introductory courses in Astronomy for undergraduates.
 
