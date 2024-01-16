@@ -8,7 +8,8 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
 ## Jerome de Leon
 
- Project research scientist, The University of Tokyo  
+ <span class="smallcaps">jpdeleon.github.io</span>  
+Project research scientist, The University of Tokyo  
 
 ## Education
 
