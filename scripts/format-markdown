@@ -3,7 +3,8 @@
 
 
 if __name__ == "__main__":
-    with open("README.md", "r") as f:
+    fout = "README.md"
+    with open(fout, "r") as f:
         lines = f.read().splitlines()
 
     results = []
@@ -29,5 +30,6 @@ if __name__ == "__main__":
         prev = line.strip()
 
     # Write the modified lines back to the README.md file
-    with open("README.md", "w") as f:
+    with open(fout, "w") as f:
         f.write("\n".join(results))
+    print("Saved: ", fout)

@@ -134,6 +134,7 @@ if __name__ == "__main__":
     
     macros = [
         f"\\newcommand{{\\pubsdate}}{{{date.today()}}}",
+        f"\\newcommand{{\\pubsfirst}}{{{nfirst}}}",
         f"\\newcommand{{\\pubsnumber}}{{{npapers}}}",
         f"\\newcommand{{\\pubscitations}}{{{ncitations:,}}}",
         f"\\newcommand{{\\pubshindex}}{{{hindex}}}",
@@ -167,12 +168,12 @@ if __name__ == "__main__":
                 break
     selected = sorted(selected, key=itemgetter("pubdate"), reverse=True)
     selected = list(map(format_pub, zip(range(len(selected), 0, -1), selected)))
+
     fout = "tex/pubs_select.tex"
     with open(fout, "w") as f:
         f.write("\n\n".join(selected))
     print("Saved: ", fout)
 
-    # Write the repo info
     fout = "data/repos.json"
     with open(fout, "r") as f:
         repos = json.load(f)
