@@ -138,9 +138,7 @@ Publications of the Astronomical Society of Japan, **75**, 713
 ([arXiv:2304.14703](http://arxiv.org/abs/2304.14703)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2023PASJ...75..713K)\]
 
-## de Leon, Jerome
-
-; Livingston, J. H.; Jenkins, J. S.; Vines, J. I.;
+**de Leon, Jerome**; Livingston, J. H.; Jenkins, J. S.; Vines, J. I.;
 *et al.*, 2023, *[A sub-Neptune transiting the young field star HD 18599
 at 40 pc](http://dx.doi.org/10.1093/mnras/stad894)*, Monthly Notices of
 the Royal Astronomical Society, **522**, 750
@@ -169,9 +167,7 @@ asteroids](http://dx.doi.org/10.1093/mnras/stad330)*, Monthly Notices of
 the Royal Astronomical Society, **520**, 3143
 ([arXiv:2302.01165](http://arxiv.org/abs/2302.01165))
 
-## de Leon, Jerome
-
-; Licandro, J.; Pinilla-Alonso, N.; Moskovitz, N.;
+**de Leon, Jerome**; Licandro, J.; Pinilla-Alonso, N.; Moskovitz, N.;
 *et al.*, 2023, *[Characterisation of the new target of the NASA Lucy
 mission: Asteroid 152830 Dinkinesh (1999
 VD57)](http://dx.doi.org/10.1051/0004-6361/202346278)*, Astronomy and
@@ -325,9 +321,7 @@ border](http://dx.doi.org/10.1126/science.abh1924)*, Science, **374**,
 1496 \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2021Sci...374.1496C)\]
 
-## de Leon, Jerome
-
-; Livingston, J.; Endl, M.; Cochran, W. D.; *et al.*,
+**de Leon, Jerome**; Livingston, J.; Endl, M.; Cochran, W. D.; *et al.*,
 2021, *[37 new validated planets in overlapping K2
 campaigns](http://dx.doi.org/10.1093/mnras/stab2305)*, Monthly Notices
 of the Royal Astronomical Society, **508**, 195
@@ -552,9 +546,7 @@ Astrophysics, **639**
 ([arXiv:2003.05932](http://arxiv.org/abs/2003.05932)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...639A..76N)\]
 
-## de Leon, Jerome
-
-; Licandro, J.; de la Fuente Marcos, C.; de la Fuente
+**de Leon, Jerome**; Licandro, J.; de la Fuente Marcos, C.; de la Fuente
 Marcos, R.; *et al.*, 2020, *[Visible and near-infrared observations of
 interstellar comet 2I/Borisov with the 10.4-m GTC and the 3.6-m TNG
 telescopes](http://dx.doi.org/10.1093/mnras/staa1190)*, Monthly Notices
@@ -769,9 +761,7 @@ Astrophysics, **618**
 ([arXiv:1903.10880](http://arxiv.org/abs/1903.10880)) \[[22
 citations](https://ui.adsabs.harvard.edu/abs/2018A&A...618A.170L)\]
 
-## de Leon, Jerome
-
-; Campins, H.; Morate, D.; De Prá, M.; *et al.*,
+**de Leon, Jerome**; Campins, H.; Morate, D.; De Prá, M.; *et al.*,
 2018, *[Expected spectral characteristics of (101955) Bennu and (162173)
 Ryugu, targets of the OSIRIS-REx and Hayabusa2
 missions](http://dx.doi.org/10.1016/j.icarus.2018.05.009)*, Icarus,
@@ -840,9 +830,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2018A&A...610A..25M)\]
 **295**, 34 ([arXiv:1704.04639](http://arxiv.org/abs/1704.04639)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2017Icar..295...34F)\]
 
-## de Leon, Jerome
-
-; de la Fuente Marcos, C.; & de la Fuente Marcos, R.,
+**de Leon, Jerome**; de la Fuente Marcos, C.; & de la Fuente Marcos, R.,
 2017, *[Visible spectra of (474640) 2004 VN\<SUB\>112\</SUB\>-2013
 RF\<SUB\>98\</SUB\> with OSIRIS at the 10.4 m GTC: evidence for binary
 dissociation near aphelion among the extreme trans-Neptunian
@@ -920,9 +908,7 @@ regression](http://dx.doi.org/10.1073/pnas.1511656113)*, PNAS, **113**,
 27 \[[68
 citations](https://scholar.google.com/scholar?cites=2429561747341807338)\]
 
-## de Leon, Jerome
-
-; Pinilla-Alonso, N.; Delbo, M.; Campins, H.;
+**de Leon, Jerome**; Pinilla-Alonso, N.; Delbo, M.; Campins, H.;
 *et al.*, 2016, *[Visible spectroscopy of the Polana-Eulalia family
 complex: Spectral
 homogeneity](http://dx.doi.org/10.1016/j.icarus.2015.11.014)*, Icarus,
@@ -970,9 +956,7 @@ JU\<SUB\>3\</SUB\>)](http://dx.doi.org/10.1088/0004-6256/146/2/26)*, The
 Astronomical Journal, **146**, 26 \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2013AJ....146...26C)\]
 
-## de Leon, Jerome
-
-; Lorenzi, V.; Alı́-Lagoa, V.; Licandro, J.; *et al.*,
+**de Leon, Jerome**; Lorenzi, V.; Alı́-Lagoa, V.; Licandro, J.; *et al.*,
 2013, *[Additional spectra of asteroid 1996 FG3, backup target of the
 ESA MarcoPolo-R
 mission](http://dx.doi.org/10.1051/0004-6361/201321514)*, Astronomy and
@@ -980,9 +964,7 @@ Astrophysics, **556**
 ([arXiv:1307.5774](http://arxiv.org/abs/1307.5774)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2013A&A...556A..33D)\]
 
-## de Leon, Jerome
-
-; Ortiz, J. L.; Pinilla-Alonso, N.; Cabrera-Lavers,
+**de Leon, Jerome**; Ortiz, J. L.; Pinilla-Alonso, N.; Cabrera-Lavers,
 A.; *et al.*, 2013, *[Visible and near-infrared observations of asteroid
 2012 DA\<SUB\>14\</SUB\> during its closest approach of February 15,
 2013](http://dx.doi.org/10.1051/0004-6361/201321373)*, Astronomy and
@@ -1040,9 +1022,7 @@ notes using amplitude and phase
 reconstruction](http://dx.doi.org/10.1186/1687-6180-2012-223)*, EURASIP
 Journal on Applied Signal Processing, **2012**
 
-## de Leon, Jerome
-
-; Pinilla-Alonso, N.; Campins, H.; Licandro, J.; &
+**de Leon, Jerome**; Pinilla-Alonso, N.; Campins, H.; Licandro, J.; &
 Marzo, G. A., 2012, *[Near-infrared spectroscopic survey of B-type
 asteroids: Compositional
 analysis](http://dx.doi.org/10.1016/j.icarus.2011.11.024)*, Icarus,
@@ -1080,18 +1060,14 @@ and Astrophysics, **532**
 ([arXiv:1104.0879](http://arxiv.org/abs/1104.0879)) \[[51
 citations](https://ui.adsabs.harvard.edu/abs/2011A&A...532A..65L)\]
 
-## de Leon, Jerome
-
-; Mothé-Diniz, T.; Licandro, J.; Pinilla-Alonso, N.;
+**de Leon, Jerome**; Mothé-Diniz, T.; Licandro, J.; Pinilla-Alonso, N.;
 & Campins, H., 2011, *[New observations of asteroid (175706) 1996 FG3,
 primary target of the ESA Marco Polo-R
 mission](http://dx.doi.org/10.1051/0004-6361/201117041)*, Astronomy and
 Astrophysics, **530** \[[22
 citations](https://ui.adsabs.harvard.edu/abs/2011A&A...530L..12D)\]
 
-## de Leon, Jerome
-
-; Duffard, R.; Lara, L. M.; & Lin, Z. -Y., 2011,
+**de Leon, Jerome**; Duffard, R.; Lara, L. M.; & Lin, Z. -Y., 2011,
 *[Photometric and spectroscopic observations of asteroid (21) Lutetia
 three months before the Rosetta
 fly-by](http://dx.doi.org/10.1051/0004-6361/201015144)*, Astronomy and
@@ -1109,18 +1085,14 @@ RQ\<SUB\>36\</SUB\>)](http://dx.doi.org/10.1088/2041-8205/721/1/L53)*,
 The Astrophysical Journal, **721** \[[71
 citations](https://ui.adsabs.harvard.edu/abs/2010ApJ...721L..53C)\]
 
-## de Leon, Jerome
-
-; Licandro, J.; Serra-Ricart, M.; Pinilla-Alonso, N.;
+**de Leon, Jerome**; Licandro, J.; Serra-Ricart, M.; Pinilla-Alonso, N.;
 & Campins, H., 2010, *[Observations, compositional, and physical
 characterization of near-Earth and Mars-crosser asteroids from a
 spectroscopic survey](http://dx.doi.org/10.1051/0004-6361/200913852)*,
 Astronomy and Astrophysics, **517** \[[82
 citations](https://ui.adsabs.harvard.edu/abs/2010A&A...517A..23D)\]
 
-## de Leon, Jerome
-
-; Campins, H.; Tsiganis, K.; Morbidelli, A.; &
+**de Leon, Jerome**; Campins, H.; Tsiganis, K.; Morbidelli, A.; &
 Licandro, J., 2010, *[Origin of the near-Earth asteroid Phaethon and the
 Geminids meteor shower](http://dx.doi.org/10.1051/0004-6361/200913609)*,
 Astronomy and Astrophysics, **513** \[[89
@@ -1211,27 +1183,21 @@ orbits](http://dx.doi.org/10.1016/j.asr.2005.11.015)*, Advances in Space
 Research, **38**, 1991 \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2006AdSpR..38.1991L)\]
 
-## de Leon, Jerome
-
-, 2006, *[Transition from decelerated to accelerated
+**de Leon, Jerome**, 2006, *[Transition from decelerated to accelerated
 cosmic expansion in braneworld
 universes](http://dx.doi.org/10.1007/s10714-005-0209-6)*, General
 Relativity and Gravitation, **38**, 61
 ([arXiv:gr-qc/0412005](http://arxiv.org/abs/gr-qc/0412005)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2006GReGr..38...61D)\]
 
-## de Leon, Jerome
-
-; Licandro, J.; Duffard, R.; & Serra-Ricart, M.,
+**de Leon, Jerome**; Licandro, J.; Duffard, R.; & Serra-Ricart, M.,
 2006, *[Spectral analysis and mineralogical characterization of 11
 olivine pyroxene rich
 NEAs](http://dx.doi.org/10.1016/j.asr.2005.05.074)*, Advances in Space
 Research, **37**, 178 \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2006AdSpR..37..178D)\]
 
-## de Leon, Jerome
-
-, 2006, *[An Analytical Model for the Transition from
+**de Leon, Jerome**, 2006, *[An Analytical Model for the Transition from
 Decelerated to Accelerated Cosmic
 Expansion](http://dx.doi.org/10.1142/S0218271806008929)*, International
 Journal of Modern Physics D, **15**, 1237
@@ -1256,33 +1222,25 @@ meteorites](http://dx.doi.org/10.1111/j.1945-5100.2005.tb00393.x)*,
 Meteoritics and Planetary Science, **40**, 445 \[[22
 citations](https://ui.adsabs.harvard.edu/abs/2005M&PS...40..445D)\]
 
-## de Leon, Jerome
-
-; Duffard, R.; Licandro, J.; & Lazzaro, D., 2004,
+**de Leon, Jerome**; Duffard, R.; Licandro, J.; & Lazzaro, D., 2004,
 *[Mineralogical characterization of A-type asteroid (1951)
 Lick](http://dx.doi.org/10.1051/0004-6361:20048009)*, Astronomy and
 Astrophysics, **422** \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2004A&A...422L..59D)\]
 
-## de Leon, Jerome
-
-, 2004, *[Extra Force from an Extra Dimension:
+**de Leon, Jerome**, 2004, *[Extra Force from an Extra Dimension:
 Comparison Between Brane Theory, Space-Time-Matter Theory, and Other
 Approaches](http://dx.doi.org/10.1023/B:GERG.0000022391.57597.3b)*,
 General Relativity and Gravitation, **36**, 1335 \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2004GReGr..36.1335D)\]
 
-## de Leon, Jerome
-
-, 2004, *[Letter: Electromagnetic Mass-Models in
+**de Leon, Jerome**, 2004, *[Letter: Electromagnetic Mass-Models in
 General Relativity
 Reexamined](http://dx.doi.org/10.1023/B:GERG.0000022581.83991.b4)*,
 General Relativity and Gravitation, **36**, 1453 \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2004GReGr..36.1453D)\]
 
-## de Leon, Jerome
-
-, 2004, *[Brane-World Models Emerging from Collisions
+**de Leon, Jerome**, 2004, *[Brane-World Models Emerging from Collisions
 of Plane Waves in
 5D](http://dx.doi.org/10.1023/B:GERG.0000018082.54353.cd)*, General
 Relativity and Gravitation, **36**, 923
@@ -1295,35 +1253,27 @@ Gutiérrez, P. J.; **de Leon, Jerome**; Jorda, L.; Licandro, J.;
 and Astrophysics, **407** \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2003A&A...407L..37G)\]
 
-## de Leon, Jerome
-
-, 2002, *[Variation of G, $\Lambda$\<SUB\>(4)\</SUB\>
+**de Leon, Jerome**, 2002, *[Variation of G, $\Lambda$\<SUB\>(4)\</SUB\>
 and Vacuum Energy from Brane-World
 Models](http://dx.doi.org/10.1142/S0217732302009143)*, Modern Physics
 Letters A, **17**, 2425
 ([arXiv:gr-qc/0207001](http://arxiv.org/abs/gr-qc/0207001)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2002MPLA...17.2425D)\]
 
-## de Leon, Jerome
-
-, 2001, *[Does the force from an extra dimension
+**de Leon, Jerome**, 2001, *[Does the force from an extra dimension
 contradict physics in
 4D?](http://dx.doi.org/10.1016/S0370-2693(01)01349-1)*, Physics Letters
 B, **523**, 311
 ([arXiv:gr-qc/0110063](http://arxiv.org/abs/gr-qc/0110063)) \[[28
 citations](https://ui.adsabs.harvard.edu/abs/2001PhLB..523..311D)\]
 
-## de Leon, Jerome
-
-, 2001, *[Equivalence between Space-Time-Matter and
+**de Leon, Jerome**, 2001, *[Equivalence between Space-Time-Matter and
 Brane-World Theories](http://dx.doi.org/10.1142/S0217732301005709)*,
 Modern Physics Letters A, **16**, 2291
 ([arXiv:gr-qc/0111011](http://arxiv.org/abs/gr-qc/0111011)) \[[92
 citations](https://ui.adsabs.harvard.edu/abs/2001MPLA...16.2291D)\]
 
-## de Leon, Jerome
-
-, 2001, *[Inevitability of Space-Time Singularities
+**de Leon, Jerome**, 2001, *[Inevitability of Space-Time Singularities
 in the Canonical Metric](http://dx.doi.org/10.1142/S0217732301004595)*,
 Modern Physics Letters A, **16**, 1405 \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2001MPLA...16.1405D)\]
@@ -1338,9 +1288,7 @@ Kaluza-Klein soliton solutions.](http://dx.doi.org/10.1063/1.530027)*,
 Journal of Mathematical Physics, **34**, 4070 \[[30
 citations](https://ui.adsabs.harvard.edu/abs/1993JMP....34.4070L)\]
 
-## de Leon, Jerome
-
-; & Wesson, P. S., 1993, Exact solutions and the
+**de Leon, Jerome**; & Wesson, P. S., 1993, Exact solutions and the
 effective equation of state in Kaluza-Klein theory., Journal of
 Mathematical Physics, **34**, 4080 \[[24
 citations](https://ui.adsabs.harvard.edu/abs/1993JMP....34.4080D)\]
@@ -1351,9 +1299,7 @@ tensor.](http://dx.doi.org/10.1063/1.529834)*, Journal of Mathematical
 Physics, **33**, 3883 \[[200
 citations](https://ui.adsabs.harvard.edu/abs/1992JMP....33.3883W)\]
 
-## de Leon, Jerome
-
-, 1991, Cosmological models that describe particle
+**de Leon, Jerome**, 1991, Cosmological models that describe particle
 creation in the early universe and evolve into the ”present-day”
 universe., Journal of Mathematical Physics, **32**, 3546 \[[2
 citations](https://ui.adsabs.harvard.edu/abs/1991JMP....32.3546D)\]
