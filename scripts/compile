@@ -1,8 +1,8 @@
 #!/bin/sh -l
 set -e
 
-tectonic tex/cv.tex
-tectonic tex/pubs.tex
-tectonic tex/cv_pubs.tex
-# tectonic tex/biosketch.tex
-tectonic tex/resume.tex
+tectonic tex/cv.tex --keep-intermediates
+tectonic tex/pubs.tex --keep-intermediates
+tectonic tex/cv_pubs.tex --keep-intermediates
+tectonic tex/biosketch.tex --keep-intermediates
+tectonic tex/resume.tex --keep-intermediates
