@@ -39,5 +39,7 @@ r = requests.post(
 )
 r.raise_for_status()
 result = r.json()
-with open("data/repos.json", "w") as f:
+fout = "data/repos.json"
+with open(fout, "w") as f:
     json.dump(result, f, indent=2)
+print("Saved: ", fout)

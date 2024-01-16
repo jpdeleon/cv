@@ -29,7 +29,8 @@ def get_number_of_citations(url):
 
 
 def update_others():
-    with open("data/other_pubs.json", "r") as f:
+    fout = "data/other_pubs.json"
+    with open(fout, "r") as f:
         pubs = json.load(f)
         for i, pub in enumerate(pubs):
             if not pub["url"].startswith("https://scholar.google.com"):
@@ -39,9 +40,9 @@ def update_others():
                 continue
             pubs[i]["citations"] = n
 
-    with open("data/other_pubs.json", "w") as f:
+    with open(fout, "w") as f:
         json.dump(pubs, f, sort_keys=True, indent=2, separators=(",", ": "))
-
+    print("Saved: ", fout)
 
 if __name__ == "__main__":
     update_others()
