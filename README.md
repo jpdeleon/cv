@@ -1,4 +1,4 @@
-# Jerome Pitogo de Leon's CV
+# [Curriculum Vitae](https://raw.githubusercontent.com/jpdeleon/cv/main-pdf/tex/cv_pubs.pdf) | [resume](https://raw.githubusercontent.com/jpdeleon/cv/main-pdf/tex/resume.pdf)
 
 [![Auto update](https://github.com/jpdeleon/cv/workflows/Auto%20update/badge.svg)](https://github.com/jpdeleon/cv/actions?query=workflow%3A%22Auto+update%22) [![Latest PDF](https://img.shields.io/badge/pdf-latest-orange.svg)](https://raw.githubusercontent.com/jpdeleon/cv/main-pdf/tex/cv_pubs.pdf)
 
@@ -25,7 +25,7 @@ g.ecc.u-tokyo.ac.jp](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp) \| Phone: +81
 As of 2024-01-16[^1], published 57 refereed papers with 3,746 total
 citations, and an h-index of 22; a complete listing can be found on
 [Google
-Scholar](https://scholar.google.co.jp/citations?hl=en&user=_Z8ialwAAAAJ).
+Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=list_works&sortby=pubdate).
 
 Taught 2 introductory courses in Astronomy for undergraduates.
 
@@ -586,7 +586,7 @@ observation runs in the U.S., Europe, and South-east Asia
 
 </div>
 
-Observing Experience
+## Observing Experience
 
 <div class="list">
 
