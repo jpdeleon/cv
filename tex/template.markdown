@@ -1,4 +1,4 @@
-# Jerome Pitogo de Leon's CV
+# [Curriculum Vitae](https://raw.githubusercontent.com/jpdeleon/cv/main-pdf/tex/cv_pubs.pdf) | [resume](https://raw.githubusercontent.com/jpdeleon/cv/main-pdf/tex/resume.pdf)
 
 [![Auto update](https://github.com/jpdeleon/cv/workflows/Auto%20update/badge.svg)](https://github.com/jpdeleon/cv/actions?query=workflow%3A%22Auto+update%22) [![Latest PDF](https://img.shields.io/badge/pdf-latest-orange.svg)](https://raw.githubusercontent.com/jpdeleon/cv/main-pdf/tex/cv_pubs.pdf)
 
