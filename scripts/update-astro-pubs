@@ -25,12 +25,14 @@ utf8totex = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(utf8totex)
 
 author = "de Leon, J. P."
+# exclude papers with asteroid in abstract
+search_query = 'aff:"University of Tokyo" database:astronomy -abs:asteroid'
 
 def get_papers(author):
     # Perform an ADS search query to retrieve information about the author's papers
     papers = list(
         ads.SearchQuery(
-            q='aff:"University of Tokyo" database:astronomy',
+            q=search_query,
             author=author,
             fl=[
                 "id",
