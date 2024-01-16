@@ -9,13 +9,31 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 ## Jerome Pitogo de Leon
 
   
-Project Research Assistant, Department of Multi-Disciplinary Sciences,
-The University of Tokyo  
+Postdoctoral researcher at The University of Tokyo  
 <span class="sans-serif">[jpdeleon \[at\]
-g.ecc.u-tokyo.ac.jp](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp) \|
-[ORCID](https://orcid.org/my-orcid?orcid=0000-0002-6424-3410) \|
-[github](https://github.com/jpdeleon) \|
-[linkedin](https://www.linkedin.com/in/jpdeleonbsap/)</span>  
+g.ecc.u-tokyo.ac.jp](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp) \| Phone: +81
+(0) 80 8712 7159 \| [ORCID:
+0000-0002-6424-3410](https://orcid.org/my-orcid?orcid=0000-0002-6424-3410)
+\| [github.com/jpdeleon](https://github.com/jpdeleon) \|
+[linkedin.com/in/jpdeleonbsap](https://www.linkedin.com/in/jpdeleonbsap/)</span>  
+
+## Overview
+
+<div class="list">
+
+
+As of [^1], published  refereed papers with  total citations, and an
+h-index of ; a complete listing can be found on [Google
+Scholar](https://scholar.google.co.jp/citations?hl=en&user=_Z8ialwAAAAJ).
+
+Taught 2 introductory courses in Astronomy for undergraduates.
+
+Led a research group composed of 1 PhD, 3 master and 2 undergraduate
+students.
+
+Gave several invited colloquium talks for research and public outreach.
+
+</div>
 
 ## Education
 
@@ -44,13 +62,17 @@ Advisor: Asst prof. Norio Narita
 Department of Multi-Disciplinary Sciences, Graduate School of Arts and
 Sciences, The University of Tokyo, 3-8-1 Komaba, Meguro, Tokyo 153-8902,
 Japan  
-Theme: Discovery and characterization of young transiting exoplanets  
+Theme: Discovery and characterization of young transiting exoplanets
+with TESS telescope (See [de Leon et al.
+2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522..750D/abstract))  
 
 Project Research Assistant (2021/4 - 2023/3)  
 Department of Astronomy, Graduate School of Science, The University of
 Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan  
 Advisor: Prof. Motohide Tamura  
-Theme: Discovery and characterization of transiting exoplanets  
+Theme: Discovery and characterization of transiting exoplanets with
+Kepler telescope (See [de Leon et al.
+2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..195D/abstract))  
 
 Research Development Assistant (2013/4-2014/6)  
 Regulus SpaceTech, Inc., Los Baños, Laguna, Philippines  
@@ -67,8 +89,8 @@ of automated solar telescope
 Technical Assistant (2018/10-2019/3)  
 Engineering Department, The University of Tokyo, Japan  
 Developed image processing software for high resolution mosaic/stitching
-and analysis (See
-[https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10679/106790Z/Real-time-high-speed-motion-blur-compensation-method-using-galvanometer/10.1117/12.2306621.short](Murakami et al. 2018))
+and analysis (See [Murakami et al.
+2018](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10679/106790Z/Real-time-high-speed-motion-blur-compensation-method-using-galvanometer/10.1117/12.2306621.short))
 
 Research Assistant (2017/4-2018/3)  
 Astronomy Department, The University of Tokyo, Japan  
@@ -82,10 +104,11 @@ Image processing and data reduction of high resolution astronomical
 images and scientific report writing
 
 Intern (2014/7-2014/9)  
-Academia Sinica Institute for Astronomy and Astrophysics, Taiwan  
+Academia Sinica Institute for Astronomy and Astrophysics, Taipei,
+Taiwan  
 Developed image processing pipeline for analysis of high resolution
-astronomical images (See
-[https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract](de Leon et al. 2015))
+astronomical images (See [de Leon et al.
+2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 
 </div>
 
@@ -544,6 +567,53 @@ citations](https://scholar.google.com/scholar?cites=11768165421845046384)\]
 
 </div>
 
+## Scholarships
+
+<div class="list">
+
+
+2015/4-2021/3: Ministry of Education, Culture, Sports (MEXT) Scholarship
+(JPY 40.4M)
+
+2014/9: SanDisk Japan Scholarship (USD 3.75k, deferred)
+
+2013/3: International Space University Scholarship (EUR 9k, deferred)
+
+2011-now: now multiple travel grants to attend workshops in the US and
+Taiwan related to data science and research-related conferences and
+observation runs in the U.S., Europe, and South-east Asia
+
+</div>
+
+Observing Experience
+
+<div class="list">
+
+
+2021-now: monthly remote observations with Subaru/IRD intensive program
+(PI: Norio Narita)
+
+2018-now: bi-monthly observations with TCS/MuSCAT2
+
+2018-2020: MuSCAT2/Telescopio Carlo Sanchez, Teide Observatory,
+Tenerife, Spain (on-site and remote, on-going)
+
+2018: SIRIUS/IRSF, Sutherland, South Africa (on-site, 2 weeks)
+
+2018: IRCS/Subaru Telescope, Mauna Kea observatory, Hawaii, USA
+(on-site, 3 nights)
+
+2017: CHARIS/Subaru Telescope, Mauna Kea observatory, Hawaii, USA
+(on-site, 2 nights)
+
+2017: HDS/Gemini Telescope, Mauna Kea observatory, Hawaii, USA (on-site,
+1 night)
+
+2017-2019: MuSCAT2/Okayama astronomical observatory, Japan (on-site, 20+
+nights)
+
+</div>
+
 ## Mentorship
 
 I collaborate with and mentor many students and postdocs, often on a
@@ -559,15 +629,6 @@ mentored as part of their (under)graduate thesis.
 
 </div>
 
-## Honors
-
-<div class="list">
-
-
-MEXT Scholarship, 2016–2021
-
-</div>
-
 ## Professional service & activities
 
 <div class="list">
@@ -576,3 +637,6 @@ MEXT Scholarship, 2016–2021
 Active Referee — MNRAS
 
 </div>
+
+[^1]: Publication data collected from [NASA Astrophysics Data
+    System](https://ui.adsabs.harvard.edu/)
