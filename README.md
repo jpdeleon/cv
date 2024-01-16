@@ -68,7 +68,7 @@ Technical Assistant (2018/10-2019/3)
 Engineering Department, The University of Tokyo, Japan  
 Developed image processing software for high resolution mosaic/stitching
 and analysis (See
-[https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10679/2306621/Real-time-high-speed-motion-blur-compensation-method-using-galvanometer/10.1117/12.2306621.short?SSO=1#\_=](Murakami et al. 2018))
+[https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10679/106790Z/Real-time-high-speed-motion-blur-compensation-method-using-galvanometer/10.1117/12.2306621.short](Murakami et al. 2018))
 
 Research Assistant (2017/4-2018/3)  
 Astronomy Department, The University of Tokyo, Japan  
