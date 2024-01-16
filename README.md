@@ -456,13 +456,6 @@ citations](https://scholar.google.com/scholar?cites=11768165421845046384)\]
 
 </div>
 
-### Preprints & white papers
-
-<div class="list">
-
-
-</div>
-
 ## Mentorship
 
 I collaborate with and mentor many students and postdocs, often on a
