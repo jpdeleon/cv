@@ -8,22 +8,28 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
 ## Jerome de Leon
 
- <span class="smallcaps">jpdeleon.github.io</span>  
-Project Research Assistant, The University of Tokyo  
+ Project Research Assistant, Department of
+Multi-Disciplinary Sciences, The University of Tokyo  
+<span class="sans-serif">[jpdeleon \[at\]
+g.ecc.u-tokyo.ac.jp](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp) \| [google
+scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=list_works&sortby=pubdate)
+\| [github](https://github.com/jpdeleon) \|
+[linkedin](https://www.linkedin.com/in/jpdeleonbsap/)</span>  
 
 ## Education
 
 <div class="list">
 
 
-PhD 2021, Department of Astronomy, The University of Tokyo, Japan.
+PhD 2021, Department of Astronomy, The University of Tokyo, Japan.  
 Advisor: Prof. Motohide Tamura
 
-MSc 2018, Department of Astronomy, The University of Tokyo, Japan.
+MSc 2018, Department of Astronomy, The University of Tokyo, Japan.  
 Advisor: Prof. Motohide Tamura
 
-BSc 2016, Department of Physics, University of the Philippines, Los
-Banos, Laguna, Philippines. Advisor: Dr. Rogel Mari Sese
+BSc 2013, Department of Physics, University of the Philippines, Los
+Baños, Laguna, Philippines.  
+Advisor: Dr. Rogel Mari Sese
 
 </div>
 
@@ -32,7 +38,7 @@ Banos, Laguna, Philippines. Advisor: Dr. Rogel Mari Sese
 <div class="list">
 
 
-Project Research Assistant (2023 Apr - ongoing)  
+Project Research Assistant (2023 Apr - current)  
 Advisor: Asst prof. Norio Narita  
 Department of Multi-Disciplinary Sciences, Graduate School of Arts and
 Sciences, The University of Tokyo, 3-8-1 Komaba, Meguro, Tokyo 153-8902,
