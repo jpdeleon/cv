@@ -6,14 +6,15 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
 <hr>
 
-## Jerome de Leon
+## Jerome Pitogo de Leon
 
- Project Research Assistant, Department of
-Multi-Disciplinary Sciences, The University of Tokyo  
+  
+Project Research Assistant, Department of Multi-Disciplinary Sciences,
+The University of Tokyo  
 <span class="sans-serif">[jpdeleon \[at\]
-g.ecc.u-tokyo.ac.jp](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp) \| [google
-scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=list_works&sortby=pubdate)
-\| [github](https://github.com/jpdeleon) \|
+g.ecc.u-tokyo.ac.jp](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp) \|
+[ORCID](https://orcid.org/my-orcid?orcid=0000-0002-6424-3410) \|
+[github](https://github.com/jpdeleon) \|
 [linkedin](https://www.linkedin.com/in/jpdeleonbsap/)</span>  
 
 ## Education
@@ -33,23 +34,58 @@ Advisor: Dr. Rogel Mari Sese
 
 </div>
 
-## Positions
+## Full-time Work Experience
 
 <div class="list">
 
 
-Project Research Assistant (2023 Apr - current)  
+Project Research Assistant (2023/4 - current)  
 Advisor: Asst prof. Norio Narita  
 Department of Multi-Disciplinary Sciences, Graduate School of Arts and
 Sciences, The University of Tokyo, 3-8-1 Komaba, Meguro, Tokyo 153-8902,
 Japan  
 Theme: Discovery and characterization of young transiting exoplanets  
 
-Project Research Assistant (2021 Apr - 2023 Mar)  
+Project Research Assistant (2021/4 - 2023/3)  
 Department of Astronomy, Graduate School of Science, The University of
 Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan  
 Advisor: Prof. Motohide Tamura  
 Theme: Discovery and characterization of transiting exoplanets  
+
+Research Development Assistant (2013/4-2014/6)  
+Regulus SpaceTech, Inc., Los Baños, Laguna, Philippines  
+Theme: Data pipeline development for basic operation and data analysis
+of automated solar telescope
+
+</div>
+
+## Temporary Research Positions
+
+<div class="list">
+
+
+Technical Assistant (2018/10-2019/3)  
+Engineering Department, The University of Tokyo, Japan  
+Developed image processing software for high resolution mosaic/stitching
+and analysis (See
+[https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10679/2306621/Real-time-high-speed-motion-blur-compensation-method-using-galvanometer/10.1117/12.2306621.short?SSO=1#\_=](Murakami et al. 2018))
+
+Research Assistant (2017/4-2018/3)  
+Astronomy Department, The University of Tokyo, Japan  
+Developed pipeline for modeling and analysis of multi-wavelength transit
+light curves used in our research group and mentored new members
+
+Research Student (2015/9-2016/3)  
+Department of Astronomy, Graduate University for Advanced Studies (aka
+SOKENDAI), Japan  
+Image processing and data reduction of high resolution astronomical
+images and scientific report writing
+
+Intern (2014/7-2014/9)  
+Academia Sinica Institute for Astronomy and Astrophysics, Taiwan  
+Developed image processing pipeline for analysis of high resolution
+astronomical images (See
+[https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract](de Leon et al. 2015))
 
 </div>
 
