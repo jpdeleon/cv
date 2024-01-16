@@ -15,6 +15,8 @@ g.ecc.u-tokyo.ac.jp](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp) \| Phone: +81
 (0) 80 8712 7159 \| [ORCID:
 0000-0002-6424-3410](https://orcid.org/my-orcid?orcid=0000-0002-6424-3410)
 \| [github.com/jpdeleon](https://github.com/jpdeleon) \|
+[scholar.google.com](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=list_works&sortby=pubdate)
+\|
 [linkedin.com/in/jpdeleonbsap](https://www.linkedin.com/in/jpdeleonbsap/)</span>  
 
 ## Overview
@@ -23,9 +25,7 @@ g.ecc.u-tokyo.ac.jp](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp) \| Phone: +81
 
 
 As of 2024-01-16[^1], published 57 refereed papers with 3,746 total
-citations, and an h-index of 22; a complete listing can be found on
-[Google
-Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=list_works&sortby=pubdate).
+citations, and h-index of 22.
 
 Taught 2 introductory courses in Astronomy for undergraduates.
 
@@ -615,18 +615,44 @@ nights)
 
 </div>
 
-## Mentorship
-
-I collaborate with and mentor many students and postdocs, often on a
-single project. Below is a list of the group members who I have formally
-mentored as part of their (under)graduate thesis.
+## Teaching and Mentorship
 
 <div class="list">
 
 
-*Current postdocs:* Mori, Mayuko
+I taught 2 elective courses (Introduction to Astronomy & Data Analysis)
+to 4th year undergraduate Aerospace Engineering students at the [Ateneo
+de Davao
+University](http://sea.addu.edu.ph/programs/aerospace-engineering/) in
+2nd semester of 2022.
 
-*Former students:* Kobayashi, Hiremasa
+M. Mori (Current postdoc) and I worked on the discovery and validation
+of a rare planet found in the so-called ‘Neptune desert‘ (See [Mori et
+al.
+2022](https://ui.adsabs.harvard.edu/abs/2022AJ....163..298M/abstract);
+\[github.com/jpdeleon/toi1696\](https://github.com/jpdeleon/toi1696))
+
+H. Kobayashi (Former undergraduate student) and I worked on creating a
+pipeline for finding young transiting planets in nearby star clusters
+and found no planets but several young binary stars (See
+\[github.com/hiremasa/ytps\](https://github.com/hiremasa/ytps))
+
+</div>
+
+## Affiliations
+
+<div class="list">
+
+
+Association of Filipino Students in Japan
+([AFSJ](https://www.facebook.com/afsjpage/); President, 2017-2018)
+
+Association of Filipino Scholars in Taiwan
+([AFST](https://www.facebook.com/AssocIskolar/); Founding member)
+
+Science and Technology Advisory Council- Japan chapter
+([STAC-J](https://www.facebook.com/profile.php?id=100083271798519);
+Member)
 
 </div>
 
