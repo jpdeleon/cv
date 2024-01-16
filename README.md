@@ -49,7 +49,7 @@ Theme: Discovery and characterization of transiting exoplanets
 
 ## Publications
 
-refereed: 69 / first author: 3 / citations: 3,963 / h-index: 24
+refereed: 57 / first author: 3 / citations: 3,746 / h-index: 22
 (2024-01-16)
 
 ### Refereed publications
@@ -117,36 +117,11 @@ Astrophysics, **673**
 ([arXiv:2201.13274](http://arxiv.org/abs/2201.13274)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...673A..32M)\]
 
-, 2023, *[Observations of two superfast rotator NEAs: 2021
-NY\<SUB\>1\</SUB\> and 2022
-AB](http://dx.doi.org/10.1093/mnras/stad708)*, Monthly Notices of the
-Royal Astronomical Society, **521**, 3784
-([arXiv:2303.05099](http://arxiv.org/abs/2303.05099)) \[[5
-citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.3784L)\]
-
-Tatsumi, E.; Vilas, F.; **de Leon, Jerome**; Popescu, M.; *et al.*,
-2023, *[Near-ultraviolet absorption distribution of primitive asteroids
-from spectrophotometric surveys. I. Radial
-distribution](http://dx.doi.org/10.1051/0004-6361/202244499)*, Astronomy
-and Astrophysics, **672**
-([arXiv:2302.08863](http://arxiv.org/abs/2302.08863))
-
-Morate, D.; Popescu, M.; Licandro, J.; Tinaut-Ruano, F.;
-*et al.* (incl. **jpdeleon**), 2023, *[Mineralogical analysis of 14 PHAs
-from ViNOS data](http://dx.doi.org/10.1093/mnras/stac3530)*, Monthly
-Notices of the Royal Astronomical Society, **519**, 1677
-
 , 2023, *[A dense mini-Neptune orbiting the bright young star HD
 18599](http://dx.doi.org/10.1093/mnras/stac2845)*, Monthly Notices of
 the Royal Astronomical Society, **518**, 2627
 ([arXiv:2210.07945](http://arxiv.org/abs/2210.07945)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.2627V)\]
-
-Tinaut-Ruano, F.; Tatsumi, E.; Tanga, P.; **de Leon, Jerome**; *et al.*,
-2023, *[Asteroids’ reflectance from Gaia DR3: Artificial reddening at
-near-UV wavelengths](http://dx.doi.org/10.1051/0004-6361/202245134)*,
-Astronomy and Astrophysics, **669**
-([arXiv:2301.02157](http://arxiv.org/abs/2301.02157))
 
 Kawauchi, K.; Murgas, F.; Palle, E.; Narita, N.;
 *et al.* (incl. **jpdeleon**), 2022, *[Validation and atmospheric
@@ -161,20 +136,6 @@ from NASA’s TESS mission](http://dx.doi.org/10.1093/mnras/stac1666)*,
 Monthly Notices of the Royal Astronomical Society, **514**, 4944
 ([arXiv:2202.08842](http://arxiv.org/abs/2202.08842)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.4944C)\]
-
-Tatsumi, E.; Tinaut-Ruano, F.; **de Leon, Jerome**; Popescu, M.; &
-Licandro, J., 2022, *[Near-ultraviolet to visible spectroscopy of the
-Themis and Polana-Eulalia complex
-families](http://dx.doi.org/10.1051/0004-6361/202243806)*, Astronomy and
-Astrophysics, **664**
-([arXiv:2205.13917](http://arxiv.org/abs/2205.13917)) \[[6
-citations](https://ui.adsabs.harvard.edu/abs/2022A&A...664A.107T)\]
-
-, 2022, *[The ESA Hera Mission: Detailed Characterization of the DART
-Impact Outcome and of the Binary Asteroid (65803)
-Didymos](http://dx.doi.org/10.3847/PSJ/ac6f52)*, The Planetary Science
-Journal, **3**, 160 \[[50
-citations](https://ui.adsabs.harvard.edu/abs/2022PSJ.....3..160M)\]
 
 , 2022, *[A Possible Alignment Between the Orbits of Planetary Systems
 and their Visual Binary
@@ -195,12 +156,6 @@ around a nearby M dwarf](http://dx.doi.org/10.1093/pasj/psab106)*,
 Publications of the Astronomical Society of Japan, **74**
 ([arXiv:2110.10215](http://arxiv.org/abs/2110.10215)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2022PASJ...74L...1F)\]
-
-Tinaut-Ruano, F.; **de Leon, Jerome**; Tatsumi, E.; Rousseau, B.;
-*et al.*, 2022, *[Spectroscopic study of Ceres’ collisional family
-candidates](http://dx.doi.org/10.1051/0004-6361/202141815)*, Astronomy
-and Astrophysics, **658**
-([arXiv:2112.02396](http://arxiv.org/abs/2112.02396))
 
 Castro-González, A.; Dı́ez Alonso, E.; Menéndez Blanco, J.; Livingston,
 J.; *et al.* (incl. **jpdeleon**), 2022, *[The K2-OjOS Project: New and
@@ -223,13 +178,6 @@ detection](http://dx.doi.org/10.1093/mnras/stab2929)*, Monthly Notices
 of the Royal Astronomical Society, **508**, 5514
 ([arXiv:2110.04761](http://arxiv.org/abs/2110.04761)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.5514G)\]
-
-, 2021, *[Widely distributed exogenic materials of varying compositions
-and morphologies on asteroid (101955)
-Bennu](http://dx.doi.org/10.1093/mnras/stab2548)*, Monthly Notices of
-the Royal Astronomical Society, **508**, 2053
-([arXiv:2109.01449](http://arxiv.org/abs/2109.01449)) \[[9
-citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.2053T)\]
 
 **de Leon, Jerome**; Livingston, J.; Endl, M.; Cochran, W. D.; *et al.*,
 2021, *[37 new validated planets in overlapping K2
@@ -265,11 +213,6 @@ Journal Supplement Series, **256**, 33
 ([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
 
-, 2021, *[Spectrally blue hydrated parent body of asteroid (162173)
-Ryugu](http://dx.doi.org/10.1038/s41467-021-26071-8)*, Nature
-Communications, **12**, 5837 \[[22
-citations](https://ui.adsabs.harvard.edu/abs/2021NatCo..12.5837T)\]
-
 Trifonov, T.; Caballero, J. A.; Morales, J. C.; Seifahrt, A.;
 *et al.* (incl. **jpdeleon**), 2021, *[A nearby transiting rocky
 exoplanet that is suitable for atmospheric
@@ -295,13 +238,6 @@ of the Royal Astronomical Society, **500**, 5420
 ([arXiv:2011.06329](http://arxiv.org/abs/2011.06329)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5420C)\]
 
-Tatsumi, E.; Sugimoto, C.; Riu, L.; Sugita, S.;
-*et al.* (incl. **jpdeleon**), 2021, *[Collisional history of Ryugu’s
-parent body from bright surface
-boulders](http://dx.doi.org/10.1038/s41550-020-1179-z)*, Nature
-Astronomy, **5**, 39 \[[34
-citations](https://ui.adsabs.harvard.edu/abs/2021NatAs...5...39T)\]
-
 , 2020, *[Planetary candidates transiting cool dwarf stars from
 campaigns 12 to 15 of K2](http://dx.doi.org/10.1093/mnras/staa2353)*,
 Monthly Notices of the Royal Astronomical Society, **499**, 5416
@@ -315,13 +251,6 @@ Photometric Survey. II. TOI 837: A Young Validated Planet in IC
 Journal, **160**, 239
 ([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[40
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
-
-DellaGiustina, D. N.; Burke, K. N.; Walsh, K. J.; Smith, P. H.;
-*et al.* (incl. **jpdeleon**), 2020, *[Variations in color and
-reflectance on the surface of asteroid (101955)
-Bennu](http://dx.doi.org/10.1126/science.abc3660)*, Science, **370**
-\[[77
-citations](https://ui.adsabs.harvard.edu/abs/2020Sci...370.3660D)\]
 
 Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
 *et al.* (incl. **jpdeleon**), 2020, *[Discovery of a hot, transiting,
@@ -354,14 +283,6 @@ evolved star](http://dx.doi.org/10.1093/mnras/staa2077)*, Monthly
 Notices of the Royal Astronomical Society, **497**, 4423
 ([arXiv:2007.07939](http://arxiv.org/abs/2007.07939)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.4423N)\]
-
-Popescu, M.; **de Leon, Jerome**; de la Fuente Marcos, C.; Vaduvescu,
-O.; *et al.*, 2020, *[Physical characterization of 2020
-AV\<SUB\>2\</SUB\>, the first known asteroid orbiting inside Venus
-orbit](http://dx.doi.org/10.1093/mnras/staa1728)*, Monthly Notices of
-the Royal Astronomical Society, **496**, 3572
-([arXiv:2006.08304](http://arxiv.org/abs/2006.08304)) \[[12
-citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3572P)\]
 
 Nielsen, L. D.; Brahm, R.; Bouchy, F.; Espinoza, N.;
 *et al.* (incl. **jpdeleon**), 2020, *[Three short-period Jupiters from
