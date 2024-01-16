@@ -624,11 +624,10 @@ I taught 2 elective courses (Introduction to Astronomy & Data Analysis)
 to 4th year undergraduate Aerospace Engineering students at the [Ateneo
 de Davao
 University](http://sea.addu.edu.ph/programs/aerospace-engineering/) in
-2nd semester of 2022.
+2nd semester of 2022.  
 
 M. Mori (Current postdoc) and I worked on the discovery and validation
-of a rare planet found in the so-called ‘Neptune desert‘ (See [Mori et
-al.
+of a rare planet found in the so-called Neptune desert (See [Mori et al.
 2022](https://ui.adsabs.harvard.edu/abs/2022AJ....163..298M/abstract);
 \[github.com/jpdeleon/toi1696\](https://github.com/jpdeleon/toi1696))
 
