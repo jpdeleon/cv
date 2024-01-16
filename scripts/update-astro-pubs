@@ -27,6 +27,7 @@ spec.loader.exec_module(utf8totex)
 author = "de Leon, J. P."
 # exclude papers with asteroid in abstract
 search_query = 'aff:"University of Tokyo" database:astronomy -abs:asteroid'
+# search_query += "year:2014-2025"
 
 def get_papers(author):
     # Perform an ADS search query to retrieve information about the author's papers
@@ -81,6 +82,7 @@ def get_papers(author):
             formatted_authors = list(map(utf8totex.utf8totex, paper.author))
             formatted_titles = utf8totex.utf8totex(paper.title[0].replace(" &amp; ", " & "))
         except Exception as e:
+            print(e)
             formatted_authors = list(paper.author)
             formatted_titles = paper.title[0].replace(" &amp; ", " & ")
         # Create a dictionary with relevant paper information
