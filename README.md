@@ -50,7 +50,7 @@ Theme: Discovery and characterization of transiting exoplanets
 ## Publications
 
 refereed: 192 / first author: 16 / citations: 6,573 / h-index: 35
-(2024-01-15)
+(2024-01-16)
 
 ### Refereed publications
 
