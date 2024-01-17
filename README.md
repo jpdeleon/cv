@@ -24,7 +24,7 @@ g.ecc.u-tokyo.ac.jp](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp) \| Phone: +81
 <div class="list">
 
 
-As of 2024-01-16[^1], published 57 refereed papers with 3,746 total
+As of 2024-01-17[^1], published 57 refereed papers with 3,746 total
 citations, and h-index of 22.
 
 Taught 2 introductory courses in Astronomy for undergraduates.
@@ -116,7 +116,7 @@ astronomical images (See [de Leon et al.
 ## Publications
 
 refereed: 57 / first author: 3 / citations: 3,746 / h-index: 22
-(2024-01-16)
+(2024-01-17)
 
 ### Refereed publications
 
@@ -624,11 +624,10 @@ I taught 2 elective courses (Introduction to Astronomy & Data Analysis)
 to 4th year undergraduate Aerospace Engineering students at the [Ateneo
 de Davao
 University](http://sea.addu.edu.ph/programs/aerospace-engineering/) in
-2nd semester of 2022.
+2nd semester of 2022.  
 
 M. Mori (Current postdoc) and I worked on the discovery and validation
-of a rare planet found in the so-called ‘Neptune desert‘ (See [Mori et
-al.
+of a rare planet found in the so-called Neptune desert (See [Mori et al.
 2022](https://ui.adsabs.harvard.edu/abs/2022AJ....163..298M/abstract);
 \[github.com/jpdeleon/toi1696\](https://github.com/jpdeleon/toi1696))
 
