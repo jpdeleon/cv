@@ -28,22 +28,25 @@ def format_pub(args):
     ind, pub = args
     fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
 
-    # Hack: Handle formatted o
-    pub["authors"] = [
-        a.replace("de Le{\\'o}n", "de Leon") for a in pub["authors"]
-    ]
+    # Handle formatted o
+    pub["authors"] = [a.replace("de Le{\\'o}n", "de Leon") for a in pub["authors"]]
+    # Handle formatted o
+    pub["authors"] = [a.replace("Leon, J. P. D.", "de Leon, J. P.") for a in pub["authors"]]
+    # Find index of name
     try:
         pattern = re.compile(r'de Leon')
         n = next((i for i, author in enumerate(pub["authors"]) if pattern.search(author)), -1)        
     except Exception as e:
         print(e)        
+    # format the name in bold
+    pub["authors"][n] = "\\textbf{de Leon, J. P.}"
 
-    pub["authors"][n] = "\\textbf{de Leon, Jerome}"
+    # shorten the author list if too long
     if len(pub["authors"]) > 5:
         fmt += "; ".join(pub["authors"][:4])
         fmt += "; \\etal"
         if n >= 4:
-            fmt += "\\ (incl.\\ \\textbf{jpdeleon})"
+            fmt += "\\ (incl.\\ \\textbf{de Leon, J. P.})"
     elif len(pub["authors"]) > 1:
         fmt += "; ".join(pub["authors"][:-1])
         fmt += "; \\& " + pub["authors"][-1]

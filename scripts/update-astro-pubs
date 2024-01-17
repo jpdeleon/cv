@@ -24,7 +24,7 @@ spec = importlib.util.spec_from_file_location(
 utf8totex = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(utf8totex)
 
-author = "de Leon, J. P."
+authors = ["de Leon, J. P.", "Leon, J. P."]
 # exclude papers with asteroid in abstract
 search_query = 'aff:"University of Tokyo" database:astronomy -abs:asteroid'
 # search_query += "year:2014-2025"
@@ -108,7 +108,12 @@ def get_papers(author):
 
 
 if __name__ == "__main__":
-    papers = get_papers(author)
+    papers = []
+    for author in authors:
+        paper = get_papers(author)
+        papers.extend(paper)
+    papers = sorted(papers, key=itemgetter("pubdate"), reverse=True)
+    
     fout = "data/pubs.json"
     with open(fout, "w") as f:
         json.dump(papers, f, sort_keys=True, indent=2, separators=(",", ": "))
