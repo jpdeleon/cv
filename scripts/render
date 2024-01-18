@@ -8,6 +8,10 @@ import importlib.util
 from datetime import date
 from operator import itemgetter
 
+real_name = ["de Leon, J. P."]
+surname = "de Leon"
+aliases = ["Leon, J. P. D.", "Leon, Jerome de", "Pitogo de Leon, Jerome"]
+
 here = os.path.dirname(os.path.abspath(__file__))
 spec = importlib.util.spec_from_file_location(
     "utf8totex", os.path.join(here, "utf8totex.py")
@@ -29,24 +33,25 @@ def format_pub(args):
     fmt = "\\item[{{\\color{{numcolor}}\\scriptsize{0}}}] ".format(ind)
 
     # Handle formatted o
-    pub["authors"] = [a.replace("de Le{\\'o}n", "de Leon") for a in pub["authors"]]
-    # Handle formatted o
-    pub["authors"] = [a.replace("Leon, J. P. D.", "de Leon, J. P.") for a in pub["authors"]]
+    pub["authors"] = [a.replace("de Le{\\'o}n", surname) for a in pub["authors"]]
+    # Handle alises
+    for alias in aliases:
+        pub["authors"] = [a.replace(alias, real_name) for a in pub["authors"]]
     # Find index of name
     try:
-        pattern = re.compile(r'de Leon')
+        pattern = re.compile(surname)
         n = next((i for i, author in enumerate(pub["authors"]) if pattern.search(author)), -1)        
     except Exception as e:
         print(e)        
     # format the name in bold
-    pub["authors"][n] = "\\textbf{de Leon, J. P.}"
+    pub["authors"][n] = "\\textbf{"+real_name+"}"
 
     # shorten the author list if too long
     if len(pub["authors"]) > 5:
         fmt += "; ".join(pub["authors"][:4])
         fmt += "; \\etal"
         if n >= 4:
-            fmt += "\\ (incl.\\ \\textbf{de Leon, J. P.})"
+            fmt += "\\ (incl.\\ "+"\\textbf{"+real_name+"}"
     elif len(pub["authors"]) > 1:
         fmt += "; ".join(pub["authors"][:-1])
         fmt += "; \\& " + pub["authors"][-1]
@@ -121,7 +126,7 @@ if __name__ == "__main__":
 
     # Compute citation stats
     npapers = len(ref)
-    nfirst = sum(1 for p in pubs if "de Leon" in p["authors"][0])
+    nfirst = sum(1 for p in pubs if surname in p["authors"][0])
     cites = sorted((p["citations"] for p in pubs), reverse=True)
     ncitations = sum(cites)
     hindex = sum(c >= i for i, c in enumerate(cites))

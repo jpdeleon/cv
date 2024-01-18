@@ -14,5 +14,21 @@
     "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10925/1092507/Focus-adjustable-motion-blur-compensation-method-using-deformable-mirror/10.1117/12.2509567.short",
     "volume": null,
     "year": "2016"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Narita, Norio", "Fukui, Akihiko", "Yamamuro, Tomoyasu", "Harbeck, Daniel", "Bowman, Mark", "Elphick, Mark", "Nation, Jon", "Armstrong, J. D.", "Han, Jacqueline", "Abe, Shunichi", "Ikoma, Masahiro", "Isogai, Keisuke", "Kawauchi, Kiyoe", "Kurita, Seiya", "Kusakabe, Nobuhiko", "de Leon, Jerome", "Livingston, John", "Mori, Mayuko", "Nishiumi, Taku", "Tamura, Motohide", "Watanabe, Noriharu", "Volgenau, Nikolaus", "Heinrich-Josties, Elisabeth", "Foale, Steve", "Daily, Matt", "McCully, Curtis", "Kirby, Annie", "Smith, Cary", "Haworth, Brian", "Conway, Patrick", "Storrie-Lombardi, Lisa", "Rosing, Wayne", "Chatelain, Joey", "Bachelet, Etienne", "Johnson, Marshall", "Rabus, Markus"
+      ],    
+    "citations": 23,
+    "doctype": "article",
+    "doi": "10.1117/12.2559947",
+    "page": null,
+    "pub": "Proceedings of the SPIE",
+    "pubdate": "2020-12",
+    "title": "MuSCAT3: a 4-color simultaneous camera for the 2m Faulkes Telescope North",
+    "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10925/1092507/Focus-adjustable-motion-blur-compensation-method-using-deformable-mirror/10.1117/12.2509567.short",
+    "volume": "11447",
+    "year": "2020"
   }
 ]

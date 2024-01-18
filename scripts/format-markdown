@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+surname = "de Leon"
 
 if __name__ == "__main__":
     fout = "README.md"
@@ -18,8 +19,7 @@ if __name__ == "__main__":
         # Check for lines starting with "**" and no previous line
         if line.startswith("**") and prev == "":
             parts = line.split("**")
-            # Check if the name does not start with "de Leon"
-            if not parts[1].startswith("de Leon"):
+            if not parts[1].startswith(surname):
                 # Add modified lines to the results list
                 results += ["## " + parts[1], ""] + parts[2:]
                 continue
