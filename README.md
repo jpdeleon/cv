@@ -24,7 +24,7 @@ g.ecc.u-tokyo.ac.jp](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp) \| Phone: +81
 <div class="list">
 
 
-As of 2024-01-17[^1], published 54 refereed papers with 1,019 total
+As of 2024-01-18[^1], published 54 refereed papers with 1,019 total
 citations, and h-index of 21.
 
 Taught 2 introductory courses in Astronomy for undergraduates.
@@ -118,7 +118,7 @@ astronomical images (See [de Leon et al.
 ## Publications
 
 refereed: 54 / first author: 3 / citations: 1,019 / h-index: 21
-(2024-01-17)
+(2024-01-18)
 
 <div class="list">
 
