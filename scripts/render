@@ -8,7 +8,7 @@ import importlib.util
 from datetime import date
 from operator import itemgetter
 
-real_name = ["de Leon, J. P."]
+real_name = "de Leon, J. P."
 surname = "de Leon"
 aliases = ["Leon, J. P. D.", "Leon, Jerome de", "Pitogo de Leon, Jerome"]
 
