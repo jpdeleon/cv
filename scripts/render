@@ -51,7 +51,7 @@ def format_pub(args):
         fmt += "; ".join(pub["authors"][:4])
         fmt += "; \\etal"
         if n >= 4:
-            fmt += "\\ (incl.\\ "+"\\textbf{"+real_name+"}"
+            fmt += "\\ (incl.\\ "+"\\textbf{"+real_name+"})"
     elif len(pub["authors"]) > 1:
         fmt += "; ".join(pub["authors"][:-1])
         fmt += "; \\& " + pub["authors"][-1]
@@ -132,7 +132,7 @@ if __name__ == "__main__":
     hindex = sum(c >= i for i, c in enumerate(cites))
 
     summary = (
-        "refereed: {1} / first author: {2} / citations: {3:,} / " "h-index: {4} ({0})"
+        "refereed: {1} / first author: {2} / citations: {3:,} / " "h-index: {4} (as of {0})"
     ).format(date.today(), npapers, nfirst, ncitations, hindex)
 
     fout = "tex/pubs_summary.tex"
