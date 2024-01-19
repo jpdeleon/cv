@@ -10,29 +10,41 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
   
 Postdoctoral researcher at The University of Tokyo  
-<span class="sans-serif">[jpdeleon \[at\]
-g.ecc.u-tokyo.ac.jp](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp) \| Phone: +81
-(0) 80 8712 7159 \| [ORCID:
-0000-0002-6424-3410](https://orcid.org/my-orcid?orcid=0000-0002-6424-3410)
-\| [github.com/jpdeleon](https://github.com/jpdeleon) \|
-[scholar.google.com](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=list_works&sortby=pubdate)
-\|
-[linkedin.com/in/jpdeleonbsap](https://www.linkedin.com/in/jpdeleonbsap/)</span>  
+<span class="sans-serif">[`jpdeleon[at]g.ecc.u-tokyo.ac.jp`](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp)
+\| <a href="+81 (0) 80 8712 7159" class="uri">+81 (0) 80 8712 7159</a>
+\| [Google
+scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=list_works&sortby=pubdate)  
+<https://github.com/jpdeleon> \|
+[`linkedin.com/in/jpdeleonbsap`](https://www.linkedin.com/in/jpdeleonbsap/)</span>  
 
 ## Overview
 
 <div class="list">
 
 
-As of 2024-01-19[^1], published 58 refereed papers with 1,109 total
-citations, and h-index of 22.
+## Research:
 
-Taught 2 introductory courses in Astronomy for undergraduates.
+ Published 58 refereed papers with 1,109 total citations,
+and an h-index of 22, as of 2024-01-19[^1].
 
-Led a research group composed of 1 PhD, 3 master and 2 undergraduate
-students.
+## Teaching:
 
-Gave several invited colloquium talks for research and public outreach.
+ Conducted 2 introductory courses in Astronomy for
+undergraduates; half of the class pursued graduate studies both in the
+Philippines and abroad.
+
+## Mentorship:
+
+ Guided a dynamic research group consisting of 1 PhD, 3
+master, and 2 undergraduate students in cutting-edge exoplanet research
+initiatives. Developed publicly available code for Astronomy research
+and instruction.
+
+## Outreach:
+
+ Presented several invited talks over the years,
+contributing to both research and public outreach. Founded Astronomy
+group for fostering a passion for the cosmos.
 
 </div>
 
@@ -41,16 +53,31 @@ Gave several invited colloquium talks for research and public outreach.
 <div class="list">
 
 
-PhD 2021, Department of Astronomy, The University of Tokyo, Japan.  
+## PhD, 2021
+
+ Department of Astronomy, The University of Tokyo, Japan.  
+Title: Discovery and Characterization of Transiting Exoplanets with
+Diverse Radii and Ages ([online
+version](https://repository.dl.itc.u-tokyo.ac.jp/record/2006678/files/A37944.pdf)).
 Advisor: [Prof. Motohide
 Tamura](https://www.u-tokyo.ac.jp/focus/en/people/people003289.htm)
 
-MSc 2018, Department of Astronomy, The University of Tokyo, Japan.  
+## MSc, 2018
+
+ Department of Astronomy, The University of Tokyo, Japan.  
+Title: Multi-color Simultaneous Transit Observations of Low Density Hot
+Jupiters ([online
+version](https://github.com/jpdeleon/thesis-master/tree/master)).
 Advisor: Prof. Motohide Tamura
 
-BSc 2013, Department of Physics, University of the Philippines, Los
-Baños, Laguna, Philippines.  
-Advisor: [Dr. Rogel Mari Sese](https://unisec-global.org/rogel.html)
+## BSc, 2013
+
+  
+Department of Physics, University of the Philippines, Los Baños, Laguna,
+Philippines.  
+Title: Thermal Differential and Image Analysis of a Fabricated 11-cm
+Solar Telescope using an Active-Passive Cooling System. Advisor: [Dr.
+Rogel Mari Sese](https://unisec-global.org/rogel.html)
 
 </div>
 
@@ -59,28 +86,31 @@ Advisor: [Dr. Rogel Mari Sese](https://unisec-global.org/rogel.html)
 <div class="list">
 
 
-Project Research Assistant (2023/4 - current)  
-Advisor: [Prof. Norio
-Narita](https://www.u-tokyo.ac.jp/focus/en/people/k0001_00784.html)  
-Department of Multi-Disciplinary Sciences, Graduate School of Arts and
-Sciences, The University of Tokyo, 3-8-1 Komaba, Meguro, Tokyo 153-8902,
-Japan  
-Theme: Discovery and characterization of young transiting exoplanets
-with TESS telescope (See [de Leon et al.
+## Project Research Assistant (2023/4 - Present)
+
+  
+*Department of Multi-Disciplinary Sciences, Graduate School of Arts and
+Sciences, The University of Tokyo, Japan*  
+*Role: Spearheading the discovery and in-depth characterization of young
+transiting exoplanets using the TESS telescope.* *Advisor: [Prof. Norio
+Narita](https://www.u-tokyo.ac.jp/focus/en/people/k0001_00784.html)*
+(Refer to [de Leon et al.
 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522..750D/abstract))  
 
-Project Research Assistant (2021/4 - 2023/3)  
-Department of Astronomy, Graduate School of Science, The University of
-Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-0033, Japan  
-Advisor: Prof. Motohide Tamura  
-Theme: Discovery and characterization of transiting exoplanets with
-Kepler telescope (See [de Leon et al.
-2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..195D/abstract))  
+## Project Research Assistant (2021/4 - 2023/3)
 
-Research Development Assistant (2013/4-2014/6)  
-Regulus SpaceTech, Inc., Los Baños, Laguna, Philippines  
-Theme: Data pipeline development for basic operation and data analysis
-of automated solar telescope
+  
+*Department of Astronomy, Graduate School of Science, The University of
+Tokyo, Japan*  
+*Role: Led an international group of astronomers towards the discovery
+of 37 new transiting exoplanets using the Kepler telescope.* *Advisor:
+[Prof. Motohide Tamura](tamuraurl)* (Refer to [de Leon et al.
+2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..195D/abstract))  
+**Research Development Assistant (2013/4-2014/6)**  
+*Regulus SpaceTech, Inc., Los Baños, Laguna, Philippines*  
+*Role: Initiated the software development for automating solar telescope
+control and data analysis.* *Advisor: [Dr. Rogel
+Sese](https://unisec-global.org/rogel.html)*  
 
 </div>
 
@@ -89,36 +119,51 @@ of automated solar telescope
 <div class="list">
 
 
-Lecturer (2021/6 - 2021/10)  
-Faculty of Aerospace Engineering, School of Engineering & Architecture,
-Ateneo de Davao University, 8016 Davao City, Philippines  
-Taught remotely two courses (Introduction to Astronomy & Data Analysis)
-to 4th year undergraduate students  
+## Remote Lecturer (2021/6 - 2021/10)
 
-Technical Assistant (2018/10-2019/3)  
-Department of Information Physics and Computing, Graduate School of
-Information Science and Technology, The University of Tokyo, Japan  
-Developed image processing software for high resolution mosaic/stitching
-and analysis (See [Murakami et al.
-2018](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10679/106790Z/Real-time-high-speed-motion-blur-compensation-method-using-galvanometer/10.1117/12.2306621.short))
+  
+*Faculty of Aerospace Engineering, School of Engineering & Architecture,
+Ateneo de Davao University, Philippines*  
+*Role: Crafted and conducted lectures on Introduction to Astronomy &
+Astronomical Data Analysis.*
 
-Research Assistant (2017/4-2018/3)  
-Astronomy Department, The University of Tokyo, Japan  
-Developed pipeline for modeling and analysis of multi-wavelength transit
-light curves used in our research group and mentored new members
+## Technical Assistant (2018/10-2019/3)
 
-Research Student (2015/9-2016/3)  
-Department of Astronomy, Graduate University for Advanced Studies (aka
-SOKENDAI), Japan  
-Image processing and data reduction of high resolution astronomical
-images and scientific report writing
+  
+*Engineering Department, The University of Tokyo, Japan*  
+*Role: Developed innovative image processing software for stitching
+featureless high-resolution images *Advisor: [Assoc. Prof. Tomohiko
+Hayakawa](hayakawaurl)* (Refer to [Murakami et al.
+2018](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10679/106790Z/Real-time-high-speed-motion-blur-compensation-method-using-galvanometer/10.1117/12.2306621.short))*
 
-Intern (2014/7-2014/9)  
-Academia Sinica Institute for Astronomy and Astrophysics, Taipei,
-Taiwan  
-Developed image processing pipeline for analysis of high resolution
-astronomical images (See [de Leon et al.
-2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
+## Research Assistant (2017/4-2018/3)
+
+  
+*Department of Astronomy, The University of Tokyo, Japan*  
+*Role: Developed a robust pipeline for modeling and analyzing
+multi-wavelength transit light curves and provided mentorship to new
+research group members.*
+
+## Research Student (2015/9-2016/3)
+
+  
+*Department of Astronomy, Graduate University for Advanced Studies
+(SOKENDAI), Japan*  
+*Role: Worked on data reduction and analysis of high-resolution
+astronomical images and contributed to scientific report writing.*
+*Advisor: [Dr. Satoshi
+Mayama](https://researchmap.jp/mayama_satoshi?lang=en)*  
+
+## Intern (2014/7-2014/9)
+
+  
+*Academia Sinica Institute for Astronomy and Astrophysics (ASIAA),
+Taipei, Taiwan*  
+*Role: Developed an advanced image processing pipeline for the analysis
+of high-resolution images of a young forming star using the 8-m Subaru
+telescope.* *Advisor: [Dr. Michihiro Takami](takamiurl) (Refer to [de
+Leon et al.
+2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))*  
 
 </div>
 
@@ -587,21 +632,89 @@ citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D)\]
 
 </div>
 
-## Scholarships
+## Awards
 
 <div class="list">
 
 
-2015/4-2021/3: Ministry of Education, Culture, Sports (MEXT) Scholarship
-(JPY 40.4M)
+## 2018/4-2021/3:
 
-2014/9: SanDisk Japan Scholarship (USD 3.75k, deferred)
+ Ministry of Education, Culture, Sports (MEXT) PhD
+Scholarship (JPY 8.4M)
 
-2013/3: International Space University Scholarship (EUR 9k, deferred)
+## 2016/4-2018/3:
 
-2011-now: now multiple travel grants to attend workshops in the US and
-Taiwan related to data science and research-related conferences and
-observation runs in the U.S., Europe, and South-east Asia
+ MEXT MSc Scholarship (JPY 5.6M)
+
+## 2015/4-2016/3:
+
+ MEXT Japanese Language and Research Scholarship (JPY
+2.8M)
+
+## 2015/10-2016/3:
+
+ Research Grant from the Graduate University for
+Advanced Studies (JPY 0.2M)
+
+## 2014/9:
+
+ SanDisk Japan Scholarship (USD 3.75k, deferred)
+
+## 2013/3:
+
+ International Space University Scholarship (EUR 9k,
+deferred)
+
+## 2011-Present:
+
+ Received multiple travel grants to attend workshops in
+the US and Taiwan related to data science, and participated in
+research-related conferences and observation runs in the U.S., Europe,
+South Africa, and South-east Asia
+
+</div>
+
+## Teaching and Mentorships
+
+<div class="list">
+
+
+## Designed and Taught Courses:
+
+ Created and delivered two elective
+courses for 4th-year undergraduate Aerospace Engineering students at the
+[Ateneo de Davao
+University](http://sea.addu.edu.ph/programs/aerospace-engineering/)
+during the 2nd semester of 2021.
+
+## Research Collaborations:
+
+ Collaborated with M. Mori (Current postdoc)
+on the discovery and validation of a rare planet in the Neptune desert
+(Refer to [Mori et al.
+2022](https://ui.adsabs.harvard.edu/abs/2022AJ....163..298M/abstract)).
+
+## Pipeline Development:
+
+ Wrote a public Python code for easily
+analyzing data from TESS telescope appropriate for research and
+instruction (Refer to
+[github.com/jpdeleon/quicklook](https://github.com/jpdeleon/quicklook))
+
+## Thesis Advisory:
+
+ Worked with H. Kobayashi (Former undergraduate
+student) to develop a pipeline for finding young transiting planets and
+binary stars in nearby star clusters (Refer to
+[github.com/hiremasa/ytps](https://github.com/hiremasa/ytps)). Also
+advised A. Nodado (Former student) on her undergraduate thesis focused
+on Mira variables.
+
+## MEXT Scholarship Guidance:
+
+ Provided guidance to A. Javier and C.
+Cabatlao from their scholarship application to acceptance, supporting
+their successful pursuit of graduate studies in Japan.
 
 </div>
 
@@ -634,58 +747,37 @@ nights)
 
 </div>
 
-## Teaching and Mentorships
+## Affiliations and Service
 
 <div class="list">
 
 
-I designed, wrote, and taught 2 elective courses to 4th year
-undergraduate Aerospace Engineering students at the [Ateneo de Davao
-University](http://sea.addu.edu.ph/programs/aerospace-engineering/) in
-2nd semester of 2021.  
-
-M. Mori (Current postdoc) and I worked on the discovery and validation
-of a rare planet found in the so-called Neptune desert (See [Mori et al.
-2022](https://ui.adsabs.harvard.edu/abs/2022AJ....163..298M/abstract);
-[github.com/jpdeleon/toi1696](https://github.com/jpdeleon/toi1696))
-
-H. Kobayashi (Former undergraduate student) and I worked on creating a
-pipeline for finding young transiting planets in nearby star clusters
-and found no planets but several young binary stars (See
-[github.com/hiremasa/ytps](https://github.com/hiremasa/ytps))
-
-I adviced A. Nodado (Former student) on her undergraduate thesis on Mira
-variables
-
-I adviced A. Javier and C. Cabatlao for 1 year from application to
-acceptance of MEXT scholarship for their graduate studies in Japan
-
-</div>
-
-## Affiliations
-
-<div class="list">
+## Filipino Astronomy Community
 
 
-Association of Filipino Students in Japan
-([AFSJ](https://www.facebook.com/afsjpage/); President, 2017-2018)
+([FAC](https://www.facebook.com/groups/filastrocomm); Founder, 2016)
 
-Association of Filipino Scholars in Taiwan
-([AFST](https://www.facebook.com/AssocIskolar/); Founding member)
+## Association of Filipino Students in Japan
 
-Science and Technology Advisory Council- Japan chapter
+
+([AFSJ](https://www.facebook.com/afsjpage); President, 2017-2018)
+
+## Association of Filipino Scholars in Taiwan
+
+
+([AFST](https://www.facebook.com/AssocIskolar); Founding member)
+
+## Science and Technology Advisory Council- Japan chapter
+
+
 ([STAC-J](https://www.facebook.com/profile.php?id=100083271798519);
 Member)
 
-</div>
-
-## Professional service & activities
-
-<div class="list">
+## Monthly Notices of the Royal Astronomical Society
 
 
-Active referee at the Monthly Notices of the Royal Astronomical Society
-([MNRAS](https://academic.oup.com/mnras); Impact Factor: 4.8)
+([MNRAS](https://academic.oup.com/mnras) Impact Factor: 4.8; Active
+referee)
 
 </div>
 
