@@ -24,7 +24,7 @@ g.ecc.u-tokyo.ac.jp](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp) \| Phone: +81
 <div class="list">
 
 
-As of 2024-01-18[^1], published 58 refereed papers with 1,110 total
+As of 2024-01-19[^1], published 58 refereed papers with 1,109 total
 citations, and h-index of 22.
 
 Taught 2 introductory courses in Astronomy for undergraduates.
@@ -124,8 +124,8 @@ astronomical images (See [de Leon et al.
 
 ## Publications
 
-refereed: 58 / first author: 3 / citations: 1,110 / h-index: 22 (as of
-2024-01-18)
+refereed: 58 / first author: 3 / citations: 1,109 / h-index: 22 (as of
+2024-01-19)
 
 <div class="list">
 
@@ -497,7 +497,7 @@ Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
 a mini-Neptune in a triple-star
 system](http://dx.doi.org/10.1093/mnras/stz139)*, Monthly Notices of the
 Royal Astronomical Society, **484**, 3522
-([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[19
+([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3522H)\]
 
 Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
