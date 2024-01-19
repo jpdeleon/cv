@@ -6,6 +6,36 @@
         "edges": [
           {
             "node": {
+              "name": "cv",
+              "description": "Jerome's Curriculum Vitae",
+              "url": "https://github.com/jpdeleon/cv",
+              "homepageUrl": "https://raw.githubusercontent.com/jpdeleon/cv/main-pdf/tex/cv_pubs.pdf",
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 0
+              },
+              "watchers": {
+                "totalCount": 0
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "chronos",
+              "description": "analysis of Tess data focused on young host stars",
+              "url": "https://github.com/jpdeleon/chronos",
+              "homepageUrl": null,
+              "forkCount": 2,
+              "stargazers": {
+                "totalCount": 5
+              },
+              "watchers": {
+                "totalCount": 3
+              }
+            }
+          },
+          {
+            "node": {
               "name": "tql",
               "description": "TESS Quick Look light curve analyser",
               "url": "https://github.com/jpdeleon/tql",
@@ -36,31 +66,16 @@
           },
           {
             "node": {
-              "name": "chronos",
-              "description": "analysis of Tess data focused on young host stars",
-              "url": "https://github.com/jpdeleon/chronos",
-              "homepageUrl": null,
-              "forkCount": 2,
-              "stargazers": {
-                "totalCount": 5
-              },
-              "watchers": {
-                "totalCount": 3
-              }
-            }
-          },
-          {
-            "node": {
-              "name": "cluster-gallery",
-              "description": "Check it out at https://jpdeleon.github.io/cluster-gallery/",
-              "url": "https://github.com/jpdeleon/cluster-gallery",
+              "name": "toi1696",
+              "description": "validation paper by Mori et al.",
+              "url": "https://github.com/jpdeleon/toi1696",
               "homepageUrl": null,
               "forkCount": 0,
               "stargazers": {
-                "totalCount": 1
+                "totalCount": 0
               },
               "watchers": {
-                "totalCount": 1
+                "totalCount": 3
               }
             }
           },
@@ -72,25 +87,10 @@
               "homepageUrl": "",
               "forkCount": 229,
               "stargazers": {
-                "totalCount": 1343
+                "totalCount": 1344
               },
               "watchers": {
                 "totalCount": 49
-              }
-            }
-          },
-          {
-            "node": {
-              "name": "toi1696",
-              "description": "validation paper by Mori et al.",
-              "url": "https://github.com/jpdeleon/toi1696",
-              "homepageUrl": null,
-              "forkCount": 0,
-              "stargazers": {
-                "totalCount": 0
-              },
-              "watchers": {
-                "totalCount": 3
               }
             }
           }
