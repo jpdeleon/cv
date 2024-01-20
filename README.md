@@ -25,7 +25,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 ## Research:
 
  Published 58 refereed papers with 1,109 total citations,
-and an h-index of 22, as of 2024-01-19[^1].
+and an h-index of 22, as of 2024-01-20[^1].
 
 ## Teaching:
 
@@ -170,7 +170,7 @@ Leon et al.
 ## Publications
 
 refereed: 58 / first author: 3 / citations: 1,109 / h-index: 22 (as of
-2024-01-19)
+2024-01-20)
 
 <div class="list">
 
