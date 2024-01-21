@@ -24,8 +24,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 ## Research:
 
- Published 58 refereed papers with 1,109 total citations,
-and an h-index of 22, as of 2024-01-20[^1].
+ Published 58 refereed papers with 1,112 total citations,
+and an h-index of 22, as of 2024-01-21[^1].
 
 ## Teaching:
 
@@ -169,8 +169,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 58 / first author: 3 / citations: 1,109 / h-index: 22 (as of
-2024-01-20)
+refereed: 58 / first author: 3 / citations: 1,112 / h-index: 22 (as of
+2024-01-21)
 
 <div class="list">
 
@@ -201,7 +201,7 @@ Leon, J. P.**), 2023, *[GJ 806 (TOI-4481): A bright nearby
 multi-planetary system with a transiting hot low-density
 super-Earth](http://dx.doi.org/10.1051/0004-6361/202244261)*, Astronomy
 and Astrophysics, **678**
-([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[3
+([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...678A..80P)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -367,7 +367,7 @@ Trifonov, T.; Caballero, J. A.; Morales, J. C.; Seifahrt, A.;
 exoplanet that is suitable for atmospheric
 investigation](http://dx.doi.org/10.1126/science.abd7645)*, Science,
 **371**, 1038 ([arXiv:2103.04950](http://arxiv.org/abs/2103.04950))
-\[[44
+\[[45
 citations](https://ui.adsabs.harvard.edu/abs/2021Sci...371.1038T)\]
 
 Parviainen, H.; Palle, E.; Zapatero-Osorio, M. R.; Nowak, G.;
@@ -416,7 +416,7 @@ transiting, Earth-sized planet and a second temperate, non-transiting
 planet around the M4 dwarf GJ 3473
 (TOI-488)](http://dx.doi.org/10.1051/0004-6361/202038967)*, Astronomy
 and Astrophysics, **642**
-([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[30
+([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[31
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
 
 Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
