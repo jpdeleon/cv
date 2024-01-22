@@ -24,8 +24,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 ## Research:
 
- Published 58 refereed papers with 1,112 total citations,
-and an h-index of 22, as of 2024-01-21[^1].
+ Published 59 refereed papers with 1,113 total citations,
+and an h-index of 22, as of 2024-01-22[^1].
 
 ## Teaching:
 
@@ -169,11 +169,17 @@ Leon et al.
 
 ## Publications
 
-refereed: 58 / first author: 3 / citations: 1,112 / h-index: 22 (as of
-2024-01-21)
+refereed: 59 / first author: 3 / citations: 1,113 / h-index: 22 (as of
+2024-01-22)
 
 <div class="list">
 
+
+Kang, H.; Chen, G.; Pallé, E.; Murgas, F.; *et al.* (incl. **de Leon, J.
+P.**), 2024, *[Simultaneous multicolour transit photometry of hot
+Jupiters HAT-P-19b, HAT-P-51b, HAT-P-55b, and
+HAT-P-65b](http://dx.doi.org/10.1093/mnras/stae072)*, Monthly Notices of
+the Royal Astronomical Society
 
 Mallorquı́n, M.; Goffo, E.; Pallé, E.; Lodieu, N.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[TOI-1801 b: A temperate mini-Neptune around a
@@ -320,7 +326,7 @@ Leon, J. P.**), 2021, *[Is the orbit of the exoplanet WASP-43b really
 decaying? TESS and MuSCAT2 observations confirm no
 detection](http://dx.doi.org/10.1093/mnras/stab2929)*, Monthly Notices
 of the Royal Astronomical Society, **508**, 5514
-([arXiv:2110.04761](http://arxiv.org/abs/2110.04761)) \[[11
+([arXiv:2110.04761](http://arxiv.org/abs/2110.04761)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.5514G)\]
 
 **de Leon, J. P.**; Livingston, J.; Endl, M.; Cochran, W. D.; *et al.*,
