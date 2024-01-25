@@ -25,7 +25,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 ## Research:
 
  Published 59 refereed papers with 1,113 total citations,
-and an h-index of 22, as of 2024-01-24[^1].
+and an h-index of 22, as of 2024-01-25[^1].
 
 ## Teaching:
 
@@ -170,7 +170,7 @@ Leon et al.
 ## Publications
 
 refereed: 59 / first author: 3 / citations: 1,113 / h-index: 22 (as of
-2024-01-24)
+2024-01-25)
 
 <div class="list">
 
@@ -327,7 +327,7 @@ Leon, J. P.**), 2021, *[Is the orbit of the exoplanet WASP-43b really
 decaying? TESS and MuSCAT2 observations confirm no
 detection](http://dx.doi.org/10.1093/mnras/stab2929)*, Monthly Notices
 of the Royal Astronomical Society, **508**, 5514
-([arXiv:2110.04761](http://arxiv.org/abs/2110.04761)) \[[12
+([arXiv:2110.04761](http://arxiv.org/abs/2110.04761)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.5514G)\]
 
 **de Leon, J. P.**; Livingston, J.; Endl, M.; Cochran, W. D.; *et al.*,
@@ -557,7 +557,7 @@ Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
 with a Protoplanetary Disk around SU
 Aurigae](http://dx.doi.org/10.3847/1538-3881/ab0ae4)*, The Astronomical
 Journal, **157**, 165
-([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[31
+([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[32
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157..165A)\]
 
 Hayakawa, Tomohiko; Murakami, Kenichi; **de Leon, J. P.**; & Ishikawa,
