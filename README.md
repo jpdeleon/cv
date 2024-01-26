@@ -24,8 +24,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 ## Research:
 
- Published 59 refereed papers with 1,113 total citations,
-and an h-index of 22, as of 2024-01-25[^1].
+ Published 59 refereed papers with 1,120 total citations,
+and an h-index of 22, as of 2024-01-26[^1].
 
 ## Teaching:
 
@@ -169,8 +169,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 59 / first author: 3 / citations: 1,113 / h-index: 22 (as of
-2024-01-25)
+refereed: 59 / first author: 3 / citations: 1,120 / h-index: 22 (as of
+2024-01-26)
 
 <div class="list">
 
@@ -208,7 +208,7 @@ Leon, J. P.**), 2023, *[GJ 806 (TOI-4481): A bright nearby
 multi-planetary system with a transiting hot low-density
 super-Earth](http://dx.doi.org/10.1051/0004-6361/202244261)*, Astronomy
 and Astrophysics, **678**
-([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[4
+([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...678A..80P)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -248,7 +248,7 @@ Leon, J. P.**), 2023, *[TOI-1442 b and TOI-2445 b: Two potentially rocky
 ultra-short period planets around M
 dwarfs](http://dx.doi.org/10.1051/0004-6361/202243592)*, Astronomy and
 Astrophysics, **673**
-([arXiv:2201.13274](http://arxiv.org/abs/2201.13274)) \[[4
+([arXiv:2201.13274](http://arxiv.org/abs/2201.13274)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...673A..32M)\]
 
 Vines, Jose I.; Jenkins, James S.; Berdiñas, Zaira; Soto, Maritza G.;
@@ -383,7 +383,7 @@ substellar object around an M dwarf validated using multicolour
 photometry and phase curve
 analysis](http://dx.doi.org/10.1051/0004-6361/202038934)*, Astronomy and
 Astrophysics, **645**
-([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[17
+([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2021A&A...645A..16P)\]
 
 Chen, G.; Pallé, E.; Parviainen, H.; Wang, H.; *et al.* (incl. **de
@@ -488,7 +488,7 @@ P.; *et al.* (incl. **de Leon, J. P.**), 2020, *[MuSCAT2 multicolour
 validation of TESS candidates: an ultra-short-period substellar object
 around an M dwarf](http://dx.doi.org/10.1051/0004-6361/201935958)*,
 Astronomy and Astrophysics, **633**
-([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[28
+([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[29
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...633A..28P)\]
 
 Mayama, Satoshi; Pérez, Sebastián; Kusakabe, Nobuhiko; Muto, Takayuki;
@@ -586,7 +586,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[81
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[83
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
