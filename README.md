@@ -24,8 +24,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 ## Research:
 
- Published 59 refereed papers with 1,120 total citations,
-and an h-index of 22, as of 2024-01-26[^1].
+ Published 59 refereed papers with 1,123 total citations,
+and an h-index of 22, as of 2024-01-27[^1].
 
 ## Teaching:
 
@@ -169,8 +169,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 59 / first author: 3 / citations: 1,120 / h-index: 22 (as of
-2024-01-26)
+refereed: 59 / first author: 3 / citations: 1,123 / h-index: 22 (as of
+2024-01-27)
 
 <div class="list">
 
@@ -256,7 +256,7 @@ Vines, Jose I.; Jenkins, James S.; Berdiñas, Zaira; Soto, Maritza G.;
 orbiting the bright young star HD
 18599](http://dx.doi.org/10.1093/mnras/stac2845)*, Monthly Notices of
 the Royal Astronomical Society, **518**, 2627
-([arXiv:2210.07945](http://arxiv.org/abs/2210.07945)) \[[4
+([arXiv:2210.07945](http://arxiv.org/abs/2210.07945)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.2627V)\]
 
 Kawauchi, K.; Murgas, F.; Palle, E.; Narita, N.; *et al.* (incl. **de
@@ -517,7 +517,7 @@ Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
 confirmation of K2-100b: a young, highly irradiated, and low-density
 transiting hot Neptune](http://dx.doi.org/10.1093/mnras/stz2569)*,
 Monthly Notices of the Royal Astronomical Society, **490**, 698
-([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[45
+([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[46
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..698B)\]
 
 Fukui, A.; Suzuki, D.; Koshimoto, N.; Bachelet, E.; *et al.* (incl. **de
