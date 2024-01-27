@@ -8,24 +8,21 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
 **Jerome Pitogo de Leon, Ph.D**  
 Postdoctoral researcher at The University of Tokyo  
-<span class="sans-serif">3-5-3 Nishi-koiwa Edogawa-ku Tokyo \|
-[`jpdeleon[at]g.ecc.u-tokyo.ac.jp`](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp)
-\|  
-<a href="+81 (0) 80 8712 7159" class="uri">+81 (0) 80 8712 7159</a> \|
+<span class="sans-serif">3-5-3 Nishi-koiwa Edogawa-ku Tokyo
+[`jpdeleon[at]g.ecc.u-tokyo.ac.jp`](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp)  
+<a href="+81 (0) 80 8712 7159" class="uri">+81 (0) 80 8712 7159</a>
 [Google
 scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=list_works&sortby=pubdate)
-\|
-[`linkedin.com/in/jpdeleonbsap`](https://www.linkedin.com/in/jpdeleonbsap/)
-\|  
-<https://github.com/jpdeleon></span>  
+[`linkedin.com/in/jpdeleonbsap`](https://www.linkedin.com/in/jpdeleonbsap/)  
+<https://jpdeleon.github.com></span>  
 
 ## Overview
 
 <div class="list">
 
 
-**Research:** Published 59 refereed papers with 1,123 total citations,
-and an h-index of 22, as of 2024-01-27[^1].
+**Research:** Published 59 refereed papers mainly about exoplanets with
+1,123 total citations, and an h-index of 22, as of 2024-01-27[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -134,8 +131,8 @@ Mayama](https://researchmap.jp/mayama_satoshi?lang=en)*
 **Intern (2014/7-2014/9)**  
 *Academia Sinica Institute for Astronomy and Astrophysics (ASIAA),
 Taipei, Taiwan*  
-*Role: Developed an advanced image processing pipeline for the analysis
-of high-resolution images of a young forming star using the 8-m Subaru
+*Role: Developed an image processing pipeline for the analysis of
+high-resolution images of a young forming star using the 8-m Subaru
 telescope.* *Advisor: [Dr. Michihiro Takami](takamiurl) (Refer to [de
 Leon et al.
 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))*  
