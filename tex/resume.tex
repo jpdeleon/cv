@@ -4,6 +4,9 @@
 \input{cvstyle}
 \input{pubs_summary_macros}
 
+\usepackage{fontawesome5}
+\newcommand{\makefield}[2]{\makebox[1.5em]{#1} #2}
+
 \addtolength{\topmargin}{-0.2in}
 \addtolength{\textheight}{0.4in}
 \addtolength{\oddsidemargin}{-0.2in}
@@ -14,21 +17,26 @@
 
 \textbf{\Large \fullname} \\[0.5ex]
 \currentposition \\[1.0ex]
-% \makefield{\faEnvelope[regular]}{\href{mailto:example@gmail.com}{\texttt{example@gmail.com}}}
+% \textsf{\small 
+%     \href{mailto:\email}{jpdeleon [at] g.ecc.u-tokyo.ac.jp} | %
+%     Phone: {\phonenumber} | %
+%     \href{\orcidurl}{ORCID: \orcid} | %
+%     \href{\githuburl}{github.com/jpdeleon} | %
+%     \href{\linkedinurl}{linkedin.com/in/jpdeleonbsap}
+% }\\[0.5ex]
+
 \textsf{\small 
-    \href{mailto:\email}{jpdeleon [at] g.ecc.u-tokyo.ac.jp} | %
-    Phone: {\phonenumber} | %
-    % \href{\scholarurl}{google scholar} | %
-    \href{\orcidurl}{ORCID: \orcid} | %
-    \href{\githuburl}{github.com/jpdeleon} | %
-    % \href{\scholarurl}{scholar.google.com} | %
-    \href{\linkedinurl}{linkedin.com/in/jpdeleonbsap}
+    \makefield{\faEnvelope[regular]}{\href{mailto:\email}{\texttt{jpdeleon[at]g.ecc.u-tokyo.ac.jp}}} | %
+    \makefield{\faPhone}{\url{\phonenumber}} | %
+    \makefield{\faBook}{\href{\scholarurl}}{Google scholar} \\ %
+    % \href{\orcidurl}{ORCID: \orcid} | %
+    \makefield{\faGlobe}{\url{\githuburl}} | %
+    \makefield{\faLinkedin}{\href{\linkedinurl}{\texttt{linkedin.com/in/jpdeleonbsap}}}
 }\\[0.5ex]
 
 
-\subsection{About}
+\subsection{Overview}
 \begin{list}{}{\cvlist}
-    % \item Research: Published \pubsnumber\ refereed papers with \pubscitations\ total citations and an h-index of \pubshindex, as of \pubsdate\footnote{Publication data collected from \href{https://ui.adsabs.harvard.edu/}{NASA Astrophysics Data System}. Complete listing available on \href{\scholarurl}{Google Scholar}.
     \item \textbf{Research:} Published \pubsnumber\ refereed papers with \pubscitations\ total citations, and an h-index of \pubshindex, as of \pubsdate\footnote{Publication data collected from \href{https://ui.adsabs.harvard.edu/}{NASA Astrophysics Data System}}. Complete listing available on \href{\scholarurl}{Google Scholar}.
     \item \textbf{Teaching:} Conducted 2 introductory courses in Astronomy for undergraduates; half of the class pursued graduate studies both in the Philippines and abroad.
     \item \textbf{Mentorship:} Guided a dynamic research group consisting of 1 PhD, 3 master, and 2 undergraduate students in cutting-edge exoplanet research initiatives. Developed publicly available code for Astronomy research and instruction.
@@ -123,17 +131,19 @@
 \end{list}
 
 
-\subsection{Affiliations}
+\subsection{Affiliations and Services}
 \begin{list}{}{\cvlist}
     \item \textbf{Filipino Astronomy Community} (\href{https://www.facebook.com/groups/filastrocomm}{FAC}; Founder, 2016)
     \item \textbf{Association of Filipino Students in Japan} (\href{https://www.facebook.com/afsjpage}{AFSJ}; President, 2017-2018)
     \item \textbf{Association of Filipino Scholars in Taiwan} (\href{https://www.facebook.com/AssocIskolar}{AFST}; Founding member)
     \item \textbf{Science and Technology Advisory Council- Japan chapter} (\href{https://www.facebook.com/profile.php?id=100083271798519}{STAC-J}; Member)
+    \item \textbf{Monthly Notices of the Royal Astronomical Society} (\href{https://academic.oup.com/mnras}{MNRAS}; Impact Factor: 4.8; Active referee)
 \end{list}
 
-\subsection{Skills}
-\begin{list}{}{\cvlist}
-    \item Languages: Filipino (native), English, Japanese
-    \item Scientific software development
-\end{list}
+% \subsection{Skills}
+% \begin{list}{}{\cvlist}
+%     \item Languages: Filipino (native), English, Japanese
+%     \item Scientific software development
+% \end{list}
+
 \end{document}

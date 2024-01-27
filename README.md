@@ -106,7 +106,9 @@ Tokyo, Japan*
 of 37 new transiting exoplanets using the Kepler telescope.* *Advisor:
 [Prof. Motohide Tamura](tamuraurl)* (Refer to [de Leon et al.
 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..195D/abstract))  
-**Research Development Assistant (2013/4-2014/6)**  
+## Research Development Assistant (2013/4-2014/6)
+
+  
 *Regulus SpaceTech, Inc., Los Baños, Laguna, Philippines*  
 *Role: Initiated the software development for automating solar telescope
 control and data analysis.* *Advisor: [Dr. Rogel
@@ -366,7 +368,9 @@ Trifonov, T.; Caballero, J. A.; Morales, J. C.; Seifahrt, A.;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[A nearby transiting rocky
 exoplanet that is suitable for atmospheric
 investigation](http://dx.doi.org/10.1126/science.abd7645)*, Science,
-**371**, 1038 ([arXiv:2103.04950](http://arxiv.org/abs/2103.04950))
+## 371
+
+, 1038 ([arXiv:2103.04950](http://arxiv.org/abs/2103.04950))
 \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2021Sci...371.1038T)\]
 
@@ -399,7 +403,9 @@ Narita, Norio; Fukui, Akihiko; Yamamuro, Tomoyasu; Harbeck, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2020, *[MuSCAT3: a 4-color
 simultaneous camera for the 2m Faulkes Telescope
 North](http://dx.doi.org/10.1117/12.2559947)*, Proceedings of the SPIE,
-**11447** \[[23
+## 11447
+
+ \[[23
 citations](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10925/1092507/Focus-adjustable-motion-blur-compensation-method-using-deformable-mirror/10.1117/12.2509567.short)\]
 
 Bouma, L. G.; Hartman, J. D.; Brahm, R.; Evans, P.; *et al.* (incl. **de

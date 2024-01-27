@@ -17,7 +17,7 @@ if __name__ == "__main__":
             continue
         
         # Check for lines starting with "**" and no previous line
-        if line.startswith("**") and prev == "":
+        if line.startswith("**") and prev != "" and not line.endswith(":"):
             parts = line.split("**")
             if not parts[1].startswith(surname):
                 # Add modified lines to the results list
