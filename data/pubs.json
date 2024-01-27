@@ -1,5 +1,51 @@
 [
   {
+    "arxiv": "2401.03715",
+    "authors": [
+      "Kang, H.",
+      "Chen, G.",
+      "Pall{\\'e}, E.",
+      "Murgas, F.",
+      "Abreu Garc{\\'\\i}a, N.",
+      "de Leon, J.",
+      "Enoc, G.",
+      "Esparza-Borges, E.",
+      "Fukuda, I.",
+      "Fukui, A.",
+      "Gal{\\'a}n, D.",
+      "Hayashi, Y.",
+      "Isogai, K.",
+      "Kagetani, T.",
+      "Kawauchi, K.",
+      "Korth, J.",
+      "Livingston, J. H.",
+      "Luque, R.",
+      "Ma, Y.",
+      "Madrigal-Aguado, A.",
+      "Meni, P.",
+      "Monta{\\~n}es Rodriguez, P.",
+      "Mori, M.",
+      "Mu{\\~n}oz Torres, S.",
+      "Narita, N.",
+      "Orell-Miquel, J.",
+      "Parviainen, H.",
+      "Pel{\\'a}ez-Torres, A.",
+      "Stangret, M.",
+      "Tamura, M.",
+      "Watanabe, N."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stae072",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2024-01-00",
+    "title": "Simultaneous multicolour transit photometry of hot Jupiters HAT-P-19b, HAT-P-51b, HAT-P-55b, and HAT-P-65b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp..133K",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": "2310.10244",
     "authors": [
       "Mallorqu{\\'\\i}n, M.",
@@ -85,7 +131,7 @@
       "Weiss, L.",
       "Zechmeister, M."
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347346",
     "page": null,
@@ -413,7 +459,7 @@
       "Zapatero-Osorio, M. R.",
       "Zechmeister, M."
     ],
-    "citations": 3,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202244261",
     "page": null,
@@ -726,7 +772,7 @@
       "Schwarz, R. P.",
       "Timmermans, M."
     ],
-    "citations": 4,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202243592",
     "page": null,
@@ -768,7 +814,7 @@
       "Okumura, Jack",
       "Samadi-Ghadim, Anya"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1093/mnras/stac2845",
     "page": 2627,
@@ -1806,7 +1852,7 @@
       "Vanderspek, R.",
       "Winn, J. N."
     ],
-    "citations": 44,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.1126/science.abd7645",
     "page": 1038,
@@ -1867,7 +1913,7 @@
       "Wohler, B.",
       "Wong, I."
     ],
-    "citations": 17,
+    "citations": 18,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038934",
     "page": null,
@@ -2114,7 +2160,7 @@
       "Watanabe, N.",
       "Zechmeister, M."
     ],
-    "citations": 30,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038967",
     "page": null,
@@ -2736,7 +2782,7 @@
       "Vezie, M.",
       "Winn, J. N."
     ],
-    "citations": 28,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201935958",
     "page": null,
@@ -3073,7 +3119,7 @@
       "Redfield, S.",
       "Tamura, M."
     ],
-    "citations": 45,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2569",
     "page": 698,
@@ -3587,7 +3633,7 @@
       "Liu, Sheng-Yuan",
       "Tamura, Motohide"
     ],
-    "citations": 31,
+    "citations": 32,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab0ae4",
     "page": 165,
@@ -3764,7 +3810,7 @@
       "Luque, Rafael",
       "Nishiumi, Taku"
     ],
-    "citations": 81,
+    "citations": 83,
     "doctype": "article",
     "doi": "10.1117/1.JATIS.5.1.015001",
     "page": 15001,
