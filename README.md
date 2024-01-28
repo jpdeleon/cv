@@ -14,7 +14,7 @@ Postdoctoral researcher at The University of Tokyo
 [Google
 scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=list_works&sortby=pubdate)
 [`linkedin.com/in/jpdeleonbsap`](https://www.linkedin.com/in/jpdeleonbsap/)  
-<https://jpdeleon.github.com></span>  
+<https://jpdeleon.github.io></span>  
 
 ## Overview
 
@@ -711,20 +711,23 @@ nights)
 <div class="list">
 
 
-**Filipino Astronomy Community**
+Exoplanet Follow-up Observing Program
+([ExoFOP](https://exofop.ipac.caltech.edu/tess/); Member, 2018-present)
+
+Filipino Astronomy Community
 ([FAC](https://www.facebook.com/groups/filastrocomm); Founder, 2016)
 
-**Association of Filipino Students in Japan**
+Association of Filipino Students in Japan
 ([AFSJ](https://www.facebook.com/afsjpage); President, 2017-2018)
 
-**Association of Filipino Scholars in Taiwan**
+Association of Filipino Scholars in Taiwan
 ([AFST](https://www.facebook.com/AssocIskolar); Founding member)
 
-**Science and Technology Advisory Council- Japan chapter**
+Science and Technology Advisory Council- Japan chapter
 ([STAC-J](https://www.facebook.com/profile.php?id=100083271798519);
 Member)
 
-**Monthly Notices of the Royal Astronomical Society**
+Monthly Notices of the Royal Astronomical Society
 ([MNRAS](https://academic.oup.com/mnras); Impact Factor: 4.8; Active
 referee)
 
