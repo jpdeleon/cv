@@ -8,24 +8,21 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
 **Jerome Pitogo de Leon, Ph.D**  
 Postdoctoral researcher at The University of Tokyo  
-<span class="sans-serif">3-5-3 Nishi-koiwa Edogawa-ku Tokyo \|
-[`jpdeleon[at]g.ecc.u-tokyo.ac.jp`](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp)
-\|  
-<a href="+81 (0) 80 8712 7159" class="uri">+81 (0) 80 8712 7159</a> \|
+<span class="sans-serif">3-5-3 Nishi-koiwa Edogawa-ku Tokyo
+[`jpdeleon[at]g.ecc.u-tokyo.ac.jp`](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp)  
+<a href="+81 (0) 80 8712 7159" class="uri">+81 (0) 80 8712 7159</a>
 [Google
 scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=list_works&sortby=pubdate)
-\|
-[`linkedin.com/in/jpdeleonbsap`](https://www.linkedin.com/in/jpdeleonbsap/)
-\|  
-<https://github.com/jpdeleon></span>  
+[`linkedin.com/in/jpdeleonbsap`](https://www.linkedin.com/in/jpdeleonbsap/)  
+<https://jpdeleon.github.com></span>  
 
 ## Overview
 
 <div class="list">
 
 
-**Research:** Published 59 refereed papers with 1,123 total citations,
-and an h-index of 22, as of 2024-01-27[^1].
+**Research:** Published 59 refereed papers mainly about exoplanets with
+1,126 total citations, and an h-index of 22, as of 2024-01-28[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -134,8 +131,8 @@ Mayama](https://researchmap.jp/mayama_satoshi?lang=en)*
 **Intern (2014/7-2014/9)**  
 *Academia Sinica Institute for Astronomy and Astrophysics (ASIAA),
 Taipei, Taiwan*  
-*Role: Developed an advanced image processing pipeline for the analysis
-of high-resolution images of a young forming star using the 8-m Subaru
+*Role: Developed an image processing pipeline for the analysis of
+high-resolution images of a young forming star using the 8-m Subaru
 telescope.* *Advisor: [Dr. Michihiro Takami](takamiurl) (Refer to [de
 Leon et al.
 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))*  
@@ -144,8 +141,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 59 / first author: 3 / citations: 1,123 / h-index: 22 (as of
-2024-01-27)
+refereed: 59 / first author: 3 / citations: 1,126 / h-index: 22 (as of
+2024-01-28)
 
 <div class="list">
 
@@ -427,7 +424,7 @@ Nowak, Grzegorz; Palle, Enric; Gandolfi, Davide; Deeg, Hans J.;
 warm sub-Saturn around a mildly evolved
 star](http://dx.doi.org/10.1093/mnras/staa2077)*, Monthly Notices of the
 Royal Astronomical Society, **497**, 4423
-([arXiv:2007.07939](http://arxiv.org/abs/2007.07939)) \[[2
+([arXiv:2007.07939](http://arxiv.org/abs/2007.07939)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.4423N)\]
 
 Nielsen, L. D.; Brahm, R.; Bouchy, F.; Espinoza, N.;
@@ -482,7 +479,7 @@ Jenkins, James S.; Dı́az, Matı́as R.; Kurtovic, Nicolás T.; Espinoza,
 Néstor; *et al.* (incl. **de Leon, J. P.**), 2020, *[An ultrahot Neptune
 in the Neptune desert](http://dx.doi.org/10.1038/s41550-020-1142-z)*,
 Nature Astronomy, **4**, 1148
-([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[47
+([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[48
 citations](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J)\]
 
 Jenkins, James S.; Dı́az, Matı́as R.; Kurtovic, Nicolás T.; Espinoza,
@@ -549,7 +546,7 @@ Esposito, M.; Armstrong, D. J.; Gandolfi, D.; Adibekyan, V.;
 *et al.* (incl. **de Leon, J. P.**), 2019, *[HD 219666 b: a hot-Neptune
 from TESS Sector 1](http://dx.doi.org/10.1051/0004-6361/201834853)*,
 Astronomy and Astrophysics, **623**
-([arXiv:1812.05881](http://arxiv.org/abs/1812.05881)) \[[29
+([arXiv:1812.05881](http://arxiv.org/abs/1812.05881)) \[[30
 citations](https://ui.adsabs.harvard.edu/abs/2019A&A...623A.165E)\]
 
 Livingston, John H.; Dai, Fei; Hirano, Teruyuki; Gandolfi, Davide;
