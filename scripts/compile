@@ -4,5 +4,5 @@ set -e
 tectonic tex/cv.tex --keep-intermediates
 tectonic tex/pubs.tex --keep-intermediates
 tectonic tex/cv_pubs.tex --keep-intermediates
-tectonic tex/biosketch.tex --keep-intermediates
+# tectonic tex/biosketch.tex --keep-intermediates
 tectonic tex/resume.tex --keep-intermediates

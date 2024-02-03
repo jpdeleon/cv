@@ -13,7 +13,8 @@ RM_TMP      = ${RM} $(foreach suff, ${TMP_SUFFS}, *.${suff})
 CHECK_RERUN = grep Rerun $*.log
 
 # Define the list of all target files to be generated
-ALL_FILES = cv.pdf pubs.pdf cv_pubs.pdf biosketch.pdf
+# ALL_FILES = cv.pdf pubs.pdf cv_pubs.pdf biosketch.pdf
+ALL_FILES = cv.pdf pubs.pdf cv_pubs.pdf
 
 # Rule to build all target files
 all: ${ALL_FILES}
