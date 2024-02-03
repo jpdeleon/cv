@@ -8,12 +8,28 @@
     "doctype": "article",
     "doi": "10.1117/12.2509567",
     "page": null,
-    "pub": "Proc. SPIE 10925, Photonic Instrumentation Engineering VI, 1092507",
+    "pub": "Proc. SPIE 10925, Photonic Instrumentation Engineering VI",
     "pubdate": "2019-03-04",
     "title": "Focus adjustable motion-blur compensation method using deformable mirror",
     "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10925/1092507/Focus-adjustable-motion-blur-compensation-method-using-deformable-mirror/10.1117/12.2509567.short",
     "volume": null,
-    "year": "2016"
+    "year": "2019"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Murakami, Kenichi", "Hayakawa, Tomohiko", "de Leon, Jerome Pitogo", "Ishikawa, Masatoshi"
+    ],
+    "citations": 7,
+    "doctype": "article",
+    "doi": "10.1117/12.2306621",
+    "page": null,
+    "pub": "Proceedings Volume 10679, Optics, Photonics, and Digital Technologies for Imaging Applications V",
+    "pubdate": "2018-05-24",
+    "title": "Real-time high-speed motion blur compensation method using galvanometer mirror for shape sensing of microfabricated objects",
+    "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10679/2306621/Real-time-high-speed-motion-blur-compensation-method-using-galvanometer/10.1117/12.2306621.short",
+    "volume": null,
+    "year": "2018"
   },
   {
     "arxiv": null,

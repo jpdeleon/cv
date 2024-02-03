@@ -27,9 +27,10 @@ spec.loader.exec_module(utf8totex)
 # query using real name and aliases
 real_name = ["de Leon, J. P."]
 aliases = ["Leon, J. P. D.", "Leon, Jerome de", "Pitogo de Leon, Jerome"]
-# exclude papers with asteroid in abstract
+# exclude papers by namesake with asteroid in abstract
 search_query = 'aff:"University of Tokyo" database:astronomy -abs:asteroid'
 # search_query += "year:2014-2025"
+stop_words_in_title = ["author correction", "erratum"]
 
 def get_papers(author):
     # Perform an ADS search query to retrieve information about the author's papers
@@ -88,24 +89,26 @@ def get_papers(author):
             formatted_authors = list(paper.author)
             formatted_titles = paper.title[0].replace(" &amp; ", " & ").replace("<SUB>", "_").replace("</SUB>", "_")
         # Create a dictionary with relevant paper information
-        dicts.append(
-            dict(
-                doctype=paper.doctype,
-                authors=formatted_authors,
-                year=paper.year,
-                pubdate=paper.pubdate,
-                doi=paper.doi[0] if paper.doi is not None else None,
-                title=formatted_titles,
-                pub=paper.pub,
-                volume=paper.volume,
-                page=page,
-                arxiv=aid[0] if len(aid) else None,
-                citations=(
-                    paper.citation_count if paper.citation_count is not None else 0
-                ),
-                url="https://ui.adsabs.harvard.edu/abs/" + paper.bibcode,
+        for stop_word in stop_words_in_title:
+            if not stop_word in formatted_titles.lower():
+                dicts.append(
+                    dict(
+                        doctype=paper.doctype,
+                        authors=formatted_authors,
+                        year=paper.year,
+                        pubdate=paper.pubdate,
+                        doi=paper.doi[0] if paper.doi is not None else None,
+                        title=formatted_titles,
+                        pub=paper.pub,
+                        volume=paper.volume,
+                        page=page,
+                        arxiv=aid[0] if len(aid) else None,
+                        citations=(
+                            paper.citation_count if paper.citation_count is not None else 0
+                        ),
+                        url="https://ui.adsabs.harvard.edu/abs/" + paper.bibcode,
+                    )
             )
-        )
     return sorted(dicts, key=itemgetter("pubdate"), reverse=True)
 
 
