@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 60 refereed papers mainly about exoplanets with
-1,140 total citations, and an h-index of 22, as of 2024-02-07[^1].
+1,141 total citations, and an h-index of 22, as of 2024-02-08[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 60 / first author: 3 / citations: 1,140 / h-index: 22 (as of
-2024-02-07)
+refereed: 60 / first author: 3 / citations: 1,141 / h-index: 22 (as of
+2024-02-08)
 
 <div class="list">
 
@@ -350,7 +350,7 @@ investigation](http://dx.doi.org/10.1126/science.abd7645)*, Science,
 ## 371
 
 , 1038 ([arXiv:2103.04950](http://arxiv.org/abs/2103.04950))
-\[[45
+\[[46
 citations](https://ui.adsabs.harvard.edu/abs/2021Sci...371.1038T)\]
 
 Parviainen, H.; Palle, E.; Zapatero-Osorio, M. R.; Nowak, G.;
