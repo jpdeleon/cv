@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 60 refereed papers mainly about exoplanets with
-1,151 total citations, and an h-index of 22, as of 2024-02-17[^1].
+1,159 total citations, and an h-index of 22, as of 2024-02-18[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 60 / first author: 3 / citations: 1,151 / h-index: 22 (as of
-2024-02-17)
+refereed: 60 / first author: 3 / citations: 1,159 / h-index: 22 (as of
+2024-02-18)
 
 <div class="list">
 
@@ -183,7 +183,7 @@ Leon, J. P.**), 2023, *[GJ 806 (TOI-4481): A bright nearby
 multi-planetary system with a transiting hot low-density
 super-Earth](http://dx.doi.org/10.1051/0004-6361/202244261)*, Astronomy
 and Astrophysics, **678**
-([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[5
+([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...678A..80P)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -247,7 +247,7 @@ Carmichael, Theron W.; Irwin, Jonathan M.; Murgas, Felipe; Pallé, Enric;
 brown dwarf orbiting an active M-dwarf from NASA’s TESS
 mission](http://dx.doi.org/10.1093/mnras/stac1666)*, Monthly Notices of
 the Royal Astronomical Society, **514**, 4944
-([arXiv:2202.08842](http://arxiv.org/abs/2202.08842)) \[[7
+([arXiv:2202.08842](http://arxiv.org/abs/2202.08842)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.4944C)\]
 
 Mori, Mayuko; Livingston, John H.; **de Leon, J. P.**; Narita, Norio;
@@ -325,7 +325,7 @@ Hirano, Teruyuki; Livingston, John H.; Fukui, Akihiko; Narita, Norio;
 Ultra-Short-Period Super-Earths with Earth-like
 Compositions](http://dx.doi.org/10.3847/1538-3881/ac0fdc)*, The
 Astronomical Journal, **162**, 161
-([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[22
+([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[23
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..161H)\]
 
 Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
@@ -411,7 +411,7 @@ dwarfs. Two planets on opposite sides of the radius gap transiting the
 nearby M dwarf LTT
 3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
 Astrophysics, **642**
-([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[55
+([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[56
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
 
 Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
@@ -443,7 +443,7 @@ C.; *et al.* (incl. **de Leon, J. P.**), 2020, *[TOI-503: The First
 Known Brown-dwarf Am-star Binary from the TESS
 Mission](http://dx.doi.org/10.3847/1538-3881/ab7245)*, The Astronomical
 Journal, **159**, 151
-([arXiv:1909.07984](http://arxiv.org/abs/1909.07984)) \[[35
+([arXiv:1909.07984](http://arxiv.org/abs/1909.07984)) \[[36
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..151S)\]
 
 Hidalgo, D.; Pallé, E.; Alonso, R.; Gandolfi, D.; *et al.*, 2020,
@@ -467,7 +467,7 @@ P.; *et al.* (incl. **de Leon, J. P.**), 2020, *[MuSCAT2 multicolour
 validation of TESS candidates: an ultra-short-period substellar object
 around an M dwarf](http://dx.doi.org/10.1051/0004-6361/201935958)*,
 Astronomy and Astrophysics, **633**
-([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[29
+([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[30
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...633A..28P)\]
 
 Mayama, Satoshi; Pérez, Sebastián; Kusakabe, Nobuhiko; Muto, Takayuki;
@@ -496,7 +496,7 @@ Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
 confirmation of K2-100b: a young, highly irradiated, and low-density
 transiting hot Neptune](http://dx.doi.org/10.1093/mnras/stz2569)*,
 Monthly Notices of the Royal Astronomical Society, **490**, 698
-([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[46
+([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[47
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..698B)\]
 
 Fukui, A.; Suzuki, D.; Koshimoto, N.; Bachelet, E.; *et al.* (incl. **de
@@ -520,7 +520,7 @@ Malcolm; *et al.* (incl. **de Leon, J. P.**), 2019, *[Greening of the
 brown-dwarf desert. EPIC 212036875b: a 51 M\_J\_ object in a 5-day orbit
 around an F7 V star](http://dx.doi.org/10.1051/0004-6361/201935505)*,
 Astronomy and Astrophysics, **628**
-([arXiv:1906.05048](http://arxiv.org/abs/1906.05048)) \[[20
+([arXiv:1906.05048](http://arxiv.org/abs/1906.05048)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2019A&A...628A..64P)\]
 
 Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
