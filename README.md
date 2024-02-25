@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 60 refereed papers mainly about exoplanets with
-1,162 total citations, and an h-index of 22, as of 2024-02-24[^1].
+1,173 total citations, and an h-index of 22, as of 2024-02-25[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 60 / first author: 3 / citations: 1,162 / h-index: 22 (as of
-2024-02-24)
+refereed: 60 / first author: 3 / citations: 1,173 / h-index: 22 (as of
+2024-02-25)
 
 <div class="list">
 
@@ -175,7 +175,7 @@ Discovery of Two Transiting Giant Planets around M-dwarf Stars and
 Revised Parameters for Three
 Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
-([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[2
+([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
 
 Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
@@ -191,7 +191,7 @@ Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
 Orbiting a Metal-rich Early M Star Discovered in the TESS Full-frame
 Images](http://dx.doi.org/10.3847/1538-3881/acf56d)*, The Astronomical
 Journal, **166**, 165
-([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[4
+([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
 
 Orell-Miquel, J.; Lampón, M.; López-Puertas, M.; Mallorquı́n, M.;
@@ -208,7 +208,7 @@ Kagetani, Taiki; Narita, Norio; Kimura, Tadahiro; Hirano, Teruyuki;
 close-in giant planet transiting a metal-rich mid-M
 dwarf](http://dx.doi.org/10.1093/pasj/psad031)*, Publications of the
 Astronomical Society of Japan, **75**, 713
-([arXiv:2304.14703](http://arxiv.org/abs/2304.14703)) \[[8
+([arXiv:2304.14703](http://arxiv.org/abs/2304.14703)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2023PASJ...75..713K)\]
 
 **de Leon, J. P.**; Livingston, J. H.; Jenkins, J. S.; Vines, J. I.;
@@ -255,7 +255,7 @@ Mori, Mayuko; Livingston, John H.; **de Leon, J. P.**; Narita, Norio;
 Planet in the Neptunian
 Desert](http://dx.doi.org/10.3847/1538-3881/ac6bf8)*, The Astronomical
 Journal, **163**, 298
-([arXiv:2203.02694](http://arxiv.org/abs/2203.02694)) \[[8
+([arXiv:2203.02694](http://arxiv.org/abs/2203.02694)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..298M)\]
 
 Christian, Sam; Vanderburg, Andrew; Becker, Juliette; Yahalomi, Daniel
@@ -279,7 +279,7 @@ Fukui, Akihiko; Kimura, Tadahiro; Hirano, Teruyuki; Narita, Norio;
 Earth-radius planet near the habitable zone around a nearby M
 dwarf](http://dx.doi.org/10.1093/pasj/psab106)*, Publications of the
 Astronomical Society of Japan, **74**
-([arXiv:2110.10215](http://arxiv.org/abs/2110.10215)) \[[6
+([arXiv:2110.10215](http://arxiv.org/abs/2110.10215)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2022PASJ...74L...1F)\]
 
 Castro-González, A.; Dı́ez Alonso, E.; Menéndez Blanco, J.; Livingston,
@@ -309,7 +309,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.5514G)\]
 2021, *[37 new validated planets in overlapping K2
 campaigns](http://dx.doi.org/10.1093/mnras/stab2305)*, Monthly Notices
 of the Royal Astronomical Society, **508**, 195
-([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[16
+([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[17
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..195D)\]
 
 Scarsdale, Nicholas; Murphy, Joseph M. Akana; Batalha, Natalie M.;
@@ -325,7 +325,7 @@ Hirano, Teruyuki; Livingston, John H.; Fukui, Akihiko; Narita, Norio;
 Ultra-Short-Period Super-Earths with Earth-like
 Compositions](http://dx.doi.org/10.3847/1538-3881/ac0fdc)*, The
 Astronomical Journal, **162**, 161
-([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[23
+([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..161H)\]
 
 Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
@@ -360,7 +360,7 @@ substellar object around an M dwarf validated using multicolour
 photometry and phase curve
 analysis](http://dx.doi.org/10.1051/0004-6361/202038934)*, Astronomy and
 Astrophysics, **645**
-([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[18
+([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2021A&A...645A..16P)\]
 
 Chen, G.; Pallé, E.; Parviainen, H.; Wang, H.; *et al.* (incl. **de
@@ -376,7 +376,7 @@ John H.; *et al.* (incl. **de Leon, J. P.**), 2020, *[Planetary
 candidates transiting cool dwarf stars from campaigns 12 to 15 of
 K2](http://dx.doi.org/10.1093/mnras/staa2353)*, Monthly Notices of the
 Royal Astronomical Society, **499**, 5416
-([arXiv:2007.12744](http://arxiv.org/abs/2007.12744)) \[[11
+([arXiv:2007.12744](http://arxiv.org/abs/2007.12744)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5416C)\]
 
 Narita, Norio; Fukui, Akihiko; Yamamuro, Tomoyasu; Harbeck, Daniel;
@@ -402,7 +402,7 @@ transiting, Earth-sized planet and a second temperate, non-transiting
 planet around the M4 dwarf GJ 3473
 (TOI-488)](http://dx.doi.org/10.1051/0004-6361/202038967)*, Astronomy
 and Astrophysics, **642**
-([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[31
+([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[32
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
 
 Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -565,7 +565,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[85
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[86
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
