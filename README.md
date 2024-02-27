@@ -23,7 +23,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 61 refereed papers mainly about exoplanets with
+**Research:** Published 60 refereed papers mainly about exoplanets with
 1,174 total citations, and an h-index of 22, as of 2024-02-27[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
@@ -143,7 +143,7 @@ Leon et al.
 
 ## Publications
 
-refereed: 61 / first author: 3 / citations: 1,174 / h-index: 22 (as of
+refereed: 60 / first author: 3 / citations: 1,174 / h-index: 22 (as of
 2024-02-27)
 
 <div class="list">
@@ -155,12 +155,6 @@ Jupiters HAT-P-19b, HAT-P-51b, HAT-P-55b, and
 HAT-P-65b](http://dx.doi.org/10.1093/mnras/stae072)*, Monthly Notices of
 the Royal Astronomical Society, **528**, 1930
 ([arXiv:2401.03715](http://arxiv.org/abs/2401.03715))
-
-Prodan, George P.; Popescu, Marcel; Licandro, Javier; Akhlaghi,
-Mohammad; *et al.* (incl. **de Leon, J. P.**), 2024, *[Pre-perihelion
-monitoring of interstellar comet
-2I/Borisov](http://dx.doi.org/10.1093/mnras/stae539)*, Monthly Notices
-of the Royal Astronomical Society
 
 Mallorquı́n, M.; Goffo, E.; Pallé, E.; Lodieu, N.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[TOI-1801 b: A temperate mini-Neptune around a
