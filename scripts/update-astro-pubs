@@ -28,7 +28,7 @@ spec.loader.exec_module(utf8totex)
 real_name = ["de Leon, J. P."]
 aliases = ["Leon, J. P. D.", "Leon, Jerome de", "Pitogo de Leon, Jerome"]
 # exclude papers by namesake with asteroid in abstract
-search_query = 'aff:"University of Tokyo" database:astronomy -abs:asteroid'
+search_query = 'aff:"University of Tokyo" database:astronomy -abs:asteroid -abs:comet'
 # search_query += "year:2014-2025"
 stop_words_in_title = ["author correction", "erratum"]
 
