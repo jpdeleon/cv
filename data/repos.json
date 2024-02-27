@@ -51,13 +51,28 @@
           },
           {
             "node": {
-              "name": "tql-gallery",
-              "description": "TQL outputs for TOI",
-              "url": "https://github.com/jpdeleon/tql-gallery",
+              "name": "fastquant",
+              "description": "fastquant \u2014 Backtest and optimize your ML trading strategies with only 3 lines of code!",
+              "url": "https://github.com/enzoampil/fastquant",
+              "homepageUrl": "",
+              "forkCount": 231,
+              "stargazers": {
+                "totalCount": 1379
+              },
+              "watchers": {
+                "totalCount": 49
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "cluster-gallery",
+              "description": "Check it out at https://jpdeleon.github.io/cluster-gallery/",
+              "url": "https://github.com/jpdeleon/cluster-gallery",
               "homepageUrl": null,
               "forkCount": 0,
               "stargazers": {
-                "totalCount": 0
+                "totalCount": 1
               },
               "watchers": {
                 "totalCount": 1
@@ -66,31 +81,16 @@
           },
           {
             "node": {
-              "name": "toi1696",
-              "description": "validation paper by Mori et al.",
-              "url": "https://github.com/jpdeleon/toi1696",
+              "name": "quicklook",
+              "description": "Quick look lightcurve generator",
+              "url": "https://github.com/jpdeleon/quicklook",
               "homepageUrl": null,
               "forkCount": 0,
               "stargazers": {
                 "totalCount": 0
               },
               "watchers": {
-                "totalCount": 3
-              }
-            }
-          },
-          {
-            "node": {
-              "name": "fastquant",
-              "description": "fastquant \u2014 Backtest and optimize your ML trading strategies with only 3 lines of code!",
-              "url": "https://github.com/enzoampil/fastquant",
-              "homepageUrl": "",
-              "forkCount": 230,
-              "stargazers": {
-                "totalCount": 1357
-              },
-              "watchers": {
-                "totalCount": 49
+                "totalCount": 1
               }
             }
           }
