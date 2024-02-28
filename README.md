@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 60 refereed papers mainly about exoplanets with
-1,174 total citations, and an h-index of 22, as of 2024-02-27[^1].
+1,173 total citations, and an h-index of 22, as of 2024-02-28[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 60 / first author: 3 / citations: 1,174 / h-index: 22 (as of
-2024-02-27)
+refereed: 60 / first author: 3 / citations: 1,173 / h-index: 22 (as of
+2024-02-28)
 
 <div class="list">
 
@@ -597,7 +597,7 @@ Uyama, Taichi; Hashimoto, Jun; Muto, Takayuki; Akiyama, Eiji;
 Imaging of LKHa 330: Multi-band Detection of the Gap and Spiral-like
 Structures](http://dx.doi.org/10.3847/1538-3881/aacbd1)*, The
 Astronomical Journal, **156**, 63
-([arXiv:1804.05934](http://arxiv.org/abs/1804.05934)) \[[26
+([arXiv:1804.05934](http://arxiv.org/abs/1804.05934)) \[[25
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...63U)\]
 
 Murakami, Kenichi; Hayakawa, Tomohiko; **de Leon, J. P.**; & Ishikawa,
