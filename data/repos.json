@@ -36,31 +36,16 @@
           },
           {
             "node": {
-              "name": "tql",
-              "description": "TESS Quick Look light curve analyser",
-              "url": "https://github.com/jpdeleon/tql",
+              "name": "quicklook",
+              "description": "Quick look lightcurve generator",
+              "url": "https://github.com/jpdeleon/quicklook",
               "homepageUrl": null,
-              "forkCount": 2,
+              "forkCount": 0,
               "stargazers": {
-                "totalCount": 5
+                "totalCount": 1
               },
               "watchers": {
-                "totalCount": 3
-              }
-            }
-          },
-          {
-            "node": {
-              "name": "fastquant",
-              "description": "fastquant \u2014 Backtest and optimize your ML trading strategies with only 3 lines of code!",
-              "url": "https://github.com/enzoampil/fastquant",
-              "homepageUrl": "",
-              "forkCount": 231,
-              "stargazers": {
-                "totalCount": 1393
-              },
-              "watchers": {
-                "totalCount": 48
+                "totalCount": 1
               }
             }
           },
@@ -81,13 +66,28 @@
           },
           {
             "node": {
-              "name": "quicklook",
-              "description": "Quick look lightcurve generator",
-              "url": "https://github.com/jpdeleon/quicklook",
+              "name": "epoch",
+              "description": "This code is used to over plot the position of target on archival (survey) images",
+              "url": "https://github.com/jpdeleon/epoch",
               "homepageUrl": null,
               "forkCount": 0,
               "stargazers": {
+                "totalCount": 0
+              },
+              "watchers": {
                 "totalCount": 1
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "tfop_code",
+              "description": "code for analysing MuSCAT1/2/3/4 photometry data for TFOP",
+              "url": "https://github.com/jpdeleon/tfop_code",
+              "homepageUrl": null,
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 0
               },
               "watchers": {
                 "totalCount": 1
