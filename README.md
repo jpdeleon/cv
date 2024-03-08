@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 60 refereed papers mainly about exoplanets with
-1,179 total citations, and an h-index of 22, as of 2024-03-07[^1].
+1,185 total citations, and an h-index of 22, as of 2024-03-08[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 60 / first author: 3 / citations: 1,179 / h-index: 22 (as of
-2024-03-07)
+refereed: 60 / first author: 3 / citations: 1,185 / h-index: 22 (as of
+2024-03-08)
 
 <div class="list">
 
@@ -272,7 +272,7 @@ Watanabe, Noriharu; Narita, Norio; Palle, Enric; Fukui, Akihiko;
 WASP-33b for 11 yr by Doppler tomographic and transit photometric
 observations](http://dx.doi.org/10.1093/mnras/stac620)*, Monthly Notices
 of the Royal Astronomical Society, **512**, 4404
-([arXiv:2203.02003](http://arxiv.org/abs/2203.02003)) \[[8
+([arXiv:2203.02003](http://arxiv.org/abs/2203.02003)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.4404W)\]
 
 Fukui, Akihiko; Kimura, Tadahiro; Hirano, Teruyuki; Narita, Norio;
@@ -295,7 +295,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[22
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[23
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -412,7 +412,7 @@ dwarfs. Two planets on opposite sides of the radius gap transiting the
 nearby M dwarf LTT
 3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
 Astrophysics, **642**
-([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[57
+([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[58
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
 
 Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
@@ -537,7 +537,7 @@ Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
 with a Protoplanetary Disk around SU
 Aurigae](http://dx.doi.org/10.3847/1538-3881/ab0ae4)*, The Astronomical
 Journal, **157**, 165
-([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[32
+([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[33
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157..165A)\]
 
 Hayakawa, Tomohiko; Murakami, Kenichi; **de Leon, J. P.**; & Ishikawa,
@@ -566,7 +566,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[86
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[88
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
