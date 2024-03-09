@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 60 refereed papers mainly about exoplanets with
-1,185 total citations, and an h-index of 22, as of 2024-03-08[^1].
+1,190 total citations, and an h-index of 22, as of 2024-03-09[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 60 / first author: 3 / citations: 1,185 / h-index: 22 (as of
-2024-03-08)
+refereed: 60 / first author: 3 / citations: 1,190 / h-index: 22 (as of
+2024-03-09)
 
 <div class="list">
 
@@ -394,7 +394,7 @@ Leon, J. P.**), 2020, *[Cluster Difference Imaging Photometric Survey.
 II. TOI 837: A Young Validated Planet in IC
 2602](http://dx.doi.org/10.3847/1538-3881/abb9ab)*, The Astronomical
 Journal, **160**, 239
-([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[41
+([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[43
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
 
 Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
@@ -497,7 +497,7 @@ Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
 confirmation of K2-100b: a young, highly irradiated, and low-density
 transiting hot Neptune](http://dx.doi.org/10.1093/mnras/stz2569)*,
 Monthly Notices of the Royal Astronomical Society, **490**, 698
-([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[48
+([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[49
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..698B)\]
 
 Fukui, A.; Suzuki, D.; Koshimoto, N.; Bachelet, E.; *et al.* (incl. **de
@@ -558,7 +558,7 @@ Livingston, John H.; Dai, Fei; Hirano, Teruyuki; Gandolfi, Davide;
 multiplanet system in the Praesepe open
 cluster](http://dx.doi.org/10.1093/mnras/sty3464)*, Monthly Notices of
 the Royal Astronomical Society, **484**, 8
-([arXiv:1809.01968](http://arxiv.org/abs/1809.01968)) \[[30
+([arXiv:1809.01968](http://arxiv.org/abs/1809.01968)) \[[31
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484....8L)\]
 
 Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
@@ -583,7 +583,7 @@ High-resolution Imaging Polarimetry of FU Ori-type Objects: Toward a
 Unified Scheme for Low-mass Protostellar
 Evolution](http://dx.doi.org/10.3847/1538-4357/aad2e1)*, The
 Astrophysical Journal, **864**, 20
-([arXiv:1807.03499](http://arxiv.org/abs/1807.03499)) \[[39
+([arXiv:1807.03499](http://arxiv.org/abs/1807.03499)) \[[40
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...864...20T)\]
 
 Livingston, John H.; Endl, Michael; Dai, Fei; Cochran, William D.;
