@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 60 refereed papers mainly about exoplanets with
-1,190 total citations, and an h-index of 22, as of 2024-03-09[^1].
+1,191 total citations, and an h-index of 22, as of 2024-03-10[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 60 / first author: 3 / citations: 1,190 / h-index: 22 (as of
-2024-03-09)
+refereed: 60 / first author: 3 / citations: 1,191 / h-index: 22 (as of
+2024-03-10)
 
 <div class="list">
 
@@ -216,7 +216,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2023PASJ...75..713K)\]
 *et al.*, 2023, *[A sub-Neptune transiting the young field star HD 18599
 at 40 pc](http://dx.doi.org/10.1093/mnras/stad894)*, Monthly Notices of
 the Royal Astronomical Society, **522**, 750
-([arXiv:2210.08179](http://arxiv.org/abs/2210.08179)) \[[3
+([arXiv:2210.08179](http://arxiv.org/abs/2210.08179)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522..750D)\]
 
 Morello, G.; Parviainen, H.; Murgas, F.; Pallé, E.; *et al.* (incl. **de
