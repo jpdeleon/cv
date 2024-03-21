@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 60 refereed papers mainly about exoplanets with
-1,197 total citations, and an h-index of 22, as of 2024-03-20[^1].
+1,203 total citations, and an h-index of 22, as of 2024-03-21[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 60 / first author: 3 / citations: 1,197 / h-index: 22 (as of
-2024-03-20)
+refereed: 60 / first author: 3 / citations: 1,203 / h-index: 22 (as of
+2024-03-21)
 
 <div class="list">
 
@@ -160,7 +160,7 @@ Mallorquı́n, M.; Goffo, E.; Pallé, E.; Lodieu, N.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[TOI-1801 b: A temperate mini-Neptune around a
 young M0.5 dwarf](http://dx.doi.org/10.1051/0004-6361/202347346)*,
 Astronomy and Astrophysics, **680**
-([arXiv:2310.10244](http://arxiv.org/abs/2310.10244)) \[[2
+([arXiv:2310.10244](http://arxiv.org/abs/2310.10244)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...680A..76M)\]
 
 Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
@@ -184,7 +184,7 @@ Leon, J. P.**), 2023, *[GJ 806 (TOI-4481): A bright nearby
 multi-planetary system with a transiting hot low-density
 super-Earth](http://dx.doi.org/10.1051/0004-6361/202244261)*, Astronomy
 and Astrophysics, **678**
-([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[6
+([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...678A..80P)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -224,7 +224,7 @@ Leon, J. P.**), 2023, *[TOI-1442 b and TOI-2445 b: Two potentially rocky
 ultra-short period planets around M
 dwarfs](http://dx.doi.org/10.1051/0004-6361/202243592)*, Astronomy and
 Astrophysics, **673**
-([arXiv:2201.13274](http://arxiv.org/abs/2201.13274)) \[[6
+([arXiv:2201.13274](http://arxiv.org/abs/2201.13274)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...673A..32M)\]
 
 Vines, Jose I.; Jenkins, James S.; Berdiñas, Zaira; Soto, Maritza G.;
@@ -240,7 +240,7 @@ Leon, J. P.**), 2022, *[Validation and atmospheric exploration of the
 sub-Neptune TOI-2136b around a nearby M3
 dwarf](http://dx.doi.org/10.1051/0004-6361/202243381)*, Astronomy and
 Astrophysics, **666**
-([arXiv:2202.10182](http://arxiv.org/abs/2202.10182)) \[[6
+([arXiv:2202.10182](http://arxiv.org/abs/2202.10182)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2022A&A...666A...4K)\]
 
 Carmichael, Theron W.; Irwin, Jonathan M.; Murgas, Felipe; Pallé, Enric;
@@ -369,7 +369,7 @@ Leon, J. P.**), 2021, *[An enhanced slope in the transmission spectrum
 of the hot Jupiter
 WASP-104b](http://dx.doi.org/10.1093/mnras/staa3555)*, Monthly Notices
 of the Royal Astronomical Society, **500**, 5420
-([arXiv:2011.06329](http://arxiv.org/abs/2011.06329)) \[[15
+([arXiv:2011.06329](http://arxiv.org/abs/2011.06329)) \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5420C)\]
 
 Castro González, A.; Dı́ez Alonso, E.; Menéndez Blanco, J.; Livingston,
@@ -566,7 +566,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[88
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[89
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
