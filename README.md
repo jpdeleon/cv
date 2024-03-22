@@ -743,6 +743,9 @@ Monthly Notices of the Royal Astronomical Society
 ([MNRAS](https://academic.oup.com/mnras); Impact Factor: 4.8; Active
 referee)
 
+SPACETIDE Foundation ([spacetide.org](https://spacetide.jp/en/); Active
+intern, 2022-present)
+
 </div>
 
 [^1]: Publication data collected from [NASA Astrophysics Data
