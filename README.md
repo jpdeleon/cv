@@ -23,8 +23,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 60 refereed papers mainly about exoplanets with
-1,209 total citations, and an h-index of 23, as of 2024-03-24[^1].
+**Research:** Published 61 refereed papers mainly about exoplanets with
+1,212 total citations, and an h-index of 23, as of 2024-03-25[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,11 +143,17 @@ Leon et al.
 
 ## Publications
 
-refereed: 60 / first author: 3 / citations: 1,209 / h-index: 23 (as of
-2024-03-24)
+refereed: 61 / first author: 3 / citations: 1,212 / h-index: 23 (as of
+2024-03-25)
 
 <div class="list">
 
+
+Parviainen, H.; Murgas, F.; Esparza-Borges, E.; Peláez-Torres, A.;
+*et al.* (incl. **de Leon, J. P.**), 2024, *[TOI-2266 b: A keystone
+super-Earth at the edge of the M dwarf radius
+valley](http://dx.doi.org/10.1051/0004-6361/202347431)*, Astronomy and
+Astrophysics, **683**
 
 Kang, H.; Chen, G.; Pallé, E.; Murgas, F.; *et al.* (incl. **de Leon, J.
 P.**), 2024, *[Simultaneous multicolour transit photometry of hot
@@ -176,7 +182,7 @@ Discovery of Two Transiting Giant Planets around M-dwarf Stars and
 Revised Parameters for Three
 Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
-([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[3
+([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
 
 Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
@@ -192,7 +198,7 @@ Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
 Orbiting a Metal-rich Early M Star Discovered in the TESS Full-frame
 Images](http://dx.doi.org/10.3847/1538-3881/acf56d)*, The Astronomical
 Journal, **166**, 165
-([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[5
+([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
 
 Orell-Miquel, J.; Lampón, M.; López-Puertas, M.; Mallorquı́n, M.;
@@ -209,7 +215,7 @@ Kagetani, Taiki; Narita, Norio; Kimura, Tadahiro; Hirano, Teruyuki;
 close-in giant planet transiting a metal-rich mid-M
 dwarf](http://dx.doi.org/10.1093/pasj/psad031)*, Publications of the
 Astronomical Society of Japan, **75**, 713
-([arXiv:2304.14703](http://arxiv.org/abs/2304.14703)) \[[9
+([arXiv:2304.14703](http://arxiv.org/abs/2304.14703)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2023PASJ...75..713K)\]
 
 **de Leon, J. P.**; Livingston, J. H.; Jenkins, J. S.; Vines, J. I.;
