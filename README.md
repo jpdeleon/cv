@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 61 refereed papers mainly about exoplanets with
-1,211 total citations, and an h-index of 23, as of 2024-03-30[^1].
+1,215 total citations, and an h-index of 23, as of 2024-03-31[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 61 / first author: 3 / citations: 1,211 / h-index: 23 (as of
-2024-03-30)
+refereed: 61 / first author: 3 / citations: 1,215 / h-index: 23 (as of
+2024-03-31)
 
 <div class="list">
 
@@ -279,7 +279,7 @@ Watanabe, Noriharu; Narita, Norio; Palle, Enric; Fukui, Akihiko;
 WASP-33b for 11 yr by Doppler tomographic and transit photometric
 observations](http://dx.doi.org/10.1093/mnras/stac620)*, Monthly Notices
 of the Royal Astronomical Society, **512**, 4404
-([arXiv:2203.02003](http://arxiv.org/abs/2203.02003)) \[[9
+([arXiv:2203.02003](http://arxiv.org/abs/2203.02003)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.4404W)\]
 
 Fukui, Akihiko; Kimura, Tadahiro; Hirano, Teruyuki; Narita, Norio;
@@ -349,7 +349,7 @@ Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
 I. Survey Description and Midsurvey
 Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
 Journal Supplement Series, **256**, 33
-([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[24
+([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[25
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
 
 Trifonov, T.; Caballero, J. A.; Morales, J. C.; Seifahrt, A.;
@@ -419,7 +419,7 @@ dwarfs. Two planets on opposite sides of the radius gap transiting the
 nearby M dwarf LTT
 3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
 Astrophysics, **642**
-([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[58
+([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[60
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
 
 Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
