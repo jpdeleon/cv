@@ -23,8 +23,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 61 refereed papers mainly about exoplanets with
-1,216 total citations, and an h-index of 23, as of 2024-04-01[^1].
+**Research:** Published 62 refereed papers mainly about exoplanets with
+1,216 total citations, and an h-index of 23, as of 2024-04-02[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 61 / first author: 3 / citations: 1,216 / h-index: 23 (as of
-2024-04-01)
+refereed: 62 / first author: 3 / citations: 1,216 / h-index: 23 (as of
+2024-04-02)
 
 <div class="list">
 
@@ -155,6 +155,13 @@ super-Earth at the edge of the M dwarf radius
 valley](http://dx.doi.org/10.1051/0004-6361/202347431)*, Astronomy and
 Astrophysics, **683**
 ([arXiv:2401.11879](http://arxiv.org/abs/2401.11879))
+
+Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
+*et al.* (incl. **de Leon, J. P.**), 2024, *[Characterization of
+starspots on a young M-dwarf K2-25: multi-band observations of stellar
+photometric variability and planetary
+transits](http://dx.doi.org/10.1093/mnras/stae841)*, Monthly Notices of
+the Royal Astronomical Society
 
 Kang, H.; Chen, G.; Pallé, E.; Murgas, F.; *et al.* (incl. **de Leon, J.
 P.**), 2024, *[Simultaneous multicolour transit photometry of hot

@@ -77,6 +77,37 @@
     "year": "2024"
   },
   {
+    "arxiv": null,
+    "authors": [
+      "Mori, Mayuko",
+      "Ikuta, Kai",
+      "Fukui, Akihiko",
+      "Narita, Norio",
+      "de Leon, Jerome P.",
+      "Livingston, John H.",
+      "Ikoma, Masahiro",
+      "Kawai, Yugo",
+      "Kawauchi, Kiyoe",
+      "Murgas, Felipe",
+      "Palle, Enric",
+      "Parviainen, Hannu",
+      "Fern{\\'a}ndez Rodr{\\'\\i}guez, Gareb",
+      "Terada, Yuka",
+      "Watanabe, Noriharu",
+      "Tamura, Motohide"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stae841",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2024-03-00",
+    "title": "Characterization of starspots on a young M-dwarf K2-25: multi-band observations of stellar photometric variability and planetary transits",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.tmp..863M",
+    "volume": null,
+    "year": "2024"
+  },
+  {
     "arxiv": "2401.03715",
     "authors": [
       "Kang, H.",
