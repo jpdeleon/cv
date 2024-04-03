@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 62 refereed papers mainly about exoplanets with
-1,216 total citations, and an h-index of 23, as of 2024-04-02[^1].
+1,216 total citations, and an h-index of 23, as of 2024-04-03[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -144,7 +144,7 @@ Leon et al.
 ## Publications
 
 refereed: 62 / first author: 3 / citations: 1,216 / h-index: 23 (as of
-2024-04-02)
+2024-04-03)
 
 <div class="list">
 
@@ -162,6 +162,7 @@ starspots on a young M-dwarf K2-25: multi-band observations of stellar
 photometric variability and planetary
 transits](http://dx.doi.org/10.1093/mnras/stae841)*, Monthly Notices of
 the Royal Astronomical Society
+([arXiv:2403.13946](http://arxiv.org/abs/2403.13946))
 
 Kang, H.; Chen, G.; Pallé, E.; Murgas, F.; *et al.* (incl. **de Leon, J.
 P.**), 2024, *[Simultaneous multicolour transit photometry of hot
