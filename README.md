@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 62 refereed papers mainly about exoplanets with
-1,216 total citations, and an h-index of 23, as of 2024-04-03[^1].
+1,215 total citations, and an h-index of 23, as of 2024-04-04[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 62 / first author: 3 / citations: 1,216 / h-index: 23 (as of
-2024-04-03)
+refereed: 62 / first author: 3 / citations: 1,215 / h-index: 23 (as of
+2024-04-04)
 
 <div class="list">
 
@@ -287,7 +287,7 @@ Watanabe, Noriharu; Narita, Norio; Palle, Enric; Fukui, Akihiko;
 WASP-33b for 11 yr by Doppler tomographic and transit photometric
 observations](http://dx.doi.org/10.1093/mnras/stac620)*, Monthly Notices
 of the Royal Astronomical Society, **512**, 4404
-([arXiv:2203.02003](http://arxiv.org/abs/2203.02003)) \[[11
+([arXiv:2203.02003](http://arxiv.org/abs/2203.02003)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.4404W)\]
 
 Fukui, Akihiko; Kimura, Tadahiro; Hirano, Teruyuki; Narita, Norio;
