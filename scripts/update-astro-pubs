@@ -1,11 +1,13 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-If run locally, get NASA ADS token from 
+If to run locally, first get NASA ADS token from 
 https://ui.adsabs.harvard.edu/user/settings/token
-save it to a file called ~/.ads/dev_key
+save it to a file called `~/.ads/dev_key`
+then run from base
+$ python scripts/update-astro-pubs
 
-If run on GitHub Actions, set the token as a secret called ADS_DEV_KEY
+If to run on GitHub Actions, set the token as a secret called ADS_DEV_KEY
 """
 import os
 import json
@@ -90,28 +92,31 @@ def get_papers(author):
             formatted_authors = list(paper.author)
             formatted_titles = paper.title[0].replace(" &amp; ", " & ").replace("<SUB>", "_").replace("</SUB>", "_")
         # Create a dictionary with relevant paper information
-        for stop_word in stop_words_in_title:
-            if stop_word not in formatted_titles.lower():
-                entry = dict(
-                    doctype=paper.doctype,
-                    authors=formatted_authors,
-                    year=paper.year,
-                    pubdate=paper.pubdate,
-                    doi=paper.doi[0] if paper.doi is not None else None,
-                    title=formatted_titles,
-                    pub=paper.pub,
-                    volume=paper.volume,
-                    page=page,
-                    arxiv=aid[0] if len(aid) else None,
-                    citations=(
-                        paper.citation_count if paper.citation_count is not None else 0
-                    ),
-                    url="https://ui.adsabs.harvard.edu/abs/" + paper.bibcode,
-                )
-                # Check if the entry is unique
-                if formatted_titles not in unique_entries:
-                    dicts.append(entry)
-                    unique_entries.add(formatted_titles)
+        include_flag = [stop_word not in formatted_titles.lower() for stop_word in stop_words_in_title]
+        if all(include_flag):
+            entry = dict(
+                doctype=paper.doctype,
+                authors=formatted_authors,
+                year=paper.year,
+                pubdate=paper.pubdate,
+                doi=paper.doi[0] if paper.doi is not None else None,
+                title=formatted_titles,
+                pub=paper.pub,
+                volume=paper.volume,
+                page=page,
+                arxiv=aid[0] if len(aid) else None,
+                citations=(
+                    paper.citation_count if paper.citation_count is not None else 0
+                ),
+                url="https://ui.adsabs.harvard.edu/abs/" + paper.bibcode,
+            )
+            # Check if the entry is unique
+            if formatted_titles not in unique_entries:
+                dicts.append(entry)
+                unique_entries.add(formatted_titles)
+        else:
+            print(f"Ignoring the following entry because the title contains '{stop_words_in_title}':\n{formatted_titles}")
+
     return sorted(dicts, key=itemgetter("pubdate"), reverse=True)
 
 
