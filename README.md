@@ -23,7 +23,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 62 refereed papers mainly about exoplanets with
+**Research:** Published 61 refereed papers mainly about exoplanets with
 1,216 total citations, and an h-index of 23, as of 2024-04-07[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
@@ -143,7 +143,7 @@ Leon et al.
 
 ## Publications
 
-refereed: 62 / first author: 3 / citations: 1,216 / h-index: 23 (as of
+refereed: 61 / first author: 3 / citations: 1,216 / h-index: 23 (as of
 2024-04-07)
 
 <div class="list">
@@ -500,12 +500,6 @@ in the Neptune desert](http://dx.doi.org/10.1038/s41550-020-1142-z)*,
 Nature Astronomy, **4**, 1148
 ([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[51
 citations](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J)\]
-
-Jenkins, James S.; Dı́az, Matı́as R.; Kurtovic, Nicolás T.; Espinoza,
-Néstor; *et al.* (incl. **de Leon, J. P.**), 2020, *[Author Correction:
-An ultrahot Neptune in the Neptune
-desert](http://dx.doi.org/10.1038/s41550-020-01252-5)*, Nature
-Astronomy, **4**, 1202
 
 Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
 *et al.* (incl. **de Leon, J. P.**), 2019, *[Radial velocity
