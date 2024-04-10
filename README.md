@@ -23,8 +23,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 61 refereed papers mainly about exoplanets with
-1,216 total citations, and an h-index of 23, as of 2024-04-09[^1].
+**Research:** Published 62 refereed papers mainly about exoplanets with
+1,216 total citations, and an h-index of 23, as of 2024-04-10[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,11 +143,18 @@ Leon et al.
 
 ## Publications
 
-refereed: 61 / first author: 3 / citations: 1,216 / h-index: 23 (as of
-2024-04-09)
+refereed: 62 / first author: 3 / citations: 1,216 / h-index: 23 (as of
+2024-04-10)
 
 <div class="list">
 
+
+Serrano Bell, J.; Dı́az, R. F.; Hébrard, G.; Martioli, E.;
+*et al.* (incl. **de Leon, J. P.**), 2024, *[TOI-1199 b and TOI-1273 b:
+Two new transiting hot Saturns detected and characterized with SOPHIE
+and TESS](http://dx.doi.org/10.1051/0004-6361/202348288)*, Astronomy and
+Astrophysics, **684**
+([arXiv:2402.07861](http://arxiv.org/abs/2402.07861))
 
 Parviainen, H.; Murgas, F.; Esparza-Borges, E.; Peláez-Torres, A.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[TOI-2266 b: A keystone
