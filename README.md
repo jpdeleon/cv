@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 62 refereed papers mainly about exoplanets with
-1,217 total citations, and an h-index of 23, as of 2024-04-13[^1].
+1,220 total citations, and an h-index of 23, as of 2024-04-14[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 62 / first author: 3 / citations: 1,217 / h-index: 23 (as of
-2024-04-13)
+refereed: 62 / first author: 3 / citations: 1,220 / h-index: 23 (as of
+2024-04-14)
 
 <div class="list">
 
@@ -332,7 +332,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.5514G)\]
 2021, *[37 new validated planets in overlapping K2
 campaigns](http://dx.doi.org/10.1093/mnras/stab2305)*, Monthly Notices
 of the Royal Astronomical Society, **508**, 195
-([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[17
+([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..195D)\]
 
 Scarsdale, Nicholas; Murphy, Joseph M. Akana; Batalha, Natalie M.;
@@ -466,7 +466,7 @@ C.; *et al.* (incl. **de Leon, J. P.**), 2020, *[TOI-503: The First
 Known Brown-dwarf Am-star Binary from the TESS
 Mission](http://dx.doi.org/10.3847/1538-3881/ab7245)*, The Astronomical
 Journal, **159**, 151
-([arXiv:1909.07984](http://arxiv.org/abs/1909.07984)) \[[37
+([arXiv:1909.07984](http://arxiv.org/abs/1909.07984)) \[[38
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..151S)\]
 
 Hidalgo, D.; Pallé, E.; Alonso, R.; Gandolfi, D.; *et al.*, 2020,
@@ -537,7 +537,7 @@ Malcolm; *et al.* (incl. **de Leon, J. P.**), 2019, *[Greening of the
 brown-dwarf desert. EPIC 212036875b: a 51 M\_J\_ object in a 5-day orbit
 around an F7 V star](http://dx.doi.org/10.1051/0004-6361/201935505)*,
 Astronomy and Astrophysics, **628**
-([arXiv:1906.05048](http://arxiv.org/abs/1906.05048)) \[[21
+([arXiv:1906.05048](http://arxiv.org/abs/1906.05048)) \[[22
 citations](https://ui.adsabs.harvard.edu/abs/2019A&A...628A..64P)\]
 
 Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
