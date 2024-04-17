@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 63 refereed papers mainly about exoplanets with
-1,227 total citations, and an h-index of 23, as of 2024-04-16[^1].
+1,222 total citations, and an h-index of 23, as of 2024-04-17[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 63 / first author: 3 / citations: 1,227 / h-index: 23 (as of
-2024-04-16)
+refereed: 63 / first author: 3 / citations: 1,222 / h-index: 23 (as of
+2024-04-17)
 
 <div class="list">
 
@@ -157,19 +157,19 @@ transits](http://dx.doi.org/10.1093/mnras/stae841)*, Monthly Notices of
 the Royal Astronomical Society, **530**, 167
 ([arXiv:2403.13946](http://arxiv.org/abs/2403.13946))
 
-Serrano Bell, J.; Dı́az, R. F.; Hébrard, G.; Martioli, E.;
-*et al.* (incl. **de Leon, J. P.**), 2024, *[TOI-1199 b and TOI-1273 b:
-Two new transiting hot Saturns detected and characterized with SOPHIE
-and TESS](http://dx.doi.org/10.1051/0004-6361/202348288)*, Astronomy and
-Astrophysics, **684**
-([arXiv:2402.07861](http://arxiv.org/abs/2402.07861))
-
 Murgas, F.; Pallé, E.; Orell-Miquel, J.; Carleo, I.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Wolf 327b: A new member of
 the pack of ultra-short-period super-Earths around M
 dwarfs](http://dx.doi.org/10.1051/0004-6361/202348813)*, Astronomy and
 Astrophysics, **684**
 ([arXiv:2401.12150](http://arxiv.org/abs/2401.12150))
+
+Serrano Bell, J.; Dı́az, R. F.; Hébrard, G.; Martioli, E.;
+*et al.* (incl. **de Leon, J. P.**), 2024, *[TOI-1199 b and TOI-1273 b:
+Two new transiting hot Saturns detected and characterized with SOPHIE
+and TESS](http://dx.doi.org/10.1051/0004-6361/202348288)*, Astronomy and
+Astrophysics, **684**
+([arXiv:2402.07861](http://arxiv.org/abs/2402.07861))
 
 Parviainen, H.; Murgas, F.; Esparza-Borges, E.; Peláez-Torres, A.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[TOI-2266 b: A keystone
@@ -253,7 +253,7 @@ Leon, J. P.**), 2023, *[TOI-1442 b and TOI-2445 b: Two potentially rocky
 ultra-short period planets around M
 dwarfs](http://dx.doi.org/10.1051/0004-6361/202243592)*, Astronomy and
 Astrophysics, **673**
-([arXiv:2201.13274](http://arxiv.org/abs/2201.13274)) \[[8
+([arXiv:2201.13274](http://arxiv.org/abs/2201.13274)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...673A..32M)\]
 
 Vines, Jose I.; Jenkins, James S.; Berdiñas, Zaira; Soto, Maritza G.;
@@ -457,7 +457,7 @@ Nowak, Grzegorz; Palle, Enric; Gandolfi, Davide; Deeg, Hans J.;
 warm sub-Saturn around a mildly evolved
 star](http://dx.doi.org/10.1093/mnras/staa2077)*, Monthly Notices of the
 Royal Astronomical Society, **497**, 4423
-([arXiv:2007.07939](http://arxiv.org/abs/2007.07939)) \[[4
+([arXiv:2007.07939](http://arxiv.org/abs/2007.07939)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.4423N)\]
 
 Nielsen, L. D.; Brahm, R.; Bouchy, F.; Espinoza, N.;
@@ -512,7 +512,7 @@ Jenkins, James S.; Dı́az, Matı́as R.; Kurtovic, Nicolás T.; Espinoza,
 Néstor; *et al.* (incl. **de Leon, J. P.**), 2020, *[An ultrahot Neptune
 in the Neptune desert](http://dx.doi.org/10.1038/s41550-020-1142-z)*,
 Nature Astronomy, **4**, 1148
-([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[52
+([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[51
 citations](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J)\]
 
 Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
@@ -573,7 +573,7 @@ Esposito, M.; Armstrong, D. J.; Gandolfi, D.; Adibekyan, V.;
 *et al.* (incl. **de Leon, J. P.**), 2019, *[HD 219666 b: a hot-Neptune
 from TESS Sector 1](http://dx.doi.org/10.1051/0004-6361/201834853)*,
 Astronomy and Astrophysics, **623**
-([arXiv:1812.05881](http://arxiv.org/abs/1812.05881)) \[[31
+([arXiv:1812.05881](http://arxiv.org/abs/1812.05881)) \[[30
 citations](https://ui.adsabs.harvard.edu/abs/2019A&A...623A.165E)\]
 
 Livingston, John H.; Dai, Fei; Hirano, Teruyuki; Gandolfi, Davide;
@@ -589,7 +589,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[91
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[90
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
