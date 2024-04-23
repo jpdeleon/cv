@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 63 refereed papers mainly about exoplanets with
-1,222 total citations, and an h-index of 23, as of 2024-04-22[^1].
+1,223 total citations, and an h-index of 23, as of 2024-04-23[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 63 / first author: 3 / citations: 1,222 / h-index: 23 (as of
-2024-04-22)
+refereed: 63 / first author: 3 / citations: 1,223 / h-index: 23 (as of
+2024-04-23)
 
 <div class="list">
 
@@ -371,7 +371,7 @@ Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
 I. Survey Description and Midsurvey
 Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
 Journal Supplement Series, **256**, 33
-([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[26
+([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[27
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
 
 Trifonov, T.; Caballero, J. A.; Morales, J. C.; Seifahrt, A.;
