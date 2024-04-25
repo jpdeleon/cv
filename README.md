@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 63 refereed papers mainly about exoplanets with
-1,223 total citations, and an h-index of 23, as of 2024-04-24[^1].
+1,223 total citations, and an h-index of 23, as of 2024-04-25[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -144,7 +144,7 @@ Leon et al.
 ## Publications
 
 refereed: 63 / first author: 3 / citations: 1,223 / h-index: 23 (as of
-2024-04-24)
+2024-04-25)
 
 <div class="list">
 
@@ -230,7 +230,7 @@ evaporating atmosphere around the 650-Myr-old sub-Neptune HD 235088 b
 (TOI-1430 b) with
 CARMENES](http://dx.doi.org/10.1051/0004-6361/202346445)*, Astronomy and
 Astrophysics, **677**
-([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[6
+([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...677A..56O)\]
 
 Kagetani, Taiki; Narita, Norio; Kimura, Tadahiro; Hirano, Teruyuki;
@@ -371,7 +371,7 @@ Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
 I. Survey Description and Midsurvey
 Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
 Journal Supplement Series, **256**, 33
-([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[27
+([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
 
 Trifonov, T.; Caballero, J. A.; Morales, J. C.; Seifahrt, A.;
