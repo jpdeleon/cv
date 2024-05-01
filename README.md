@@ -23,8 +23,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 63 refereed papers mainly about exoplanets with
-1,238 total citations, and an h-index of 23, as of 2024-04-30[^1].
+**Research:** Published 64 refereed papers mainly about exoplanets with
+1,238 total citations, and an h-index of 23, as of 2024-05-01[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 63 / first author: 3 / citations: 1,238 / h-index: 23 (as of
-2024-04-30)
+refereed: 64 / first author: 3 / citations: 1,238 / h-index: 23 (as of
+2024-05-01)
 
 <div class="list">
 
@@ -156,6 +156,14 @@ photometric variability and planetary
 transits](http://dx.doi.org/10.1093/mnras/stae841)*, Monthly Notices of
 the Royal Astronomical Society, **530**, 167
 ([arXiv:2403.13946](http://arxiv.org/abs/2403.13946))
+
+Hord, Benjamin J.; Kempton, Eliza M. -R.; M. Evans-Soma, Thomas; Latham,
+David W.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Identification of
+the Top TESS Objects of Interest for Atmospheric Characterization of
+Transiting Exoplanets with
+JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
+Journal, **167**, 233
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617))
 
 Murgas, F.; Pallé, E.; Orell-Miquel, J.; Carleo, I.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Wolf 327b: A new member of
