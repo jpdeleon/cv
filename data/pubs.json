@@ -1,36 +1,5 @@
 [
   {
-    "arxiv": "2403.13946",
-    "authors": [
-      "Mori, Mayuko",
-      "Ikuta, Kai",
-      "Fukui, Akihiko",
-      "Narita, Norio",
-      "de Leon, Jerome P.",
-      "Livingston, John H.",
-      "Ikoma, Masahiro",
-      "Kawai, Yugo",
-      "Kawauchi, Kiyoe",
-      "Murgas, Felipe",
-      "Palle, Enric",
-      "Parviainen, Hannu",
-      "Fern{\\'a}ndez Rodr{\\'\\i}guez, Gareb",
-      "Terada, Yuka",
-      "Watanabe, Noriharu",
-      "Tamura, Motohide"
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stae841",
-    "page": 167,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2024-05-00",
-    "title": "Characterization of starspots on a young M-dwarf K2-25: multiband observations of stellar photometric variability and planetary transits",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.530..167M",
-    "volume": "530",
-    "year": "2024"
-  },
-  {
     "arxiv": "2308.09617",
     "authors": [
       "Hord, Benjamin J.",
@@ -190,6 +159,37 @@
     "title": "Identification of the Top TESS Objects of Interest for Atmospheric Characterization of Transiting Exoplanets with JWST",
     "url": "https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H",
     "volume": "167",
+    "year": "2024"
+  },
+  {
+    "arxiv": "2403.13946",
+    "authors": [
+      "Mori, Mayuko",
+      "Ikuta, Kai",
+      "Fukui, Akihiko",
+      "Narita, Norio",
+      "de Leon, Jerome P.",
+      "Livingston, John H.",
+      "Ikoma, Masahiro",
+      "Kawai, Yugo",
+      "Kawauchi, Kiyoe",
+      "Murgas, Felipe",
+      "Palle, Enric",
+      "Parviainen, Hannu",
+      "Fern{\\'a}ndez Rodr{\\'\\i}guez, Gareb",
+      "Terada, Yuka",
+      "Watanabe, Noriharu",
+      "Tamura, Motohide"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stae841",
+    "page": 167,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2024-05-00",
+    "title": "Characterization of starspots on a young M-dwarf K2-25: multiband observations of stellar photometric variability and planetary transits",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.530..167M",
+    "volume": "530",
     "year": "2024"
   },
   {
