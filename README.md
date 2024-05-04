@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 64 refereed papers mainly about exoplanets with
-1,242 total citations, and an h-index of 23, as of 2024-05-03[^1].
+1,243 total citations, and an h-index of 23, as of 2024-05-04[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 64 / first author: 3 / citations: 1,242 / h-index: 23 (as of
-2024-05-03)
+refereed: 64 / first author: 3 / citations: 1,243 / h-index: 23 (as of
+2024-05-04)
 
 <div class="list">
 
@@ -302,7 +302,7 @@ A.; *et al.* (incl. **de Leon, J. P.**), 2022, *[A Possible Alignment
 Between the Orbits of Planetary Systems and their Visual Binary
 Companions](http://dx.doi.org/10.3847/1538-3881/ac517f)*, The
 Astronomical Journal, **163**, 207
-([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[22
+([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[23
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..207C)\]
 
 Watanabe, Noriharu; Narita, Norio; Palle, Enric; Fukui, Akihiko;
