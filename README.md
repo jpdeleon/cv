@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 64 refereed papers mainly about exoplanets with
-1,249 total citations, and an h-index of 23, as of 2024-05-06[^1].
+1,249 total citations, and an h-index of 23, as of 2024-05-07[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -144,12 +144,12 @@ Leon et al.
 ## Publications
 
 refereed: 64 / first author: 3 / citations: 1,249 / h-index: 23 (as of
-2024-05-06)
+2024-05-07)
 
 <div class="list">
 
 
-Hord, Benjamin J.; Kempton, Eliza M. -R.; M. Evans-Soma, Thomas; Latham,
+Hord, Benjamin J.; Kempton, Eliza M. -R.; Evans-Soma, Thomas M.; Latham,
 David W.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Identification of
 the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
