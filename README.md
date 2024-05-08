@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 64 refereed papers mainly about exoplanets with
-1,249 total citations, and an h-index of 23, as of 2024-05-07[^1].
+1,249 total citations, and an h-index of 23, as of 2024-05-08[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -144,7 +144,7 @@ Leon et al.
 ## Publications
 
 refereed: 64 / first author: 3 / citations: 1,249 / h-index: 23 (as of
-2024-05-07)
+2024-05-08)
 
 <div class="list">
 
