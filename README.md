@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 64 refereed papers mainly about exoplanets with
-1,252 total citations, and an h-index of 23, as of 2024-05-11[^1].
+1,254 total citations, and an h-index of 23, as of 2024-05-12[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 64 / first author: 3 / citations: 1,252 / h-index: 23 (as of
-2024-05-11)
+refereed: 64 / first author: 3 / citations: 1,254 / h-index: 23 (as of
+2024-05-12)
 
 <div class="list">
 
@@ -333,7 +333,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[25
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -537,7 +537,7 @@ Leon, J. P.**), 2019, *[Kojima-1Lb Is a Mildly Cold Neptune around the
 Brightest Microlensing Host
 Star](http://dx.doi.org/10.3847/1538-3881/ab487f)*, The Astronomical
 Journal, **158**, 206
-([arXiv:1909.11802](http://arxiv.org/abs/1909.11802)) \[[25
+([arXiv:1909.11802](http://arxiv.org/abs/1909.11802)) \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..206F)\]
 
 Quinn, Samuel N.; Becker, Juliette C.; Rodriguez, Joseph E.; Hadden,
