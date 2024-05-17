@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 64 refereed papers mainly about exoplanets with
-1,258 total citations, and an h-index of 23, as of 2024-05-16[^1].
+1,259 total citations, and an h-index of 23, as of 2024-05-17[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 64 / first author: 3 / citations: 1,258 / h-index: 23 (as of
-2024-05-16)
+refereed: 64 / first author: 3 / citations: 1,259 / h-index: 23 (as of
+2024-05-17)
 
 <div class="list">
 
@@ -529,7 +529,7 @@ Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
 confirmation of K2-100b: a young, highly irradiated, and low-density
 transiting hot Neptune](http://dx.doi.org/10.1093/mnras/stz2569)*,
 Monthly Notices of the Royal Astronomical Society, **490**, 698
-([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[52
+([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[53
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..698B)\]
 
 Fukui, A.; Suzuki, D.; Koshimoto, N.; Bachelet, E.; *et al.* (incl. **de
