@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 64 refereed papers mainly about exoplanets with
-1,259 total citations, and an h-index of 23, as of 2024-05-17[^1].
+1,260 total citations, and an h-index of 23, as of 2024-05-18[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,11 +143,19 @@ Leon et al.
 
 ## Publications
 
-refereed: 64 / first author: 3 / citations: 1,259 / h-index: 23 (as of
-2024-05-17)
+refereed: 64 / first author: 3 / citations: 1,260 / h-index: 23 (as of
+2024-05-18)
 
 <div class="list">
 
+
+Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
+*et al.* (incl. **de Leon, J. P.**), 2024, *[Characterization of
+starspots on a young M-dwarf K2-25: multiband observations of stellar
+photometric variability and planetary
+transits](http://dx.doi.org/10.1093/mnras/stae841)*, Monthly Notices of
+the Royal Astronomical Society, **530**, 167
+([arXiv:2403.13946](http://arxiv.org/abs/2403.13946))
 
 Hord, Benjamin J.; Kempton, Eliza M. -R.; Evans-Soma, Thomas M.; Latham,
 David W.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Identification of
@@ -157,14 +165,6 @@ JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
 ([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
-
-Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
-*et al.* (incl. **de Leon, J. P.**), 2024, *[Characterization of
-starspots on a young M-dwarf K2-25: multiband observations of stellar
-photometric variability and planetary
-transits](http://dx.doi.org/10.1093/mnras/stae841)*, Monthly Notices of
-the Royal Astronomical Society, **530**, 167
-([arXiv:2403.13946](http://arxiv.org/abs/2403.13946))
 
 Murgas, F.; Pallé, E.; Orell-Miquel, J.; Carleo, I.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Wolf 327b: A new member of
@@ -348,7 +348,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.5514G)\]
 2021, *[37 new validated planets in overlapping K2
 campaigns](http://dx.doi.org/10.1093/mnras/stab2305)*, Monthly Notices
 of the Royal Astronomical Society, **508**, 195
-([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[18
+([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..195D)\]
 
 Scarsdale, Nicholas; Murphy, Joseph M. Akana; Batalha, Natalie M.;
