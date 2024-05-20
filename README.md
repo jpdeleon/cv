@@ -664,6 +664,11 @@ citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D)\]
 <div class="list">
 
 
+**2022/12:** St. Joseph’s Academy, Centennial Achiever’s Award
+
+**2021/3:** Philippine Embassy in Japan, Medal for distinguished
+Filipino Graduates
+
 **2018/4-2021/3:** Ministry of Education, Culture, Sports (MEXT) PhD
 Scholarship (JPY 8.4M)
 
@@ -726,26 +731,26 @@ their successful pursuit of graduate studies in Japan.
 <div class="list">
 
 
-Japan Planetary Atmosphere Research Society workshop, Matsushima, Miyagi
-Japan, Mar 2022
+Japan Planetary Atmosphere Research Society workshop, Matsushima,
+Miyagi, Japan, Mar 2022
 
 RESCEU Symposium, From Protoplanetary Disks through Planetary System
 Architecture to Planetary Atmospheres and Habitability, Okinawa, Japan,
 Oct 14-18, 2019
 
 1st NARIT-EACOA Summer workshop on Astrostatistics and Informatics,
-Thailand, Aug 13-17, 2019
+Chiang Mai, Thailand, Aug 13-17, 2019
 
 Telluric Line Hack Week, Flatiron Institute, New York, USA, Feb 25-28,
 2019
 
 NASA Sagan Exoplanet Summer Workshop, NASA Exoplanet Science Institute,
-California Institute of Technology, Pasadena California USA, Jul 23-27,
-2018
+California Institute of Technology, Pasadena, California, USA, Jul
+23-27, 2018
 
 Japan Geoscience Union Meeting, Chiba, Japan, May 20-24, 2018
 
-2nd Rencontres du Vietnam on Exoplanetary Science, Binh Dinh Vietnam,
+2nd Rencontres du Vietnam on Exoplanetary Science, Binh Dinh, Vietnam,
 Feb 2018
 
 TIARA Summer School on Astrostatistics and Big Data, Taipei, Taiwan, Sep
@@ -802,13 +807,12 @@ Baños, Philippines, Oct 20, 2011
 <div class="list">
 
 
-2018-now: bi-monthly remote observations with TCS/MuSCAT2
-
 2022-2023: monthly remote observations with Subaru/IRD intensive program
 (PI: Norio Narita)
 
-2018-2020: MuSCAT2/Telescopio Carlo Sanchez, Teide Observatory,
-Tenerife, Spain (on-site and remote, on-going)
+2018-now: bi-monthly remote observations with MuSCAT2/TCS
+
+2018-2020: MuSCAT2/TCS, Teide Observatory, Tenerife, Spain (on-site)
 
 2018: SIRIUS/IRSF, Sutherland, South Africa (on-site, 2 weeks)
 
