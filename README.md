@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 64 refereed papers mainly about exoplanets with
-1,265 total citations, and an h-index of 23, as of 2024-05-22[^1].
+1,262 total citations, and an h-index of 23, as of 2024-05-23[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 64 / first author: 3 / citations: 1,265 / h-index: 23 (as of
-2024-05-22)
+refereed: 64 / first author: 3 / citations: 1,262 / h-index: 23 (as of
+2024-05-23)
 
 <div class="list">
 
@@ -163,7 +163,7 @@ the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
 JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[5
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Murgas, F.; Pallé, E.; Orell-Miquel, J.; Carleo, I.;
@@ -198,7 +198,7 @@ Mallorquı́n, M.; Goffo, E.; Pallé, E.; Lodieu, N.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[TOI-1801 b: A temperate mini-Neptune around a
 young M0.5 dwarf](http://dx.doi.org/10.1051/0004-6361/202347346)*,
 Astronomy and Astrophysics, **680**
-([arXiv:2310.10244](http://arxiv.org/abs/2310.10244)) \[[5
+([arXiv:2310.10244](http://arxiv.org/abs/2310.10244)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...680A..76M)\]
 
 Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
@@ -302,7 +302,7 @@ A.; *et al.* (incl. **de Leon, J. P.**), 2022, *[A Possible Alignment
 Between the Orbits of Planetary Systems and their Visual Binary
 Companions](http://dx.doi.org/10.3847/1538-3881/ac517f)*, The
 Astronomical Journal, **163**, 207
-([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[23
+([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..207C)\]
 
 Watanabe, Noriharu; Narita, Norio; Palle, Enric; Fukui, Akihiko;
@@ -432,7 +432,7 @@ Leon, J. P.**), 2020, *[Cluster Difference Imaging Photometric Survey.
 II. TOI 837: A Young Validated Planet in IC
 2602](http://dx.doi.org/10.3847/1538-3881/abb9ab)*, The Astronomical
 Journal, **160**, 239
-([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[45
+([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
 
 Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
@@ -529,7 +529,7 @@ Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
 confirmation of K2-100b: a young, highly irradiated, and low-density
 transiting hot Neptune](http://dx.doi.org/10.1093/mnras/stz2569)*,
 Monthly Notices of the Royal Astronomical Society, **490**, 698
-([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[54
+([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[53
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..698B)\]
 
 Fukui, A.; Suzuki, D.; Koshimoto, N.; Bachelet, E.; *et al.* (incl. **de
