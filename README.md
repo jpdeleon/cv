@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 64 refereed papers mainly about exoplanets with
-1,262 total citations, and an h-index of 23, as of 2024-05-25[^1].
+1,271 total citations, and an h-index of 23, as of 2024-05-26[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 64 / first author: 3 / citations: 1,262 / h-index: 23 (as of
-2024-05-25)
+refereed: 64 / first author: 3 / citations: 1,271 / h-index: 23 (as of
+2024-05-26)
 
 <div class="list">
 
@@ -205,7 +205,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[6
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Hartman, J. D.; Bakos, G. Á.; Csubry, Z.; Howard, A. W.;
@@ -294,7 +294,7 @@ Mori, Mayuko; Livingston, John H.; **de Leon, J. P.**; Narita, Norio;
 Planet in the Neptunian
 Desert](http://dx.doi.org/10.3847/1538-3881/ac6bf8)*, The Astronomical
 Journal, **163**, 298
-([arXiv:2203.02694](http://arxiv.org/abs/2203.02694)) \[[9
+([arXiv:2203.02694](http://arxiv.org/abs/2203.02694)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..298M)\]
 
 Christian, Sam; Vanderburg, Andrew; Becker, Juliette; Yahalomi, Daniel
@@ -356,7 +356,7 @@ Crossfield, Ian J. M.; *et al.* (incl. **de Leon, J. P.**), 2021,
 *[TESS-Keck Survey. V. Twin Sub-Neptunes Transiting the Nearby G Star HD
 63935](http://dx.doi.org/10.3847/1538-3881/ac18cb)*, The Astronomical
 Journal, **162**, 215
-([arXiv:2110.06885](http://arxiv.org/abs/2110.06885)) \[[13
+([arXiv:2110.06885](http://arxiv.org/abs/2110.06885)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..215S)\]
 
 Hirano, Teruyuki; Livingston, John H.; Fukui, Akihiko; Narita, Norio;
@@ -390,7 +390,7 @@ investigation](http://dx.doi.org/10.1126/science.abd7645)*, Science,
 ## 371
 
 , 1038 ([arXiv:2103.04950](http://arxiv.org/abs/2103.04950))
-\[[47
+\[[48
 citations](https://ui.adsabs.harvard.edu/abs/2021Sci...371.1038T)\]
 
 Parviainen, H.; Palle, E.; Zapatero-Osorio, M. R.; Nowak, G.;
@@ -432,7 +432,7 @@ Leon, J. P.**), 2020, *[Cluster Difference Imaging Photometric Survey.
 II. TOI 837: A Young Validated Planet in IC
 2602](http://dx.doi.org/10.3847/1538-3881/abb9ab)*, The Astronomical
 Journal, **160**, 239
-([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[44
+([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
 
 Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
@@ -569,7 +569,7 @@ Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
 with a Protoplanetary Disk around SU
 Aurigae](http://dx.doi.org/10.3847/1538-3881/ab0ae4)*, The Astronomical
 Journal, **157**, 165
-([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[33
+([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157..165A)\]
 
 Hayakawa, Tomohiko; Murakami, Kenichi; **de Leon, J. P.**; & Ishikawa,
@@ -598,7 +598,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[94
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[96
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
