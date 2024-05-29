@@ -744,6 +744,8 @@ their successful pursuit of graduate studies in Japan.
 <div class="list">
 
 
+Japan Planetary Atmosphere Research Society workshop II, Atami, Mar 2023
+
 Japan Planetary Atmosphere Research Society workshop, Matsushima,
 Miyagi, Japan, Mar 2022
 
@@ -843,26 +845,44 @@ nights)
 
 </div>
 
-## Affiliations and Services
+## Outreach Activities
 
 <div class="list">
 
 
-Exoplanet Follow-up Observing Program
-([ExoFOP](https://exofop.ipac.caltech.edu/tess/); Member, 2018-present)
+Resource speaker for the Philippine Astronomy Week 2024 led by PAGASA,
+Feb 2024
 
-Filipino Astronomy Community
-([FAC](https://www.facebook.com/groups/filastrocomm); Founder, 2016)
+Featured Pinoy Scientists in [Jan
+2023](https://www.facebook.com/pinoyscientists/posts/pfbid0Lj83pJZaaU35tdSpz5UKgkAodhBqMzudUjCS7z4UV32zqiqmkQzT7LdtpGTsu7Cql)
 
-Association of Filipino Students in Japan
-([AFSJ](https://www.facebook.com/afsjpage); President, 2017-2018)
+Resource speaker for Science Week at De La Salle Integrated School, Mar
+2022
 
-Association of Filipino Scholars in Taiwan
-([AFST](https://www.facebook.com/AssocIskolar); Founding member)
+Resource speaker for the Philippine Science High School-Western Visayas
+Campus, Mar 2021
 
-Science and Technology Advisory Council- Japan chapter
-([STAC-J](https://www.facebook.com/profile.php?id=100083271798519);
-Member)
+Courtesy call by the Director of the Philippine Space Agency (PhilSA),
+Mar 2021
+
+Invited speaker at National Insitute of Physics, University of the
+Philippines Diliman (UPD), Jan 2020
+
+Astronomy Over Coffee at UPD Hotel, Sep 2019
+
+Founding of Filipino Astronomy Community
+([FAC](https://www.facebook.com/groups/filastrocomm); 2016)
+
+Invited speaker at Philippine Rural High School, Los Banos, Apr 2014
+
+Invited speaker at St. Joseph’s Academy Sariaya High School, Apr 2013
+
+</div>
+
+## Affiliations and Services
+
+<div class="list">
+
 
 Monthly Notices of the Royal Astronomical Society
 ([MNRAS](https://academic.oup.com/mnras); Impact Factor: 4.8; Active
@@ -870,6 +890,21 @@ referee)
 
 SPACETIDE Foundation ([spacetide.org](https://spacetide.jp/en/); Active
 intern, 2022-present)
+
+Science and Technology Advisory Council- Japan chapter
+([STAC-J](https://www.facebook.com/profile.php?id=100083271798519);
+Member, 2019-present)
+
+Exoplanet Follow-up Observing Program
+([ExoFOP](https://exofop.ipac.caltech.edu/tess/); Member, 2018-present)
+
+Association of Filipino Students in Japan
+([AFSJ](https://www.facebook.com/afsjpage); President, 2017-2018)
+
+Association of Filipino Scholars in Taiwan
+([AFST](https://www.facebook.com/AssocIskolar); Founding member, 2014)
+
+[Gawad Kalinga](https://gk1world.com/volunteer) (Volunteer, 2009-2013)
 
 </div>
 
