@@ -121,37 +121,6 @@
     "year": "2024"
   },
   {
-    "arxiv": "2403.13946",
-    "authors": [
-      "Mori, Mayuko",
-      "Ikuta, Kai",
-      "Fukui, Akihiko",
-      "Narita, Norio",
-      "de Leon, Jerome P.",
-      "Livingston, John H.",
-      "Ikoma, Masahiro",
-      "Kawai, Yugo",
-      "Kawauchi, Kiyoe",
-      "Murgas, Felipe",
-      "Palle, Enric",
-      "Parviainen, Hannu",
-      "Fern{\\'a}ndez Rodr{\\'\\i}guez, Gareb",
-      "Terada, Yuka",
-      "Watanabe, Noriharu",
-      "Tamura, Motohide"
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stae841",
-    "page": 167,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2024-05-00",
-    "title": "Characterization of starspots on a young M-dwarf K2-25: multiband observations of stellar photometric variability and planetary transits",
-    "url": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.530..167M",
-    "volume": "530",
-    "year": "2024"
-  },
-  {
     "arxiv": "2308.09617",
     "authors": [
       "Hord, Benjamin J.",
@@ -302,7 +271,7 @@
       "Ziegler, Carl",
       "Zucker, Shay"
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad3068",
     "page": 233,
@@ -311,6 +280,37 @@
     "title": "Identification of the Top TESS Objects of Interest for Atmospheric Characterization of Transiting Exoplanets with JWST",
     "url": "https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H",
     "volume": "167",
+    "year": "2024"
+  },
+  {
+    "arxiv": "2403.13946",
+    "authors": [
+      "Mori, Mayuko",
+      "Ikuta, Kai",
+      "Fukui, Akihiko",
+      "Narita, Norio",
+      "de Leon, Jerome P.",
+      "Livingston, John H.",
+      "Ikoma, Masahiro",
+      "Kawai, Yugo",
+      "Kawauchi, Kiyoe",
+      "Murgas, Felipe",
+      "Palle, Enric",
+      "Parviainen, Hannu",
+      "Fern{\\'a}ndez Rodr{\\'\\i}guez, Gareb",
+      "Terada, Yuka",
+      "Watanabe, Noriharu",
+      "Tamura, Motohide"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stae841",
+    "page": 167,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2024-05-00",
+    "title": "Characterization of starspots on a young M-dwarf K2-25: multiband observations of stellar photometric variability and planetary transits",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.530..167M",
+    "volume": "530",
     "year": "2024"
   },
   {
@@ -1215,7 +1215,7 @@
       "Stangret, M.",
       "Yan, F."
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202346445",
     "page": null,
@@ -1531,7 +1531,7 @@
       "Ueda, A.",
       "Vievard, S."
     ],
-    "citations": 9,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202243381",
     "page": null,
@@ -2096,7 +2096,7 @@
       "Van Eylen, V.",
       "Tamura, M."
     ],
-    "citations": 20,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2305",
     "page": 195,
@@ -2247,7 +2247,7 @@
       "Watanabe, Noriharu",
       "Winn, Joshua N."
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0fdc",
     "page": 161,
@@ -3668,7 +3668,7 @@
       "Redfield, S.",
       "Tamura, M."
     ],
-    "citations": 54,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.1093/mnras/stz2569",
     "page": 698,
@@ -4127,7 +4127,7 @@
       "Smith, A. M. S.",
       "Trifonov, T."
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1093/mnras/stz139",
     "page": 3522,
@@ -4326,7 +4326,7 @@
       "Luque, Rafael",
       "Nishiumi, Taku"
     ],
-    "citations": 98,
+    "citations": 99,
     "doctype": "article",
     "doi": "10.1117/1.JATIS.5.1.015001",
     "page": 15001,

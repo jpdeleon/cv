@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 66 refereed papers mainly about exoplanets with
-1,282 total citations, and an h-index of 23, as of 2024-06-01[^1].
+1,286 total citations, and an h-index of 23, as of 2024-06-02[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 66 / first author: 3 / citations: 1,282 / h-index: 23 (as of
-2024-06-01)
+refereed: 66 / first author: 3 / citations: 1,286 / h-index: 23 (as of
+2024-06-02)
 
 <div class="list">
 
@@ -156,6 +156,15 @@ Spectroscopy](http://dx.doi.org/10.3847/2041-8213/ad3642)*, The
 Astrophysical Journal, **967**
 ([arXiv:2405.14708](http://arxiv.org/abs/2405.14708))
 
+Hord, Benjamin J.; Kempton, Eliza M. -R.; Evans-Soma, Thomas M.; Latham,
+David W.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Identification of
+the Top TESS Objects of Interest for Atmospheric Characterization of
+Transiting Exoplanets with
+JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
+Journal, **167**, 233
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[6
+citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
+
 Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Characterization of
 starspots on a young M-dwarf K2-25: multiband observations of stellar
@@ -163,15 +172,6 @@ photometric variability and planetary
 transits](http://dx.doi.org/10.1093/mnras/stae841)*, Monthly Notices of
 the Royal Astronomical Society, **530**, 167
 ([arXiv:2403.13946](http://arxiv.org/abs/2403.13946))
-
-Hord, Benjamin J.; Kempton, Eliza M. -R.; Evans-Soma, Thomas M.; Latham,
-David W.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Identification of
-the Top TESS Objects of Interest for Atmospheric Characterization of
-Transiting Exoplanets with
-JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
-Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[5
-citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
 Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
@@ -252,7 +252,7 @@ evaporating atmosphere around the 650-Myr-old sub-Neptune HD 235088 b
 (TOI-1430 b) with
 CARMENES](http://dx.doi.org/10.1051/0004-6361/202346445)*, Astronomy and
 Astrophysics, **677**
-([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[9
+([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...677A..56O)\]
 
 Kagetani, Taiki; Narita, Norio; Kimura, Tadahiro; Hirano, Teruyuki;
@@ -291,7 +291,7 @@ Leon, J. P.**), 2022, *[Validation and atmospheric exploration of the
 sub-Neptune TOI-2136b around a nearby M3
 dwarf](http://dx.doi.org/10.1051/0004-6361/202243381)*, Astronomy and
 Astrophysics, **666**
-([arXiv:2202.10182](http://arxiv.org/abs/2202.10182)) \[[9
+([arXiv:2202.10182](http://arxiv.org/abs/2202.10182)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2022A&A...666A...4K)\]
 
 Carmichael, Theron W.; Irwin, Jonathan M.; Murgas, Felipe; Pallé, Enric;
@@ -361,7 +361,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.5514G)\]
 2021, *[37 new validated planets in overlapping K2
 campaigns](http://dx.doi.org/10.1093/mnras/stab2305)*, Monthly Notices
 of the Royal Astronomical Society, **508**, 195
-([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[20
+([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..195D)\]
 
 Scarsdale, Nicholas; Murphy, Joseph M. Akana; Batalha, Natalie M.;
@@ -377,7 +377,7 @@ Hirano, Teruyuki; Livingston, John H.; Fukui, Akihiko; Narita, Norio;
 Ultra-Short-Period Super-Earths with Earth-like
 Compositions](http://dx.doi.org/10.3847/1538-3881/ac0fdc)*, The
 Astronomical Journal, **162**, 161
-([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[24
+([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[25
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..161H)\]
 
 Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
@@ -542,7 +542,7 @@ Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
 confirmation of K2-100b: a young, highly irradiated, and low-density
 transiting hot Neptune](http://dx.doi.org/10.1093/mnras/stz2569)*,
 Monthly Notices of the Royal Astronomical Society, **490**, 698
-([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[54
+([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[55
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..698B)\]
 
 Fukui, A.; Suzuki, D.; Koshimoto, N.; Bachelet, E.; *et al.* (incl. **de
@@ -574,7 +574,7 @@ Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
 a mini-Neptune in a triple-star
 system](http://dx.doi.org/10.1093/mnras/stz139)*, Monthly Notices of the
 Royal Astronomical Society, **484**, 3522
-([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[18
+([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3522H)\]
 
 Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
@@ -611,7 +611,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[98
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[99
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
