@@ -23,8 +23,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 66 refereed papers mainly about exoplanets with
-1,286 total citations, and an h-index of 23, as of 2024-06-03[^1].
+**Research:** Published 67 refereed papers mainly about exoplanets with
+1,287 total citations, and an h-index of 23, as of 2024-06-04[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 66 / first author: 3 / citations: 1,286 / h-index: 23 (as of
-2024-06-03)
+refereed: 67 / first author: 3 / citations: 1,287 / h-index: 23 (as of
+2024-06-04)
 
 <div class="list">
 
@@ -155,6 +155,12 @@ Temperate Earth-sized Planet at 12 pc Ideal for Atmospheric Transmission
 Spectroscopy](http://dx.doi.org/10.3847/2041-8213/ad3642)*, The
 Astrophysical Journal, **967**
 ([arXiv:2405.14708](http://arxiv.org/abs/2405.14708))
+
+Hori, Yasunori; Fukui, Akihiko; Hirano, Teruyuki; Narita, Norio;
+*et al.* (incl. **de Leon, J. P.**), 2024, *[The Discovery and Follow-up
+of Four Transiting Short-period Sub-Neptunes Orbiting M
+Dwarfs](http://dx.doi.org/10.3847/1538-3881/ad4115)*, The Astronomical
+Journal, **167**, 289
 
 Hord, Benjamin J.; Kempton, Eliza M. -R.; Evans-Soma, Thomas M.; Latham,
 David W.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Identification of
@@ -346,7 +352,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[27
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[28
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
