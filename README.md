@@ -23,8 +23,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 66 refereed papers mainly about exoplanets with
-1,280 total citations, and an h-index of 23, as of 2024-06-05[^1].
+**Research:** Published 67 refereed papers mainly about exoplanets with
+1,287 total citations, and an h-index of 23, as of 2024-06-06[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 66 / first author: 3 / citations: 1,280 / h-index: 23 (as of
-2024-06-05)
+refereed: 67 / first author: 3 / citations: 1,287 / h-index: 23 (as of
+2024-06-06)
 
 <div class="list">
 
@@ -184,7 +184,7 @@ Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
 Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
 Earth-sized exoplanet orbiting the nearby ultracool dwarf star
 SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
-Astronomy
+Astronomy ([arXiv:2406.00794](http://arxiv.org/abs/2406.00794))
 
 Murgas, F.; Pallé, E.; Orell-Miquel, J.; Carleo, I.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Wolf 327b: A new member of
@@ -259,7 +259,7 @@ evaporating atmosphere around the 650-Myr-old sub-Neptune HD 235088 b
 (TOI-1430 b) with
 CARMENES](http://dx.doi.org/10.1051/0004-6361/202346445)*, Astronomy and
 Astrophysics, **677**
-([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[11
+([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...677A..56O)\]
 
 Kagetani, Taiki; Narita, Norio; Kimura, Tadahiro; Hirano, Teruyuki;
@@ -292,6 +292,14 @@ orbiting the bright young star HD
 the Royal Astronomical Society, **518**, 2627
 ([arXiv:2210.07945](http://arxiv.org/abs/2210.07945)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.2627V)\]
+
+Kawauchi, K.; Murgas, F.; Palle, E.; Narita, N.; *et al.* (incl. **de
+Leon, J. P.**), 2022, *[Validation and atmospheric exploration of the
+sub-Neptune TOI-2136b around a nearby M3
+dwarf](http://dx.doi.org/10.1051/0004-6361/202243381)*, Astronomy and
+Astrophysics, **666**
+([arXiv:2202.10182](http://arxiv.org/abs/2202.10182)) \[[8
+citations](https://ui.adsabs.harvard.edu/abs/2022A&A...666A...4K)\]
 
 Carmichael, Theron W.; Irwin, Jonathan M.; Murgas, Felipe; Pallé, Enric;
 *et al.* (incl. **de Leon, J. P.**), 2022, *[TOI-2119: a transiting
