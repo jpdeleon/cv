@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 67 refereed papers mainly about exoplanets with
-1,289 total citations, and an h-index of 23, as of 2024-06-07[^1].
+1,290 total citations, and an h-index of 23, as of 2024-06-08[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 67 / first author: 3 / citations: 1,289 / h-index: 23 (as of
-2024-06-07)
+refereed: 67 / first author: 3 / citations: 1,290 / h-index: 23 (as of
+2024-06-08)
 
 <div class="list">
 
@@ -163,6 +163,12 @@ Dwarfs](http://dx.doi.org/10.3847/1538-3881/ad4115)*, The Astronomical
 Journal, **167**, 289
 ([arXiv:2405.12637](http://arxiv.org/abs/2405.12637))
 
+Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
+Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
+Earth-sized exoplanet orbiting the nearby ultracool dwarf star
+SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
+Astronomy ([arXiv:2406.00794](http://arxiv.org/abs/2406.00794))
+
 Hord, Benjamin J.; Kempton, Eliza M. -R.; Evans-Soma, Thomas M.; Latham,
 David W.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Identification of
 the Top TESS Objects of Interest for Atmospheric Characterization of
@@ -179,12 +185,6 @@ photometric variability and planetary
 transits](http://dx.doi.org/10.1093/mnras/stae841)*, Monthly Notices of
 the Royal Astronomical Society, **530**, 167
 ([arXiv:2403.13946](http://arxiv.org/abs/2403.13946))
-
-Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
-Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
-Earth-sized exoplanet orbiting the nearby ultracool dwarf star
-SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
-Astronomy ([arXiv:2406.00794](http://arxiv.org/abs/2406.00794))
 
 Murgas, F.; Pallé, E.; Orell-Miquel, J.; Carleo, I.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Wolf 327b: A new member of
@@ -225,7 +225,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[8
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Hartman, J. D.; Bakos, G. Á.; Csubry, Z.; Howard, A. W.;
