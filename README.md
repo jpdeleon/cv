@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 67 refereed papers mainly about exoplanets with
-1,298 total citations, and an h-index of 23, as of 2024-06-17[^1].
+1,300 total citations, and an h-index of 23, as of 2024-06-18[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 67 / first author: 3 / citations: 1,298 / h-index: 23 (as of
-2024-06-17)
+refereed: 67 / first author: 3 / citations: 1,300 / h-index: 23 (as of
+2024-06-18)
 
 <div class="list">
 
@@ -494,7 +494,7 @@ Nielsen, L. D.; Brahm, R.; Bouchy, F.; Espinoza, N.;
 from TESS. HIP 65Ab, TOI-157b, and
 TOI-169b](http://dx.doi.org/10.1051/0004-6361/202037941)*, Astronomy and
 Astrophysics, **639**
-([arXiv:2003.05932](http://arxiv.org/abs/2003.05932)) \[[20
+([arXiv:2003.05932](http://arxiv.org/abs/2003.05932)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...639A..76N)\]
 
 Šubjak, Ján; Sharma, Rishikesh; Carmichael, Theron W.; Johnson, Marshall
@@ -610,7 +610,7 @@ Livingston, John H.; Dai, Fei; Hirano, Teruyuki; Gandolfi, Davide;
 multiplanet system in the Praesepe open
 cluster](http://dx.doi.org/10.1093/mnras/sty3464)*, Monthly Notices of
 the Royal Astronomical Society, **484**, 8
-([arXiv:1809.01968](http://arxiv.org/abs/1809.01968)) \[[32
+([arXiv:1809.01968](http://arxiv.org/abs/1809.01968)) \[[33
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484....8L)\]
 
 Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
