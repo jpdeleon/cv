@@ -751,7 +751,10 @@ their successful pursuit of graduate studies in Japan.
 <div class="list">
 
 
-Japan Planetary Atmosphere Research Society workshop II, Atami, Mar 2023
+JWST Data Analysis Workshop, Chiang Mai, Thailand, Jun 24 - Jul 5 2024
+
+Japan Planetary Atmosphere Research Society workshop II, Atami, Japan,
+Mar 2023
 
 Japan Planetary Atmosphere Research Society workshop, Matsushima,
 Miyagi, Japan, Mar 2022
@@ -829,26 +832,27 @@ Baños, Philippines, Oct 20, 2011
 <div class="list">
 
 
-2022-2023: monthly remote observations with Subaru/IRD intensive program
-(PI: Norio Narita)
+2018-present: bi-monthly observations with MuSCAT2/TCS telescope, Teide
+Observatory, Tenerife, Spain (remote)
 
-2018-now: bi-monthly remote observations with MuSCAT2/TCS
+2022-2023: monthly remote observations with Subaru/IRD telescope
+intensive program (remote; PI: Norio Narita)
 
-2018-2020: MuSCAT2/TCS, Teide Observatory, Tenerife, Spain (on-site)
+2018-2020: MuSCAT2/TCS telescope, Teide Observatory, Tenerife, Spain
+(on-site)
 
-2018: SIRIUS/IRSF, Sutherland, South Africa (on-site, 2 weeks)
+2018: SIRIUS/IRSF telescope, Sutherland, South Africa (on-site, 2 weeks)
 
-2018: IRCS/Subaru Telescope, Mauna Kea observatory, Hawaii, USA
+2018: IRCS/Subaru telescope, Mauna Kea observatory, Hawaii, USA
 (on-site, 3 nights)
 
-2017: CHARIS/Subaru Telescope, Mauna Kea observatory, Hawaii, USA
+2017: CHARIS/Subaru telescope, Mauna Kea observatory, Hawaii, USA
 (on-site, 2 nights)
 
-2017: HDS/Gemini Telescope, Mauna Kea observatory, Hawaii, USA (on-site,
+2017: HDS/Gemini telescope, Mauna Kea observatory, Hawaii, USA (on-site,
 1 night)
 
-2017-2019: MuSCAT2/Okayama astronomical observatory, Japan (on-site, 20+
-nights)
+2017-2019: MuSCAT2/OAO telescope, Japan (on-site, 20+ nights)
 
 </div>
 
@@ -860,7 +864,7 @@ nights)
 Resource speaker for the Philippine Astronomy Week 2024 led by PAGASA,
 Feb 2024
 
-Featured Pinoy Scientists in [Jan
+Featured at Pinoy Scientists in [Jan
 2023](https://www.facebook.com/pinoyscientists/posts/pfbid0Lj83pJZaaU35tdSpz5UKgkAodhBqMzudUjCS7z4UV32zqiqmkQzT7LdtpGTsu7Cql)
 
 Resource speaker for Science Week at De La Salle Integrated School, Mar
@@ -875,7 +879,8 @@ Mar 2021
 Invited speaker at National Insitute of Physics, University of the
 Philippines Diliman (UPD), Jan 2020
 
-Astronomy Over Coffee at UPD Hotel, Sep 2019
+Astronomy Over Coffee (self-funded Astronomy event) at UP Diliman Hotel,
+Sep 2019
 
 Founding of Filipino Astronomy Community
 ([FAC](https://www.facebook.com/groups/filastrocomm); 2016)
@@ -897,6 +902,9 @@ referee)
 
 SPACETIDE Foundation ([spacetide.org](https://spacetide.jp/en/); Active
 intern, 2022-present)
+
+Science Integrated Direction for High School Investigators
+([SIDHI](https://www.sidhi.org/); mentor, 2022-present)
 
 Science and Technology Advisory Council- Japan chapter
 ([STAC-J](https://www.facebook.com/profile.php?id=100083271798519);
