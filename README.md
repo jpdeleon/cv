@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 67 refereed papers mainly about exoplanets with
-1,302 total citations, and an h-index of 23, as of 2024-06-22[^1].
+1,305 total citations, and an h-index of 23, as of 2024-06-23[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 67 / first author: 3 / citations: 1,302 / h-index: 23 (as of
-2024-06-22)
+refereed: 67 / first author: 3 / citations: 1,305 / h-index: 23 (as of
+2024-06-23)
 
 <div class="list">
 
@@ -225,7 +225,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[11
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Hartman, J. D.; Bakos, G. Á.; Csubry, Z.; Howard, A. W.;
@@ -234,7 +234,7 @@ Discovery of Two Transiting Giant Planets around M-dwarf Stars and
 Revised Parameters for Three
 Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
-([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[4
+([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
 
 Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
@@ -250,7 +250,7 @@ Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
 Orbiting a Metal-rich Early M Star Discovered in the TESS Full-frame
 Images](http://dx.doi.org/10.3847/1538-3881/acf56d)*, The Astronomical
 Journal, **166**, 165
-([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[5
+([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
 
 Orell-Miquel, J.; Lampón, M.; López-Puertas, M.; Mallorquı́n, M.;
