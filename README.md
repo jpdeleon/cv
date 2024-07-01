@@ -23,8 +23,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 67 refereed papers mainly about exoplanets with
-1,305 total citations, and an h-index of 23, as of 2024-06-30[^1].
+**Research:** Published 69 refereed papers mainly about exoplanets with
+1,309 total citations, and an h-index of 23, as of 2024-07-01[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,11 +143,23 @@ Leon et al.
 
 ## Publications
 
-refereed: 67 / first author: 3 / citations: 1,305 / h-index: 23 (as of
-2024-06-30)
+refereed: 69 / first author: 3 / citations: 1,309 / h-index: 23 (as of
+2024-07-01)
 
 <div class="list">
 
+
+Kang, H.; Chen, G.; Pallé, E.; Murgas, F.; *et al.* (incl. **de Leon, J.
+P.**), 2024, *[Correction to: Simultaneous multicolour transit
+photometry of hot Jupiters HAT-P-19b, HAT-P-51b, HAT-P-55b, and
+HAT-P-65b](http://dx.doi.org/10.1093/mnras/stae1429)*, Monthly Notices
+of the Royal Astronomical Society, **531**, 4929
+
+Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
+*et al.* (incl. **de Leon, J. P.**), 2024, *[Migration and Evolution of
+giant ExoPlanets (MEEP). I. Nine Newly Confirmed Hot Jupiters from the
+TESS Mission](http://dx.doi.org/10.3847/1538-3881/ad4a57)*, The
+Astronomical Journal, **168**, 32
 
 Kuzuhara, Masayuki; Fukui, Akihiko; Livingston, John H.; Caballero, José
 A.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Gliese 12 b: A
@@ -225,7 +237,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[12
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Hartman, J. D.; Bakos, G. Á.; Csubry, Z.; Howard, A. W.;
@@ -510,7 +522,7 @@ Hidalgo, D.; Pallé, E.; Alonso, R.; Gandolfi, D.; *et al.*, 2020,
 8.8-M\_$\oplus$\_ super-Earth and two warm 14.7 and 10.2-M\_$\oplus$\_
 sub-Neptunes](http://dx.doi.org/10.1051/0004-6361/201937080)*, Astronomy
 and Astrophysics, **636**
-([arXiv:2002.01755](http://arxiv.org/abs/2002.01755)) \[[16
+([arXiv:2002.01755](http://arxiv.org/abs/2002.01755)) \[[17
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...636A..89H)\]
 
 Lam, Kristine W. F.; Korth, Judith; Masuda, Kento; Csizmadia, Szilárd;
@@ -581,7 +593,7 @@ Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
 a mini-Neptune in a triple-star
 system](http://dx.doi.org/10.1093/mnras/stz139)*, Monthly Notices of the
 Royal Astronomical Society, **484**, 3522
-([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[19
+([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3522H)\]
 
 Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
