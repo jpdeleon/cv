@@ -32,7 +32,7 @@ aliases = ["Leon, J. P. D.", "Leon, Jerome de", "Pitogo de Leon, Jerome"]
 # exclude papers by namesake with asteroid in abstract
 search_query = 'aff:"University of Tokyo" database:astronomy -abs:asteroid -abs:comet'
 # search_query += "year:2014-2025"
-stop_words_in_title = ["author correction", "erratum", "Correction to: "]
+stop_words_in_title = ["author correction", "erratum", "correction to:"]
 
 def get_papers(author):
     # Perform an ADS search query to retrieve information about the author's papers
