@@ -23,7 +23,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 69 refereed papers mainly about exoplanets with
+**Research:** Published 68 refereed papers mainly about exoplanets with
 1,309 total citations, and an h-index of 23, as of 2024-07-04[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
@@ -143,7 +143,7 @@ Leon et al.
 
 ## Publications
 
-refereed: 69 / first author: 3 / citations: 1,309 / h-index: 23 (as of
+refereed: 68 / first author: 3 / citations: 1,309 / h-index: 23 (as of
 2024-07-04)
 
 <div class="list">
@@ -155,12 +155,6 @@ giant ExoPlanets (MEEP). I. Nine Newly Confirmed Hot Jupiters from the
 TESS Mission](http://dx.doi.org/10.3847/1538-3881/ad4a57)*, The
 Astronomical Journal, **168**, 32
 ([arXiv:2401.05923](http://arxiv.org/abs/2401.05923))
-
-Kang, H.; Chen, G.; Pallé, E.; Murgas, F.; *et al.* (incl. **de Leon, J.
-P.**), 2024, *[Correction to: Simultaneous multicolour transit
-photometry of hot Jupiters HAT-P-19b, HAT-P-51b, HAT-P-55b, and
-HAT-P-65b](http://dx.doi.org/10.1093/mnras/stae1429)*, Monthly Notices
-of the Royal Astronomical Society, **531**, 4929
 
 Kuzuhara, Masayuki; Fukui, Akihiko; Livingston, John H.; Caballero, José
 A.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Gliese 12 b: A
