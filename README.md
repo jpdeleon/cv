@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 68 refereed papers mainly about exoplanets with
-1,309 total citations, and an h-index of 23, as of 2024-07-05[^1].
+1,311 total citations, and an h-index of 23, as of 2024-07-06[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 68 / first author: 3 / citations: 1,309 / h-index: 23 (as of
-2024-07-05)
+refereed: 68 / first author: 3 / citations: 1,311 / h-index: 23 (as of
+2024-07-06)
 
 <div class="list">
 
@@ -219,7 +219,8 @@ P.**), 2024, *[Simultaneous multicolour transit photometry of hot
 Jupiters HAT-P-19b, HAT-P-51b, HAT-P-55b, and
 HAT-P-65b](http://dx.doi.org/10.1093/mnras/stae072)*, Monthly Notices of
 the Royal Astronomical Society, **528**, 1930
-([arXiv:2401.03715](http://arxiv.org/abs/2401.03715))
+([arXiv:2401.03715](http://arxiv.org/abs/2401.03715)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.1930K)\]
 
 Mallorquı́n, M.; Goffo, E.; Pallé, E.; Lodieu, N.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[TOI-1801 b: A temperate mini-Neptune around a
@@ -417,7 +418,7 @@ investigation](http://dx.doi.org/10.1126/science.abd7645)*, Science,
 ## 371
 
 , 1038 ([arXiv:2103.04950](http://arxiv.org/abs/2103.04950))
-\[[49
+\[[50
 citations](https://ui.adsabs.harvard.edu/abs/2021Sci...371.1038T)\]
 
 Parviainen, H.; Palle, E.; Zapatero-Osorio, M. R.; Nowak, G.;
