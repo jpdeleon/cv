@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 68 refereed papers mainly about exoplanets with
-1,312 total citations, and an h-index of 23, as of 2024-07-08[^1].
+1,313 total citations, and an h-index of 23, as of 2024-07-09[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 68 / first author: 3 / citations: 1,312 / h-index: 23 (as of
-2024-07-08)
+refereed: 68 / first author: 3 / citations: 1,313 / h-index: 23 (as of
+2024-07-09)
 
 <div class="list">
 
@@ -618,7 +618,7 @@ Livingston, John H.; Dai, Fei; Hirano, Teruyuki; Gandolfi, Davide;
 multiplanet system in the Praesepe open
 cluster](http://dx.doi.org/10.1093/mnras/sty3464)*, Monthly Notices of
 the Royal Astronomical Society, **484**, 8
-([arXiv:1809.01968](http://arxiv.org/abs/1809.01968)) \[[33
+([arXiv:1809.01968](http://arxiv.org/abs/1809.01968)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484....8L)\]
 
 Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
