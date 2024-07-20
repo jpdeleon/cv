@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 68 refereed papers mainly about exoplanets with
-1,327 total citations, and an h-index of 24, as of 2024-07-19[^1].
+1,329 total citations, and an h-index of 24, as of 2024-07-20[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 68 / first author: 3 / citations: 1,327 / h-index: 24 (as of
-2024-07-19)
+refereed: 68 / first author: 3 / citations: 1,329 / h-index: 24 (as of
+2024-07-20)
 
 <div class="list">
 
@@ -182,7 +182,7 @@ the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
 JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[6
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
@@ -634,7 +634,7 @@ Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
 Inner Gas Disk inside the Large Cavity of a Transitional
 Disk](http://dx.doi.org/10.3847/2041-8213/aae88b)*, The Astrophysical
 Journal, **868** ([arXiv:1810.06941](http://arxiv.org/abs/1810.06941))
-\[[32
+\[[33
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...868L...3M)\]
 
 Takami, Michihiro; Fu, Guangwei; Liu, Hauyu Baobab; Karr, Jennifer L.;
