@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 68 refereed papers mainly about exoplanets with
-1,330 total citations, and an h-index of 24, as of 2024-07-25[^1].
+1,332 total citations, and an h-index of 24, as of 2024-07-26[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 68 / first author: 3 / citations: 1,330 / h-index: 24 (as of
-2024-07-25)
+refereed: 68 / first author: 3 / citations: 1,332 / h-index: 24 (as of
+2024-07-26)
 
 <div class="list">
 
@@ -573,7 +573,7 @@ Sam; *et al.* (incl. **de Leon, J. P.**), 2019, *[Near-resonance in a
 System of Sub-Neptunes from
 TESS](http://dx.doi.org/10.3847/1538-3881/ab3f2b)*, The Astronomical
 Journal, **158**, 177
-([arXiv:1901.09092](http://arxiv.org/abs/1901.09092)) \[[43
+([arXiv:1901.09092](http://arxiv.org/abs/1901.09092)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..177Q)\]
 
 Persson, Carina M.; Csizmadia, Szilárd; Mustill, Alexander J.; Fridlund,
@@ -589,7 +589,7 @@ Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
 a mini-Neptune in a triple-star
 system](http://dx.doi.org/10.1093/mnras/stz139)*, Monthly Notices of the
 Royal Astronomical Society, **484**, 3522
-([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[20
+([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3522H)\]
 
 Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
