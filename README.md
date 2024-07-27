@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 68 refereed papers mainly about exoplanets with
-1,332 total citations, and an h-index of 24, as of 2024-07-26[^1].
+1,335 total citations, and an h-index of 24, as of 2024-07-27[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 68 / first author: 3 / citations: 1,332 / h-index: 24 (as of
-2024-07-26)
+refereed: 68 / first author: 3 / citations: 1,335 / h-index: 24 (as of
+2024-07-27)
 
 <div class="list">
 
@@ -226,7 +226,7 @@ Mallorquı́n, M.; Goffo, E.; Pallé, E.; Lodieu, N.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[TOI-1801 b: A temperate mini-Neptune around a
 young M0.5 dwarf](http://dx.doi.org/10.1051/0004-6361/202347346)*,
 Astronomy and Astrophysics, **680**
-([arXiv:2310.10244](http://arxiv.org/abs/2310.10244)) \[[5
+([arXiv:2310.10244](http://arxiv.org/abs/2310.10244)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...680A..76M)\]
 
 Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
@@ -298,7 +298,7 @@ Vines, Jose I.; Jenkins, James S.; Berdiñas, Zaira; Soto, Maritza G.;
 orbiting the bright young star HD
 18599](http://dx.doi.org/10.1093/mnras/stac2845)*, Monthly Notices of
 the Royal Astronomical Society, **518**, 2627
-([arXiv:2210.07945](http://arxiv.org/abs/2210.07945)) \[[4
+([arXiv:2210.07945](http://arxiv.org/abs/2210.07945)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.2627V)\]
 
 Kawauchi, K.; Murgas, F.; Palle, E.; Narita, N.; *et al.* (incl. **de
@@ -557,7 +557,7 @@ Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
 confirmation of K2-100b: a young, highly irradiated, and low-density
 transiting hot Neptune](http://dx.doi.org/10.1093/mnras/stz2569)*,
 Monthly Notices of the Royal Astronomical Society, **490**, 698
-([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[55
+([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[56
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..698B)\]
 
 Fukui, A.; Suzuki, D.; Koshimoto, N.; Bachelet, E.; *et al.* (incl. **de
