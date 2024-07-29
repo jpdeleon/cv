@@ -23,8 +23,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 68 refereed papers mainly about exoplanets with
-1,338 total citations, and an h-index of 24, as of 2024-07-28[^1].
+**Research:** Published 69 refereed papers mainly about exoplanets with
+1,344 total citations, and an h-index of 24, as of 2024-07-29[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 68 / first author: 3 / citations: 1,338 / h-index: 24 (as of
-2024-07-28)
+refereed: 69 / first author: 3 / citations: 1,344 / h-index: 24 (as of
+2024-07-29)
 
 <div class="list">
 
@@ -155,6 +155,13 @@ giant ExoPlanets (MEEP). I. Nine Newly Confirmed Hot Jupiters from the
 TESS Mission](http://dx.doi.org/10.3847/1538-3881/ad4a57)*, The
 Astronomical Journal, **168**, 32
 ([arXiv:2401.05923](http://arxiv.org/abs/2401.05923))
+
+Barkaoui, K.; Schwarz, R. P.; Narita, N.; Mistry, P.;
+*et al.* (incl. **de Leon, J. P.**), 2024, *[Three short-period
+Earth-sized planets around M dwarfs discovered by TESS: TOI-5720 b,
+TOI-6008 b, and TOI-6086
+b](http://dx.doi.org/10.1051/0004-6361/202349127)*, Astronomy and
+Astrophysics, **687**
 
 Kuzuhara, Masayuki; Fukui, Akihiko; Livingston, John H.; Caballero, José
 A.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Gliese 12 b: A
@@ -435,7 +442,7 @@ Leon, J. P.**), 2021, *[An enhanced slope in the transmission spectrum
 of the hot Jupiter
 WASP-104b](http://dx.doi.org/10.1093/mnras/staa3555)*, Monthly Notices
 of the Royal Astronomical Society, **500**, 5420
-([arXiv:2011.06329](http://arxiv.org/abs/2011.06329)) \[[17
+([arXiv:2011.06329](http://arxiv.org/abs/2011.06329)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5420C)\]
 
 Castro González, A.; Dı́ez Alonso, E.; Menéndez Blanco, J.; Livingston,
@@ -469,7 +476,7 @@ transiting, Earth-sized planet and a second temperate, non-transiting
 planet around the M4 dwarf GJ 3473
 (TOI-488)](http://dx.doi.org/10.1051/0004-6361/202038967)*, Astronomy
 and Astrophysics, **642**
-([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[34
+([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[35
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
 
 Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -478,7 +485,7 @@ dwarfs. Two planets on opposite sides of the radius gap transiting the
 nearby M dwarf LTT
 3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
 Astrophysics, **642**
-([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[64
+([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[65
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
 
 Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
@@ -534,7 +541,7 @@ P.; *et al.* (incl. **de Leon, J. P.**), 2020, *[MuSCAT2 multicolour
 validation of TESS candidates: an ultra-short-period substellar object
 around an M dwarf](http://dx.doi.org/10.1051/0004-6361/201935958)*,
 Astronomy and Astrophysics, **633**
-([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[33
+([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...633A..28P)\]
 
 Mayama, Satoshi; Pérez, Sebastián; Kusakabe, Nobuhiko; Muto, Takayuki;
@@ -626,7 +633,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[100
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[102
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
