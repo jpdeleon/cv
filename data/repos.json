@@ -51,24 +51,9 @@
           },
           {
             "node": {
-              "name": "cluster-gallery",
-              "description": "Check it out at https://jpdeleon.github.io/cluster-gallery/",
-              "url": "https://github.com/jpdeleon/cluster-gallery",
-              "homepageUrl": null,
-              "forkCount": 0,
-              "stargazers": {
-                "totalCount": 1
-              },
-              "watchers": {
-                "totalCount": 1
-              }
-            }
-          },
-          {
-            "node": {
-              "name": "epoch",
-              "description": "This code is used to over plot the position of target on archival (survey) images",
-              "url": "https://github.com/jpdeleon/epoch",
+              "name": "tfop_code",
+              "description": "code for analysing MuSCAT1/2/3/4 photometry data for TFOP",
+              "url": "https://github.com/jpdeleon/tfop_code",
               "homepageUrl": null,
               "forkCount": 0,
               "stargazers": {
@@ -81,9 +66,24 @@
           },
           {
             "node": {
-              "name": "tfop_code",
-              "description": "code for analysing MuSCAT1/2/3/4 photometry data for TFOP",
-              "url": "https://github.com/jpdeleon/tfop_code",
+              "name": "toi-viz",
+              "description": "TOI visualization plots",
+              "url": "https://github.com/jpdeleon/toi-viz",
+              "homepageUrl": null,
+              "forkCount": 0,
+              "stargazers": {
+                "totalCount": 0
+              },
+              "watchers": {
+                "totalCount": 1
+              }
+            }
+          },
+          {
+            "node": {
+              "name": "tql-gallery",
+              "description": "TQL outputs for TOI",
+              "url": "https://github.com/jpdeleon/tql-gallery",
               "homepageUrl": null,
               "forkCount": 0,
               "stargazers": {
