@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 69 refereed papers mainly about exoplanets with
-1,344 total citations, and an h-index of 24, as of 2024-07-31[^1].
+1,342 total citations, and an h-index of 24, as of 2024-08-01[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 69 / first author: 3 / citations: 1,344 / h-index: 24 (as of
-2024-07-31)
+refereed: 69 / first author: 3 / citations: 1,342 / h-index: 24 (as of
+2024-08-01)
 
 <div class="list">
 
@@ -443,7 +443,7 @@ Leon, J. P.**), 2021, *[An enhanced slope in the transmission spectrum
 of the hot Jupiter
 WASP-104b](http://dx.doi.org/10.1093/mnras/staa3555)*, Monthly Notices
 of the Royal Astronomical Society, **500**, 5420
-([arXiv:2011.06329](http://arxiv.org/abs/2011.06329)) \[[18
+([arXiv:2011.06329](http://arxiv.org/abs/2011.06329)) \[[17
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5420C)\]
 
 Castro González, A.; Dı́ez Alonso, E.; Menéndez Blanco, J.; Livingston,
@@ -477,7 +477,7 @@ transiting, Earth-sized planet and a second temperate, non-transiting
 planet around the M4 dwarf GJ 3473
 (TOI-488)](http://dx.doi.org/10.1051/0004-6361/202038967)*, Astronomy
 and Astrophysics, **642**
-([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[35
+([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
 
 Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -486,7 +486,7 @@ dwarfs. Two planets on opposite sides of the radius gap transiting the
 nearby M dwarf LTT
 3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
 Astrophysics, **642**
-([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[65
+([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[64
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
 
 Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
@@ -542,7 +542,7 @@ P.; *et al.* (incl. **de Leon, J. P.**), 2020, *[MuSCAT2 multicolour
 validation of TESS candidates: an ultra-short-period substellar object
 around an M dwarf](http://dx.doi.org/10.1051/0004-6361/201935958)*,
 Astronomy and Astrophysics, **633**
-([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[34
+([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[33
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...633A..28P)\]
 
 Mayama, Satoshi; Pérez, Sebastián; Kusakabe, Nobuhiko; Muto, Takayuki;
@@ -642,7 +642,7 @@ Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
 Inner Gas Disk inside the Large Cavity of a Transitional
 Disk](http://dx.doi.org/10.3847/2041-8213/aae88b)*, The Astrophysical
 Journal, **868** ([arXiv:1810.06941](http://arxiv.org/abs/1810.06941))
-\[[33
+\[[34
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...868L...3M)\]
 
 Takami, Michihiro; Fu, Guangwei; Liu, Hauyu Baobab; Karr, Jennifer L.;
@@ -651,7 +651,7 @@ High-resolution Imaging Polarimetry of FU Ori-type Objects: Toward a
 Unified Scheme for Low-mass Protostellar
 Evolution](http://dx.doi.org/10.3847/1538-4357/aad2e1)*, The
 Astrophysical Journal, **864**, 20
-([arXiv:1807.03499](http://arxiv.org/abs/1807.03499)) \[[42
+([arXiv:1807.03499](http://arxiv.org/abs/1807.03499)) \[[43
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...864...20T)\]
 
 Livingston, John H.; Endl, Michael; Dai, Fei; Cochran, William D.;
