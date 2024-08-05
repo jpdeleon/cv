@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 69 refereed papers mainly about exoplanets with
-1,349 total citations, and an h-index of 24, as of 2024-08-04[^1].
+1,350 total citations, and an h-index of 24, as of 2024-08-05[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 69 / first author: 3 / citations: 1,349 / h-index: 24 (as of
-2024-08-04)
+refereed: 69 / first author: 3 / citations: 1,350 / h-index: 24 (as of
+2024-08-05)
 
 <div class="list">
 
@@ -534,7 +534,7 @@ Lam, Kristine W. F.; Korth, Judith; Masuda, Kento; Csizmadia, Szilárd;
 Resonance to Tango around
 K2-146](http://dx.doi.org/10.3847/1538-3881/ab66c9)*, The Astronomical
 Journal, **159**, 120
-([arXiv:1907.11141](http://arxiv.org/abs/1907.11141)) \[[15
+([arXiv:1907.11141](http://arxiv.org/abs/1907.11141)) \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..120L)\]
 
 Parviainen, H.; Palle, E.; Zapatero-Osorio, M. R.; Montanes Rodriguez,
