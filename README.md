@@ -10,9 +10,9 @@ Licensed under [Creative Commons Attribution](http://creativecommons.org/license
 
 **Jerome Pitogo de Leon, Ph.D.**  
 Postdoctoral researcher at The University of Tokyo  
-<span class="sans-serif">6-3-11 Higashi Koiwa Edogawa-ku Tokyo
+<span class="sans-serif">6-3-11 Higashi Koiwa, Edogawa, Tokyo
 [`jpdeleon[at]g.ecc.u-tokyo.ac.jp`](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp)  
-<a href="+81 (0) 80 8712 7159" class="uri">+81 (0) 80 8712 7159</a>
+<a href="+81 (0) 70 8944 2936" class="uri">+81 (0) 70 8944 2936</a>
 [Google
 scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=list_works&sortby=pubdate)
 [`linkedin.com/in/jpdeleonbsap`](https://www.linkedin.com/in/jpdeleonbsap/)  
