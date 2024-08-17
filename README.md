@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 69 refereed papers mainly about exoplanets with
-1,355 total citations, and an h-index of 24, as of 2024-08-16[^1].
+1,357 total citations, and an h-index of 24, as of 2024-08-17[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 69 / first author: 3 / citations: 1,355 / h-index: 24 (as of
-2024-08-16)
+refereed: 69 / first author: 3 / citations: 1,357 / h-index: 24 (as of
+2024-08-17)
 
 <div class="list">
 
@@ -510,7 +510,7 @@ Nielsen, L. D.; Brahm, R.; Bouchy, F.; Espinoza, N.;
 from TESS. HIP 65Ab, TOI-157b, and
 TOI-169b](http://dx.doi.org/10.1051/0004-6361/202037941)*, Astronomy and
 Astrophysics, **639**
-([arXiv:2003.05932](http://arxiv.org/abs/2003.05932)) \[[23
+([arXiv:2003.05932](http://arxiv.org/abs/2003.05932)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...639A..76N)\]
 
 Šubjak, Ján; Sharma, Rishikesh; Carmichael, Theron W.; Johnson, Marshall
@@ -634,7 +634,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[103
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[104
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
