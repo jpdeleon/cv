@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 69 refereed papers mainly about exoplanets with
-1,364 total citations, and an h-index of 24, as of 2024-08-30[^1].
+1,368 total citations, and an h-index of 24, as of 2024-08-31[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 69 / first author: 3 / citations: 1,364 / h-index: 24 (as of
-2024-08-30)
+refereed: 69 / first author: 3 / citations: 1,368 / h-index: 24 (as of
+2024-08-31)
 
 <div class="list">
 
@@ -250,7 +250,7 @@ Discovery of Two Transiting Giant Planets around M-dwarf Stars and
 Revised Parameters for Three
 Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
-([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[7
+([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
 
 Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
@@ -283,7 +283,7 @@ Kagetani, Taiki; Narita, Norio; Kimura, Tadahiro; Hirano, Teruyuki;
 close-in giant planet transiting a metal-rich mid-M
 dwarf](http://dx.doi.org/10.1093/pasj/psad031)*, Publications of the
 Astronomical Society of Japan, **75**, 713
-([arXiv:2304.14703](http://arxiv.org/abs/2304.14703)) \[[11
+([arXiv:2304.14703](http://arxiv.org/abs/2304.14703)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2023PASJ...75..713K)\]
 
 **de Leon, J. P.**; Livingston, J. H.; Jenkins, J. S.; Vines, J. I.;
@@ -426,7 +426,7 @@ investigation](http://dx.doi.org/10.1126/science.abd7645)*, Science,
 ## 371
 
 , 1038 ([arXiv:2103.04950](http://arxiv.org/abs/2103.04950))
-\[[52
+\[[53
 citations](https://ui.adsabs.harvard.edu/abs/2021Sci...371.1038T)\]
 
 Parviainen, H.; Palle, E.; Zapatero-Osorio, M. R.; Nowak, G.;
@@ -435,7 +435,7 @@ substellar object around an M dwarf validated using multicolour
 photometry and phase curve
 analysis](http://dx.doi.org/10.1051/0004-6361/202038934)*, Astronomy and
 Astrophysics, **645**
-([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[19
+([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2021A&A...645A..16P)\]
 
 Chen, G.; Pallé, E.; Parviainen, H.; Wang, H.; *et al.* (incl. **de
