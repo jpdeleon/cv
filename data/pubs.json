@@ -1,5 +1,32 @@
 [
   {
+    "arxiv": null,
+    "authors": [
+      "Gaidos, E.",
+      "Parviainen, H.",
+      "Esparza-Borges, E.",
+      "Fukui, A.",
+      "Isogai, K.",
+      "Kawauchi, K.",
+      "de Leon, J.",
+      "Mori, M.",
+      "Murgas, F.",
+      "Narita, N.",
+      "Palle, E.",
+      "Watanabe, N."
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1051/0004-6361/202451332",
+    "page": null,
+    "pub": "Astronomy and Astrophysics",
+    "pubdate": "2024-08-00",
+    "title": "Climate change in hell: Long-term variation in transits of the evaporating planet K2-22b",
+    "url": "https://ui.adsabs.harvard.edu/abs/2024A&A...688L..34G",
+    "volume": "688",
+    "year": "2024"
+  },
+  {
     "arxiv": "2405.06350",
     "authors": [
       "Barkaoui, K.",

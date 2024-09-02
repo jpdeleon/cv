@@ -23,8 +23,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 69 refereed papers mainly about exoplanets with
-1,370 total citations, and an h-index of 24, as of 2024-09-01[^1].
+**Research:** Published 70 refereed papers mainly about exoplanets with
+1,370 total citations, and an h-index of 24, as of 2024-09-02[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,11 +143,17 @@ Leon et al.
 
 ## Publications
 
-refereed: 69 / first author: 3 / citations: 1,370 / h-index: 24 (as of
-2024-09-01)
+refereed: 70 / first author: 3 / citations: 1,370 / h-index: 24 (as of
+2024-09-02)
 
 <div class="list">
 
+
+Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
+*et al.* (incl. **de Leon, J. P.**), 2024, *[Climate change in hell:
+Long-term variation in transits of the evaporating planet
+K2-22b](http://dx.doi.org/10.1051/0004-6361/202451332)*, Astronomy and
+Astrophysics, **688**
 
 Barkaoui, K.; Schwarz, R. P.; Narita, N.; Mistry, P.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Three short-period
