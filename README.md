@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 70 refereed papers mainly about exoplanets with
-1,373 total citations, and an h-index of 24, as of 2024-09-05[^1].
+1,375 total citations, and an h-index of 24, as of 2024-09-06[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 70 / first author: 3 / citations: 1,373 / h-index: 24 (as of
-2024-09-05)
+refereed: 70 / first author: 3 / citations: 1,375 / h-index: 24 (as of
+2024-09-06)
 
 <div class="list">
 
@@ -501,7 +501,7 @@ Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
 atmospheric characterisation of the WASP-74 planetary
 system](http://dx.doi.org/10.1051/0004-6361/202038703)*, Astronomy and
 Astrophysics, **642**
-([arXiv:2007.11851](http://arxiv.org/abs/2007.11851)) \[[16
+([arXiv:2007.11851](http://arxiv.org/abs/2007.11851)) \[[17
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A..50L)\]
 
 Nowak, Grzegorz; Palle, Enric; Gandolfi, Davide; Deeg, Hans J.;
@@ -625,7 +625,7 @@ Esposito, M.; Armstrong, D. J.; Gandolfi, D.; Adibekyan, V.;
 *et al.* (incl. **de Leon, J. P.**), 2019, *[HD 219666 b: a hot-Neptune
 from TESS Sector 1](http://dx.doi.org/10.1051/0004-6361/201834853)*,
 Astronomy and Astrophysics, **623**
-([arXiv:1812.05881](http://arxiv.org/abs/1812.05881)) \[[31
+([arXiv:1812.05881](http://arxiv.org/abs/1812.05881)) \[[32
 citations](https://ui.adsabs.harvard.edu/abs/2019A&A...623A.165E)\]
 
 Livingston, John H.; Dai, Fei; Hirano, Teruyuki; Gandolfi, Davide;
