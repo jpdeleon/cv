@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 72 refereed papers mainly about exoplanets with
-1,395 total citations, and an h-index of 24, as of 2024-09-17[^1].
+1,395 total citations, and an h-index of 24, as of 2024-09-18[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -144,16 +144,10 @@ Leon et al.
 ## Publications
 
 refereed: 72 / first author: 3 / citations: 1,395 / h-index: 24 (as of
-2024-09-17)
+2024-09-18)
 
 <div class="list">
 
-
-Hayashi, Yuya; Narita, Norio; Fukui, Akihiko; Changeat, Quentin;
-*et al.* (incl. **de Leon, J. P.**), 2024, *[Low abundances of TiO and
-VO on the dayside of KELT-9 b: Insights from ground-based photometric
-observations](http://dx.doi.org/10.1093/pasj/psae075)*, Publications of
-the Astronomical Society of Japan
 
 Orell-Miquel, J.; Murgas, F.; Pallé, E.; Mallorquı́n, M.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[The MOPYS project: A survey
@@ -161,6 +155,14 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732))
+
+Hayashi, Yuya; Narita, Norio; Fukui, Akihiko; Changeat, Quentin;
+*et al.* (incl. **de Leon, J. P.**), 2024, *[Low abundances of TiO and
+VO on the dayside of KELT-9 b: Insights from ground-based photometric
+observations](http://dx.doi.org/10.1093/pasj/psae075)*, Publications of
+the Astronomical Society of Japan
+([arXiv:2408.15698](http://arxiv.org/abs/2408.15698))
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Climate change in hell:
