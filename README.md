@@ -51,7 +51,7 @@ Title: Discovery and Characterization of Transiting Exoplanets with
 Diverse Radii and Ages ([online
 version](https://repository.dl.itc.u-tokyo.ac.jp/record/2006678/files/A37944.pdf)).
 Advisor: [Prof. Motohide
-Tamura](https://www.u-tokyo.ac.jp/focus/en/people/people003289.htm)
+Tamura](https://www.s.u-tokyo.ac.jp/en/people/tamura_motohide/)
 
 **MSc, 2018** Department of Astronomy, The University of Tokyo, Japan.  
 Title: Multi-color Simultaneous Transit Observations of Low Density Hot
