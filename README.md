@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 72 refereed papers mainly about exoplanets with
-1,403 total citations, and an h-index of 24, as of 2024-09-20[^1].
+1,409 total citations, and an h-index of 24, as of 2024-09-21[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 72 / first author: 3 / citations: 1,403 / h-index: 24 (as of
-2024-09-20)
+refereed: 72 / first author: 3 / citations: 1,409 / h-index: 24 (as of
+2024-09-21)
 
 <div class="list">
 
@@ -213,7 +213,7 @@ the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
 JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[7
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
@@ -386,7 +386,7 @@ J.; *et al.* (incl. **de Leon, J. P.**), 2022, *[The K2-OjOS Project:
 New and revisited planets and candidates in K2 campaigns 5, 16, &
 18](http://dx.doi.org/10.1093/mnras/stab2669)*, Monthly Notices of the
 Royal Astronomical Society, **509**, 1075
-([arXiv:2109.03346](http://arxiv.org/abs/2109.03346)) \[[11
+([arXiv:2109.03346](http://arxiv.org/abs/2109.03346)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.1075C)\]
 
 Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
@@ -440,7 +440,7 @@ Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
 I. Survey Description and Midsurvey
 Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
 Journal Supplement Series, **256**, 33
-([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[31
+([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[32
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
 
 Trifonov, T.; Caballero, J. A.; Morales, J. C.; Seifahrt, A.;
@@ -550,7 +550,7 @@ Hidalgo, D.; Pallé, E.; Alonso, R.; Gandolfi, D.; *et al.*, 2020,
 8.8-M\_$\oplus$\_ super-Earth and two warm 14.7 and 10.2-M\_$\oplus$\_
 sub-Neptunes](http://dx.doi.org/10.1051/0004-6361/201937080)*, Astronomy
 and Astrophysics, **636**
-([arXiv:2002.01755](http://arxiv.org/abs/2002.01755)) \[[17
+([arXiv:2002.01755](http://arxiv.org/abs/2002.01755)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...636A..89H)\]
 
 Lam, Kristine W. F.; Korth, Judith; Masuda, Kento; Csizmadia, Szilárd;
@@ -675,14 +675,14 @@ High-resolution Imaging Polarimetry of FU Ori-type Objects: Toward a
 Unified Scheme for Low-mass Protostellar
 Evolution](http://dx.doi.org/10.3847/1538-4357/aad2e1)*, The
 Astrophysical Journal, **864**, 20
-([arXiv:1807.03499](http://arxiv.org/abs/1807.03499)) \[[43
+([arXiv:1807.03499](http://arxiv.org/abs/1807.03499)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...864...20T)\]
 
 Livingston, John H.; Endl, Michael; Dai, Fei; Cochran, William D.;
 *et al.* (incl. **de Leon, J. P.**), 2018, *[44 Validated Planets from
 K2 Campaign 10](http://dx.doi.org/10.3847/1538-3881/aaccde)*, The
 Astronomical Journal, **156**, 78
-([arXiv:1806.11504](http://arxiv.org/abs/1806.11504)) \[[54
+([arXiv:1806.11504](http://arxiv.org/abs/1806.11504)) \[[55
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...78L)\]
 
 Uyama, Taichi; Hashimoto, Jun; Muto, Takayuki; Akiyama, Eiji;
