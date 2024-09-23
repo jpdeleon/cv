@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 72 refereed papers mainly about exoplanets with
-1,407 total citations, and an h-index of 24, as of 2024-09-22[^1].
+1,406 total citations, and an h-index of 24, as of 2024-09-23[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 72 / first author: 3 / citations: 1,407 / h-index: 24 (as of
-2024-09-22)
+refereed: 72 / first author: 3 / citations: 1,406 / h-index: 24 (as of
+2024-09-23)
 
 <div class="list">
 
@@ -180,6 +180,12 @@ b](http://dx.doi.org/10.1051/0004-6361/202349127)*, Astronomy and
 Astrophysics, **687**
 ([arXiv:2405.06350](http://arxiv.org/abs/2405.06350))
 
+Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
+Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
+Earth-sized exoplanet orbiting the nearby ultracool dwarf star
+SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
+Astronomy, **8**, 865
+
 Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Migration and Evolution of
 giant ExoPlanets (MEEP). I. Nine Newly Confirmed Hot Jupiters from the
@@ -200,12 +206,6 @@ of Four Transiting Short-period Sub-Neptunes Orbiting M
 Dwarfs](http://dx.doi.org/10.3847/1538-3881/ad4115)*, The Astronomical
 Journal, **167**, 289
 ([arXiv:2405.12637](http://arxiv.org/abs/2405.12637))
-
-Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
-Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
-Earth-sized exoplanet orbiting the nearby ultracool dwarf star
-SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
-Astronomy ([arXiv:2406.00794](http://arxiv.org/abs/2406.00794))
 
 Hord, Benjamin J.; Kempton, Eliza M. -R.; Evans-Soma, Thomas M.; Latham,
 David W.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Identification of
@@ -658,7 +658,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[106
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[105
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
