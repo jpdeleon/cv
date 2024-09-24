@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 72 refereed papers mainly about exoplanets with
-1,406 total citations, and an h-index of 24, as of 2024-09-23[^1].
+1,406 total citations, and an h-index of 24, as of 2024-09-24[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -144,7 +144,7 @@ Leon et al.
 ## Publications
 
 refereed: 72 / first author: 3 / citations: 1,406 / h-index: 24 (as of
-2024-09-23)
+2024-09-24)
 
 <div class="list">
 
@@ -172,6 +172,12 @@ K2-22b](http://dx.doi.org/10.1051/0004-6361/202451332)*, Astronomy and
 Astrophysics, **688**
 ([arXiv:2407.17372](http://arxiv.org/abs/2407.17372))
 
+Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
+Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
+Earth-sized exoplanet orbiting the nearby ultracool dwarf star
+SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
+Astronomy, **8**, 865
+
 Barkaoui, K.; Schwarz, R. P.; Narita, N.; Mistry, P.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Three short-period
 Earth-sized planets around M dwarfs discovered by TESS: TOI-5720 b,
@@ -179,12 +185,6 @@ TOI-6008 b, and TOI-6086
 b](http://dx.doi.org/10.1051/0004-6361/202349127)*, Astronomy and
 Astrophysics, **687**
 ([arXiv:2405.06350](http://arxiv.org/abs/2405.06350))
-
-Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
-Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
-Earth-sized exoplanet orbiting the nearby ultracool dwarf star
-SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
-Astronomy, **8**, 865
 
 Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Migration and Evolution of
