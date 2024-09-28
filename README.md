@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 72 refereed papers mainly about exoplanets with
-1,403 total citations, and an h-index of 24, as of 2024-09-27[^1].
+1,408 total citations, and an h-index of 24, as of 2024-09-28[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 72 / first author: 3 / citations: 1,403 / h-index: 24 (as of
-2024-09-27)
+refereed: 72 / first author: 3 / citations: 1,408 / h-index: 24 (as of
+2024-09-28)
 
 <div class="list">
 
@@ -172,12 +172,13 @@ K2-22b](http://dx.doi.org/10.1051/0004-6361/202451332)*, Astronomy and
 Astrophysics, **688**
 ([arXiv:2407.17372](http://arxiv.org/abs/2407.17372))
 
-Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
-*et al.* (incl. **de Leon, J. P.**), 2024, *[Migration and Evolution of
-giant ExoPlanets (MEEP). I. Nine Newly Confirmed Hot Jupiters from the
-TESS Mission](http://dx.doi.org/10.3847/1538-3881/ad4a57)*, The
-Astronomical Journal, **168**, 32
-([arXiv:2401.05923](http://arxiv.org/abs/2401.05923))
+Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
+Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
+Earth-sized exoplanet orbiting the nearby ultracool dwarf star
+SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
+Astronomy, **8**, 865
+([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..865G)\]
 
 Barkaoui, K.; Schwarz, R. P.; Narita, N.; Mistry, P.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Three short-period
@@ -186,6 +187,13 @@ TOI-6008 b, and TOI-6086
 b](http://dx.doi.org/10.1051/0004-6361/202349127)*, Astronomy and
 Astrophysics, **687**
 ([arXiv:2405.06350](http://arxiv.org/abs/2405.06350))
+
+Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
+*et al.* (incl. **de Leon, J. P.**), 2024, *[Migration and Evolution of
+giant ExoPlanets (MEEP). I. Nine Newly Confirmed Hot Jupiters from the
+TESS Mission](http://dx.doi.org/10.3847/1538-3881/ad4a57)*, The
+Astronomical Journal, **168**, 32
+([arXiv:2401.05923](http://arxiv.org/abs/2401.05923))
 
 Kuzuhara, Masayuki; Fukui, Akihiko; Livingston, John H.; Caballero, José
 A.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Gliese 12 b: A
@@ -201,19 +209,13 @@ Dwarfs](http://dx.doi.org/10.3847/1538-3881/ad4115)*, The Astronomical
 Journal, **167**, 289
 ([arXiv:2405.12637](http://arxiv.org/abs/2405.12637))
 
-Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
-Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
-Earth-sized exoplanet orbiting the nearby ultracool dwarf star
-SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
-Astronomy ([arXiv:2406.00794](http://arxiv.org/abs/2406.00794))
-
 Hord, Benjamin J.; Kempton, Eliza M. -R.; Evans-Soma, Thomas M.; Latham,
 David W.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Identification of
 the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
 JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[7
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
@@ -268,22 +270,6 @@ the bright star HD
 932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
-Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
-*et al.* (incl. **de Leon, J. P.**), 2023, *[A Massive Hot Jupiter
-Orbiting a Metal-rich Early M Star Discovered in the TESS Full-frame
-Images](http://dx.doi.org/10.3847/1538-3881/acf56d)*, The Astronomical
-Journal, **166**, 165
-([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[9
-citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
-
-Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
-Leon, J. P.**), 2023, *[GJ 806 (TOI-4481): A bright nearby
-multi-planetary system with a transiting hot low-density
-super-Earth](http://dx.doi.org/10.1051/0004-6361/202244261)*, Astronomy
-and Astrophysics, **678**
-([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[9
-citations](https://ui.adsabs.harvard.edu/abs/2023A&A...678A..80P)\]
-
 Hartman, J. D.; Bakos, G. Á.; Csubry, Z.; Howard, A. W.;
 *et al.* (incl. **de Leon, J. P.**), 2023, *[TOI 4201 b and TOI 5344 b:
 Discovery of Two Transiting Giant Planets around M-dwarf Stars and
@@ -292,6 +278,22 @@ Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
 ([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
+
+Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
+Leon, J. P.**), 2023, *[GJ 806 (TOI-4481): A bright nearby
+multi-planetary system with a transiting hot low-density
+super-Earth](http://dx.doi.org/10.1051/0004-6361/202244261)*, Astronomy
+and Astrophysics, **678**
+([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[8
+citations](https://ui.adsabs.harvard.edu/abs/2023A&A...678A..80P)\]
+
+Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
+*et al.* (incl. **de Leon, J. P.**), 2023, *[A Massive Hot Jupiter
+Orbiting a Metal-rich Early M Star Discovered in the TESS Full-frame
+Images](http://dx.doi.org/10.3847/1538-3881/acf56d)*, The Astronomical
+Journal, **166**, 165
+([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[9
+citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
 
 Orell-Miquel, J.; Lampón, M.; López-Puertas, M.; Mallorquı́n, M.;
 *et al.* (incl. **de Leon, J. P.**), 2023, *[Confirmation of an He I
@@ -338,7 +340,7 @@ Leon, J. P.**), 2022, *[Validation and atmospheric exploration of the
 sub-Neptune TOI-2136b around a nearby M3
 dwarf](http://dx.doi.org/10.1051/0004-6361/202243381)*, Astronomy and
 Astrophysics, **666**
-([arXiv:2202.10182](http://arxiv.org/abs/2202.10182)) \[[8
+([arXiv:2202.10182](http://arxiv.org/abs/2202.10182)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2022A&A...666A...4K)\]
 
 Carmichael, Theron W.; Irwin, Jonathan M.; Murgas, Felipe; Pallé, Enric;
@@ -386,7 +388,7 @@ J.; *et al.* (incl. **de Leon, J. P.**), 2022, *[The K2-OjOS Project:
 New and revisited planets and candidates in K2 campaigns 5, 16, &
 18](http://dx.doi.org/10.1093/mnras/stab2669)*, Monthly Notices of the
 Royal Astronomical Society, **509**, 1075
-([arXiv:2109.03346](http://arxiv.org/abs/2109.03346)) \[[11
+([arXiv:2109.03346](http://arxiv.org/abs/2109.03346)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.1075C)\]
 
 Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
@@ -424,16 +426,8 @@ Hirano, Teruyuki; Livingston, John H.; Fukui, Akihiko; Narita, Norio;
 Ultra-Short-Period Super-Earths with Earth-like
 Compositions](http://dx.doi.org/10.3847/1538-3881/ac0fdc)*, The
 Astronomical Journal, **162**, 161
-([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[27
+([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..161H)\]
-
-Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
-*et al.* (incl. **de Leon, J. P.**), 2021, *[The Magellan-TESS Survey.
-I. Survey Description and Midsurvey
-Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
-Journal Supplement Series, **256**, 33
-([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[31
-citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
 
 Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-1749: an M dwarf with a
@@ -442,6 +436,14 @@ Pair](http://dx.doi.org/10.3847/1538-3881/ac13a5)*, The Astronomical
 Journal, **162**, 167
 ([arXiv:2107.05430](http://arxiv.org/abs/2107.05430)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..167F)\]
+
+Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
+*et al.* (incl. **de Leon, J. P.**), 2021, *[The Magellan-TESS Survey.
+I. Survey Description and Midsurvey
+Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
+Journal Supplement Series, **256**, 33
+([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[32
+citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
 
 Trifonov, T.; Caballero, J. A.; Morales, J. C.; Seifahrt, A.;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[A nearby transiting rocky
@@ -495,15 +497,6 @@ Journal, **160**, 239
 ([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[48
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
 
-Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
-Leon, J. P.**), 2020, *[The CARMENES search for exoplanets around M
-dwarfs. Two planets on opposite sides of the radius gap transiting the
-nearby M dwarf LTT
-3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
-Astrophysics, **642**
-([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[64
-citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
-
 Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
 *et al.* (incl. **de Leon, J. P.**), 2020, *[Discovery of a hot,
 transiting, Earth-sized planet and a second temperate, non-transiting
@@ -512,6 +505,15 @@ planet around the M4 dwarf GJ 3473
 and Astrophysics, **642**
 ([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
+
+Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
+Leon, J. P.**), 2020, *[The CARMENES search for exoplanets around M
+dwarfs. Two planets on opposite sides of the radius gap transiting the
+nearby M dwarf LTT
+3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
+Astrophysics, **642**
+([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[64
+citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
 
 Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
 *et al.* (incl. **de Leon, J. P.**), 2020, *[Obliquity measurement and
@@ -550,7 +552,7 @@ Hidalgo, D.; Pallé, E.; Alonso, R.; Gandolfi, D.; *et al.*, 2020,
 8.8-M\_$\oplus$\_ super-Earth and two warm 14.7 and 10.2-M\_$\oplus$\_
 sub-Neptunes](http://dx.doi.org/10.1051/0004-6361/201937080)*, Astronomy
 and Astrophysics, **636**
-([arXiv:2002.01755](http://arxiv.org/abs/2002.01755)) \[[17
+([arXiv:2002.01755](http://arxiv.org/abs/2002.01755)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...636A..89H)\]
 
 Lam, Kristine W. F.; Korth, Judith; Masuda, Kento; Csizmadia, Szilárd;
@@ -581,8 +583,16 @@ Jenkins, James S.; Dı́az, Matı́as R.; Kurtovic, Nicolás T.; Espinoza,
 Néstor; *et al.* (incl. **de Leon, J. P.**), 2020, *[An ultrahot Neptune
 in the Neptune desert](http://dx.doi.org/10.1038/s41550-020-1142-z)*,
 Nature Astronomy, **4**, 1148
-([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[54
+([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[53
 citations](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J)\]
+
+Fukui, A.; Suzuki, D.; Koshimoto, N.; Bachelet, E.; *et al.* (incl. **de
+Leon, J. P.**), 2019, *[Kojima-1Lb Is a Mildly Cold Neptune around the
+Brightest Microlensing Host
+Star](http://dx.doi.org/10.3847/1538-3881/ab487f)*, The Astronomical
+Journal, **158**, 206
+([arXiv:1909.11802](http://arxiv.org/abs/1909.11802)) \[[28
+citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..206F)\]
 
 Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
 *et al.* (incl. **de Leon, J. P.**), 2019, *[Radial velocity
@@ -591,14 +601,6 @@ transiting hot Neptune](http://dx.doi.org/10.1093/mnras/stz2569)*,
 Monthly Notices of the Royal Astronomical Society, **490**, 698
 ([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[57
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..698B)\]
-
-Fukui, A.; Suzuki, D.; Koshimoto, N.; Bachelet, E.; *et al.* (incl. **de
-Leon, J. P.**), 2019, *[Kojima-1Lb Is a Mildly Cold Neptune around the
-Brightest Microlensing Host
-Star](http://dx.doi.org/10.3847/1538-3881/ab487f)*, The Astronomical
-Journal, **158**, 206
-([arXiv:1909.11802](http://arxiv.org/abs/1909.11802)) \[[27
-citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..206F)\]
 
 Quinn, Samuel N.; Becker, Juliette C.; Rodriguez, Joseph E.; Hadden,
 Sam; *et al.* (incl. **de Leon, J. P.**), 2019, *[Near-resonance in a
@@ -658,7 +660,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[106
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[105
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
@@ -675,14 +677,14 @@ High-resolution Imaging Polarimetry of FU Ori-type Objects: Toward a
 Unified Scheme for Low-mass Protostellar
 Evolution](http://dx.doi.org/10.3847/1538-4357/aad2e1)*, The
 Astrophysical Journal, **864**, 20
-([arXiv:1807.03499](http://arxiv.org/abs/1807.03499)) \[[43
+([arXiv:1807.03499](http://arxiv.org/abs/1807.03499)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...864...20T)\]
 
 Livingston, John H.; Endl, Michael; Dai, Fei; Cochran, William D.;
 *et al.* (incl. **de Leon, J. P.**), 2018, *[44 Validated Planets from
 K2 Campaign 10](http://dx.doi.org/10.3847/1538-3881/aaccde)*, The
 Astronomical Journal, **156**, 78
-([arXiv:1806.11504](http://arxiv.org/abs/1806.11504)) \[[54
+([arXiv:1806.11504](http://arxiv.org/abs/1806.11504)) \[[55
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...78L)\]
 
 Uyama, Taichi; Hashimoto, Jun; Muto, Takayuki; Akiyama, Eiji;
