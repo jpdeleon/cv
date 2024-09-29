@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 72 refereed papers mainly about exoplanets with
-1,408 total citations, and an h-index of 24, as of 2024-09-28[^1].
+1,415 total citations, and an h-index of 24, as of 2024-09-29[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 72 / first author: 3 / citations: 1,408 / h-index: 24 (as of
-2024-09-28)
+refereed: 72 / first author: 3 / citations: 1,415 / h-index: 24 (as of
+2024-09-29)
 
 <div class="list">
 
@@ -215,7 +215,7 @@ the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
 JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[9
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
@@ -477,7 +477,7 @@ John H.; *et al.* (incl. **de Leon, J. P.**), 2020, *[Planetary
 candidates transiting cool dwarf stars from campaigns 12 to 15 of
 K2](http://dx.doi.org/10.1093/mnras/staa2353)*, Monthly Notices of the
 Royal Astronomical Society, **499**, 5416
-([arXiv:2007.12744](http://arxiv.org/abs/2007.12744)) \[[12
+([arXiv:2007.12744](http://arxiv.org/abs/2007.12744)) \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5416C)\]
 
 Narita, Norio; Fukui, Akihiko; Yamamuro, Tomoyasu; Harbeck, Daniel;
@@ -494,7 +494,7 @@ Leon, J. P.**), 2020, *[Cluster Difference Imaging Photometric Survey.
 II. TOI 837: A Young Validated Planet in IC
 2602](http://dx.doi.org/10.3847/1538-3881/abb9ab)*, The Astronomical
 Journal, **160**, 239
-([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[48
+([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[50
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
 
 Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
@@ -615,7 +615,7 @@ Malcolm; *et al.* (incl. **de Leon, J. P.**), 2019, *[Greening of the
 brown-dwarf desert. EPIC 212036875b: a 51 M\_J\_ object in a 5-day orbit
 around an F7 V star](http://dx.doi.org/10.1051/0004-6361/201935505)*,
 Astronomy and Astrophysics, **628**
-([arXiv:1906.05048](http://arxiv.org/abs/1906.05048)) \[[23
+([arXiv:1906.05048](http://arxiv.org/abs/1906.05048)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2019A&A...628A..64P)\]
 
 Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
@@ -684,7 +684,7 @@ Livingston, John H.; Endl, Michael; Dai, Fei; Cochran, William D.;
 *et al.* (incl. **de Leon, J. P.**), 2018, *[44 Validated Planets from
 K2 Campaign 10](http://dx.doi.org/10.3847/1538-3881/aaccde)*, The
 Astronomical Journal, **156**, 78
-([arXiv:1806.11504](http://arxiv.org/abs/1806.11504)) \[[55
+([arXiv:1806.11504](http://arxiv.org/abs/1806.11504)) \[[56
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...78L)\]
 
 Uyama, Taichi; Hashimoto, Jun; Muto, Takayuki; Akiyama, Eiji;
@@ -692,7 +692,7 @@ Uyama, Taichi; Hashimoto, Jun; Muto, Takayuki; Akiyama, Eiji;
 Imaging of LKHa 330: Multi-band Detection of the Gap and Spiral-like
 Structures](http://dx.doi.org/10.3847/1538-3881/aacbd1)*, The
 Astronomical Journal, **156**, 63
-([arXiv:1804.05934](http://arxiv.org/abs/1804.05934)) \[[25
+([arXiv:1804.05934](http://arxiv.org/abs/1804.05934)) \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...63U)\]
 
 Murakami, Kenichi; Hayakawa, Tomohiko; **de Leon, J. P.**; & Ishikawa,
