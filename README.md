@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 72 refereed papers mainly about exoplanets with
-1,415 total citations, and an h-index of 24, as of 2024-10-02[^1].
+1,421 total citations, and an h-index of 24, as of 2024-10-03[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 72 / first author: 3 / citations: 1,415 / h-index: 24 (as of
-2024-10-02)
+refereed: 72 / first author: 3 / citations: 1,421 / h-index: 24 (as of
+2024-10-03)
 
 <div class="list">
 
@@ -215,7 +215,7 @@ the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
 JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[10
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
@@ -231,7 +231,7 @@ Murgas, F.; Pallé, E.; Orell-Miquel, J.; Carleo, I.;
 the pack of ultra-short-period super-Earths around M
 dwarfs](http://dx.doi.org/10.1051/0004-6361/202348813)*, Astronomy and
 Astrophysics, **684**
-([arXiv:2401.12150](http://arxiv.org/abs/2401.12150)) \[[2
+([arXiv:2401.12150](http://arxiv.org/abs/2401.12150)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...684A..83M)\]
 
 Serrano Bell, J.; Dı́az, R. F.; Hébrard, G.; Martioli, E.;
@@ -388,7 +388,7 @@ J.; *et al.* (incl. **de Leon, J. P.**), 2022, *[The K2-OjOS Project:
 New and revisited planets and candidates in K2 campaigns 5, 16, &
 18](http://dx.doi.org/10.1093/mnras/stab2669)*, Monthly Notices of the
 Royal Astronomical Society, **509**, 1075
-([arXiv:2109.03346](http://arxiv.org/abs/2109.03346)) \[[12
+([arXiv:2109.03346](http://arxiv.org/abs/2109.03346)) \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.1075C)\]
 
 Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
@@ -410,7 +410,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.5514G)\]
 2021, *[37 new validated planets in overlapping K2
 campaigns](http://dx.doi.org/10.1093/mnras/stab2305)*, Monthly Notices
 of the Royal Astronomical Society, **508**, 195
-([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[21
+([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[22
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..195D)\]
 
 Scarsdale, Nicholas; Murphy, Joseph M. Akana; Batalha, Natalie M.;
@@ -477,7 +477,7 @@ John H.; *et al.* (incl. **de Leon, J. P.**), 2020, *[Planetary
 candidates transiting cool dwarf stars from campaigns 12 to 15 of
 K2](http://dx.doi.org/10.1093/mnras/staa2353)*, Monthly Notices of the
 Royal Astronomical Society, **499**, 5416
-([arXiv:2007.12744](http://arxiv.org/abs/2007.12744)) \[[13
+([arXiv:2007.12744](http://arxiv.org/abs/2007.12744)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5416C)\]
 
 Narita, Norio; Fukui, Akihiko; Yamamuro, Tomoyasu; Harbeck, Daniel;
