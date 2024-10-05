@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 72 refereed papers mainly about exoplanets with
-1,421 total citations, and an h-index of 24, as of 2024-10-04[^1].
+1,424 total citations, and an h-index of 24, as of 2024-10-05[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 72 / first author: 3 / citations: 1,421 / h-index: 24 (as of
-2024-10-04)
+refereed: 72 / first author: 3 / citations: 1,424 / h-index: 24 (as of
+2024-10-05)
 
 <div class="list">
 
@@ -215,7 +215,7 @@ the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
 JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[11
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
@@ -246,7 +246,8 @@ Parviainen, H.; Murgas, F.; Esparza-Borges, E.; Peláez-Torres, A.;
 super-Earth at the edge of the M dwarf radius
 valley](http://dx.doi.org/10.1051/0004-6361/202347431)*, Astronomy and
 Astrophysics, **683**
-([arXiv:2401.11879](http://arxiv.org/abs/2401.11879))
+([arXiv:2401.11879](http://arxiv.org/abs/2401.11879)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2024A&A...683A.170P)\]
 
 Kang, H.; Chen, G.; Pallé, E.; Murgas, F.; *et al.* (incl. **de Leon, J.
 P.**), 2024, *[Simultaneous multicolour transit photometry of hot
@@ -586,6 +587,14 @@ Nature Astronomy, **4**, 1148
 ([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[53
 citations](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J)\]
 
+Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
+*et al.* (incl. **de Leon, J. P.**), 2019, *[Radial velocity
+confirmation of K2-100b: a young, highly irradiated, and low-density
+transiting hot Neptune](http://dx.doi.org/10.1093/mnras/stz2569)*,
+Monthly Notices of the Royal Astronomical Society, **490**, 698
+([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[58
+citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..698B)\]
+
 Fukui, A.; Suzuki, D.; Koshimoto, N.; Bachelet, E.; *et al.* (incl. **de
 Leon, J. P.**), 2019, *[Kojima-1Lb Is a Mildly Cold Neptune around the
 Brightest Microlensing Host
@@ -593,14 +602,6 @@ Star](http://dx.doi.org/10.3847/1538-3881/ab487f)*, The Astronomical
 Journal, **158**, 206
 ([arXiv:1909.11802](http://arxiv.org/abs/1909.11802)) \[[28
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..206F)\]
-
-Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
-*et al.* (incl. **de Leon, J. P.**), 2019, *[Radial velocity
-confirmation of K2-100b: a young, highly irradiated, and low-density
-transiting hot Neptune](http://dx.doi.org/10.1093/mnras/stz2569)*,
-Monthly Notices of the Royal Astronomical Society, **490**, 698
-([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[57
-citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..698B)\]
 
 Quinn, Samuel N.; Becker, Juliette C.; Rodriguez, Joseph E.; Hadden,
 Sam; *et al.* (incl. **de Leon, J. P.**), 2019, *[Near-resonance in a
