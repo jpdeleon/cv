@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 73 refereed papers mainly about exoplanets with
-1,435 total citations, and an h-index of 24, as of 2024-10-10[^1].
+1,436 total citations, and an h-index of 24, as of 2024-10-11[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 73 / first author: 3 / citations: 1,435 / h-index: 24 (as of
-2024-10-10)
+refereed: 73 / first author: 3 / citations: 1,436 / h-index: 24 (as of
+2024-10-11)
 
 <div class="list">
 
@@ -667,7 +667,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[106
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[107
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
