@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 73 refereed papers mainly about exoplanets with
-1,436 total citations, and an h-index of 24, as of 2024-10-11[^1].
+1,439 total citations, and an h-index of 24, as of 2024-10-12[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 73 / first author: 3 / citations: 1,436 / h-index: 24 (as of
-2024-10-11)
+refereed: 73 / first author: 3 / citations: 1,439 / h-index: 24 (as of
+2024-10-12)
 
 <div class="list">
 
@@ -168,7 +168,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[5
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
@@ -395,7 +395,7 @@ J.; *et al.* (incl. **de Leon, J. P.**), 2022, *[The K2-OjOS Project:
 New and revisited planets and candidates in K2 campaigns 5, 16, &
 18](http://dx.doi.org/10.1093/mnras/stab2669)*, Monthly Notices of the
 Royal Astronomical Society, **509**, 1075
-([arXiv:2109.03346](http://arxiv.org/abs/2109.03346)) \[[13
+([arXiv:2109.03346](http://arxiv.org/abs/2109.03346)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.1075C)\]
 
 Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
@@ -614,7 +614,7 @@ Sam; *et al.* (incl. **de Leon, J. P.**), 2019, *[Near-resonance in a
 System of Sub-Neptunes from
 TESS](http://dx.doi.org/10.3847/1538-3881/ab3f2b)*, The Astronomical
 Journal, **158**, 177
-([arXiv:1901.09092](http://arxiv.org/abs/1901.09092)) \[[44
+([arXiv:1901.09092](http://arxiv.org/abs/1901.09092)) \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..177Q)\]
 
 Persson, Carina M.; Csizmadia, Szilárd; Mustill, Alexander J.; Fridlund,
