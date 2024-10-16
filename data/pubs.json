@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2409.07400",
     "authors": [
       "Pel{\\'a}ez-Torres, A.",
       "Esparza-Borges, E.",
@@ -1109,7 +1109,7 @@
       "Vanderspek, R.",
       "Dragomir, D."
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347431",
     "page": null,
@@ -1499,7 +1499,7 @@
       "Kostov, Veselin B.",
       "Watanabe, David"
     ],
-    "citations": 11,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acf56e",
     "page": 163,
@@ -1893,7 +1893,7 @@
       "Schwarz, R. P.",
       "Timmermans, M."
     ],
-    "citations": 10,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202243592",
     "page": null,
@@ -2365,7 +2365,7 @@
       "Bachelet, Etienne",
       "Harbeck, Daniel"
     ],
-    "citations": 9,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.1093/pasj/psab106",
     "page": null,
@@ -2720,7 +2720,7 @@
       "Watanabe, Noriharu",
       "Winn, Joshua N."
     ],
-    "citations": 26,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0fdc",
     "page": 161,
@@ -2889,7 +2889,7 @@
       "Yahalomi, Daniel A.",
       "Zohrabi, Farzaneh"
     ],
-    "citations": 32,
+    "citations": 31,
     "doctype": "article",
     "doi": "10.3847/1538-4365/ac0f0a",
     "page": 33,
@@ -3034,7 +3034,7 @@
       "Wohler, B.",
       "Wong, I."
     ],
-    "citations": 23,
+    "citations": 22,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202038934",
     "page": null,
@@ -3170,7 +3170,7 @@
       "Smith, J. C.",
       "Wohler, B."
     ],
-    "citations": 52,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abb9ab",
     "page": 239,
@@ -3396,7 +3396,7 @@
       "Ziegler, C.",
       "Zohrabi, F."
     ],
-    "citations": 64,
+    "citations": 63,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202037867",
     "page": null,
@@ -3903,7 +3903,7 @@
       "Vezie, M.",
       "Winn, J. N."
     ],
-    "citations": 36,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201935958",
     "page": null,
@@ -4086,7 +4086,7 @@
       "Law, Nicholas",
       "Mann, Andrew W."
     ],
-    "citations": 54,
+    "citations": 53,
     "doctype": "article",
     "doi": "10.1038/s41550-020-1142-z",
     "page": 1148,
@@ -4799,7 +4799,7 @@
       "Luque, Rafael",
       "Nishiumi, Taku"
     ],
-    "citations": 108,
+    "citations": 106,
     "doctype": "article",
     "doi": "10.1117/1.JATIS.5.1.015001",
     "page": 15001,
