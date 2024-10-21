@@ -23,8 +23,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 73 refereed papers mainly about exoplanets with
-1,431 total citations, and an h-index of 24, as of 2024-10-20[^1].
+**Research:** Published 74 refereed papers mainly about exoplanets with
+1,431 total citations, and an h-index of 24, as of 2024-10-21[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 73 / first author: 3 / citations: 1,431 / h-index: 24 (as of
-2024-10-20)
+refereed: 74 / first author: 3 / citations: 1,431 / h-index: 24 (as of
+2024-10-21)
 
 <div class="list">
 
@@ -162,6 +162,12 @@ VO on the dayside of KELT-9 b: Insights from ground-based photometric
 observations](http://dx.doi.org/10.1093/pasj/psae075)*, Publications of
 the Astronomical Society of Japan, **76**, 1131
 ([arXiv:2408.15698](http://arxiv.org/abs/2408.15698))
+
+Ghachoui, M.; Rackham, B. V.; Dévora-Pajares, M.; Chouqar, J.;
+*et al.* (incl. **de Leon, J. P.**), 2024, *[TESS discovery of two
+super-Earths orbiting the M-dwarf stars TOI-6002 and TOI-5713 near the
+radius valley](http://dx.doi.org/10.1051/0004-6361/202451120)*,
+Astronomy and Astrophysics, **690**
 
 Orell-Miquel, J.; Murgas, F.; Pallé, E.; Mallorquı́n, M.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[The MOPYS project: A survey
