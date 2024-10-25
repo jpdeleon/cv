@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 74 refereed papers mainly about exoplanets with
-1,431 total citations, and an h-index of 24, as of 2024-10-24[^1].
+1,435 total citations, and an h-index of 24, as of 2024-10-25[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 74 / first author: 3 / citations: 1,431 / h-index: 24 (as of
-2024-10-24)
+refereed: 74 / first author: 3 / citations: 1,435 / h-index: 24 (as of
+2024-10-25)
 
 <div class="list">
 
@@ -591,7 +591,7 @@ Mayama, Satoshi; Pérez, Sebastián; Kusakabe, Nobuhiko; Muto, Takayuki;
 Imaging Polarimetry of Misaligned Disks around the SR 24 Hierarchical
 Triple System](http://dx.doi.org/10.3847/1538-3881/ab5850)*, The
 Astronomical Journal, **159**, 12
-([arXiv:1911.10941](http://arxiv.org/abs/1911.10941)) \[[7
+([arXiv:1911.10941](http://arxiv.org/abs/1911.10941)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159...12M)\]
 
 Jenkins, James S.; Dı́az, Matı́as R.; Kurtovic, Nicolás T.; Espinoza,
@@ -646,7 +646,7 @@ Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
 with a Protoplanetary Disk around SU
 Aurigae](http://dx.doi.org/10.3847/1538-3881/ab0ae4)*, The Astronomical
 Journal, **157**, 165
-([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[36
+([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[38
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157..165A)\]
 
 Hayakawa, Tomohiko; Murakami, Kenichi; **de Leon, J. P.**; & Ishikawa,
@@ -683,7 +683,7 @@ Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
 Inner Gas Disk inside the Large Cavity of a Transitional
 Disk](http://dx.doi.org/10.3847/2041-8213/aae88b)*, The Astrophysical
 Journal, **868** ([arXiv:1810.06941](http://arxiv.org/abs/1810.06941))
-\[[34
+\[[35
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...868L...3M)\]
 
 Takami, Michihiro; Fu, Guangwei; Liu, Hauyu Baobab; Karr, Jennifer L.;
