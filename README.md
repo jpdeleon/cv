@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 74 refereed papers mainly about exoplanets with
-1,440 total citations, and an h-index of 25, as of 2024-10-30[^1].
+1,436 total citations, and an h-index of 24, as of 2024-10-31[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 74 / first author: 3 / citations: 1,440 / h-index: 25 (as of
-2024-10-30)
+refereed: 74 / first author: 3 / citations: 1,436 / h-index: 24 (as of
+2024-10-31)
 
 <div class="list">
 
@@ -316,7 +316,7 @@ evaporating atmosphere around the 650-Myr-old sub-Neptune HD 235088 b
 (TOI-1430 b) with
 CARMENES](http://dx.doi.org/10.1051/0004-6361/202346445)*, Astronomy and
 Astrophysics, **677**
-([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[13
+([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...677A..56O)\]
 
 Kagetani, Taiki; Narita, Norio; Kimura, Tadahiro; Hirano, Teruyuki;
@@ -324,7 +324,7 @@ Kagetani, Taiki; Narita, Norio; Kimura, Tadahiro; Hirano, Teruyuki;
 close-in giant planet transiting a metal-rich mid-M
 dwarf](http://dx.doi.org/10.1093/pasj/psad031)*, Publications of the
 Astronomical Society of Japan, **75**, 713
-([arXiv:2304.14703](http://arxiv.org/abs/2304.14703)) \[[13
+([arXiv:2304.14703](http://arxiv.org/abs/2304.14703)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2023PASJ...75..713K)\]
 
 **de Leon, J. P.**; Livingston, J. H.; Jenkins, J. S.; Vines, J. I.;
@@ -476,7 +476,7 @@ substellar object around an M dwarf validated using multicolour
 photometry and phase curve
 analysis](http://dx.doi.org/10.1051/0004-6361/202038934)*, Astronomy and
 Astrophysics, **645**
-([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[23
+([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[22
 citations](https://ui.adsabs.harvard.edu/abs/2021A&A...645A..16P)\]
 
 Chen, G.; Pallé, E.; Parviainen, H.; Wang, H.; *et al.* (incl. **de
@@ -638,7 +638,7 @@ Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
 a mini-Neptune in a triple-star
 system](http://dx.doi.org/10.1093/mnras/stz139)*, Monthly Notices of the
 Royal Astronomical Society, **484**, 3522
-([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[24
+([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[23
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3522H)\]
 
 Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
