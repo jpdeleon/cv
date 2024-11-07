@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 74 refereed papers mainly about exoplanets with
-1,437 total citations, and an h-index of 24, as of 2024-11-06[^1].
+1,438 total citations, and an h-index of 24, as of 2024-11-07[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 74 / first author: 3 / citations: 1,437 / h-index: 24 (as of
-2024-11-06)
+refereed: 74 / first author: 3 / citations: 1,438 / h-index: 24 (as of
+2024-11-07)
 
 <div class="list">
 
@@ -282,7 +282,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[17
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Hartman, J. D.; Bakos, G. Á.; Csubry, Z.; Howard, A. W.;
@@ -622,7 +622,7 @@ Sam; *et al.* (incl. **de Leon, J. P.**), 2019, *[Near-resonance in a
 System of Sub-Neptunes from
 TESS](http://dx.doi.org/10.3847/1538-3881/ab3f2b)*, The Astronomical
 Journal, **158**, 177
-([arXiv:1901.09092](http://arxiv.org/abs/1901.09092)) \[[45
+([arXiv:1901.09092](http://arxiv.org/abs/1901.09092)) \[[46
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..177Q)\]
 
 Persson, Carina M.; Csizmadia, Szilárd; Mustill, Alexander J.; Fridlund,
@@ -659,7 +659,7 @@ Esposito, M.; Armstrong, D. J.; Gandolfi, D.; Adibekyan, V.;
 *et al.* (incl. **de Leon, J. P.**), 2019, *[HD 219666 b: a hot-Neptune
 from TESS Sector 1](http://dx.doi.org/10.1051/0004-6361/201834853)*,
 Astronomy and Astrophysics, **623**
-([arXiv:1812.05881](http://arxiv.org/abs/1812.05881)) \[[33
+([arXiv:1812.05881](http://arxiv.org/abs/1812.05881)) \[[32
 citations](https://ui.adsabs.harvard.edu/abs/2019A&A...623A.165E)\]
 
 Livingston, John H.; Dai, Fei; Hirano, Teruyuki; Gandolfi, Davide;
