@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 74 refereed papers mainly about exoplanets with
-1,438 total citations, and an h-index of 24, as of 2024-11-11[^1].
+1,437 total citations, and an h-index of 24, as of 2024-11-12[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 74 / first author: 3 / citations: 1,438 / h-index: 24 (as of
-2024-11-11)
+refereed: 74 / first author: 3 / citations: 1,437 / h-index: 24 (as of
+2024-11-12)
 
 <div class="list">
 
@@ -646,7 +646,7 @@ Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
 with a Protoplanetary Disk around SU
 Aurigae](http://dx.doi.org/10.3847/1538-3881/ab0ae4)*, The Astronomical
 Journal, **157**, 165
-([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[37
+([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[36
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157..165A)\]
 
 Hayakawa, Tomohiko; Murakami, Kenichi; **de Leon, J. P.**; & Ishikawa,
