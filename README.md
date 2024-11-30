@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 74 refereed papers mainly about exoplanets with
-1,452 total citations, and an h-index of 24, as of 2024-11-29[^1].
+1,458 total citations, and an h-index of 24, as of 2024-11-30[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 74 / first author: 3 / citations: 1,452 / h-index: 24 (as of
-2024-11-29)
+refereed: 74 / first author: 3 / citations: 1,458 / h-index: 24 (as of
+2024-11-30)
 
 <div class="list">
 
@@ -282,7 +282,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[20
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -449,7 +449,7 @@ Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
 I. Survey Description and Midsurvey
 Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
 Journal Supplement Series, **256**, 33
-([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[32
+([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[33
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
 
 Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
@@ -467,7 +467,7 @@ investigation](http://dx.doi.org/10.1126/science.abd7645)*, Science,
 ## 371
 
 , 1038 ([arXiv:2103.04950](http://arxiv.org/abs/2103.04950))
-\[[57
+\[[58
 citations](https://ui.adsabs.harvard.edu/abs/2021Sci...371.1038T)\]
 
 Parviainen, H.; Palle, E.; Zapatero-Osorio, M. R.; Nowak, G.;
@@ -567,7 +567,7 @@ Hidalgo, D.; Pallé, E.; Alonso, R.; Gandolfi, D.; *et al.*, 2020,
 8.8-M\_$\oplus$\_ super-Earth and two warm 14.7 and 10.2-M\_$\oplus$\_
 sub-Neptunes](http://dx.doi.org/10.1051/0004-6361/201937080)*, Astronomy
 and Astrophysics, **636**
-([arXiv:2002.01755](http://arxiv.org/abs/2002.01755)) \[[18
+([arXiv:2002.01755](http://arxiv.org/abs/2002.01755)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...636A..89H)\]
 
 Lam, Kristine W. F.; Korth, Judith; Masuda, Kento; Csizmadia, Szilárd;
@@ -598,7 +598,7 @@ Jenkins, James S.; Dı́az, Matı́as R.; Kurtovic, Nicolás T.; Espinoza,
 Néstor; *et al.* (incl. **de Leon, J. P.**), 2020, *[An ultrahot Neptune
 in the Neptune desert](http://dx.doi.org/10.1038/s41550-020-1142-z)*,
 Nature Astronomy, **4**, 1148
-([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[53
+([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[54
 citations](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J)\]
 
 Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
@@ -675,7 +675,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[106
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[107
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
