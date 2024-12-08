@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 74 refereed papers mainly about exoplanets with
-1,463 total citations, and an h-index of 24, as of 2024-12-07[^1].
+1,464 total citations, and an h-index of 24, as of 2024-12-08[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 74 / first author: 3 / citations: 1,463 / h-index: 24 (as of
-2024-12-07)
+refereed: 74 / first author: 3 / citations: 1,464 / h-index: 24 (as of
+2024-12-08)
 
 <div class="list">
 
@@ -191,7 +191,8 @@ Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
 giant ExoPlanets (MEEP). I. Nine Newly Confirmed Hot Jupiters from the
 TESS Mission](http://dx.doi.org/10.3847/1538-3881/ad4a57)*, The
 Astronomical Journal, **168**, 32
-([arXiv:2401.05923](http://arxiv.org/abs/2401.05923))
+([arXiv:2401.05923](http://arxiv.org/abs/2401.05923)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...32S)\]
 
 Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
 Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
