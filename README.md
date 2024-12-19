@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 75 refereed papers mainly about exoplanets with
-1,485 total citations, and an h-index of 24, as of 2024-12-18[^1].
+1,484 total citations, and an h-index of 24, as of 2024-12-19[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 75 / first author: 3 / citations: 1,485 / h-index: 24 (as of
-2024-12-18)
+refereed: 75 / first author: 3 / citations: 1,484 / h-index: 24 (as of
+2024-12-19)
 
 <div class="list">
 
@@ -527,7 +527,7 @@ dwarfs. Two planets on opposite sides of the radius gap transiting the
 nearby M dwarf LTT
 3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
 Astrophysics, **642**
-([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[66
+([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[65
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
 
 Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
