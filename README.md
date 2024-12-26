@@ -23,8 +23,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 75 refereed papers mainly about exoplanets with
-1,469 total citations, and an h-index of 25, as of 2024-12-25[^1].
+**Research:** Published 76 refereed papers mainly about exoplanets with
+1,486 total citations, and an h-index of 25, as of 2024-12-26[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 75 / first author: 3 / citations: 1,469 / h-index: 25 (as of
-2024-12-25)
+refereed: 76 / first author: 3 / citations: 1,486 / h-index: 25 (as of
+2024-12-26)
 
 <div class="list">
 
@@ -495,6 +495,14 @@ analysis](http://dx.doi.org/10.1051/0004-6361/202038934)*, Astronomy and
 Astrophysics, **645**
 ([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2021A&A...645A..16P)\]
+
+Chen, G.; Pallé, E.; Parviainen, H.; Wang, H.; *et al.* (incl. **de
+Leon, J. P.**), 2021, *[An enhanced slope in the transmission spectrum
+of the hot Jupiter
+WASP-104b](http://dx.doi.org/10.1093/mnras/staa3555)*, Monthly Notices
+of the Royal Astronomical Society, **500**, 5420
+([arXiv:2011.06329](http://arxiv.org/abs/2011.06329)) \[[17
+citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5420C)\]
 
 Castro González, A.; Dı́ez Alonso, E.; Menéndez Blanco, J.; Livingston,
 John H.; *et al.* (incl. **de Leon, J. P.**), 2020, *[Planetary
