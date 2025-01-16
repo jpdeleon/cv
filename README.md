@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 76 refereed papers mainly about exoplanets with
-1,516 total citations, and an h-index of 24, as of 2025-01-15[^1].
+1,521 total citations, and an h-index of 25, as of 2025-01-16[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 76 / first author: 3 / citations: 1,516 / h-index: 24 (as of
-2025-01-15)
+refereed: 76 / first author: 3 / citations: 1,521 / h-index: 25 (as of
+2025-01-16)
 
 <div class="list">
 
@@ -192,7 +192,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[13
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
@@ -301,7 +301,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[23
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -437,7 +437,7 @@ Leon, J. P.**), 2021, *[Is the orbit of the exoplanet WASP-43b really
 decaying? TESS and MuSCAT2 observations confirm no
 detection](http://dx.doi.org/10.1093/mnras/stab2929)*, Monthly Notices
 of the Royal Astronomical Society, **508**, 5514
-([arXiv:2110.04761](http://arxiv.org/abs/2110.04761)) \[[12
+([arXiv:2110.04761](http://arxiv.org/abs/2110.04761)) \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.5514G)\]
 
 **de Leon, J. P.**; Livingston, J.; Endl, M.; Cochran, W. D.; *et al.*,
@@ -528,7 +528,7 @@ Leon, J. P.**), 2020, *[Cluster Difference Imaging Photometric Survey.
 II. TOI 837: A Young Validated Planet in IC
 2602](http://dx.doi.org/10.3847/1538-3881/abb9ab)*, The Astronomical
 Journal, **160**, 239
-([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[52
+([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[53
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
 
 Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
