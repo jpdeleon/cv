@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 76 refereed papers mainly about exoplanets with
-1,537 total citations, and an h-index of 25, as of 2025-02-07[^1].
+1,545 total citations, and an h-index of 25, as of 2025-02-08[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 76 / first author: 3 / citations: 1,537 / h-index: 25 (as of
-2025-02-07)
+refereed: 76 / first author: 3 / citations: 1,545 / h-index: 25 (as of
+2025-02-08)
 
 <div class="list">
 
@@ -231,7 +231,7 @@ A.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Gliese 12 b: A
 Temperate Earth-sized Planet at 12 pc Ideal for Atmospheric Transmission
 Spectroscopy](http://dx.doi.org/10.3847/2041-8213/ad3642)*, The
 Astrophysical Journal, **967**
-([arXiv:2405.14708](http://arxiv.org/abs/2405.14708)) \[[3
+([arXiv:2405.14708](http://arxiv.org/abs/2405.14708)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...967L..21K)\]
 
 Hori, Yasunori; Fukui, Akihiko; Hirano, Teruyuki; Narita, Norio;
@@ -302,7 +302,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[24
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[27
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -313,6 +313,14 @@ Journal, **166**, 165
 ([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
 
+Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
+Leon, J. P.**), 2023, *[GJ 806 (TOI-4481): A bright nearby
+multi-planetary system with a transiting hot low-density
+super-Earth](http://dx.doi.org/10.1051/0004-6361/202244261)*, Astronomy
+and Astrophysics, **678**
+([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[10
+citations](https://ui.adsabs.harvard.edu/abs/2023A&A...678A..80P)\]
+
 Hartman, J. D.; Bakos, G. Á.; Csubry, Z.; Howard, A. W.;
 *et al.* (incl. **de Leon, J. P.**), 2023, *[TOI 4201 b and TOI 5344 b:
 Discovery of Two Transiting Giant Planets around M-dwarf Stars and
@@ -321,14 +329,6 @@ Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
 ([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
-
-Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
-Leon, J. P.**), 2023, *[GJ 806 (TOI-4481): A bright nearby
-multi-planetary system with a transiting hot low-density
-super-Earth](http://dx.doi.org/10.1051/0004-6361/202244261)*, Astronomy
-and Astrophysics, **678**
-([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[9
-citations](https://ui.adsabs.harvard.edu/abs/2023A&A...678A..80P)\]
 
 Orell-Miquel, J.; Lampón, M.; López-Puertas, M.; Mallorquı́n, M.;
 *et al.* (incl. **de Leon, J. P.**), 2023, *[Confirmation of an He I
@@ -430,7 +430,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[29
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[30
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -487,7 +487,7 @@ investigation](http://dx.doi.org/10.1126/science.abd7645)*, Science,
 ## 371
 
 , 1038 ([arXiv:2103.04950](http://arxiv.org/abs/2103.04950))
-\[[60
+\[[61
 citations](https://ui.adsabs.harvard.edu/abs/2021Sci...371.1038T)\]
 
 Parviainen, H.; Palle, E.; Zapatero-Osorio, M. R.; Nowak, G.;
@@ -529,7 +529,7 @@ Leon, J. P.**), 2020, *[Cluster Difference Imaging Photometric Survey.
 II. TOI 837: A Young Validated Planet in IC
 2602](http://dx.doi.org/10.3847/1538-3881/abb9ab)*, The Astronomical
 Journal, **160**, 239
-([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[53
+([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[54
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
 
 Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
