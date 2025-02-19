@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 76 refereed papers mainly about exoplanets with
-1,564 total citations, and an h-index of 25, as of 2025-02-18[^1].
+1,557 total citations, and an h-index of 25, as of 2025-02-19[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 76 / first author: 3 / citations: 1,564 / h-index: 25 (as of
-2025-02-18)
+refereed: 76 / first author: 3 / citations: 1,557 / h-index: 25 (as of
+2025-02-19)
 
 <div class="list">
 
@@ -163,15 +163,7 @@ Jupiters detected by TESS using follow-up spectroscopy from MaHPS at
 Wendelstein together with NEID and
 TRES](http://dx.doi.org/10.1051/0004-6361/202451404)*, Astronomy and
 Astrophysics, **692**
-([arXiv:2501.04383](http://arxiv.org/abs/2501.04383)) \[[2
-citations](https://ui.adsabs.harvard.edu/abs/2024A&A...692A.220E)\]
-
-Peláez-Torres, A.; Esparza-Borges, E.; Pallé, E.; Parviainen, H.;
-*et al.* (incl. **de Leon, J. P.**), 2024, *[Validation of up to seven
-TESS planet candidates through multi-colour transit photometry using
-MuSCAT2 data](http://dx.doi.org/10.1051/0004-6361/202347251)*, Astronomy
-and Astrophysics, **690**
-([arXiv:2409.07400](http://arxiv.org/abs/2409.07400))
+([arXiv:2501.04383](http://arxiv.org/abs/2501.04383))
 
 Ghachoui, M.; Rackham, B. V.; Dévora-Pajares, M.; Chouqar, J.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[TESS discovery of two
@@ -179,6 +171,13 @@ super-Earths orbiting the M-dwarf stars TOI-6002 and TOI-5713 near the
 radius valley](http://dx.doi.org/10.1051/0004-6361/202451120)*,
 Astronomy and Astrophysics, **690**
 ([arXiv:2408.00709](http://arxiv.org/abs/2408.00709))
+
+Peláez-Torres, A.; Esparza-Borges, E.; Pallé, E.; Parviainen, H.;
+*et al.* (incl. **de Leon, J. P.**), 2024, *[Validation of up to seven
+TESS planet candidates through multi-colour transit photometry using
+MuSCAT2 data](http://dx.doi.org/10.1051/0004-6361/202347251)*, Astronomy
+and Astrophysics, **690**
+([arXiv:2409.07400](http://arxiv.org/abs/2409.07400))
 
 Hayashi, Yuya; Narita, Norio; Fukui, Akihiko; Changeat, Quentin;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Low abundances of TiO and
@@ -193,7 +192,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[17
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
@@ -273,7 +272,7 @@ Serrano Bell, J.; Dı́az, R. F.; Hébrard, G.; Martioli, E.;
 Two new transiting hot Saturns detected and characterized with SOPHIE
 and TESS](http://dx.doi.org/10.1051/0004-6361/202348288)*, Astronomy and
 Astrophysics, **684**
-([arXiv:2402.07861](http://arxiv.org/abs/2402.07861)) \[[3
+([arXiv:2402.07861](http://arxiv.org/abs/2402.07861)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...684A...6S)\]
 
 Parviainen, H.; Murgas, F.; Esparza-Borges, E.; Peláez-Torres, A.;
@@ -564,7 +563,7 @@ Nowak, Grzegorz; Palle, Enric; Gandolfi, Davide; Deeg, Hans J.;
 warm sub-Saturn around a mildly evolved
 star](http://dx.doi.org/10.1093/mnras/staa2077)*, Monthly Notices of the
 Royal Astronomical Society, **497**, 4423
-([arXiv:2007.07939](http://arxiv.org/abs/2007.07939)) \[[7
+([arXiv:2007.07939](http://arxiv.org/abs/2007.07939)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.4423N)\]
 
 Nielsen, L. D.; Brahm, R.; Bouchy, F.; Espinoza, N.;
@@ -627,7 +626,7 @@ Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
 confirmation of K2-100b: a young, highly irradiated, and low-density
 transiting hot Neptune](http://dx.doi.org/10.1093/mnras/stz2569)*,
 Monthly Notices of the Royal Astronomical Society, **490**, 698
-([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[63
+([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[62
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..698B)\]
 
 Fukui, A.; Suzuki, D.; Koshimoto, N.; Bachelet, E.; *et al.* (incl. **de
@@ -696,7 +695,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[117
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[115
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
