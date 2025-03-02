@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 76 refereed papers mainly about exoplanets with
-1,560 total citations, and an h-index of 25, as of 2025-03-01[^1].
+1,564 total citations, and an h-index of 25, as of 2025-03-02[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -143,8 +143,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 76 / first author: 3 / citations: 1,560 / h-index: 25 (as of
-2025-03-01)
+refereed: 76 / first author: 3 / citations: 1,564 / h-index: 25 (as of
+2025-03-02)
 
 <div class="list">
 
@@ -319,7 +319,7 @@ Discovery of Two Transiting Giant Planets around M-dwarf Stars and
 Revised Parameters for Three
 Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
-([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[12
+([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
 
 Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
@@ -344,7 +344,7 @@ Kagetani, Taiki; Narita, Norio; Kimura, Tadahiro; Hirano, Teruyuki;
 close-in giant planet transiting a metal-rich mid-M
 dwarf](http://dx.doi.org/10.1093/pasj/psad031)*, Publications of the
 Astronomical Society of Japan, **75**, 713
-([arXiv:2304.14703](http://arxiv.org/abs/2304.14703)) \[[13
+([arXiv:2304.14703](http://arxiv.org/abs/2304.14703)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2023PASJ...75..713K)\]
 
 **de Leon, J. P.**; Livingston, J. H.; Jenkins, J. S.; Vines, J. I.;
@@ -571,7 +571,7 @@ Nielsen, L. D.; Brahm, R.; Bouchy, F.; Espinoza, N.;
 from TESS. HIP 65Ab, TOI-157b, and
 TOI-169b](http://dx.doi.org/10.1051/0004-6361/202037941)*, Astronomy and
 Astrophysics, **639**
-([arXiv:2003.05932](http://arxiv.org/abs/2003.05932)) \[[29
+([arXiv:2003.05932](http://arxiv.org/abs/2003.05932)) \[[30
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...639A..76N)\]
 
 Šubjak, Ján; Sharma, Rishikesh; Carmichael, Theron W.; Johnson, Marshall
@@ -595,7 +595,7 @@ Lam, Kristine W. F.; Korth, Judith; Masuda, Kento; Csizmadia, Szilárd;
 Resonance to Tango around
 K2-146](http://dx.doi.org/10.3847/1538-3881/ab66c9)*, The Astronomical
 Journal, **159**, 120
-([arXiv:1907.11141](http://arxiv.org/abs/1907.11141)) \[[16
+([arXiv:1907.11141](http://arxiv.org/abs/1907.11141)) \[[17
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..120L)\]
 
 Parviainen, H.; Palle, E.; Zapatero-Osorio, M. R.; Montanes Rodriguez,
