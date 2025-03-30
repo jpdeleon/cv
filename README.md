@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 76 refereed papers mainly about exoplanets with
-1,590 total citations, and an h-index of 25, as of 2025-03-29[^1].
+1,590 total citations, and an h-index of 25, as of 2025-03-30[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -144,7 +144,7 @@ Leon et al.
 ## Publications
 
 refereed: 76 / first author: 3 / citations: 1,590 / h-index: 25 (as of
-2025-03-29)
+2025-03-30)
 
 <div class="list">
 
@@ -165,19 +165,19 @@ TRES](http://dx.doi.org/10.1051/0004-6361/202451404)*, Astronomy and
 Astrophysics, **692**
 ([arXiv:2501.04383](http://arxiv.org/abs/2501.04383))
 
-Ghachoui, M.; Rackham, B. V.; Dévora-Pajares, M.; Chouqar, J.;
-*et al.* (incl. **de Leon, J. P.**), 2024, *[TESS discovery of two
-super-Earths orbiting the M-dwarf stars TOI-6002 and TOI-5713 near the
-radius valley](http://dx.doi.org/10.1051/0004-6361/202451120)*,
-Astronomy and Astrophysics, **690**
-([arXiv:2408.00709](http://arxiv.org/abs/2408.00709))
-
 Peláez-Torres, A.; Esparza-Borges, E.; Pallé, E.; Parviainen, H.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Validation of up to seven
 TESS planet candidates through multi-colour transit photometry using
 MuSCAT2 data](http://dx.doi.org/10.1051/0004-6361/202347251)*, Astronomy
 and Astrophysics, **690**
 ([arXiv:2409.07400](http://arxiv.org/abs/2409.07400))
+
+Ghachoui, M.; Rackham, B. V.; Dévora-Pajares, M.; Chouqar, J.;
+*et al.* (incl. **de Leon, J. P.**), 2024, *[TESS discovery of two
+super-Earths orbiting the M-dwarf stars TOI-6002 and TOI-5713 near the
+radius valley](http://dx.doi.org/10.1051/0004-6361/202451120)*,
+Astronomy and Astrophysics, **690**
+([arXiv:2408.00709](http://arxiv.org/abs/2408.00709))
 
 Hayashi, Yuya; Narita, Norio; Fukui, Akihiko; Changeat, Quentin;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Low abundances of TiO and
