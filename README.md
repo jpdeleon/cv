@@ -73,7 +73,13 @@ Rogel Mari Sese](https://unisec-global.org/rogel.html)
 <div class="list">
 
 
-**Project Research Assistant (2023/4 - Present)**  
+**Project Assistant Professor (2025/4 - Present)**  
+*Komaba Institute for Science, Graduate School of Arts and Sciences, The
+University of Tokyo, Japan*  
+*Role: Management of observations and data analysis with
+[MuSCAT4](muscat4url) under the [Kiban S](kibanSurl) project.*  
+
+**Project Research Assistant (2023/4 - 2025/3)**  
 *Department of Multi-Disciplinary Sciences, Graduate School of Arts and
 Sciences, The University of Tokyo, Japan*  
 *Role: Spearheading the discovery and in-depth characterization of young
