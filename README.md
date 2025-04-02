@@ -77,7 +77,10 @@ Rogel Mari Sese](https://unisec-global.org/rogel.html)
 *Komaba Institute for Science, Graduate School of Arts and Sciences, The
 University of Tokyo, Japan*  
 *Role: Management of observations and data analysis with
-[MuSCAT4](muscat4url) under the [Kiban S](kibanSurl) project.*  
+[MuSCAT4](https://lco.global/observatory/instruments/muscat/) under the
+[Kiban
+S](https://www.jsps.go.jp/file/storage/kaken_12_g1990/r_6_en_24h00017.pdf)
+project.*  
 
 **Project Research Assistant (2023/4 - 2025/3)**  
 *Department of Multi-Disciplinary Sciences, Graduate School of Arts and
