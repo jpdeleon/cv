@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 76 refereed papers mainly about exoplanets with
-1,593 total citations, and an h-index of 25, as of 2025-04-02[^1].
+1,593 total citations, and an h-index of 25, as of 2025-04-03[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -153,7 +153,7 @@ Leon et al.
 ## Publications
 
 refereed: 76 / first author: 3 / citations: 1,593 / h-index: 25 (as of
-2025-04-02)
+2025-04-03)
 
 <div class="list">
 
@@ -643,7 +643,7 @@ Leon, J. P.**), 2019, *[Kojima-1Lb Is a Mildly Cold Neptune around the
 Brightest Microlensing Host
 Star](http://dx.doi.org/10.3847/1538-3881/ab487f)*, The Astronomical
 Journal, **158**, 206
-([arXiv:1909.11802](http://arxiv.org/abs/1909.11802)) \[[28
+([arXiv:1909.11802](http://arxiv.org/abs/1909.11802)) \[[29
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..206F)\]
 
 Quinn, Samuel N.; Becker, Juliette C.; Rodriguez, Joseph E.; Hadden,
@@ -721,7 +721,7 @@ High-resolution Imaging Polarimetry of FU Ori-type Objects: Toward a
 Unified Scheme for Low-mass Protostellar
 Evolution](http://dx.doi.org/10.3847/1538-4357/aad2e1)*, The
 Astrophysical Journal, **864**, 20
-([arXiv:1807.03499](http://arxiv.org/abs/1807.03499)) \[[46
+([arXiv:1807.03499](http://arxiv.org/abs/1807.03499)) \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...864...20T)\]
 
 Livingston, John H.; Endl, Michael; Dai, Fei; Cochran, William D.;
