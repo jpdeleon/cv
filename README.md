@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 76 refereed papers mainly about exoplanets with
-1,593 total citations, and an h-index of 25, as of 2025-04-05[^1].
+1,602 total citations, and an h-index of 26, as of 2025-04-06[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 76 / first author: 3 / citations: 1,593 / h-index: 25 (as of
-2025-04-05)
+refereed: 76 / first author: 3 / citations: 1,602 / h-index: 26 (as of
+2025-04-06)
 
 <div class="list">
 
@@ -224,7 +224,7 @@ Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
 Earth-sized exoplanet orbiting the nearby ultracool dwarf star
 SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
 Astronomy, **8**, 865
-([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[3
+([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..865G)\]
 
 Barkaoui, K.; Schwarz, R. P.; Narita, N.; Mistry, P.;
@@ -273,7 +273,7 @@ Murgas, F.; Pallé, E.; Orell-Miquel, J.; Carleo, I.;
 the pack of ultra-short-period super-Earths around M
 dwarfs](http://dx.doi.org/10.1051/0004-6361/202348813)*, Astronomy and
 Astrophysics, **684**
-([arXiv:2401.12150](http://arxiv.org/abs/2401.12150)) \[[4
+([arXiv:2401.12150](http://arxiv.org/abs/2401.12150)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...684A..83M)\]
 
 Serrano Bell, J.; Dı́az, R. F.; Hébrard, G.; Martioli, E.;
@@ -327,7 +327,7 @@ Leon, J. P.**), 2023, *[GJ 806 (TOI-4481): A bright nearby
 multi-planetary system with a transiting hot low-density
 super-Earth](http://dx.doi.org/10.1051/0004-6361/202244261)*, Astronomy
 and Astrophysics, **678**
-([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[11
+([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...678A..80P)\]
 
 Hartman, J. D.; Bakos, G. Á.; Csubry, Z.; Howard, A. W.;
@@ -345,7 +345,7 @@ evaporating atmosphere around the 650-Myr-old sub-Neptune HD 235088 b
 (TOI-1430 b) with
 CARMENES](http://dx.doi.org/10.1051/0004-6361/202346445)*, Astronomy and
 Astrophysics, **677**
-([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[14
+([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...677A..56O)\]
 
 Kagetani, Taiki; Narita, Norio; Kimura, Tadahiro; Hirano, Teruyuki;
@@ -470,7 +470,7 @@ Hirano, Teruyuki; Livingston, John H.; Fukui, Akihiko; Narita, Norio;
 Ultra-Short-Period Super-Earths with Earth-like
 Compositions](http://dx.doi.org/10.3847/1538-3881/ac0fdc)*, The
 Astronomical Journal, **162**, 161
-([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[27
+([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[28
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..161H)\]
 
 Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
@@ -556,7 +556,7 @@ transiting, Earth-sized planet and a second temperate, non-transiting
 planet around the M4 dwarf GJ 3473
 (TOI-488)](http://dx.doi.org/10.1051/0004-6361/202038967)*, Astronomy
 and Astrophysics, **642**
-([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[35
+([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[36
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
 
 Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
@@ -604,7 +604,7 @@ Lam, Kristine W. F.; Korth, Judith; Masuda, Kento; Csizmadia, Szilárd;
 Resonance to Tango around
 K2-146](http://dx.doi.org/10.3847/1538-3881/ab66c9)*, The Astronomical
 Journal, **159**, 120
-([arXiv:1907.11141](http://arxiv.org/abs/1907.11141)) \[[17
+([arXiv:1907.11141](http://arxiv.org/abs/1907.11141)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..120L)\]
 
 Parviainen, H.; Palle, E.; Zapatero-Osorio, M. R.; Montanes Rodriguez,
@@ -667,7 +667,7 @@ Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
 a mini-Neptune in a triple-star
 system](http://dx.doi.org/10.1093/mnras/stz139)*, Monthly Notices of the
 Royal Astronomical Society, **484**, 3522
-([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[24
+([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[25
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3522H)\]
 
 Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
