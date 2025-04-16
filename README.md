@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 77 refereed papers mainly about exoplanets with
-1,612 total citations, and an h-index of 26, as of 2025-04-15[^1].
+1,612 total citations, and an h-index of 26, as of 2025-04-16[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -153,7 +153,7 @@ Leon et al.
 ## Publications
 
 refereed: 77 / first author: 3 / citations: 1,612 / h-index: 26 (as of
-2025-04-15)
+2025-04-16)
 
 <div class="list">
 
@@ -163,6 +163,7 @@ Leon, J. P.**), 2025, *[TOI-2015 b: A sub-Neptune in strong
 gravitational interaction with an outer non-transiting
 planet](http://dx.doi.org/10.1051/0004-6361/202452916)*, Astronomy and
 Astrophysics, **695**
+([arXiv:2502.07074](http://arxiv.org/abs/2502.07074))
 
 Masuda, Kento; Libby-Roberts, Jessica E.; Livingston, John H.;
 Stevenson, Kevin B.; *et al.* (incl. **de Leon, J. P.**), 2024, *[A
