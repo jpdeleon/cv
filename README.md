@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 77 refereed papers mainly about exoplanets with
-1,627 total citations, and an h-index of 26, as of 2025-04-30[^1].
+1,631 total citations, and an h-index of 26, as of 2025-05-01[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 77 / first author: 3 / citations: 1,627 / h-index: 26 (as of
-2025-04-30)
+refereed: 77 / first author: 3 / citations: 1,631 / h-index: 26 (as of
+2025-05-01)
 
 <div class="list">
 
@@ -231,7 +231,7 @@ Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
 Earth-sized exoplanet orbiting the nearby ultracool dwarf star
 SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
 Astronomy, **8**, 865
-([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[6
+([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..865G)\]
 
 Barkaoui, K.; Schwarz, R. P.; Narita, N.; Mistry, P.;
@@ -263,7 +263,7 @@ the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
 JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[18
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
@@ -554,7 +554,7 @@ dwarfs. Two planets on opposite sides of the radius gap transiting the
 nearby M dwarf LTT
 3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
 Astrophysics, **642**
-([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[66
+([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[67
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
 
 Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
