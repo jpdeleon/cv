@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 77 refereed papers mainly about exoplanets with
-1,632 total citations, and an h-index of 26, as of 2025-05-02[^1].
+1,639 total citations, and an h-index of 26, as of 2025-05-03[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 77 / first author: 3 / citations: 1,632 / h-index: 26 (as of
-2025-05-02)
+refereed: 77 / first author: 3 / citations: 1,639 / h-index: 26 (as of
+2025-05-03)
 
 <div class="list">
 
@@ -208,7 +208,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[18
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
@@ -280,7 +280,7 @@ Murgas, F.; Pallé, E.; Orell-Miquel, J.; Carleo, I.;
 the pack of ultra-short-period super-Earths around M
 dwarfs](http://dx.doi.org/10.1051/0004-6361/202348813)*, Astronomy and
 Astrophysics, **684**
-([arXiv:2401.12150](http://arxiv.org/abs/2401.12150)) \[[5
+([arXiv:2401.12150](http://arxiv.org/abs/2401.12150)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...684A..83M)\]
 
 Serrano Bell, J.; Dı́az, R. F.; Hébrard, G.; Martioli, E.;
@@ -318,7 +318,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[29
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[30
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -329,6 +329,14 @@ Journal, **166**, 165
 ([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
 
+Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
+Leon, J. P.**), 2023, *[GJ 806 (TOI-4481): A bright nearby
+multi-planetary system with a transiting hot low-density
+super-Earth](http://dx.doi.org/10.1051/0004-6361/202244261)*, Astronomy
+and Astrophysics, **678**
+([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[12
+citations](https://ui.adsabs.harvard.edu/abs/2023A&A...678A..80P)\]
+
 Hartman, J. D.; Bakos, G. Á.; Csubry, Z.; Howard, A. W.;
 *et al.* (incl. **de Leon, J. P.**), 2023, *[TOI 4201 b and TOI 5344 b:
 Discovery of Two Transiting Giant Planets around M-dwarf Stars and
@@ -337,14 +345,6 @@ Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
 ([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
-
-Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
-Leon, J. P.**), 2023, *[GJ 806 (TOI-4481): A bright nearby
-multi-planetary system with a transiting hot low-density
-super-Earth](http://dx.doi.org/10.1051/0004-6361/202244261)*, Astronomy
-and Astrophysics, **678**
-([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[12
-citations](https://ui.adsabs.harvard.edu/abs/2023A&A...678A..80P)\]
 
 Orell-Miquel, J.; Lampón, M.; López-Puertas, M.; Mallorquı́n, M.;
 *et al.* (incl. **de Leon, J. P.**), 2023, *[Confirmation of an He I
@@ -375,7 +375,7 @@ Leon, J. P.**), 2023, *[TOI-1442 b and TOI-2445 b: Two potentially rocky
 ultra-short period planets around M
 dwarfs](http://dx.doi.org/10.1051/0004-6361/202243592)*, Astronomy and
 Astrophysics, **673**
-([arXiv:2201.13274](http://arxiv.org/abs/2201.13274)) \[[9
+([arXiv:2201.13274](http://arxiv.org/abs/2201.13274)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...673A..32M)\]
 
 Vines, Jose I.; Jenkins, James S.; Berdiñas, Zaira; Soto, Maritza G.;
@@ -423,7 +423,7 @@ Watanabe, Noriharu; Narita, Norio; Palle, Enric; Fukui, Akihiko;
 WASP-33b for 11 yr by Doppler tomographic and transit photometric
 observations](http://dx.doi.org/10.1093/mnras/stac620)*, Monthly Notices
 of the Royal Astronomical Society, **512**, 4404
-([arXiv:2203.02003](http://arxiv.org/abs/2203.02003)) \[[11
+([arXiv:2203.02003](http://arxiv.org/abs/2203.02003)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.4404W)\]
 
 Fukui, Akihiko; Kimura, Tadahiro; Hirano, Teruyuki; Narita, Norio;
@@ -446,7 +446,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[33
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -735,7 +735,7 @@ Livingston, John H.; Endl, Michael; Dai, Fei; Cochran, William D.;
 *et al.* (incl. **de Leon, J. P.**), 2018, *[44 Validated Planets from
 K2 Campaign 10](http://dx.doi.org/10.3847/1538-3881/aaccde)*, The
 Astronomical Journal, **156**, 78
-([arXiv:1806.11504](http://arxiv.org/abs/1806.11504)) \[[60
+([arXiv:1806.11504](http://arxiv.org/abs/1806.11504)) \[[61
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...78L)\]
 
 Uyama, Taichi; Hashimoto, Jun; Muto, Takayuki; Akiyama, Eiji;
