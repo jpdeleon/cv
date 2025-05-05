@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 77 refereed papers mainly about exoplanets with
-1,639 total citations, and an h-index of 26, as of 2025-05-04[^1].
+1,642 total citations, and an h-index of 26, as of 2025-05-05[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 77 / first author: 3 / citations: 1,639 / h-index: 26 (as of
-2025-05-04)
+refereed: 77 / first author: 3 / citations: 1,642 / h-index: 26 (as of
+2025-05-05)
 
 <div class="list">
 
@@ -446,7 +446,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[34
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[35
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -719,7 +719,7 @@ Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
 Inner Gas Disk inside the Large Cavity of a Transitional
 Disk](http://dx.doi.org/10.3847/2041-8213/aae88b)*, The Astrophysical
 Journal, **868** ([arXiv:1810.06941](http://arxiv.org/abs/1810.06941))
-\[[37
+\[[39
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...868L...3M)\]
 
 Takami, Michihiro; Fu, Guangwei; Liu, Hauyu Baobab; Karr, Jennifer L.;
