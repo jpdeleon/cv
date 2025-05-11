@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 77 refereed papers mainly about exoplanets with
-1,641 total citations, and an h-index of 26, as of 2025-05-10[^1].
+1,645 total citations, and an h-index of 26, as of 2025-05-11[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 77 / first author: 3 / citations: 1,641 / h-index: 26 (as of
-2025-05-10)
+refereed: 77 / first author: 3 / citations: 1,645 / h-index: 26 (as of
+2025-05-11)
 
 <div class="list">
 
@@ -272,7 +272,7 @@ starspots on a young M-dwarf K2-25: multiband observations of stellar
 photometric variability and planetary
 transits](http://dx.doi.org/10.1093/mnras/stae841)*, Monthly Notices of
 the Royal Astronomical Society, **530**, 167
-([arXiv:2403.13946](http://arxiv.org/abs/2403.13946)) \[[4
+([arXiv:2403.13946](http://arxiv.org/abs/2403.13946)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530..167M)\]
 
 Murgas, F.; Pallé, E.; Orell-Miquel, J.; Carleo, I.;
@@ -415,7 +415,7 @@ A.; *et al.* (incl. **de Leon, J. P.**), 2022, *[A Possible Alignment
 Between the Orbits of Planetary Systems and their Visual Binary
 Companions](http://dx.doi.org/10.3847/1538-3881/ac517f)*, The
 Astronomical Journal, **163**, 207
-([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[34
+([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[35
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..207C)\]
 
 Watanabe, Noriharu; Narita, Norio; Palle, Enric; Fukui, Akihiko;
@@ -480,14 +480,6 @@ Astronomical Journal, **162**, 161
 ([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[28
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..161H)\]
 
-Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
-*et al.* (incl. **de Leon, J. P.**), 2021, *[The Magellan-TESS Survey.
-I. Survey Description and Midsurvey
-Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
-Journal Supplement Series, **256**, 33
-([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[38
-citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
-
 Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-1749: an M dwarf with a
 Trio of Planets including a Near-resonant
@@ -495,6 +487,14 @@ Pair](http://dx.doi.org/10.3847/1538-3881/ac13a5)*, The Astronomical
 Journal, **162**, 167
 ([arXiv:2107.05430](http://arxiv.org/abs/2107.05430)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..167F)\]
+
+Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
+*et al.* (incl. **de Leon, J. P.**), 2021, *[The Magellan-TESS Survey.
+I. Survey Description and Midsurvey
+Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
+Journal Supplement Series, **256**, 33
+([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[38
+citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
 
 Trifonov, T.; Caballero, J. A.; Morales, J. C.; Seifahrt, A.;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[A nearby transiting rocky
@@ -579,7 +579,7 @@ Nowak, Grzegorz; Palle, Enric; Gandolfi, Davide; Deeg, Hans J.;
 warm sub-Saturn around a mildly evolved
 star](http://dx.doi.org/10.1093/mnras/staa2077)*, Monthly Notices of the
 Royal Astronomical Society, **497**, 4423
-([arXiv:2007.07939](http://arxiv.org/abs/2007.07939)) \[[6
+([arXiv:2007.07939](http://arxiv.org/abs/2007.07939)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.4423N)\]
 
 Nielsen, L. D.; Brahm, R.; Bouchy, F.; Espinoza, N.;
@@ -634,7 +634,7 @@ Jenkins, James S.; Dı́az, Matı́as R.; Kurtovic, Nicolás T.; Espinoza,
 Néstor; *et al.* (incl. **de Leon, J. P.**), 2020, *[An ultrahot Neptune
 in the Neptune desert](http://dx.doi.org/10.1038/s41550-020-1142-z)*,
 Nature Astronomy, **4**, 1148
-([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[64
+([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[65
 citations](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J)\]
 
 Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
