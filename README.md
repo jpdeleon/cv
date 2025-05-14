@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 78 refereed papers mainly about exoplanets with
-1,656 total citations, and an h-index of 26, as of 2025-05-13[^1].
+1,656 total citations, and an h-index of 26, as of 2025-05-14[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -153,7 +153,7 @@ Leon et al.
 ## Publications
 
 refereed: 78 / first author: 3 / citations: 1,656 / h-index: 26 (as of
-2025-05-13)
+2025-05-14)
 
 <div class="list">
 
@@ -488,14 +488,6 @@ Astronomical Journal, **162**, 161
 ([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[28
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..161H)\]
 
-Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
-*et al.* (incl. **de Leon, J. P.**), 2021, *[The Magellan-TESS Survey.
-I. Survey Description and Midsurvey
-Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
-Journal Supplement Series, **256**, 33
-([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[38
-citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
-
 Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-1749: an M dwarf with a
 Trio of Planets including a Near-resonant
@@ -503,6 +495,14 @@ Pair](http://dx.doi.org/10.3847/1538-3881/ac13a5)*, The Astronomical
 Journal, **162**, 167
 ([arXiv:2107.05430](http://arxiv.org/abs/2107.05430)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..167F)\]
+
+Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
+*et al.* (incl. **de Leon, J. P.**), 2021, *[The Magellan-TESS Survey.
+I. Survey Description and Midsurvey
+Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
+Journal Supplement Series, **256**, 33
+([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[38
+citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
 
 Trifonov, T.; Caballero, J. A.; Morales, J. C.; Seifahrt, A.;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[A nearby transiting rocky
