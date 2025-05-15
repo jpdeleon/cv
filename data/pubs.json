@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2409.16374",
     "authors": [
       "Greklek-McKeon, Michael",
       "Vissapragada, Shreyas",
@@ -466,7 +466,7 @@
       "Ziegler, C.",
       "Zou, Y."
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347251",
     "page": null,
@@ -553,7 +553,7 @@
       "Schweitzer, A.",
       "Vico Linares, J. I."
     ],
-    "citations": 21,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202449411",
     "page": null,
@@ -1242,7 +1242,7 @@
       "Ziegler, Carl",
       "Zucker, Shay"
     ],
-    "citations": 21,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad3068",
     "page": 233,
@@ -2333,7 +2333,7 @@
       "Okumura, Jack",
       "Samadi-Ghadim, Anya"
     ],
-    "citations": 10,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.1093/mnras/stac2845",
     "page": 2627,
@@ -4504,7 +4504,7 @@
       "Law, Nicholas",
       "Mann, Andrew W."
     ],
-    "citations": 67,
+    "citations": 65,
     "doctype": "article",
     "doi": "10.1038/s41550-020-1142-z",
     "page": 1148,
@@ -4634,7 +4634,7 @@
       "Kawai, N.",
       "Tamura, M."
     ],
-    "citations": 30,
+    "citations": 29,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab487f",
     "page": 206,
@@ -5131,7 +5131,7 @@
       "Udry, S.",
       "Winn, J. N."
     ],
-    "citations": 37,
+    "citations": 35,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201834853",
     "page": null,
