@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 78 refereed papers mainly about exoplanets with
-1,650 total citations, and an h-index of 26, as of 2025-05-17[^1].
+1,652 total citations, and an h-index of 26, as of 2025-05-18[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 78 / first author: 3 / citations: 1,650 / h-index: 26 (as of
-2025-05-17)
+refereed: 78 / first author: 3 / citations: 1,652 / h-index: 26 (as of
+2025-05-18)
 
 <div class="list">
 
@@ -423,7 +423,7 @@ A.; *et al.* (incl. **de Leon, J. P.**), 2022, *[A Possible Alignment
 Between the Orbits of Planetary Systems and their Visual Binary
 Companions](http://dx.doi.org/10.3847/1538-3881/ac517f)*, The
 Astronomical Journal, **163**, 207
-([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[35
+([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[36
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..207C)\]
 
 Watanabe, Noriharu; Narita, Norio; Palle, Enric; Fukui, Akihiko;
@@ -488,14 +488,6 @@ Astronomical Journal, **162**, 161
 ([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[28
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..161H)\]
 
-Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
-*et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-1749: an M dwarf with a
-Trio of Planets including a Near-resonant
-Pair](http://dx.doi.org/10.3847/1538-3881/ac13a5)*, The Astronomical
-Journal, **162**, 167
-([arXiv:2107.05430](http://arxiv.org/abs/2107.05430)) \[[7
-citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..167F)\]
-
 Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[The Magellan-TESS Survey.
 I. Survey Description and Midsurvey
@@ -504,6 +496,14 @@ Journal Supplement Series, **256**, 33
 ([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[38
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
 
+Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
+*et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-1749: an M dwarf with a
+Trio of Planets including a Near-resonant
+Pair](http://dx.doi.org/10.3847/1538-3881/ac13a5)*, The Astronomical
+Journal, **162**, 167
+([arXiv:2107.05430](http://arxiv.org/abs/2107.05430)) \[[7
+citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..167F)\]
+
 Trifonov, T.; Caballero, J. A.; Morales, J. C.; Seifahrt, A.;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[A nearby transiting rocky
 exoplanet that is suitable for atmospheric
@@ -511,7 +511,7 @@ investigation](http://dx.doi.org/10.1126/science.abd7645)*, Science,
 ## 371
 
 , 1038 ([arXiv:2103.04950](http://arxiv.org/abs/2103.04950))
-\[[64
+\[[65
 citations](https://ui.adsabs.harvard.edu/abs/2021Sci...371.1038T)\]
 
 Parviainen, H.; Palle, E.; Zapatero-Osorio, M. R.; Nowak, G.;
