@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 79 refereed papers mainly about exoplanets with
-1,665 total citations, and an h-index of 26, as of 2025-05-21[^1].
+1,668 total citations, and an h-index of 26, as of 2025-05-22[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 79 / first author: 3 / citations: 1,665 / h-index: 26 (as of
-2025-05-21)
+refereed: 79 / first author: 3 / citations: 1,668 / h-index: 26 (as of
+2025-05-22)
 
 <div class="list">
 
@@ -171,6 +171,7 @@ Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
 Distribution of Warm Sub-Saturns in
 TESS](http://dx.doi.org/10.1093/mnras/staf759)*, Monthly Notices of the
 Royal Astronomical Society
+([arXiv:2505.04106](http://arxiv.org/abs/2505.04106))
 
 Barkaoui, K.; Korth, J.; Gaidos, E.; Agol, E.; *et al.* (incl. **de
 Leon, J. P.**), 2025, *[TOI-2015 b: A sub-Neptune in strong
@@ -184,7 +185,7 @@ Stevenson, Kevin B.; *et al.* (incl. **de Leon, J. P.**), 2024, *[A
 Fourth Planet in the Kepler-51 System Revealed by Transit Timing
 Variations](http://dx.doi.org/10.3847/1538-3881/ad83d3)*, The
 Astronomical Journal, **168**, 294
-([arXiv:2410.01625](http://arxiv.org/abs/2410.01625)) \[[4
+([arXiv:2410.01625](http://arxiv.org/abs/2410.01625)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168..294M)\]
 
 Ehrhardt, Juliana; Thomas, Luis; Kellermann, Hanna; Freitag, Christine;
@@ -230,7 +231,8 @@ Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
 Long-term variation in transits of the evaporating planet
 K2-22b](http://dx.doi.org/10.1051/0004-6361/202451332)*, Astronomy and
 Astrophysics, **688**
-([arXiv:2407.17372](http://arxiv.org/abs/2407.17372))
+([arXiv:2407.17372](http://arxiv.org/abs/2407.17372)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2024A&A...688L..34G)\]
 
 Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Migration and Evolution of
@@ -445,7 +447,7 @@ Fukui, Akihiko; Kimura, Tadahiro; Hirano, Teruyuki; Narita, Norio;
 Earth-radius planet near the habitable zone around a nearby M
 dwarf](http://dx.doi.org/10.1093/pasj/psab106)*, Publications of the
 Astronomical Society of Japan, **74**
-([arXiv:2110.10215](http://arxiv.org/abs/2110.10215)) \[[12
+([arXiv:2110.10215](http://arxiv.org/abs/2110.10215)) \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2022PASJ...74L...1F)\]
 
 Castro-González, A.; Dı́ez Alonso, E.; Menéndez Blanco, J.; Livingston,

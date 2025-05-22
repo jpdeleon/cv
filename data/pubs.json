@@ -56,7 +56,7 @@
     "year": "2025"
   },
   {
-    "arxiv": null,
+    "arxiv": "2505.04106",
     "authors": [
       "Fairnington, Tyler R.",
       "Dong, Jiayin",
@@ -311,7 +311,7 @@
       "Marino, Giuseppe",
       "Wang, Gavin"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad83d3",
     "page": 294,
@@ -643,7 +643,7 @@
       "Palle, E.",
       "Watanabe, N."
     ],
-    "citations": 1,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202451332",
     "page": null,
@@ -2846,7 +2846,7 @@
       "Bachelet, Etienne",
       "Harbeck, Daniel"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1093/pasj/psab106",
     "page": null,
