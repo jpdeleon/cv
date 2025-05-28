@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 79 refereed papers mainly about exoplanets with
-1,670 total citations, and an h-index of 26, as of 2025-05-27[^1].
+1,668 total citations, and an h-index of 26, as of 2025-05-28[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 79 / first author: 3 / citations: 1,670 / h-index: 26 (as of
-2025-05-27)
+refereed: 79 / first author: 3 / citations: 1,668 / h-index: 26 (as of
+2025-05-28)
 
 <div class="list">
 
@@ -223,7 +223,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[22
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
