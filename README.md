@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 79 refereed papers mainly about exoplanets with
-1,668 total citations, and an h-index of 26, as of 2025-05-29[^1].
+1,672 total citations, and an h-index of 26, as of 2025-05-30[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 79 / first author: 3 / citations: 1,668 / h-index: 26 (as of
-2025-05-29)
+refereed: 79 / first author: 3 / citations: 1,672 / h-index: 26 (as of
+2025-05-30)
 
 <div class="list">
 
@@ -334,7 +334,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[33
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -462,7 +462,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[35
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[36
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -485,7 +485,7 @@ Crossfield, Ian J. M.; *et al.* (incl. **de Leon, J. P.**), 2021,
 *[TESS-Keck Survey. V. Twin Sub-Neptunes Transiting the Nearby G Star HD
 63935](http://dx.doi.org/10.3847/1538-3881/ac18cb)*, The Astronomical
 Journal, **162**, 215
-([arXiv:2110.06885](http://arxiv.org/abs/2110.06885)) \[[15
+([arXiv:2110.06885](http://arxiv.org/abs/2110.06885)) \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..215S)\]
 
 Hirano, Teruyuki; Livingston, John H.; Fukui, Akihiko; Narita, Norio;
@@ -619,7 +619,7 @@ Hidalgo, D.; Pallé, E.; Alonso, R.; Gandolfi, D.; *et al.*, 2020,
 8.8-M\_$\oplus$\_ super-Earth and two warm 14.7 and 10.2-M\_$\oplus$\_
 sub-Neptunes](http://dx.doi.org/10.1051/0004-6361/201937080)*, Astronomy
 and Astrophysics, **636**
-([arXiv:2002.01755](http://arxiv.org/abs/2002.01755)) \[[20
+([arXiv:2002.01755](http://arxiv.org/abs/2002.01755)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...636A..89H)\]
 
 Lam, Kristine W. F.; Korth, Judith; Masuda, Kento; Csizmadia, Szilárd;
