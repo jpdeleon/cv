@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 80 refereed papers mainly about exoplanets with
-1,678 total citations, and an h-index of 26, as of 2025-06-04[^1].
+1,680 total citations, and an h-index of 26, as of 2025-06-05[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 80 / first author: 3 / citations: 1,678 / h-index: 26 (as of
-2025-06-04)
+refereed: 80 / first author: 3 / citations: 1,680 / h-index: 26 (as of
+2025-06-05)
 
 <div class="list">
 
@@ -601,7 +601,7 @@ Nowak, Grzegorz; Palle, Enric; Gandolfi, Davide; Deeg, Hans J.;
 warm sub-Saturn around a mildly evolved
 star](http://dx.doi.org/10.1093/mnras/staa2077)*, Monthly Notices of the
 Royal Astronomical Society, **497**, 4423
-([arXiv:2007.07939](http://arxiv.org/abs/2007.07939)) \[[7
+([arXiv:2007.07939](http://arxiv.org/abs/2007.07939)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.4423N)\]
 
 Nielsen, L. D.; Brahm, R.; Bouchy, F.; Espinoza, N.;
@@ -656,7 +656,7 @@ Jenkins, James S.; Dı́az, Matı́as R.; Kurtovic, Nicolás T.; Espinoza,
 Néstor; *et al.* (incl. **de Leon, J. P.**), 2020, *[An ultrahot Neptune
 in the Neptune desert](http://dx.doi.org/10.1038/s41550-020-1142-z)*,
 Nature Astronomy, **4**, 1148
-([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[66
+([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[67
 citations](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J)\]
 
 Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
