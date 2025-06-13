@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 80 refereed papers mainly about exoplanets with
-1,688 total citations, and an h-index of 26, as of 2025-06-12[^1].
+1,696 total citations, and an h-index of 26, as of 2025-06-13[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 80 / first author: 3 / citations: 1,688 / h-index: 26 (as of
-2025-06-12)
+refereed: 80 / first author: 3 / citations: 1,696 / h-index: 26 (as of
+2025-06-13)
 
 <div class="list">
 
@@ -207,7 +207,8 @@ Ghachoui, M.; Rackham, B. V.; Dévora-Pajares, M.; Chouqar, J.;
 super-Earths orbiting the M-dwarf stars TOI-6002 and TOI-5713 near the
 radius valley](http://dx.doi.org/10.1051/0004-6361/202451120)*,
 Astronomy and Astrophysics, **690**
-([arXiv:2408.00709](http://arxiv.org/abs/2408.00709))
+([arXiv:2408.00709](http://arxiv.org/abs/2408.00709)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2024A&A...690A.263G)\]
 
 Peláez-Torres, A.; Esparza-Borges, E.; Pallé, E.; Parviainen, H.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Validation of up to seven
@@ -229,7 +230,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[21
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[22
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
@@ -253,7 +254,7 @@ Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
 Earth-sized exoplanet orbiting the nearby ultracool dwarf star
 SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
 Astronomy, **8**, 865
-([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[7
+([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..865G)\]
 
 Barkaoui, K.; Schwarz, R. P.; Narita, N.; Mistry, P.;
@@ -262,7 +263,8 @@ Earth-sized planets around M dwarfs discovered by TESS: TOI-5720 b,
 TOI-6008 b, and TOI-6086
 b](http://dx.doi.org/10.1051/0004-6361/202349127)*, Astronomy and
 Astrophysics, **687**
-([arXiv:2405.06350](http://arxiv.org/abs/2405.06350))
+([arXiv:2405.06350](http://arxiv.org/abs/2405.06350)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2024A&A...687A.264B)\]
 
 Kuzuhara, Masayuki; Fukui, Akihiko; Livingston, John H.; Caballero, José
 A.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Gliese 12 b: A
@@ -285,7 +287,7 @@ the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
 JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[21
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[22
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
@@ -294,7 +296,7 @@ starspots on a young M-dwarf K2-25: multiband observations of stellar
 photometric variability and planetary
 transits](http://dx.doi.org/10.1093/mnras/stae841)*, Monthly Notices of
 the Royal Astronomical Society, **530**, 167
-([arXiv:2403.13946](http://arxiv.org/abs/2403.13946)) \[[5
+([arXiv:2403.13946](http://arxiv.org/abs/2403.13946)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530..167M)\]
 
 Murgas, F.; Pallé, E.; Orell-Miquel, J.; Carleo, I.;
@@ -340,7 +342,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[35
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[36
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -374,7 +376,7 @@ evaporating atmosphere around the 650-Myr-old sub-Neptune HD 235088 b
 (TOI-1430 b) with
 CARMENES](http://dx.doi.org/10.1051/0004-6361/202346445)*, Astronomy and
 Astrophysics, **677**
-([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[17
+([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...677A..56O)\]
 
 Kagetani, Taiki; Narita, Norio; Kimura, Tadahiro; Hirano, Teruyuki;
