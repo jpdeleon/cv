@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 80 refereed papers mainly about exoplanets with
-1,697 total citations, and an h-index of 26, as of 2025-06-15[^1].
+1,706 total citations, and an h-index of 26, as of 2025-06-16[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 80 / first author: 3 / citations: 1,697 / h-index: 26 (as of
-2025-06-15)
+refereed: 80 / first author: 3 / citations: 1,706 / h-index: 26 (as of
+2025-06-16)
 
 <div class="list">
 
@@ -350,7 +350,7 @@ Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
 Orbiting a Metal-rich Early M Star Discovered in the TESS Full-frame
 Images](http://dx.doi.org/10.3847/1538-3881/acf56d)*, The Astronomical
 Journal, **166**, 165
-([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[12
+([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
 
 Hartman, J. D.; Bakos, G. Á.; Csubry, Z.; Howard, A. W.;
@@ -359,7 +359,7 @@ Discovery of Two Transiting Giant Planets around M-dwarf Stars and
 Revised Parameters for Three
 Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
-([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[15
+([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
 
 Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
@@ -470,7 +470,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[36
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[37
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -509,7 +509,7 @@ Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
 I. Survey Description and Midsurvey
 Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
 Journal Supplement Series, **256**, 33
-([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[40
+([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[41
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
 
 Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
@@ -603,7 +603,7 @@ Nowak, Grzegorz; Palle, Enric; Gandolfi, Davide; Deeg, Hans J.;
 warm sub-Saturn around a mildly evolved
 star](http://dx.doi.org/10.1093/mnras/staa2077)*, Monthly Notices of the
 Royal Astronomical Society, **497**, 4423
-([arXiv:2007.07939](http://arxiv.org/abs/2007.07939)) \[[8
+([arXiv:2007.07939](http://arxiv.org/abs/2007.07939)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.4423N)\]
 
 Nielsen, L. D.; Brahm, R.; Bouchy, F.; Espinoza, N.;
@@ -643,7 +643,7 @@ P.; *et al.* (incl. **de Leon, J. P.**), 2020, *[MuSCAT2 multicolour
 validation of TESS candidates: an ultra-short-period substellar object
 around an M dwarf](http://dx.doi.org/10.1051/0004-6361/201935958)*,
 Astronomy and Astrophysics, **633**
-([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[39
+([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[40
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...633A..28P)\]
 
 Mayama, Satoshi; Pérez, Sebastián; Kusakabe, Nobuhiko; Muto, Takayuki;
@@ -666,7 +666,7 @@ Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
 confirmation of K2-100b: a young, highly irradiated, and low-density
 transiting hot Neptune](http://dx.doi.org/10.1093/mnras/stz2569)*,
 Monthly Notices of the Royal Astronomical Society, **490**, 698
-([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[63
+([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[64
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..698B)\]
 
 Fukui, A.; Suzuki, D.; Koshimoto, N.; Bachelet, E.; *et al.* (incl. **de
@@ -735,7 +735,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[118
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[119
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
@@ -759,7 +759,7 @@ Livingston, John H.; Endl, Michael; Dai, Fei; Cochran, William D.;
 *et al.* (incl. **de Leon, J. P.**), 2018, *[44 Validated Planets from
 K2 Campaign 10](http://dx.doi.org/10.3847/1538-3881/aaccde)*, The
 Astronomical Journal, **156**, 78
-([arXiv:1806.11504](http://arxiv.org/abs/1806.11504)) \[[62
+([arXiv:1806.11504](http://arxiv.org/abs/1806.11504)) \[[63
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...78L)\]
 
 Uyama, Taichi; Hashimoto, Jun; Muto, Takayuki; Akiyama, Eiji;
