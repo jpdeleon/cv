@@ -23,8 +23,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 80 refereed papers mainly about exoplanets with
-1,706 total citations, and an h-index of 26, as of 2025-06-16[^1].
+**Research:** Published 79 refereed papers mainly about exoplanets with
+1,666 total citations, and an h-index of 26, as of 2025-06-17[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 80 / first author: 3 / citations: 1,706 / h-index: 26 (as of
-2025-06-16)
+refereed: 79 / first author: 3 / citations: 1,666 / h-index: 26 (as of
+2025-06-17)
 
 <div class="list">
 
@@ -338,19 +338,12 @@ Astronomy and Astrophysics, **680**
 ([arXiv:2310.10244](http://arxiv.org/abs/2310.10244)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...680A..76M)\]
 
-Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
-Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
-the bright star HD
-110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[36
-citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
-
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
 *et al.* (incl. **de Leon, J. P.**), 2023, *[A Massive Hot Jupiter
 Orbiting a Metal-rich Early M Star Discovered in the TESS Full-frame
 Images](http://dx.doi.org/10.3847/1538-3881/acf56d)*, The Astronomical
 Journal, **166**, 165
-([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[13
+([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
 
 Hartman, J. D.; Bakos, G. Á.; Csubry, Z.; Howard, A. W.;
@@ -359,7 +352,7 @@ Discovery of Two Transiting Giant Planets around M-dwarf Stars and
 Revised Parameters for Three
 Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
-([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[16
+([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
 
 Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
@@ -643,7 +636,7 @@ P.; *et al.* (incl. **de Leon, J. P.**), 2020, *[MuSCAT2 multicolour
 validation of TESS candidates: an ultra-short-period substellar object
 around an M dwarf](http://dx.doi.org/10.1051/0004-6361/201935958)*,
 Astronomy and Astrophysics, **633**
-([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[40
+([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[39
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...633A..28P)\]
 
 Mayama, Satoshi; Pérez, Sebastián; Kusakabe, Nobuhiko; Muto, Takayuki;
@@ -735,7 +728,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[119
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[118
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
