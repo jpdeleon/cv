@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 80 refereed papers mainly about exoplanets with
-1,702 total citations, and an h-index of 26, as of 2025-06-18[^1].
+1,697 total citations, and an h-index of 26, as of 2025-06-19[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 80 / first author: 3 / citations: 1,702 / h-index: 26 (as of
-2025-06-18)
+refereed: 80 / first author: 3 / citations: 1,697 / h-index: 26 (as of
+2025-06-19)
 
 <div class="list">
 
@@ -470,7 +470,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[37
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[36
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -509,7 +509,7 @@ Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
 I. Survey Description and Midsurvey
 Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
 Journal Supplement Series, **256**, 33
-([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[41
+([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[40
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
 
 Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
@@ -603,7 +603,7 @@ Nowak, Grzegorz; Palle, Enric; Gandolfi, Davide; Deeg, Hans J.;
 warm sub-Saturn around a mildly evolved
 star](http://dx.doi.org/10.1093/mnras/staa2077)*, Monthly Notices of the
 Royal Astronomical Society, **497**, 4423
-([arXiv:2007.07939](http://arxiv.org/abs/2007.07939)) \[[9
+([arXiv:2007.07939](http://arxiv.org/abs/2007.07939)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.4423N)\]
 
 Nielsen, L. D.; Brahm, R.; Bouchy, F.; Espinoza, N.;
@@ -666,7 +666,7 @@ Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
 confirmation of K2-100b: a young, highly irradiated, and low-density
 transiting hot Neptune](http://dx.doi.org/10.1093/mnras/stz2569)*,
 Monthly Notices of the Royal Astronomical Society, **490**, 698
-([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[64
+([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[63
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..698B)\]
 
 Fukui, A.; Suzuki, D.; Koshimoto, N.; Bachelet, E.; *et al.* (incl. **de
@@ -759,7 +759,7 @@ Livingston, John H.; Endl, Michael; Dai, Fei; Cochran, William D.;
 *et al.* (incl. **de Leon, J. P.**), 2018, *[44 Validated Planets from
 K2 Campaign 10](http://dx.doi.org/10.3847/1538-3881/aaccde)*, The
 Astronomical Journal, **156**, 78
-([arXiv:1806.11504](http://arxiv.org/abs/1806.11504)) \[[63
+([arXiv:1806.11504](http://arxiv.org/abs/1806.11504)) \[[62
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...78L)\]
 
 Uyama, Taichi; Hashimoto, Jun; Muto, Takayuki; Akiyama, Eiji;
