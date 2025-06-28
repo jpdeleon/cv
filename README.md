@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 80 refereed papers mainly about exoplanets with
-1,697 total citations, and an h-index of 26, as of 2025-06-27[^1].
+1,695 total citations, and an h-index of 26, as of 2025-06-28[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,11 +152,18 @@ Leon et al.
 
 ## Publications
 
-refereed: 80 / first author: 3 / citations: 1,697 / h-index: 26 (as of
-2025-06-27)
+refereed: 80 / first author: 3 / citations: 1,695 / h-index: 26 (as of
+2025-06-28)
 
 <div class="list">
 
+
+Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
+*et al.* (incl. **de Leon, J. P.**), 2025, *[The eccentricity
+distribution of warm sub-Saturns in
+TESS](http://dx.doi.org/10.1093/mnras/staf759)*, Monthly Notices of the
+Royal Astronomical Society, **540**, 1144
+([arXiv:2505.04106](http://arxiv.org/abs/2505.04106))
 
 Greklek-McKeon, Michael; Vissapragada, Shreyas; Knutson, Heather A.;
 Fukui, Akihiko; *et al.* (incl. **de Leon, J. P.**), 2025, *[Tidally
@@ -167,17 +174,10 @@ Journal, **169**, 292
 ([arXiv:2409.16374](http://arxiv.org/abs/2409.16374))
 
 Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
-*et al.* (incl. **de Leon, J. P.**), 2025, *[The eccentricity
-distribution of warm sub-Saturns in
-TESS](http://dx.doi.org/10.1093/mnras/staf759)*, Monthly Notices of the
-Royal Astronomical Society, **540**, 1144
-
-Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[The Eccentricity
 Distribution of Warm Sub-Saturns in
 TESS](http://dx.doi.org/10.1093/mnras/staf759)*, Monthly Notices of the
 Royal Astronomical Society
-([arXiv:2505.04106](http://arxiv.org/abs/2505.04106))
 
 Barkaoui, K.; Korth, J.; Gaidos, E.; Agol, E.; *et al.* (incl. **de
 Leon, J. P.**), 2025, *[TOI-2015 b: A sub-Neptune in strong
@@ -603,7 +603,7 @@ Nowak, Grzegorz; Palle, Enric; Gandolfi, Davide; Deeg, Hans J.;
 warm sub-Saturn around a mildly evolved
 star](http://dx.doi.org/10.1093/mnras/staa2077)*, Monthly Notices of the
 Royal Astronomical Society, **497**, 4423
-([arXiv:2007.07939](http://arxiv.org/abs/2007.07939)) \[[8
+([arXiv:2007.07939](http://arxiv.org/abs/2007.07939)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.497.4423N)\]
 
 Nielsen, L. D.; Brahm, R.; Bouchy, F.; Espinoza, N.;
@@ -658,7 +658,7 @@ Jenkins, James S.; Dı́az, Matı́as R.; Kurtovic, Nicolás T.; Espinoza,
 Néstor; *et al.* (incl. **de Leon, J. P.**), 2020, *[An ultrahot Neptune
 in the Neptune desert](http://dx.doi.org/10.1038/s41550-020-1142-z)*,
 Nature Astronomy, **4**, 1148
-([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[67
+([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[66
 citations](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J)\]
 
 Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
