@@ -23,8 +23,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 80 refereed papers mainly about exoplanets with
-1,695 total citations, and an h-index of 26, as of 2025-06-29[^1].
+**Research:** Published 79 refereed papers mainly about exoplanets with
+1,612 total citations, and an h-index of 25, as of 2025-06-30[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 80 / first author: 3 / citations: 1,695 / h-index: 26 (as of
-2025-06-29)
+refereed: 79 / first author: 3 / citations: 1,612 / h-index: 25 (as of
+2025-06-30)
 
 <div class="list">
 
@@ -172,6 +172,12 @@ a Third Planet in the TOI-1266
 System](http://dx.doi.org/10.3847/1538-3881/adc0fe)*, The Astronomical
 Journal, **169**, 292
 ([arXiv:2409.16374](http://arxiv.org/abs/2409.16374))
+
+Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
+Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: A
+super-Earth in the radius valley orbiting a nearby M
+dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
+the Royal Astronomical Society
 
 Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[The Eccentricity
@@ -337,13 +343,6 @@ young M0.5 dwarf](http://dx.doi.org/10.1051/0004-6361/202347346)*,
 Astronomy and Astrophysics, **680**
 ([arXiv:2310.10244](http://arxiv.org/abs/2310.10244)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...680A..76M)\]
-
-Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
-Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
-the bright star HD
-110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[36
-citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
 *et al.* (incl. **de Leon, J. P.**), 2023, *[A Massive Hot Jupiter
@@ -676,14 +675,6 @@ Star](http://dx.doi.org/10.3847/1538-3881/ab487f)*, The Astronomical
 Journal, **158**, 206
 ([arXiv:1909.11802](http://arxiv.org/abs/1909.11802)) \[[29
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..206F)\]
-
-Quinn, Samuel N.; Becker, Juliette C.; Rodriguez, Joseph E.; Hadden,
-Sam; *et al.* (incl. **de Leon, J. P.**), 2019, *[Near-resonance in a
-System of Sub-Neptunes from
-TESS](http://dx.doi.org/10.3847/1538-3881/ab3f2b)*, The Astronomical
-Journal, **158**, 177
-([arXiv:1901.09092](http://arxiv.org/abs/1901.09092)) \[[47
-citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..177Q)\]
 
 Persson, Carina M.; Csizmadia, Szilárd; Mustill, Alexander J.; Fridlund,
 Malcolm; *et al.* (incl. **de Leon, J. P.**), 2019, *[Greening of the
