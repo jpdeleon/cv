@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 80 refereed papers mainly about exoplanets with
-1,697 total citations, and an h-index of 26, as of 2025-07-02[^1].
+1,697 total citations, and an h-index of 26, as of 2025-07-03[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -153,17 +153,10 @@ Leon et al.
 ## Publications
 
 refereed: 80 / first author: 3 / citations: 1,697 / h-index: 26 (as of
-2025-07-02)
+2025-07-03)
 
 <div class="list">
 
-
-Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
-*et al.* (incl. **de Leon, J. P.**), 2025, *[The eccentricity
-distribution of warm sub-Saturns in
-TESS](http://dx.doi.org/10.1093/mnras/staf759)*, Monthly Notices of the
-Royal Astronomical Society, **540**, 1144
-([arXiv:2505.04106](http://arxiv.org/abs/2505.04106))
 
 Greklek-McKeon, Michael; Vissapragada, Shreyas; Knutson, Heather A.;
 Fukui, Akihiko; *et al.* (incl. **de Leon, J. P.**), 2025, *[Tidally
@@ -172,6 +165,13 @@ a Third Planet in the TOI-1266
 System](http://dx.doi.org/10.3847/1538-3881/adc0fe)*, The Astronomical
 Journal, **169**, 292
 ([arXiv:2409.16374](http://arxiv.org/abs/2409.16374))
+
+Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
+*et al.* (incl. **de Leon, J. P.**), 2025, *[The eccentricity
+distribution of warm sub-Saturns in
+TESS](http://dx.doi.org/10.1093/mnras/staf759)*, Monthly Notices of the
+Royal Astronomical Society, **540**, 1144
+([arXiv:2505.04106](http://arxiv.org/abs/2505.04106))
 
 Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
 Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: A
@@ -203,6 +203,13 @@ TRES](http://dx.doi.org/10.1051/0004-6361/202451404)*, Astronomy and
 Astrophysics, **692**
 ([arXiv:2501.04383](http://arxiv.org/abs/2501.04383))
 
+Peláez-Torres, A.; Esparza-Borges, E.; Pallé, E.; Parviainen, H.;
+*et al.* (incl. **de Leon, J. P.**), 2024, *[Validation of up to seven
+TESS planet candidates through multi-colour transit photometry using
+MuSCAT2 data](http://dx.doi.org/10.1051/0004-6361/202347251)*, Astronomy
+and Astrophysics, **690**
+([arXiv:2409.07400](http://arxiv.org/abs/2409.07400))
+
 Ghachoui, M.; Rackham, B. V.; Dévora-Pajares, M.; Chouqar, J.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[TESS discovery of two
 super-Earths orbiting the M-dwarf stars TOI-6002 and TOI-5713 near the
@@ -210,13 +217,6 @@ radius valley](http://dx.doi.org/10.1051/0004-6361/202451120)*,
 Astronomy and Astrophysics, **690**
 ([arXiv:2408.00709](http://arxiv.org/abs/2408.00709)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...690A.263G)\]
-
-Peláez-Torres, A.; Esparza-Borges, E.; Pallé, E.; Parviainen, H.;
-*et al.* (incl. **de Leon, J. P.**), 2024, *[Validation of up to seven
-TESS planet candidates through multi-colour transit photometry using
-MuSCAT2 data](http://dx.doi.org/10.1051/0004-6361/202347251)*, Astronomy
-and Astrophysics, **690**
-([arXiv:2409.07400](http://arxiv.org/abs/2409.07400))
 
 Hayashi, Yuya; Narita, Norio; Fukui, Akihiko; Changeat, Quentin;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Low abundances of TiO and
@@ -573,15 +573,6 @@ Journal, **160**, 239
 ([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[57
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
 
-Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
-Leon, J. P.**), 2020, *[The CARMENES search for exoplanets around M
-dwarfs. Two planets on opposite sides of the radius gap transiting the
-nearby M dwarf LTT
-3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
-Astrophysics, **642**
-([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[67
-citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
-
 Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
 *et al.* (incl. **de Leon, J. P.**), 2020, *[Discovery of a hot,
 transiting, Earth-sized planet and a second temperate, non-transiting
@@ -590,6 +581,15 @@ planet around the M4 dwarf GJ 3473
 and Astrophysics, **642**
 ([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[37
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
+
+Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
+Leon, J. P.**), 2020, *[The CARMENES search for exoplanets around M
+dwarfs. Two planets on opposite sides of the radius gap transiting the
+nearby M dwarf LTT
+3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
+Astrophysics, **642**
+([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[67
+citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
 
 Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
 *et al.* (incl. **de Leon, J. P.**), 2020, *[Obliquity measurement and
