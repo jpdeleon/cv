@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 80 refereed papers mainly about exoplanets with
-1,699 total citations, and an h-index of 26, as of 2025-07-04[^1].
+1,705 total citations, and an h-index of 26, as of 2025-07-05[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 80 / first author: 3 / citations: 1,699 / h-index: 26 (as of
-2025-07-04)
+refereed: 80 / first author: 3 / citations: 1,705 / h-index: 26 (as of
+2025-07-05)
 
 <div class="list">
 
@@ -264,7 +264,7 @@ Earth-sized planets around M dwarfs discovered by TESS: TOI-5720 b,
 TOI-6008 b, and TOI-6086
 b](http://dx.doi.org/10.1051/0004-6361/202349127)*, Astronomy and
 Astrophysics, **687**
-([arXiv:2405.06350](http://arxiv.org/abs/2405.06350)) \[[2
+([arXiv:2405.06350](http://arxiv.org/abs/2405.06350)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...687A.264B)\]
 
 Kuzuhara, Masayuki; Fukui, Akihiko; Livingston, John H.; Caballero, José
@@ -385,7 +385,7 @@ Kagetani, Taiki; Narita, Norio; Kimura, Tadahiro; Hirano, Teruyuki;
 close-in giant planet transiting a metal-rich mid-M
 dwarf](http://dx.doi.org/10.1093/pasj/psad031)*, Publications of the
 Astronomical Society of Japan, **75**, 713
-([arXiv:2304.14703](http://arxiv.org/abs/2304.14703)) \[[14
+([arXiv:2304.14703](http://arxiv.org/abs/2304.14703)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2023PASJ...75..713K)\]
 
 **de Leon, J. P.**; Livingston, J. H.; Jenkins, J. S.; Vines, J. I.;
@@ -537,7 +537,7 @@ substellar object around an M dwarf validated using multicolour
 photometry and phase curve
 analysis](http://dx.doi.org/10.1051/0004-6361/202038934)*, Astronomy and
 Astrophysics, **645**
-([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[23
+([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2021A&A...645A..16P)\]
 
 Chen, G.; Pallé, E.; Parviainen, H.; Wang, H.; *et al.* (incl. **de
@@ -659,7 +659,7 @@ Jenkins, James S.; Dı́az, Matı́as R.; Kurtovic, Nicolás T.; Espinoza,
 Néstor; *et al.* (incl. **de Leon, J. P.**), 2020, *[An ultrahot Neptune
 in the Neptune desert](http://dx.doi.org/10.1038/s41550-020-1142-z)*,
 Nature Astronomy, **4**, 1148
-([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[66
+([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[67
 citations](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J)\]
 
 Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
@@ -736,7 +736,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[118
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[119
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
