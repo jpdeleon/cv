@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 80 refereed papers mainly about exoplanets with
-1,746 total citations, and an h-index of 26, as of 2025-07-12[^1].
+1,738 total citations, and an h-index of 26, as of 2025-07-13[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 80 / first author: 3 / citations: 1,746 / h-index: 26 (as of
-2025-07-12)
+refereed: 80 / first author: 3 / citations: 1,738 / h-index: 26 (as of
+2025-07-13)
 
 <div class="list">
 
@@ -192,7 +192,7 @@ Stevenson, Kevin B.; *et al.* (incl. **de Leon, J. P.**), 2024, *[A
 Fourth Planet in the Kepler-51 System Revealed by Transit Timing
 Variations](http://dx.doi.org/10.3847/1538-3881/ad83d3)*, The
 Astronomical Journal, **168**, 294
-([arXiv:2410.01625](http://arxiv.org/abs/2410.01625)) \[[7
+([arXiv:2410.01625](http://arxiv.org/abs/2410.01625)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168..294M)\]
 
 Ehrhardt, Juliana; Thomas, Luis; Kellermann, Hanna; Freitag, Christine;
@@ -249,7 +249,7 @@ Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
 Earth-sized exoplanet orbiting the nearby ultracool dwarf star
 SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
 Astronomy, **8**, 865
-([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[10
+([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..865G)\]
 
 Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
@@ -614,7 +614,7 @@ Nielsen, L. D.; Brahm, R.; Bouchy, F.; Espinoza, N.;
 from TESS. HIP 65Ab, TOI-157b, and
 TOI-169b](http://dx.doi.org/10.1051/0004-6361/202037941)*, Astronomy and
 Astrophysics, **639**
-([arXiv:2003.05932](http://arxiv.org/abs/2003.05932)) \[[32
+([arXiv:2003.05932](http://arxiv.org/abs/2003.05932)) \[[31
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...639A..76N)\]
 
 Šubjak, Ján; Sharma, Rishikesh; Carmichael, Theron W.; Johnson, Marshall
@@ -622,7 +622,7 @@ C.; *et al.* (incl. **de Leon, J. P.**), 2020, *[TOI-503: The First
 Known Brown-dwarf Am-star Binary from the TESS
 Mission](http://dx.doi.org/10.3847/1538-3881/ab7245)*, The Astronomical
 Journal, **159**, 151
-([arXiv:1909.07984](http://arxiv.org/abs/1909.07984)) \[[47
+([arXiv:1909.07984](http://arxiv.org/abs/1909.07984)) \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..151S)\]
 
 Hidalgo, D.; Pallé, E.; Alonso, R.; Gandolfi, D.; *et al.*, 2020,
@@ -685,7 +685,7 @@ Sam; *et al.* (incl. **de Leon, J. P.**), 2019, *[Near-resonance in a
 System of Sub-Neptunes from
 TESS](http://dx.doi.org/10.3847/1538-3881/ab3f2b)*, The Astronomical
 Journal, **158**, 177
-([arXiv:1901.09092](http://arxiv.org/abs/1901.09092)) \[[49
+([arXiv:1901.09092](http://arxiv.org/abs/1901.09092)) \[[47
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..177Q)\]
 
 Persson, Carina M.; Csizmadia, Szilárd; Mustill, Alexander J.; Fridlund,
@@ -794,7 +794,7 @@ Jun; *et al.*, 2015, *[Near-IR High-resolution Imaging Polarimetry of
 the SU Aur Disk: Clues for Tidal
 Tails?](http://dx.doi.org/10.1088/2041-8205/806/1/L10)*, The
 Astrophysical Journal, **806**
-([arXiv:1505.03610](http://arxiv.org/abs/1505.03610)) \[[17
+([arXiv:1505.03610](http://arxiv.org/abs/1505.03610)) \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D)\]
 
 </div>
