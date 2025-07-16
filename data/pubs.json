@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2501.09795",
     "authors": [
       "Vowell, Noah",
       "Rodriguez, Joseph E.",
@@ -51,7 +51,7 @@
       "Swift, Jonathan J.",
       "Winn, Joshua N."
     ],
-    "citations": 0,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.3847/1538-3881/addd17",
     "page": 68,
@@ -652,7 +652,7 @@
       "Gerasimov, R.",
       "Davoudi, F."
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202451120",
     "page": null,
@@ -956,7 +956,7 @@
       "Timmermans, Mathilde",
       "Winn, Joshua N."
     ],
-    "citations": 7,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad4a57",
     "page": 32,
@@ -1027,7 +1027,7 @@
       "Winn, J. N.",
       "Wohler, B."
     ],
-    "citations": 4,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202349127",
     "page": null,
@@ -4308,7 +4308,7 @@
       "Van Eylen, Vincent",
       "Kab{\\'a}th, Petr"
     ],
-    "citations": 46,
+    "citations": 45,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab7245",
     "page": 151,
@@ -5403,7 +5403,7 @@
       "Luque, Rafael",
       "Nishiumi, Taku"
     ],
-    "citations": 124,
+    "citations": 123,
     "doctype": "article",
     "doi": "10.1117/1.JATIS.5.1.015001",
     "page": 15001,
