@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 81 refereed papers mainly about exoplanets with
-1,749 total citations, and an h-index of 26, as of 2025-07-19[^1].
+1,754 total citations, and an h-index of 26, as of 2025-07-20[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 81 / first author: 3 / citations: 1,749 / h-index: 26 (as of
-2025-07-19)
+refereed: 81 / first author: 3 / citations: 1,754 / h-index: 26 (as of
+2025-07-20)
 
 <div class="list">
 
@@ -353,7 +353,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[39
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[40
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -474,7 +474,7 @@ J.; *et al.* (incl. **de Leon, J. P.**), 2022, *[The K2-OjOS Project:
 New and revisited planets and candidates in K2 campaigns 5, 16, &
 18](http://dx.doi.org/10.1093/mnras/stab2669)*, Monthly Notices of the
 Royal Astronomical Society, **509**, 1075
-([arXiv:2109.03346](http://arxiv.org/abs/2109.03346)) \[[19
+([arXiv:2109.03346](http://arxiv.org/abs/2109.03346)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.1075C)\]
 
 Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
@@ -598,7 +598,7 @@ dwarfs. Two planets on opposite sides of the radius gap transiting the
 nearby M dwarf LTT
 3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
 Astrophysics, **642**
-([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[67
+([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[68
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
 
 Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
@@ -606,7 +606,7 @@ Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
 atmospheric characterisation of the WASP-74 planetary
 system](http://dx.doi.org/10.1051/0004-6361/202038703)*, Astronomy and
 Astrophysics, **642**
-([arXiv:2007.11851](http://arxiv.org/abs/2007.11851)) \[[17
+([arXiv:2007.11851](http://arxiv.org/abs/2007.11851)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A..50L)\]
 
 Nowak, Grzegorz; Palle, Enric; Gandolfi, Davide; Deeg, Hans J.;
@@ -709,7 +709,7 @@ Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
 a mini-Neptune in a triple-star
 system](http://dx.doi.org/10.1093/mnras/stz139)*, Monthly Notices of the
 Royal Astronomical Society, **484**, 3522
-([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[26
+([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[27
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3522H)\]
 
 Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
