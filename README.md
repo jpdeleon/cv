@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 81 refereed papers mainly about exoplanets with
-1,760 total citations, and an h-index of 26, as of 2025-07-26[^1].
+1,760 total citations, and an h-index of 26, as of 2025-07-27[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -153,7 +153,7 @@ Leon et al.
 ## Publications
 
 refereed: 81 / first author: 3 / citations: 1,760 / h-index: 26 (as of
-2025-07-26)
+2025-07-27)
 
 <div class="list">
 
@@ -173,6 +173,13 @@ dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
 the Royal Astronomical Society
 ([arXiv:2506.18550](http://arxiv.org/abs/2506.18550))
 
+Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
+*et al.* (incl. **de Leon, J. P.**), 2025, *[The eccentricity
+distribution of warm sub-Saturns in
+TESS](http://dx.doi.org/10.1093/mnras/staf759)*, Monthly Notices of the
+Royal Astronomical Society, **540**, 1144
+([arXiv:2505.04106](http://arxiv.org/abs/2505.04106))
+
 Greklek-McKeon, Michael; Vissapragada, Shreyas; Knutson, Heather A.;
 Fukui, Akihiko; *et al.* (incl. **de Leon, J. P.**), 2025, *[Tidally
 Heated Sub-Neptunes, Refined Planetary Compositions, and Confirmation of
@@ -180,13 +187,6 @@ a Third Planet in the TOI-1266
 System](http://dx.doi.org/10.3847/1538-3881/adc0fe)*, The Astronomical
 Journal, **169**, 292
 ([arXiv:2409.16374](http://arxiv.org/abs/2409.16374))
-
-Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
-*et al.* (incl. **de Leon, J. P.**), 2025, *[The eccentricity
-distribution of warm sub-Saturns in
-TESS](http://dx.doi.org/10.1093/mnras/staf759)*, Monthly Notices of the
-Royal Astronomical Society, **540**, 1144
-([arXiv:2505.04106](http://arxiv.org/abs/2505.04106))
 
 Barkaoui, K.; Korth, J.; Gaidos, E.; Agol, E.; *et al.* (incl. **de
 Leon, J. P.**), 2025, *[TOI-2015 b: A sub-Neptune in strong
