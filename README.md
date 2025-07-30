@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 81 refereed papers mainly about exoplanets with
-1,765 total citations, and an h-index of 26, as of 2025-07-29[^1].
+1,764 total citations, and an h-index of 26, as of 2025-07-30[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 81 / first author: 3 / citations: 1,765 / h-index: 26 (as of
-2025-07-29)
+refereed: 81 / first author: 3 / citations: 1,764 / h-index: 26 (as of
+2025-07-30)
 
 <div class="list">
 
@@ -353,7 +353,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[41
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[40
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
