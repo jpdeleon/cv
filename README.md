@@ -23,8 +23,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 82 refereed papers mainly about exoplanets with
-1,767 total citations, and an h-index of 26, as of 2025-08-04[^1].
+**Research:** Published 81 refereed papers mainly about exoplanets with
+1,763 total citations, and an h-index of 26, as of 2025-08-05[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 82 / first author: 3 / citations: 1,767 / h-index: 26 (as of
-2025-08-04)
+refereed: 81 / first author: 3 / citations: 1,763 / h-index: 26 (as of
+2025-08-05)
 
 <div class="list">
 
@@ -171,13 +171,6 @@ Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: a
 super-Earth in the radius valley orbiting a nearby M
 dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
 the Royal Astronomical Society, **541**, 3249
-
-Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
-Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: A
-super-Earth in the radius valley orbiting a nearby M
-dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
-the Royal Astronomical Society
-([arXiv:2506.18550](http://arxiv.org/abs/2506.18550))
 
 Greklek-McKeon, Michael; Vissapragada, Shreyas; Knutson, Heather A.;
 Fukui, Akihiko; *et al.* (incl. **de Leon, J. P.**), 2025, *[Tidally
@@ -368,7 +361,7 @@ Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
 Orbiting a Metal-rich Early M Star Discovered in the TESS Full-frame
 Images](http://dx.doi.org/10.3847/1538-3881/acf56d)*, The Astronomical
 Journal, **166**, 165
-([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[15
+([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
 
 Hartman, J. D.; Bakos, G. Á.; Csubry, Z.; Howard, A. W.;
@@ -377,7 +370,7 @@ Discovery of Two Transiting Giant Planets around M-dwarf Stars and
 Revised Parameters for Three
 Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
-([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[17
+([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
 
 Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
@@ -661,7 +654,7 @@ P.; *et al.* (incl. **de Leon, J. P.**), 2020, *[MuSCAT2 multicolour
 validation of TESS candidates: an ultra-short-period substellar object
 around an M dwarf](http://dx.doi.org/10.1051/0004-6361/201935958)*,
 Astronomy and Astrophysics, **633**
-([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[43
+([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[42
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...633A..28P)\]
 
 Mayama, Satoshi; Pérez, Sebastián; Kusakabe, Nobuhiko; Muto, Takayuki;
@@ -753,7 +746,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[125
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[124
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
