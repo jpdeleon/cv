@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 81 refereed papers mainly about exoplanets with
-1,760 total citations, and an h-index of 26, as of 2025-08-06[^1].
+1,759 total citations, and an h-index of 26, as of 2025-08-07[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 81 / first author: 3 / citations: 1,760 / h-index: 26 (as of
-2025-08-06)
+refereed: 81 / first author: 3 / citations: 1,759 / h-index: 26 (as of
+2025-08-07)
 
 <div class="list">
 
@@ -241,7 +241,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[23
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
@@ -361,7 +361,7 @@ Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
 Orbiting a Metal-rich Early M Star Discovered in the TESS Full-frame
 Images](http://dx.doi.org/10.3847/1538-3881/acf56d)*, The Astronomical
 Journal, **166**, 165
-([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[14
+([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
 
 Hartman, J. D.; Bakos, G. Á.; Csubry, Z.; Howard, A. W.;
@@ -370,7 +370,7 @@ Discovery of Two Transiting Giant Planets around M-dwarf Stars and
 Revised Parameters for Three
 Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
-([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[16
+([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
 
 Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
@@ -481,7 +481,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[37
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[38
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -654,7 +654,7 @@ P.; *et al.* (incl. **de Leon, J. P.**), 2020, *[MuSCAT2 multicolour
 validation of TESS candidates: an ultra-short-period substellar object
 around an M dwarf](http://dx.doi.org/10.1051/0004-6361/201935958)*,
 Astronomy and Astrophysics, **633**
-([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[42
+([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[41
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...633A..28P)\]
 
 Mayama, Satoshi; Pérez, Sebastián; Kusakabe, Nobuhiko; Muto, Takayuki;
@@ -746,7 +746,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[123
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[122
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
@@ -778,7 +778,7 @@ Uyama, Taichi; Hashimoto, Jun; Muto, Takayuki; Akiyama, Eiji;
 Imaging of LKHa 330: Multi-band Detection of the Gap and Spiral-like
 Structures](http://dx.doi.org/10.3847/1538-3881/aacbd1)*, The
 Astronomical Journal, **156**, 63
-([arXiv:1804.05934](http://arxiv.org/abs/1804.05934)) \[[27
+([arXiv:1804.05934](http://arxiv.org/abs/1804.05934)) \[[28
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...63U)\]
 
 Murakami, Kenichi; Hayakawa, Tomohiko; **de Leon, J. P.**; & Ishikawa,
