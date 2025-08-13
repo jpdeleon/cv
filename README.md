@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 82 refereed papers mainly about exoplanets with
-1,763 total citations, and an h-index of 26, as of 2025-08-12[^1].
+1,763 total citations, and an h-index of 26, as of 2025-08-13[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -153,7 +153,7 @@ Leon et al.
 ## Publications
 
 refereed: 82 / first author: 3 / citations: 1,763 / h-index: 26 (as of
-2025-08-12)
+2025-08-13)
 
 <div class="list">
 
@@ -164,6 +164,7 @@ A.; Giacalone, Steven; *et al.* (incl. **de Leon, J. P.**), 2025,
 Photometry and
 TRICERATOPS+](http://dx.doi.org/10.3847/1538-3881/ade68b)*, The
 Astronomical Journal, **170**, 148
+([arXiv:2508.02782](http://arxiv.org/abs/2508.02782))
 
 Vowell, Noah; Rodriguez, Joseph E.; Latham, David W.; Quinn, Samuel N.;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[Eleven New Transiting Brown
