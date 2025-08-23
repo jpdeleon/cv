@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 82 refereed papers mainly about exoplanets with
-1,773 total citations, and an h-index of 27, as of 2025-08-22[^1].
+1,774 total citations, and an h-index of 27, as of 2025-08-23[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 82 / first author: 3 / citations: 1,773 / h-index: 27 (as of
-2025-08-22)
+refereed: 82 / first author: 3 / citations: 1,774 / h-index: 27 (as of
+2025-08-23)
 
 <div class="list">
 
@@ -306,7 +306,7 @@ the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
 JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[26
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[27
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
@@ -372,6 +372,14 @@ Journal, **166**, 165
 ([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
 
+Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
+Leon, J. P.**), 2023, *[GJ 806 (TOI-4481): A bright nearby
+multi-planetary system with a transiting hot low-density
+super-Earth](http://dx.doi.org/10.1051/0004-6361/202244261)*, Astronomy
+and Astrophysics, **678**
+([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[15
+citations](https://ui.adsabs.harvard.edu/abs/2023A&A...678A..80P)\]
+
 Hartman, J. D.; Bakos, G. Á.; Csubry, Z.; Howard, A. W.;
 *et al.* (incl. **de Leon, J. P.**), 2023, *[TOI 4201 b and TOI 5344 b:
 Discovery of Two Transiting Giant Planets around M-dwarf Stars and
@@ -380,14 +388,6 @@ Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
 ([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
-
-Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
-Leon, J. P.**), 2023, *[GJ 806 (TOI-4481): A bright nearby
-multi-planetary system with a transiting hot low-density
-super-Earth](http://dx.doi.org/10.1051/0004-6361/202244261)*, Astronomy
-and Astrophysics, **678**
-([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[15
-citations](https://ui.adsabs.harvard.edu/abs/2023A&A...678A..80P)\]
 
 Orell-Miquel, J.; Lampón, M.; López-Puertas, M.; Mallorquı́n, M.;
 *et al.* (incl. **de Leon, J. P.**), 2023, *[Confirmation of an He I
@@ -591,15 +591,6 @@ Journal, **160**, 239
 ([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[58
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
 
-Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
-*et al.* (incl. **de Leon, J. P.**), 2020, *[Discovery of a hot,
-transiting, Earth-sized planet and a second temperate, non-transiting
-planet around the M4 dwarf GJ 3473
-(TOI-488)](http://dx.doi.org/10.1051/0004-6361/202038967)*, Astronomy
-and Astrophysics, **642**
-([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[37
-citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
-
 Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2020, *[The CARMENES search for exoplanets around M
 dwarfs. Two planets on opposite sides of the radius gap transiting the
@@ -608,6 +599,15 @@ nearby M dwarf LTT
 Astrophysics, **642**
 ([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[68
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
+
+Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
+*et al.* (incl. **de Leon, J. P.**), 2020, *[Discovery of a hot,
+transiting, Earth-sized planet and a second temperate, non-transiting
+planet around the M4 dwarf GJ 3473
+(TOI-488)](http://dx.doi.org/10.1051/0004-6361/202038967)*, Astronomy
+and Astrophysics, **642**
+([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[37
+citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
 
 Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
 *et al.* (incl. **de Leon, J. P.**), 2020, *[Obliquity measurement and
