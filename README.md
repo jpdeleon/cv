@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 82 refereed papers mainly about exoplanets with
-1,774 total citations, and an h-index of 27, as of 2025-08-23[^1].
+1,776 total citations, and an h-index of 27, as of 2025-08-24[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 82 / first author: 3 / citations: 1,774 / h-index: 27 (as of
-2025-08-23)
+refereed: 82 / first author: 3 / citations: 1,776 / h-index: 27 (as of
+2025-08-24)
 
 <div class="list">
 
@@ -306,7 +306,7 @@ the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
 JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[27
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[28
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
@@ -597,7 +597,7 @@ dwarfs. Two planets on opposite sides of the radius gap transiting the
 nearby M dwarf LTT
 3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
 Astrophysics, **642**
-([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[68
+([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[69
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
 
 Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
