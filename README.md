@@ -893,7 +893,11 @@ their successful pursuit of graduate studies in Japan.
 <div class="list">
 
 
-JWST Data Analysis Workshop, Chiang Mai, Thailand, Jun 24 - Jul 5 2024
+[https://sites.google.com/g.ecc.u-tokyo.ac.jp/young-transiting-planet-worksh/home](Young Transiting Planet Workshop 2025),
+Ishigaki, Japan, Mar 12 - 15, 2025
+
+[https://indico.narit.or.th/event/203/](JWST Data Analysis Workshop),
+Chiang Mai, Thailand, Jun 24 - Jul 5, 2024
 
 Japan Planetary Atmosphere Research Society workshop II, Atami, Japan,
 Mar 2023
