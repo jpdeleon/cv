@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 83 refereed papers mainly about exoplanets with
-1,781 total citations, and an h-index of 28, as of 2025-08-26[^1].
+1,780 total citations, and an h-index of 27, as of 2025-08-27[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 83 / first author: 3 / citations: 1,781 / h-index: 28 (as of
-2025-08-26)
+refereed: 83 / first author: 3 / citations: 1,780 / h-index: 27 (as of
+2025-08-27)
 
 <div class="list">
 
@@ -186,6 +186,7 @@ Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
 hot water-world candidate orbiting Ross 176 with TESS and
 CARMENES](http://dx.doi.org/10.1051/0004-6361/202553719)*, Astronomy and
 Astrophysics, **700**
+([arXiv:2507.15763](http://arxiv.org/abs/2507.15763))
 
 Greklek-McKeon, Michael; Vissapragada, Shreyas; Knutson, Heather A.;
 Fukui, Akihiko; *et al.* (incl. **de Leon, J. P.**), 2025, *[Tidally
@@ -255,7 +256,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[27
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;

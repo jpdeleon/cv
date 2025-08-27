@@ -174,7 +174,7 @@
     "year": "2025"
   },
   {
-    "arxiv": null,
+    "arxiv": "2507.15763",
     "authors": [
       "Gerald{\\'\\i}a-Gonz{\\'a}lez, S.",
       "Orell-Miquel, J.",
@@ -838,7 +838,7 @@
       "Schweitzer, A.",
       "Vico Linares, J. I."
     ],
-    "citations": 27,
+    "citations": 26,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202449411",
     "page": null,
