@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 83 refereed papers mainly about exoplanets with
-1,779 total citations, and an h-index of 27, as of 2025-08-31[^1].
+1,783 total citations, and an h-index of 27, as of 2025-09-01[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 83 / first author: 3 / citations: 1,779 / h-index: 27 (as of
-2025-08-31)
+refereed: 83 / first author: 3 / citations: 1,783 / h-index: 27 (as of
+2025-09-01)
 
 <div class="list">
 
@@ -368,7 +368,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[40
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[41
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -402,7 +402,7 @@ evaporating atmosphere around the 650-Myr-old sub-Neptune HD 235088 b
 (TOI-1430 b) with
 CARMENES](http://dx.doi.org/10.1051/0004-6361/202346445)*, Astronomy and
 Astrophysics, **677**
-([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[19
+([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...677A..56O)\]
 
 Kagetani, Taiki; Narita, Norio; Kimura, Tadahiro; Hirano, Teruyuki;
@@ -489,7 +489,7 @@ J.; *et al.* (incl. **de Leon, J. P.**), 2022, *[The K2-OjOS Project:
 New and revisited planets and candidates in K2 campaigns 5, 16, &
 18](http://dx.doi.org/10.1093/mnras/stab2669)*, Monthly Notices of the
 Royal Astronomical Society, **509**, 1075
-([arXiv:2109.03346](http://arxiv.org/abs/2109.03346)) \[[21
+([arXiv:2109.03346](http://arxiv.org/abs/2109.03346)) \[[22
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.509.1075C)\]
 
 Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
@@ -724,7 +724,7 @@ Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
 a mini-Neptune in a triple-star
 system](http://dx.doi.org/10.1093/mnras/stz139)*, Monthly Notices of the
 Royal Astronomical Society, **484**, 3522
-([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[28
+([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[29
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3522H)\]
 
 Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
