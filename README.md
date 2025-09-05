@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 83 refereed papers mainly about exoplanets with
-1,784 total citations, and an h-index of 27, as of 2025-09-04[^1].
+1,784 total citations, and an h-index of 28, as of 2025-09-05[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 83 / first author: 3 / citations: 1,784 / h-index: 27 (as of
-2025-09-04)
+refereed: 83 / first author: 3 / citations: 1,784 / h-index: 28 (as of
+2025-09-05)
 
 <div class="list">
 
@@ -171,7 +171,7 @@ Vowell, Noah; Rodriguez, Joseph E.; Latham, David W.; Quinn, Samuel N.;
 Dwarfs and Very-low-mass Stars from
 TESS](http://dx.doi.org/10.3847/1538-3881/addd17)*, The Astronomical
 Journal, **170**, 68
-([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[5
+([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...68V)\]
 
 Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
@@ -256,7 +256,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[26
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[27
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
@@ -376,7 +376,7 @@ Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
 Orbiting a Metal-rich Early M Star Discovered in the TESS Full-frame
 Images](http://dx.doi.org/10.3847/1538-3881/acf56d)*, The Astronomical
 Journal, **166**, 165
-([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[14
+([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
 
 Hartman, J. D.; Bakos, G. Á.; Csubry, Z.; Howard, A. W.;
@@ -385,7 +385,7 @@ Discovery of Two Transiting Giant Planets around M-dwarf Stars and
 Revised Parameters for Three
 Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
-([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[16
+([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
 
 Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
@@ -669,7 +669,7 @@ P.; *et al.* (incl. **de Leon, J. P.**), 2020, *[MuSCAT2 multicolour
 validation of TESS candidates: an ultra-short-period substellar object
 around an M dwarf](http://dx.doi.org/10.1051/0004-6361/201935958)*,
 Astronomy and Astrophysics, **633**
-([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[43
+([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[42
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...633A..28P)\]
 
 Mayama, Satoshi; Pérez, Sebastián; Kusakabe, Nobuhiko; Muto, Takayuki;
@@ -732,7 +732,7 @@ Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
 with a Protoplanetary Disk around SU
 Aurigae](http://dx.doi.org/10.3847/1538-3881/ab0ae4)*, The Astronomical
 Journal, **157**, 165
-([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[38
+([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[39
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157..165A)\]
 
 Hayakawa, Tomohiko; Murakami, Kenichi; **de Leon, J. P.**; & Ishikawa,
@@ -761,7 +761,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[125
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[124
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
@@ -769,7 +769,7 @@ Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
 Inner Gas Disk inside the Large Cavity of a Transitional
 Disk](http://dx.doi.org/10.3847/2041-8213/aae88b)*, The Astrophysical
 Journal, **868** ([arXiv:1810.06941](http://arxiv.org/abs/1810.06941))
-\[[37
+\[[38
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...868L...3M)\]
 
 Takami, Michihiro; Fu, Guangwei; Liu, Hauyu Baobab; Karr, Jennifer L.;
