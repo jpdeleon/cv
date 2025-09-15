@@ -23,8 +23,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 84 refereed papers mainly about exoplanets with
-1,828 total citations, and an h-index of 28, as of 2025-09-14[^1].
+**Research:** Published 86 refereed papers mainly about exoplanets with
+1,832 total citations, and an h-index of 28, as of 2025-09-15[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,11 +152,17 @@ Leon et al.
 
 ## Publications
 
-refereed: 84 / first author: 3 / citations: 1,828 / h-index: 28 (as of
-2025-09-14)
+refereed: 86 / first author: 3 / citations: 1,832 / h-index: 28 (as of
+2025-09-15)
 
 <div class="list">
 
+
+Mori, Mayuko; Fukui, Akihiko; Hirano, Teruyuki; Narita, Norio;
+*et al.* (incl. **de Leon, J. P.**), 2025, *[Multiband, Multiepoch
+Photometry of the Spot-crossing System TOI-3884: Refined System Geometry
+and Spot Properties](http://dx.doi.org/10.3847/1538-3881/ade2df)*, The
+Astronomical Journal, **170**, 204
 
 Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[The mass of TOI-654 b: A
@@ -172,6 +178,12 @@ Photometry and
 TRICERATOPS+](http://dx.doi.org/10.3847/1538-3881/ade68b)*, The
 Astronomical Journal, **170**, 148
 ([arXiv:2508.02782](http://arxiv.org/abs/2508.02782))
+
+Yee, Samuel W.; Winn, Joshua N.; Hartman, Joel D.; Rodriguez, Joseph E.;
+*et al.* (incl. **de Leon, J. P.**), 2025, *[The TESS Grand Unified Hot
+Jupiter Survey. III. Thirty More Giant
+Planets](http://dx.doi.org/10.3847/1538-4365/aded0d)*, The Astrophysical
+Journal Supplement Series, **280**, 30
 
 Vowell, Noah; Rodriguez, Joseph E.; Latham, David W.; Quinn, Samuel N.;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[Eleven New Transiting Brown
@@ -393,7 +405,7 @@ Discovery of Two Transiting Giant Planets around M-dwarf Stars and
 Revised Parameters for Three
 Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
-([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[15
+([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
 
 Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
@@ -418,7 +430,7 @@ Kagetani, Taiki; Narita, Norio; Kimura, Tadahiro; Hirano, Teruyuki;
 close-in giant planet transiting a metal-rich mid-M
 dwarf](http://dx.doi.org/10.1093/pasj/psad031)*, Publications of the
 Astronomical Society of Japan, **75**, 713
-([arXiv:2304.14703](http://arxiv.org/abs/2304.14703)) \[[19
+([arXiv:2304.14703](http://arxiv.org/abs/2304.14703)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2023PASJ...75..713K)\]
 
 **de Leon, J. P.**; Livingston, J. H.; Jenkins, J. S.; Vines, J. I.;
@@ -457,7 +469,7 @@ Carmichael, Theron W.; Irwin, Jonathan M.; Murgas, Felipe; Pallé, Enric;
 brown dwarf orbiting an active M-dwarf from NASA’s TESS
 mission](http://dx.doi.org/10.1093/mnras/stac1666)*, Monthly Notices of
 the Royal Astronomical Society, **514**, 4944
-([arXiv:2202.08842](http://arxiv.org/abs/2202.08842)) \[[14
+([arXiv:2202.08842](http://arxiv.org/abs/2202.08842)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.4944C)\]
 
 Mori, Mayuko; Livingston, John H.; **de Leon, J. P.**; Narita, Norio;
@@ -570,7 +582,7 @@ substellar object around an M dwarf validated using multicolour
 photometry and phase curve
 analysis](http://dx.doi.org/10.1051/0004-6361/202038934)*, Astronomy and
 Astrophysics, **645**
-([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[25
+([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2021A&A...645A..16P)\]
 
 Chen, G.; Pallé, E.; Parviainen, H.; Wang, H.; *et al.* (incl. **de
