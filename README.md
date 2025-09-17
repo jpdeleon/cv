@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 86 refereed papers mainly about exoplanets with
-1,842 total citations, and an h-index of 28, as of 2025-09-16[^1].
+1,839 total citations, and an h-index of 28, as of 2025-09-17[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 86 / first author: 3 / citations: 1,842 / h-index: 28 (as of
-2025-09-16)
+refereed: 86 / first author: 3 / citations: 1,839 / h-index: 28 (as of
+2025-09-17)
 
 <div class="list">
 
@@ -163,6 +163,8 @@ Mori, Mayuko; Fukui, Akihiko; Hirano, Teruyuki; Narita, Norio;
 Photometry of the Spot-crossing System TOI-3884: Refined System Geometry
 and Spot Properties](http://dx.doi.org/10.3847/1538-3881/ade2df)*, The
 Astronomical Journal, **170**, 204
+([arXiv:2506.06445](http://arxiv.org/abs/2506.06445)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170..204M)\]
 
 Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[The mass of TOI-654 b: A
@@ -184,6 +186,7 @@ Yee, Samuel W.; Winn, Joshua N.; Hartman, Joel D.; Rodriguez, Joseph E.;
 Jupiter Survey. III. Thirty More Giant
 Planets](http://dx.doi.org/10.3847/1538-4365/aded0d)*, The Astrophysical
 Journal Supplement Series, **280**, 30
+([arXiv:2507.01855](http://arxiv.org/abs/2507.01855))
 
 Vowell, Noah; Rodriguez, Joseph E.; Latham, David W.; Quinn, Samuel N.;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[Eleven New Transiting Brown
@@ -243,7 +246,7 @@ Jupiters detected by TESS using follow-up spectroscopy from MaHPS at
 Wendelstein together with NEID and
 TRES](http://dx.doi.org/10.1051/0004-6361/202451404)*, Astronomy and
 Astrophysics, **692**
-([arXiv:2501.04383](http://arxiv.org/abs/2501.04383)) \[[3
+([arXiv:2501.04383](http://arxiv.org/abs/2501.04383)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...692A.220E)\]
 
 Peláez-Torres, A.; Esparza-Borges, E.; Pallé, E.; Parviainen, H.;
@@ -299,7 +302,7 @@ Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
 giant ExoPlanets (MEEP). I. Nine Newly Confirmed Hot Jupiters from the
 TESS Mission](http://dx.doi.org/10.3847/1538-3881/ad4a57)*, The
 Astronomical Journal, **168**, 32
-([arXiv:2401.05923](http://arxiv.org/abs/2401.05923)) \[[8
+([arXiv:2401.05923](http://arxiv.org/abs/2401.05923)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...32S)\]
 
 Barkaoui, K.; Schwarz, R. P.; Narita, N.; Mistry, P.;
@@ -342,7 +345,7 @@ starspots on a young M-dwarf K2-25: multiband observations of stellar
 photometric variability and planetary
 transits](http://dx.doi.org/10.1093/mnras/stae841)*, Monthly Notices of
 the Royal Astronomical Society, **530**, 167
-([arXiv:2403.13946](http://arxiv.org/abs/2403.13946)) \[[7
+([arXiv:2403.13946](http://arxiv.org/abs/2403.13946)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530..167M)\]
 
 Murgas, F.; Pallé, E.; Orell-Miquel, J.; Carleo, I.;
@@ -516,7 +519,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[39
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[38
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -689,7 +692,7 @@ P.; *et al.* (incl. **de Leon, J. P.**), 2020, *[MuSCAT2 multicolour
 validation of TESS candidates: an ultra-short-period substellar object
 around an M dwarf](http://dx.doi.org/10.1051/0004-6361/201935958)*,
 Astronomy and Astrophysics, **633**
-([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[45
+([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...633A..28P)\]
 
 Mayama, Satoshi; Pérez, Sebastián; Kusakabe, Nobuhiko; Muto, Takayuki;
@@ -781,7 +784,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[128
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[127
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;

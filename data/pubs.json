@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2506.06445",
     "authors": [
       "Mori, Mayuko",
       "Fukui, Akihiko",
@@ -16,7 +16,7 @@
       "Shporer, Avi",
       "Srdoc, Gregor"
     ],
-    "citations": 0,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ade2df",
     "page": 204,
@@ -137,7 +137,7 @@
     "year": "2025"
   },
   {
-    "arxiv": null,
+    "arxiv": "2507.01855",
     "authors": [
       "Yee, Samuel W.",
       "Winn, Joshua N.",
@@ -265,7 +265,7 @@
       "Van Zandt, Judah",
       "Ziegler, Carl"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aded0d",
     "page": 30,
@@ -834,7 +834,7 @@
       "Ziegler, Carl",
       "Z{\\\"o}ller, Raphael"
     ],
-    "citations": 3,
+    "citations": 2,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202451404",
     "page": null,
@@ -1281,7 +1281,7 @@
       "Timmermans, Mathilde",
       "Winn, Joshua N."
     ],
-    "citations": 8,
+    "citations": 7,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad4a57",
     "page": 32,
@@ -1784,7 +1784,7 @@
       "Watanabe, Noriharu",
       "Tamura, Motohide"
     ],
-    "citations": 7,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1093/mnras/stae841",
     "page": 167,
@@ -3414,7 +3414,7 @@
       "Shiao, Bernie",
       "Noel Villase{\\~n}or, Jesus"
     ],
-    "citations": 39,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac26bd",
     "page": 256,
@@ -4832,7 +4832,7 @@
       "Vezie, M.",
       "Winn, J. N."
     ],
-    "citations": 45,
+    "citations": 44,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201935958",
     "page": null,
@@ -5728,7 +5728,7 @@
       "Luque, Rafael",
       "Nishiumi, Taku"
     ],
-    "citations": 128,
+    "citations": 127,
     "doctype": "article",
     "doi": "10.1117/1.JATIS.5.1.015001",
     "page": 15001,
