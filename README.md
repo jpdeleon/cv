@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 86 refereed papers mainly about exoplanets with
-1,862 total citations, and an h-index of 28, as of 2025-10-02[^1].
+1,868 total citations, and an h-index of 28, as of 2025-10-03[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 86 / first author: 3 / citations: 1,862 / h-index: 28 (as of
-2025-10-02)
+refereed: 86 / first author: 3 / citations: 1,868 / h-index: 28 (as of
+2025-10-03)
 
 <div class="list">
 
@@ -193,7 +193,7 @@ Vowell, Noah; Rodriguez, Joseph E.; Latham, David W.; Quinn, Samuel N.;
 Dwarfs and Very-low-mass Stars from
 TESS](http://dx.doi.org/10.3847/1538-3881/addd17)*, The Astronomical
 Journal, **170**, 68
-([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[8
+([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...68V)\]
 
 Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
@@ -399,16 +399,8 @@ Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
 Orbiting a Metal-rich Early M Star Discovered in the TESS Full-frame
 Images](http://dx.doi.org/10.3847/1538-3881/acf56d)*, The Astronomical
 Journal, **166**, 165
-([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[13
+([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
-
-Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
-Leon, J. P.**), 2023, *[GJ 806 (TOI-4481): A bright nearby
-multi-planetary system with a transiting hot low-density
-super-Earth](http://dx.doi.org/10.1051/0004-6361/202244261)*, Astronomy
-and Astrophysics, **678**
-([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[16
-citations](https://ui.adsabs.harvard.edu/abs/2023A&A...678A..80P)\]
 
 Hartman, J. D.; Bakos, G. Á.; Csubry, Z.; Howard, A. W.;
 *et al.* (incl. **de Leon, J. P.**), 2023, *[TOI 4201 b and TOI 5344 b:
@@ -418,6 +410,14 @@ Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
 ([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[17
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
+
+Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
+Leon, J. P.**), 2023, *[GJ 806 (TOI-4481): A bright nearby
+multi-planetary system with a transiting hot low-density
+super-Earth](http://dx.doi.org/10.1051/0004-6361/202244261)*, Astronomy
+and Astrophysics, **678**
+([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[16
+citations](https://ui.adsabs.harvard.edu/abs/2023A&A...678A..80P)\]
 
 Orell-Miquel, J.; Lampón, M.; López-Puertas, M.; Mallorquı́n, M.;
 *et al.* (incl. **de Leon, J. P.**), 2023, *[Confirmation of an He I
@@ -519,7 +519,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[38
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[39
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -621,15 +621,6 @@ Journal, **160**, 239
 ([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[59
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
 
-Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
-*et al.* (incl. **de Leon, J. P.**), 2020, *[Discovery of a hot,
-transiting, Earth-sized planet and a second temperate, non-transiting
-planet around the M4 dwarf GJ 3473
-(TOI-488)](http://dx.doi.org/10.1051/0004-6361/202038967)*, Astronomy
-and Astrophysics, **642**
-([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[39
-citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
-
 Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2020, *[The CARMENES search for exoplanets around M
 dwarfs. Two planets on opposite sides of the radius gap transiting the
@@ -638,6 +629,15 @@ nearby M dwarf LTT
 Astrophysics, **642**
 ([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[71
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
+
+Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
+*et al.* (incl. **de Leon, J. P.**), 2020, *[Discovery of a hot,
+transiting, Earth-sized planet and a second temperate, non-transiting
+planet around the M4 dwarf GJ 3473
+(TOI-488)](http://dx.doi.org/10.1051/0004-6361/202038967)*, Astronomy
+and Astrophysics, **642**
+([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[39
+citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
 
 Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
 *et al.* (incl. **de Leon, J. P.**), 2020, *[Obliquity measurement and
@@ -668,7 +668,7 @@ C.; *et al.* (incl. **de Leon, J. P.**), 2020, *[TOI-503: The First
 Known Brown-dwarf Am-star Binary from the TESS
 Mission](http://dx.doi.org/10.3847/1538-3881/ab7245)*, The Astronomical
 Journal, **159**, 151
-([arXiv:1909.07984](http://arxiv.org/abs/1909.07984)) \[[46
+([arXiv:1909.07984](http://arxiv.org/abs/1909.07984)) \[[47
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..151S)\]
 
 Hidalgo, D.; Pallé, E.; Alonso, R.; Gandolfi, D.; *et al.*, 2020,
@@ -707,7 +707,7 @@ Jenkins, James S.; Dı́az, Matı́as R.; Kurtovic, Nicolás T.; Espinoza,
 Néstor; *et al.* (incl. **de Leon, J. P.**), 2020, *[An ultrahot Neptune
 in the Neptune desert](http://dx.doi.org/10.1038/s41550-020-1142-z)*,
 Nature Astronomy, **4**, 1148
-([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[72
+([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[74
 citations](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J)\]
 
 Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
