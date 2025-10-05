@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 86 refereed papers mainly about exoplanets with
-1,871 total citations, and an h-index of 28, as of 2025-10-04[^1].
+1,875 total citations, and an h-index of 28, as of 2025-10-05[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 86 / first author: 3 / citations: 1,871 / h-index: 28 (as of
-2025-10-04)
+refereed: 86 / first author: 3 / citations: 1,875 / h-index: 28 (as of
+2025-10-05)
 
 <div class="list">
 
@@ -193,7 +193,7 @@ Vowell, Noah; Rodriguez, Joseph E.; Latham, David W.; Quinn, Samuel N.;
 Dwarfs and Very-low-mass Stars from
 TESS](http://dx.doi.org/10.3847/1538-3881/addd17)*, The Astronomical
 Journal, **170**, 68
-([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[9
+([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...68V)\]
 
 Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
@@ -319,7 +319,7 @@ A.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Gliese 12 b: A
 Temperate Earth-sized Planet at 12 pc Ideal for Atmospheric Transmission
 Spectroscopy](http://dx.doi.org/10.3847/2041-8213/ad3642)*, The
 Astrophysical Journal, **967**
-([arXiv:2405.14708](http://arxiv.org/abs/2405.14708)) \[[15
+([arXiv:2405.14708](http://arxiv.org/abs/2405.14708)) \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...967L..21K)\]
 
 Hori, Yasunori; Fukui, Akihiko; Hirano, Teruyuki; Narita, Norio;
@@ -472,7 +472,7 @@ Carmichael, Theron W.; Irwin, Jonathan M.; Murgas, Felipe; Pallé, Enric;
 brown dwarf orbiting an active M-dwarf from NASA’s TESS
 mission](http://dx.doi.org/10.1093/mnras/stac1666)*, Monthly Notices of
 the Royal Astronomical Society, **514**, 4944
-([arXiv:2202.08842](http://arxiv.org/abs/2202.08842)) \[[16
+([arXiv:2202.08842](http://arxiv.org/abs/2202.08842)) \[[17
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.4944C)\]
 
 Mori, Mayuko; Livingston, John H.; **de Leon, J. P.**; Narita, Norio;
@@ -576,7 +576,7 @@ investigation](http://dx.doi.org/10.1126/science.abd7645)*, Science,
 ## 371
 
 , 1038 ([arXiv:2103.04950](http://arxiv.org/abs/2103.04950))
-\[[71
+\[[72
 citations](https://ui.adsabs.harvard.edu/abs/2021Sci...371.1038T)\]
 
 Parviainen, H.; Palle, E.; Zapatero-Osorio, M. R.; Nowak, G.;
