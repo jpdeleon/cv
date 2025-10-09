@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 86 refereed papers mainly about exoplanets with
-1,878 total citations, and an h-index of 28, as of 2025-10-08[^1].
+1,881 total citations, and an h-index of 28, as of 2025-10-09[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 86 / first author: 3 / citations: 1,878 / h-index: 28 (as of
-2025-10-08)
+refereed: 86 / first author: 3 / citations: 1,881 / h-index: 28 (as of
+2025-10-09)
 
 <div class="list">
 
@@ -237,7 +237,7 @@ Stevenson, Kevin B.; *et al.* (incl. **de Leon, J. P.**), 2024, *[A
 Fourth Planet in the Kepler-51 System Revealed by Transit Timing
 Variations](http://dx.doi.org/10.3847/1538-3881/ad83d3)*, The
 Astronomical Journal, **168**, 294
-([arXiv:2410.01625](http://arxiv.org/abs/2410.01625)) \[[8
+([arXiv:2410.01625](http://arxiv.org/abs/2410.01625)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168..294M)\]
 
 Ehrhardt, Juliana; Thomas, Luis; Kellermann, Hanna; Freitag, Christine;
@@ -747,7 +747,7 @@ Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
 a mini-Neptune in a triple-star
 system](http://dx.doi.org/10.1093/mnras/stz139)*, Monthly Notices of the
 Royal Astronomical Society, **484**, 3522
-([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[28
+([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[29
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3522H)\]
 
 Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
