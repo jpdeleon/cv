@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 86 refereed papers mainly about exoplanets with
-1,883 total citations, and an h-index of 28, as of 2025-10-12[^1].
+1,882 total citations, and an h-index of 28, as of 2025-10-13[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 86 / first author: 3 / citations: 1,883 / h-index: 28 (as of
-2025-10-12)
+refereed: 86 / first author: 3 / citations: 1,882 / h-index: 28 (as of
+2025-10-13)
 
 <div class="list">
 
@@ -166,19 +166,18 @@ Astronomical Journal, **170**, 204
 ([arXiv:2506.06445](http://arxiv.org/abs/2506.06445)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170..204M)\]
 
+Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
+*et al.* (incl. **de Leon, J. P.**), 2025, *[The mass of TOI-654 b: A
+short-period sub-Neptune transiting a mid-M
+dwarf](http://dx.doi.org/10.1093/pasj/psaf090)*, Publications of the
+Astronomical Society of Japan, **77**, 1101
+
 Yee, Samuel W.; Winn, Joshua N.; Hartman, Joel D.; Rodriguez, Joseph E.;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[The TESS Grand Unified Hot
 Jupiter Survey. III. Thirty More Giant
 Planets](http://dx.doi.org/10.3847/1538-4365/aded0d)*, The Astrophysical
 Journal Supplement Series, **280**, 30
 ([arXiv:2507.01855](http://arxiv.org/abs/2507.01855))
-
-Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
-*et al.* (incl. **de Leon, J. P.**), 2025, *[The mass of TOI-654 b: A
-short-period sub-Neptune transiting a mid-M
-dwarf](http://dx.doi.org/10.1093/pasj/psaf090)*, Publications of the
-Astronomical Society of Japan
-([arXiv:2507.16222](http://arxiv.org/abs/2507.16222))
 
 Gomez Barrientos, Jonathan; Greklek-McKeon, Michael; Knutson, Heather
 A.; Giacalone, Steven; *et al.* (incl. **de Leon, J. P.**), 2025,
