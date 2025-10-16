@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 86 refereed papers mainly about exoplanets with
-1,882 total citations, and an h-index of 28, as of 2025-10-15[^1].
+1,882 total citations, and an h-index of 28, as of 2025-10-16[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -153,10 +153,17 @@ Leon et al.
 ## Publications
 
 refereed: 86 / first author: 3 / citations: 1,882 / h-index: 28 (as of
-2025-10-15)
+2025-10-16)
 
 <div class="list">
 
+
+Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
+*et al.* (incl. **de Leon, J. P.**), 2025, *[The mass of TOI-654 b: A
+short-period sub-Neptune transiting a mid-M
+dwarf](http://dx.doi.org/10.1093/pasj/psaf090)*, Publications of the
+Astronomical Society of Japan, **77**, 1101
+([arXiv:2507.16222](http://arxiv.org/abs/2507.16222))
 
 Mori, Mayuko; Fukui, Akihiko; Hirano, Teruyuki; Narita, Norio;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[Multiband, Multiepoch
@@ -165,12 +172,6 @@ and Spot Properties](http://dx.doi.org/10.3847/1538-3881/ade2df)*, The
 Astronomical Journal, **170**, 204
 ([arXiv:2506.06445](http://arxiv.org/abs/2506.06445)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170..204M)\]
-
-Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
-*et al.* (incl. **de Leon, J. P.**), 2025, *[The mass of TOI-654 b: A
-short-period sub-Neptune transiting a mid-M
-dwarf](http://dx.doi.org/10.1093/pasj/psaf090)*, Publications of the
-Astronomical Society of Japan, **77**, 1101
 
 Yee, Samuel W.; Winn, Joshua N.; Hartman, Joel D.; Rodriguez, Joseph E.;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[The TESS Grand Unified Hot
@@ -192,7 +193,7 @@ Vowell, Noah; Rodriguez, Joseph E.; Latham, David W.; Quinn, Samuel N.;
 Dwarfs and Very-low-mass Stars from
 TESS](http://dx.doi.org/10.3847/1538-3881/addd17)*, The Astronomical
 Journal, **170**, 68
-([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[10
+([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...68V)\]
 
 Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;

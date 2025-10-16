@@ -1,34 +1,6 @@
 [
   {
-    "arxiv": "2506.06445",
-    "authors": [
-      "Mori, Mayuko",
-      "Fukui, Akihiko",
-      "Hirano, Teruyuki",
-      "Narita, Norio",
-      "Livingston, John H.",
-      "Barkaoui, Khalid",
-      "Collins, Karen A.",
-      "de Leon, Jerome P.",
-      "Ikuta, Kai",
-      "Kawai, Yugo",
-      "Schwarz, Richard P.",
-      "Shporer, Avi",
-      "Srdoc, Gregor"
-    ],
-    "citations": 3,
-    "doctype": "article",
-    "doi": "10.3847/1538-3881/ade2df",
-    "page": 204,
-    "pub": "The Astronomical Journal",
-    "pubdate": "2025-10-00",
-    "title": "Multiband, Multiepoch Photometry of the Spot-crossing System TOI-3884: Refined System Geometry and Spot Properties",
-    "url": "https://ui.adsabs.harvard.edu/abs/2025AJ....170..204M",
-    "volume": "170",
-    "year": "2025"
-  },
-  {
-    "arxiv": null,
+    "arxiv": "2507.16222",
     "authors": [
       "Ikuta, Kai",
       "Narita, Norio",
@@ -74,7 +46,7 @@
       "Kotani, Takayuki",
       "Tamura, Motohide"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/pasj/psaf090",
     "page": 1101,
@@ -83,6 +55,34 @@
     "title": "The mass of TOI-654 b: A short-period sub-Neptune transiting a mid-M dwarf",
     "url": "https://ui.adsabs.harvard.edu/abs/2025PASJ...77.1101I",
     "volume": "77",
+    "year": "2025"
+  },
+  {
+    "arxiv": "2506.06445",
+    "authors": [
+      "Mori, Mayuko",
+      "Fukui, Akihiko",
+      "Hirano, Teruyuki",
+      "Narita, Norio",
+      "Livingston, John H.",
+      "Barkaoui, Khalid",
+      "Collins, Karen A.",
+      "de Leon, Jerome P.",
+      "Ikuta, Kai",
+      "Kawai, Yugo",
+      "Schwarz, Richard P.",
+      "Shporer, Avi",
+      "Srdoc, Gregor"
+    ],
+    "citations": 3,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ade2df",
+    "page": 204,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2025-10-00",
+    "title": "Multiband, Multiepoch Photometry of the Spot-crossing System TOI-3884: Refined System Geometry and Spot Properties",
+    "url": "https://ui.adsabs.harvard.edu/abs/2025AJ....170..204M",
+    "volume": "170",
     "year": "2025"
   },
   {
@@ -328,7 +328,7 @@
       "Swift, Jonathan J.",
       "Winn, Joshua N."
     ],
-    "citations": 10,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-3881/addd17",
     "page": 68,
