@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 86 refereed papers mainly about exoplanets with
-1,900 total citations, and an h-index of 28, as of 2025-10-22[^1].
+1,896 total citations, and an h-index of 28, as of 2025-10-23[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 86 / first author: 3 / citations: 1,900 / h-index: 28 (as of
-2025-10-22)
+refereed: 86 / first author: 3 / citations: 1,896 / h-index: 28 (as of
+2025-10-23)
 
 <div class="list">
 
@@ -331,13 +331,13 @@ Journal, **167**, 289
 ([arXiv:2405.12637](http://arxiv.org/abs/2405.12637)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..289H)\]
 
-Hord, Benjamin J.; Kempton, Eliza M. -R.; Evans-Soma, Thomas M.; Latham,
+Hord, Benjamin J.; Kempton, Eliza M.-R.; Evans-Soma, Thomas M.; Latham,
 David W.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Identification of
 the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
 JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[31
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[30
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
@@ -403,6 +403,14 @@ Journal, **166**, 165
 ([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
 
+Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
+Leon, J. P.**), 2023, *[GJ 806 (TOI-4481): A bright nearby
+multi-planetary system with a transiting hot low-density
+super-Earth](http://dx.doi.org/10.1051/0004-6361/202244261)*, Astronomy
+and Astrophysics, **678**
+([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[16
+citations](https://ui.adsabs.harvard.edu/abs/2023A&A...678A..80P)\]
+
 Hartman, J. D.; Bakos, G. Á.; Csubry, Z.; Howard, A. W.;
 *et al.* (incl. **de Leon, J. P.**), 2023, *[TOI 4201 b and TOI 5344 b:
 Discovery of Two Transiting Giant Planets around M-dwarf Stars and
@@ -411,14 +419,6 @@ Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
 ([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
-
-Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
-Leon, J. P.**), 2023, *[GJ 806 (TOI-4481): A bright nearby
-multi-planetary system with a transiting hot low-density
-super-Earth](http://dx.doi.org/10.1051/0004-6361/202244261)*, Astronomy
-and Astrophysics, **678**
-([arXiv:2301.06873](http://arxiv.org/abs/2301.06873)) \[[16
-citations](https://ui.adsabs.harvard.edu/abs/2023A&A...678A..80P)\]
 
 Orell-Miquel, J.; Lampón, M.; López-Puertas, M.; Mallorquı́n, M.;
 *et al.* (incl. **de Leon, J. P.**), 2023, *[Confirmation of an He I
@@ -489,7 +489,7 @@ A.; *et al.* (incl. **de Leon, J. P.**), 2022, *[A Possible Alignment
 Between the Orbits of Planetary Systems and their Visual Binary
 Companions](http://dx.doi.org/10.3847/1538-3881/ac517f)*, The
 Astronomical Journal, **163**, 207
-([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[42
+([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[41
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..207C)\]
 
 Watanabe, Noriharu; Narita, Norio; Palle, Enric; Fukui, Akihiko;
@@ -622,15 +622,6 @@ Journal, **160**, 239
 ([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[59
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
 
-Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
-Leon, J. P.**), 2020, *[The CARMENES search for exoplanets around M
-dwarfs. Two planets on opposite sides of the radius gap transiting the
-nearby M dwarf LTT
-3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
-Astrophysics, **642**
-([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[71
-citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
-
 Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
 *et al.* (incl. **de Leon, J. P.**), 2020, *[Discovery of a hot,
 transiting, Earth-sized planet and a second temperate, non-transiting
@@ -639,6 +630,15 @@ planet around the M4 dwarf GJ 3473
 and Astrophysics, **642**
 ([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[39
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
+
+Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
+Leon, J. P.**), 2020, *[The CARMENES search for exoplanets around M
+dwarfs. Two planets on opposite sides of the radius gap transiting the
+nearby M dwarf LTT
+3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
+Astrophysics, **642**
+([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[71
+citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
 
 Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
 *et al.* (incl. **de Leon, J. P.**), 2020, *[Obliquity measurement and
@@ -708,7 +708,7 @@ Jenkins, James S.; Dı́az, Matı́as R.; Kurtovic, Nicolás T.; Espinoza,
 Néstor; *et al.* (incl. **de Leon, J. P.**), 2020, *[An ultrahot Neptune
 in the Neptune desert](http://dx.doi.org/10.1038/s41550-020-1142-z)*,
 Nature Astronomy, **4**, 1148
-([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[76
+([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[75
 citations](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J)\]
 
 Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
@@ -748,7 +748,7 @@ Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
 a mini-Neptune in a triple-star
 system](http://dx.doi.org/10.1093/mnras/stz139)*, Monthly Notices of the
 Royal Astronomical Society, **484**, 3522
-([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[30
+([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[29
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3522H)\]
 
 Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
