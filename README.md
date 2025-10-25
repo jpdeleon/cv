@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 86 refereed papers mainly about exoplanets with
-1,896 total citations, and an h-index of 28, as of 2025-10-24[^1].
+1,901 total citations, and an h-index of 28, as of 2025-10-25[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 86 / first author: 3 / citations: 1,896 / h-index: 28 (as of
-2025-10-24)
+refereed: 86 / first author: 3 / citations: 1,901 / h-index: 28 (as of
+2025-10-25)
 
 <div class="list">
 
@@ -279,7 +279,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[29
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[30
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
@@ -602,7 +602,7 @@ John H.; *et al.* (incl. **de Leon, J. P.**), 2020, *[Planetary
 candidates transiting cool dwarf stars from campaigns 12 to 15 of
 K2](http://dx.doi.org/10.1093/mnras/staa2353)*, Monthly Notices of the
 Royal Astronomical Society, **499**, 5416
-([arXiv:2007.12744](http://arxiv.org/abs/2007.12744)) \[[15
+([arXiv:2007.12744](http://arxiv.org/abs/2007.12744)) \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5416C)\]
 
 Narita, Norio; Fukui, Akihiko; Yamamuro, Tomoyasu; Harbeck, Daniel;
@@ -677,7 +677,7 @@ Hidalgo, D.; Pallé, E.; Alonso, R.; Gandolfi, D.; *et al.*, 2020,
 8.8-M\_$\oplus$\_ super-Earth and two warm 14.7 and 10.2-M\_$\oplus$\_
 sub-Neptunes](http://dx.doi.org/10.1051/0004-6361/201937080)*, Astronomy
 and Astrophysics, **636**
-([arXiv:2002.01755](http://arxiv.org/abs/2002.01755)) \[[20
+([arXiv:2002.01755](http://arxiv.org/abs/2002.01755)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...636A..89H)\]
 
 Lam, Kristine W. F.; Korth, Judith; Masuda, Kento; Csizmadia, Szilárd;
@@ -716,7 +716,7 @@ Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
 confirmation of K2-100b: a young, highly irradiated, and low-density
 transiting hot Neptune](http://dx.doi.org/10.1093/mnras/stz2569)*,
 Monthly Notices of the Royal Astronomical Society, **490**, 698
-([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[64
+([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[65
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..698B)\]
 
 Fukui, A.; Suzuki, D.; Koshimoto, N.; Bachelet, E.; *et al.* (incl. **de
@@ -748,7 +748,7 @@ Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
 a mini-Neptune in a triple-star
 system](http://dx.doi.org/10.1093/mnras/stz139)*, Monthly Notices of the
 Royal Astronomical Society, **484**, 3522
-([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[29
+([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[30
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3522H)\]
 
 Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
