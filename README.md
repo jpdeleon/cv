@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 86 refereed papers mainly about exoplanets with
-1,942 total citations, and an h-index of 28, as of 2025-11-22[^1].
+1,943 total citations, and an h-index of 28, as of 2025-11-23[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 86 / first author: 3 / citations: 1,942 / h-index: 28 (as of
-2025-11-22)
+refereed: 86 / first author: 3 / citations: 1,943 / h-index: 28 (as of
+2025-11-23)
 
 <div class="list">
 
@@ -346,7 +346,7 @@ starspots on a young M-dwarf K2-25: multiband observations of stellar
 photometric variability and planetary
 transits](http://dx.doi.org/10.1093/mnras/stae841)*, Monthly Notices of
 the Royal Astronomical Society, **530**, 167
-([arXiv:2403.13946](http://arxiv.org/abs/2403.13946)) \[[7
+([arXiv:2403.13946](http://arxiv.org/abs/2403.13946)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530..167M)\]
 
 Murgas, F.; Pallé, E.; Orell-Miquel, J.; Carleo, I.;
@@ -622,15 +622,6 @@ Journal, **160**, 239
 ([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[60
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
 
-Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
-*et al.* (incl. **de Leon, J. P.**), 2020, *[Discovery of a hot,
-transiting, Earth-sized planet and a second temperate, non-transiting
-planet around the M4 dwarf GJ 3473
-(TOI-488)](http://dx.doi.org/10.1051/0004-6361/202038967)*, Astronomy
-and Astrophysics, **642**
-([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[38
-citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
-
 Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2020, *[The CARMENES search for exoplanets around M
 dwarfs. Two planets on opposite sides of the radius gap transiting the
@@ -639,6 +630,15 @@ nearby M dwarf LTT
 Astrophysics, **642**
 ([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[70
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
+
+Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
+*et al.* (incl. **de Leon, J. P.**), 2020, *[Discovery of a hot,
+transiting, Earth-sized planet and a second temperate, non-transiting
+planet around the M4 dwarf GJ 3473
+(TOI-488)](http://dx.doi.org/10.1051/0004-6361/202038967)*, Astronomy
+and Astrophysics, **642**
+([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[38
+citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
 
 Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
 *et al.* (incl. **de Leon, J. P.**), 2020, *[Obliquity measurement and
