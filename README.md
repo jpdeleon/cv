@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 86 refereed papers mainly about exoplanets with
-1,943 total citations, and an h-index of 28, as of 2025-11-23[^1].
+1,946 total citations, and an h-index of 28, as of 2025-11-25[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 86 / first author: 3 / citations: 1,943 / h-index: 28 (as of
-2025-11-23)
+refereed: 86 / first author: 3 / citations: 1,946 / h-index: 28 (as of
+2025-11-25)
 
 <div class="list">
 
@@ -196,19 +196,19 @@ Journal, **170**, 68
 ([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...68V)\]
 
-Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
-*et al.* (incl. **de Leon, J. P.**), 2025, *[Discovery of a transiting
-hot water-world candidate orbiting Ross 176 with TESS and
-CARMENES](http://dx.doi.org/10.1051/0004-6361/202553719)*, Astronomy and
-Astrophysics, **700**
-([arXiv:2507.15763](http://arxiv.org/abs/2507.15763))
-
 Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
 Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: a
 super-Earth in the radius valley orbiting a nearby M
 dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
 the Royal Astronomical Society, **541**, 3249
 ([arXiv:2506.18550](http://arxiv.org/abs/2506.18550))
+
+Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
+*et al.* (incl. **de Leon, J. P.**), 2025, *[Discovery of a transiting
+hot water-world candidate orbiting Ross 176 with TESS and
+CARMENES](http://dx.doi.org/10.1051/0004-6361/202553719)*, Astronomy and
+Astrophysics, **700**
+([arXiv:2507.15763](http://arxiv.org/abs/2507.15763))
 
 Greklek-McKeon, Michael; Vissapragada, Shreyas; Knutson, Heather A.;
 Fukui, Akihiko; *et al.* (incl. **de Leon, J. P.**), 2025, *[Tidally
@@ -279,7 +279,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[33
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
@@ -337,7 +337,7 @@ the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
 JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[31
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[32
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
@@ -622,15 +622,6 @@ Journal, **160**, 239
 ([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[60
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
 
-Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
-Leon, J. P.**), 2020, *[The CARMENES search for exoplanets around M
-dwarfs. Two planets on opposite sides of the radius gap transiting the
-nearby M dwarf LTT
-3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
-Astrophysics, **642**
-([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[70
-citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
-
 Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
 *et al.* (incl. **de Leon, J. P.**), 2020, *[Discovery of a hot,
 transiting, Earth-sized planet and a second temperate, non-transiting
@@ -639,6 +630,15 @@ planet around the M4 dwarf GJ 3473
 and Astrophysics, **642**
 ([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[38
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
+
+Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
+Leon, J. P.**), 2020, *[The CARMENES search for exoplanets around M
+dwarfs. Two planets on opposite sides of the radius gap transiting the
+nearby M dwarf LTT
+3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
+Astrophysics, **642**
+([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[70
+citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
 
 Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
 *et al.* (incl. **de Leon, J. P.**), 2020, *[Obliquity measurement and
