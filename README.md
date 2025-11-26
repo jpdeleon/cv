@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 86 refereed papers mainly about exoplanets with
-1,946 total citations, and an h-index of 28, as of 2025-11-25[^1].
+1,946 total citations, and an h-index of 28, as of 2025-11-26[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -153,7 +153,7 @@ Leon et al.
 ## Publications
 
 refereed: 86 / first author: 3 / citations: 1,946 / h-index: 28 (as of
-2025-11-25)
+2025-11-26)
 
 <div class="list">
 
@@ -196,19 +196,19 @@ Journal, **170**, 68
 ([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...68V)\]
 
-Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
-Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: a
-super-Earth in the radius valley orbiting a nearby M
-dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
-the Royal Astronomical Society, **541**, 3249
-([arXiv:2506.18550](http://arxiv.org/abs/2506.18550))
-
 Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[Discovery of a transiting
 hot water-world candidate orbiting Ross 176 with TESS and
 CARMENES](http://dx.doi.org/10.1051/0004-6361/202553719)*, Astronomy and
 Astrophysics, **700**
 ([arXiv:2507.15763](http://arxiv.org/abs/2507.15763))
+
+Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
+Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: a
+super-Earth in the radius valley orbiting a nearby M
+dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
+the Royal Astronomical Society, **541**, 3249
+([arXiv:2506.18550](http://arxiv.org/abs/2506.18550))
 
 Greklek-McKeon, Michael; Vissapragada, Shreyas; Knutson, Heather A.;
 Fukui, Akihiko; *et al.* (incl. **de Leon, J. P.**), 2025, *[Tidally
@@ -290,14 +290,6 @@ Astrophysics, **688**
 ([arXiv:2407.17372](http://arxiv.org/abs/2407.17372)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...688L..34G)\]
 
-Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
-Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
-Earth-sized exoplanet orbiting the nearby ultracool dwarf star
-SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
-Astronomy, **8**, 865
-([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[10
-citations](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..865G)\]
-
 Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Migration and Evolution of
 giant ExoPlanets (MEEP). I. Nine Newly Confirmed Hot Jupiters from the
@@ -305,6 +297,14 @@ TESS Mission](http://dx.doi.org/10.3847/1538-3881/ad4a57)*, The
 Astronomical Journal, **168**, 32
 ([arXiv:2401.05923](http://arxiv.org/abs/2401.05923)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...32S)\]
+
+Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
+Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
+Earth-sized exoplanet orbiting the nearby ultracool dwarf star
+SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
+Astronomy, **8**, 865
+([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[10
+citations](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..865G)\]
 
 Barkaoui, K.; Schwarz, R. P.; Narita, N.; Mistry, P.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Three short-period
