@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 86 refereed papers mainly about exoplanets with
-1,946 total citations, and an h-index of 28, as of 2025-11-26[^1].
+1,951 total citations, and an h-index of 28, as of 2025-11-27[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 86 / first author: 3 / citations: 1,946 / h-index: 28 (as of
-2025-11-26)
+refereed: 86 / first author: 3 / citations: 1,951 / h-index: 28 (as of
+2025-11-27)
 
 <div class="list">
 
@@ -230,7 +230,7 @@ Leon, J. P.**), 2025, *[TOI-2015 b: A sub-Neptune in strong
 gravitational interaction with an outer non-transiting
 planet](http://dx.doi.org/10.1051/0004-6361/202452916)*, Astronomy and
 Astrophysics, **695**
-([arXiv:2502.07074](http://arxiv.org/abs/2502.07074)) \[[2
+([arXiv:2502.07074](http://arxiv.org/abs/2502.07074)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2025A&A...695A.281B)\]
 
 Masuda, Kento; Libby-Roberts, Jessica E.; Livingston, John H.;
@@ -263,7 +263,7 @@ Ghachoui, M.; Rackham, B. V.; Dévora-Pajares, M.; Chouqar, J.;
 super-Earths orbiting the M-dwarf stars TOI-6002 and TOI-5713 near the
 radius valley](http://dx.doi.org/10.1051/0004-6361/202451120)*,
 Astronomy and Astrophysics, **690**
-([arXiv:2408.00709](http://arxiv.org/abs/2408.00709)) \[[5
+([arXiv:2408.00709](http://arxiv.org/abs/2408.00709)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...690A.263G)\]
 
 Hayashi, Yuya; Narita, Norio; Fukui, Akihiko; Changeat, Quentin;
@@ -303,7 +303,7 @@ Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
 Earth-sized exoplanet orbiting the nearby ultracool dwarf star
 SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
 Astronomy, **8**, 865
-([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[10
+([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..865G)\]
 
 Barkaoui, K.; Schwarz, R. P.; Narita, N.; Mistry, P.;
@@ -312,7 +312,7 @@ Earth-sized planets around M dwarfs discovered by TESS: TOI-5720 b,
 TOI-6008 b, and TOI-6086
 b](http://dx.doi.org/10.1051/0004-6361/202349127)*, Astronomy and
 Astrophysics, **687**
-([arXiv:2405.06350](http://arxiv.org/abs/2405.06350)) \[[6
+([arXiv:2405.06350](http://arxiv.org/abs/2405.06350)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...687A.264B)\]
 
 Kuzuhara, Masayuki; Fukui, Akihiko; Livingston, John H.; Caballero, José
