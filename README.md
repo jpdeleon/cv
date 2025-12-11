@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 86 refereed papers mainly about exoplanets with
-1,966 total citations, and an h-index of 29, as of 2025-12-10[^1].
+1,968 total citations, and an h-index of 29, as of 2025-12-11[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 86 / first author: 3 / citations: 1,966 / h-index: 29 (as of
-2025-12-10)
+refereed: 86 / first author: 3 / citations: 1,968 / h-index: 29 (as of
+2025-12-11)
 
 <div class="list">
 
@@ -279,7 +279,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[35
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
@@ -290,14 +290,6 @@ Astrophysics, **688**
 ([arXiv:2407.17372](http://arxiv.org/abs/2407.17372)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...688L..34G)\]
 
-Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
-Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
-Earth-sized exoplanet orbiting the nearby ultracool dwarf star
-SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
-Astronomy, **8**, 865
-([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[12
-citations](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..865G)\]
-
 Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Migration and Evolution of
 giant ExoPlanets (MEEP). I. Nine Newly Confirmed Hot Jupiters from the
@@ -305,6 +297,14 @@ TESS Mission](http://dx.doi.org/10.3847/1538-3881/ad4a57)*, The
 Astronomical Journal, **168**, 32
 ([arXiv:2401.05923](http://arxiv.org/abs/2401.05923)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...32S)\]
+
+Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
+Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
+Earth-sized exoplanet orbiting the nearby ultracool dwarf star
+SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
+Astronomy, **8**, 865
+([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[12
+citations](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..865G)\]
 
 Barkaoui, K.; Schwarz, R. P.; Narita, N.; Mistry, P.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Three short-period
@@ -497,7 +497,7 @@ Watanabe, Noriharu; Narita, Norio; Palle, Enric; Fukui, Akihiko;
 WASP-33b for 11 yr by Doppler tomographic and transit photometric
 observations](http://dx.doi.org/10.1093/mnras/stac620)*, Monthly Notices
 of the Royal Astronomical Society, **512**, 4404
-([arXiv:2203.02003](http://arxiv.org/abs/2203.02003)) \[[13
+([arXiv:2203.02003](http://arxiv.org/abs/2203.02003)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.4404W)\]
 
 Fukui, Akihiko; Kimura, Tadahiro; Hirano, Teruyuki; Narita, Norio;
@@ -554,14 +554,6 @@ Astronomical Journal, **162**, 161
 ([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[30
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..161H)\]
 
-Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
-*et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-1749: an M dwarf with a
-Trio of Planets including a Near-resonant
-Pair](http://dx.doi.org/10.3847/1538-3881/ac13a5)*, The Astronomical
-Journal, **162**, 167
-([arXiv:2107.05430](http://arxiv.org/abs/2107.05430)) \[[9
-citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..167F)\]
-
 Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[The Magellan-TESS Survey.
 I. Survey Description and Midsurvey
@@ -569,6 +561,14 @@ Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
 Journal Supplement Series, **256**, 33
 ([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[42
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
+
+Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
+*et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-1749: an M dwarf with a
+Trio of Planets including a Near-resonant
+Pair](http://dx.doi.org/10.3847/1538-3881/ac13a5)*, The Astronomical
+Journal, **162**, 167
+([arXiv:2107.05430](http://arxiv.org/abs/2107.05430)) \[[9
+citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..167F)\]
 
 Trifonov, T.; Caballero, J. A.; Morales, J. C.; Seifahrt, A.;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[A nearby transiting rocky
@@ -785,7 +785,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[130
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[132
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
