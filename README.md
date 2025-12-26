@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 86 refereed papers mainly about exoplanets with
-2,002 total citations, and an h-index of 29, as of 2025-12-25[^1].
+2,004 total citations, and an h-index of 29, as of 2025-12-26[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 86 / first author: 3 / citations: 2,002 / h-index: 29 (as of
-2025-12-25)
+refereed: 86 / first author: 3 / citations: 2,004 / h-index: 29 (as of
+2025-12-26)
 
 <div class="list">
 
@@ -491,7 +491,7 @@ A.; *et al.* (incl. **de Leon, J. P.**), 2022, *[A Possible Alignment
 Between the Orbits of Planetary Systems and their Visual Binary
 Companions](http://dx.doi.org/10.3847/1538-3881/ac517f)*, The
 Astronomical Journal, **163**, 207
-([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[46
+([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[47
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..207C)\]
 
 Watanabe, Noriharu; Narita, Norio; Palle, Enric; Fukui, Akihiko;
@@ -588,7 +588,7 @@ substellar object around an M dwarf validated using multicolour
 photometry and phase curve
 analysis](http://dx.doi.org/10.1051/0004-6361/202038934)*, Astronomy and
 Astrophysics, **645**
-([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[27
+([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[28
 citations](https://ui.adsabs.harvard.edu/abs/2021A&A...645A..16P)\]
 
 Chen, G.; Pallé, E.; Parviainen, H.; Wang, H.; *et al.* (incl. **de
