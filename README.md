@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 86 refereed papers mainly about exoplanets with
-2,017 total citations, and an h-index of 29, as of 2026-01-14[^1].
+2,022 total citations, and an h-index of 29, as of 2026-01-15[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 86 / first author: 3 / citations: 2,017 / h-index: 29 (as of
-2026-01-14)
+refereed: 86 / first author: 3 / citations: 2,022 / h-index: 29 (as of
+2026-01-15)
 
 <div class="list">
 
@@ -218,7 +218,8 @@ Heated Sub-Neptunes, Refined Planetary Compositions, and Confirmation of
 a Third Planet in the TOI-1266
 System](http://dx.doi.org/10.3847/1538-3881/adc0fe)*, The Astronomical
 Journal, **169**, 292
-([arXiv:2409.16374](http://arxiv.org/abs/2409.16374))
+([arXiv:2409.16374](http://arxiv.org/abs/2409.16374)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2025AJ....169..292G)\]
 
 Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[The eccentricity
@@ -232,7 +233,7 @@ Leon, J. P.**), 2025, *[TOI-2015 b: A sub-Neptune in strong
 gravitational interaction with an outer non-transiting
 planet](http://dx.doi.org/10.1051/0004-6361/202452916)*, Astronomy and
 Astrophysics, **695**
-([arXiv:2502.07074](http://arxiv.org/abs/2502.07074)) \[[4
+([arXiv:2502.07074](http://arxiv.org/abs/2502.07074)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2025A&A...695A.281B)\]
 
 Masuda, Kento; Libby-Roberts, Jessica E.; Livingston, John H.;
@@ -265,7 +266,7 @@ Ghachoui, M.; Rackham, B. V.; Dévora-Pajares, M.; Chouqar, J.;
 super-Earths orbiting the M-dwarf stars TOI-6002 and TOI-5713 near the
 radius valley](http://dx.doi.org/10.1051/0004-6361/202451120)*,
 Astronomy and Astrophysics, **690**
-([arXiv:2408.00709](http://arxiv.org/abs/2408.00709)) \[[7
+([arXiv:2408.00709](http://arxiv.org/abs/2408.00709)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...690A.263G)\]
 
 Hayashi, Yuya; Narita, Norio; Fukui, Akihiko; Changeat, Quentin;
@@ -314,7 +315,7 @@ Earth-sized planets around M dwarfs discovered by TESS: TOI-5720 b,
 TOI-6008 b, and TOI-6086
 b](http://dx.doi.org/10.1051/0004-6361/202349127)*, Astronomy and
 Astrophysics, **687**
-([arXiv:2405.06350](http://arxiv.org/abs/2405.06350)) \[[7
+([arXiv:2405.06350](http://arxiv.org/abs/2405.06350)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...687A.264B)\]
 
 Kuzuhara, Masayuki; Fukui, Akihiko; Livingston, John H.; Caballero, José
@@ -387,7 +388,7 @@ Mallorquı́n, M.; Goffo, E.; Pallé, E.; Lodieu, N.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[TOI-1801 b: A temperate mini-Neptune around a
 young M0.5 dwarf](http://dx.doi.org/10.1051/0004-6361/202347346)*,
 Astronomy and Astrophysics, **680**
-([arXiv:2310.10244](http://arxiv.org/abs/2310.10244)) \[[9
+([arXiv:2310.10244](http://arxiv.org/abs/2310.10244)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...680A..76M)\]
 
 Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
