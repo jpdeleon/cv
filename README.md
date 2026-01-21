@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 87 refereed papers mainly about exoplanets with
-2,039 total citations, and an h-index of 29, as of 2026-01-20[^1].
+2,039 total citations, and an h-index of 29, as of 2026-01-21[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -153,7 +153,7 @@ Leon et al.
 ## Publications
 
 refereed: 87 / first author: 3 / citations: 2,039 / h-index: 29 (as of
-2026-01-20)
+2026-01-21)
 
 <div class="list">
 
@@ -162,7 +162,7 @@ Livingston, John H.; Petigura, Erik A.; David, Trevor J.; Masuda, Kento;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[A young progenitor for the
 most common planetary systems in the
 Galaxy](http://dx.doi.org/10.1038/s41586-025-09840-z)*, Nature, **649**,
-310
+310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598))
 
 Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[The mass of TOI-654 b: A
