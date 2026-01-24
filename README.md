@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 87 refereed papers mainly about exoplanets with
-2,040 total citations, and an h-index of 29, as of 2026-01-23[^1].
+2,044 total citations, and an h-index of 29, as of 2026-01-24[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 87 / first author: 3 / citations: 2,040 / h-index: 29 (as of
-2026-01-23)
+refereed: 87 / first author: 3 / citations: 2,044 / h-index: 29 (as of
+2026-01-24)
 
 <div class="list">
 
@@ -201,7 +201,7 @@ Vowell, Noah; Rodriguez, Joseph E.; Latham, David W.; Quinn, Samuel N.;
 Dwarfs and Very-low-mass Stars from
 TESS](http://dx.doi.org/10.3847/1538-3881/addd17)*, The Astronomical
 Journal, **170**, 68
-([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[14
+([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...68V)\]
 
 Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
@@ -313,7 +313,7 @@ Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
 giant ExoPlanets (MEEP). I. Nine Newly Confirmed Hot Jupiters from the
 TESS Mission](http://dx.doi.org/10.3847/1538-3881/ad4a57)*, The
 Astronomical Journal, **168**, 32
-([arXiv:2401.05923](http://arxiv.org/abs/2401.05923)) \[[12
+([arXiv:2401.05923](http://arxiv.org/abs/2401.05923)) \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...32S)\]
 
 Barkaoui, K.; Schwarz, R. P.; Narita, N.; Mistry, P.;
@@ -679,7 +679,7 @@ C.; *et al.* (incl. **de Leon, J. P.**), 2020, *[TOI-503: The First
 Known Brown-dwarf Am-star Binary from the TESS
 Mission](http://dx.doi.org/10.3847/1538-3881/ab7245)*, The Astronomical
 Journal, **159**, 151
-([arXiv:1909.07984](http://arxiv.org/abs/1909.07984)) \[[49
+([arXiv:1909.07984](http://arxiv.org/abs/1909.07984)) \[[50
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..151S)\]
 
 Hidalgo, D.; Pallé, E.; Alonso, R.; Gandolfi, D.; *et al.*, 2020,
@@ -750,7 +750,7 @@ Malcolm; *et al.* (incl. **de Leon, J. P.**), 2019, *[Greening of the
 brown-dwarf desert. EPIC 212036875b: a 51 M\_J\_ object in a 5-day orbit
 around an F7 V star](http://dx.doi.org/10.1051/0004-6361/201935505)*,
 Astronomy and Astrophysics, **628**
-([arXiv:1906.05048](http://arxiv.org/abs/1906.05048)) \[[30
+([arXiv:1906.05048](http://arxiv.org/abs/1906.05048)) \[[31
 citations](https://ui.adsabs.harvard.edu/abs/2019A&A...628A..64P)\]
 
 Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
