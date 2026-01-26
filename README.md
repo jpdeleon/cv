@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 87 refereed papers mainly about exoplanets with
-2,046 total citations, and an h-index of 29, as of 2026-01-25[^1].
+2,045 total citations, and an h-index of 29, as of 2026-01-26[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 87 / first author: 3 / citations: 2,046 / h-index: 29 (as of
-2026-01-25)
+refereed: 87 / first author: 3 / citations: 2,045 / h-index: 29 (as of
+2026-01-26)
 
 <div class="list">
 
@@ -596,7 +596,7 @@ substellar object around an M dwarf validated using multicolour
 photometry and phase curve
 analysis](http://dx.doi.org/10.1051/0004-6361/202038934)*, Astronomy and
 Astrophysics, **645**
-([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[29
+([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[28
 citations](https://ui.adsabs.harvard.edu/abs/2021A&A...645A..16P)\]
 
 Chen, G.; Pallé, E.; Parviainen, H.; Wang, H.; *et al.* (incl. **de
