@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 87 refereed papers mainly about exoplanets with
-2,045 total citations, and an h-index of 29, as of 2026-01-27[^1].
+2,046 total citations, and an h-index of 29, as of 2026-01-28[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 87 / first author: 3 / citations: 2,045 / h-index: 29 (as of
-2026-01-27)
+refereed: 87 / first author: 3 / citations: 2,046 / h-index: 29 (as of
+2026-01-28)
 
 <div class="list">
 
@@ -388,7 +388,7 @@ P.**), 2024, *[Simultaneous multicolour transit photometry of hot
 Jupiters HAT-P-19b, HAT-P-51b, HAT-P-55b, and
 HAT-P-65b](http://dx.doi.org/10.1093/mnras/stae072)*, Monthly Notices of
 the Royal Astronomical Society, **528**, 1930
-([arXiv:2401.03715](http://arxiv.org/abs/2401.03715)) \[[4
+([arXiv:2401.03715](http://arxiv.org/abs/2401.03715)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.1930K)\]
 
 Mallorquı́n, M.; Goffo, E.; Pallé, E.; Lodieu, N.; *et al.* (incl. **de
