@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 87 refereed papers mainly about exoplanets with
-2,046 total citations, and an h-index of 29, as of 2026-01-28[^1].
+2,048 total citations, and an h-index of 29, as of 2026-01-29[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 87 / first author: 3 / citations: 2,046 / h-index: 29 (as of
-2026-01-28)
+refereed: 87 / first author: 3 / citations: 2,048 / h-index: 29 (as of
+2026-01-29)
 
 <div class="list">
 
@@ -388,7 +388,7 @@ P.**), 2024, *[Simultaneous multicolour transit photometry of hot
 Jupiters HAT-P-19b, HAT-P-51b, HAT-P-55b, and
 HAT-P-65b](http://dx.doi.org/10.1093/mnras/stae072)*, Monthly Notices of
 the Royal Astronomical Society, **528**, 1930
-([arXiv:2401.03715](http://arxiv.org/abs/2401.03715)) \[[5
+([arXiv:2401.03715](http://arxiv.org/abs/2401.03715)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.528.1930K)\]
 
 Mallorquı́n, M.; Goffo, E.; Pallé, E.; Lodieu, N.; *et al.* (incl. **de
@@ -402,7 +402,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[52
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[53
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -596,7 +596,7 @@ substellar object around an M dwarf validated using multicolour
 photometry and phase curve
 analysis](http://dx.doi.org/10.1051/0004-6361/202038934)*, Astronomy and
 Astrophysics, **645**
-([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[28
+([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[29
 citations](https://ui.adsabs.harvard.edu/abs/2021A&A...645A..16P)\]
 
 Chen, G.; Pallé, E.; Parviainen, H.; Wang, H.; *et al.* (incl. **de
@@ -604,7 +604,7 @@ Leon, J. P.**), 2021, *[An enhanced slope in the transmission spectrum
 of the hot Jupiter
 WASP-104b](http://dx.doi.org/10.1093/mnras/staa3555)*, Monthly Notices
 of the Royal Astronomical Society, **500**, 5420
-([arXiv:2011.06329](http://arxiv.org/abs/2011.06329)) \[[17
+([arXiv:2011.06329](http://arxiv.org/abs/2011.06329)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5420C)\]
 
 Castro González, A.; Dı́ez Alonso, E.; Menéndez Blanco, J.; Livingston,
