@@ -23,8 +23,8 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 87 refereed papers mainly about exoplanets with
-2,052 total citations, and an h-index of 29, as of 2026-02-01[^1].
+**Research:** Published 88 refereed papers mainly about exoplanets with
+2,055 total citations, and an h-index of 29, as of 2026-02-02[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 87 / first author: 3 / citations: 2,052 / h-index: 29 (as of
-2026-02-01)
+refereed: 88 / first author: 3 / citations: 2,055 / h-index: 29 (as of
+2026-02-02)
 
 <div class="list">
 
@@ -163,6 +163,12 @@ Livingston, John H.; Petigura, Erik A.; David, Trevor J.; Masuda, Kento;
 most common planetary systems in the
 Galaxy](http://dx.doi.org/10.1038/s41586-025-09840-z)*, Nature, **649**,
 310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598))
+
+Morello, G.; Peláez-Torres, A.; Pozuelos, F. J.; Dévora-Pajares, M.;
+*et al.* (incl. **de Leon, J. P.**), 2026, *[The K-dwarfs Survey I. Four
+Validated Planets from the Radius Valley to the Neptune
+Desert](http://dx.doi.org/10.1093/mnras/stag183)*, Monthly Notices of
+the Royal Astronomical Society
 
 Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[The mass of TOI-654 b: A
@@ -347,7 +353,7 @@ the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
 JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[34
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[35
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
@@ -507,7 +513,7 @@ Watanabe, Noriharu; Narita, Norio; Palle, Enric; Fukui, Akihiko;
 WASP-33b for 11 yr by Doppler tomographic and transit photometric
 observations](http://dx.doi.org/10.1093/mnras/stac620)*, Monthly Notices
 of the Royal Astronomical Society, **512**, 4404
-([arXiv:2203.02003](http://arxiv.org/abs/2203.02003)) \[[14
+([arXiv:2203.02003](http://arxiv.org/abs/2203.02003)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.4404W)\]
 
 Fukui, Akihiko; Kimura, Tadahiro; Hirano, Teruyuki; Narita, Norio;
@@ -843,7 +849,7 @@ Yang, Yi; Hashimoto, Jun; Hayashi, Saeko S.; Tamura, Motohide;
 Polarimetry of Inner Region of GG Tau A
 Disk](http://dx.doi.org/10.3847/1538-3881/153/1/7)*, The Astronomical
 Journal, **153**, 7
-([arXiv:1610.09134](http://arxiv.org/abs/1610.09134)) \[[14
+([arXiv:1610.09134](http://arxiv.org/abs/1610.09134)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....153....7Y)\]
 
 **de Leon, J. P.**; Takami, Michihiro; Karr, Jennifer L.; Hashimoto,
