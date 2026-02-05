@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 88 refereed papers mainly about exoplanets with
-2,055 total citations, and an h-index of 29, as of 2026-02-04[^1].
+2,060 total citations, and an h-index of 29, as of 2026-02-05[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 88 / first author: 3 / citations: 2,055 / h-index: 29 (as of
-2026-02-04)
+refereed: 88 / first author: 3 / citations: 2,060 / h-index: 29 (as of
+2026-02-05)
 
 <div class="list">
 
@@ -231,7 +231,7 @@ Heated Sub-Neptunes, Refined Planetary Compositions, and Confirmation of
 a Third Planet in the TOI-1266
 System](http://dx.doi.org/10.3847/1538-3881/adc0fe)*, The Astronomical
 Journal, **169**, 292
-([arXiv:2409.16374](http://arxiv.org/abs/2409.16374)) \[[2
+([arXiv:2409.16374](http://arxiv.org/abs/2409.16374)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....169..292G)\]
 
 Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
@@ -287,7 +287,8 @@ Hayashi, Yuya; Narita, Norio; Fukui, Akihiko; Changeat, Quentin;
 VO on the dayside of KELT-9 b: Insights from ground-based photometric
 observations](http://dx.doi.org/10.1093/pasj/psae075)*, Publications of
 the Astronomical Society of Japan, **76**, 1131
-([arXiv:2408.15698](http://arxiv.org/abs/2408.15698))
+([arXiv:2408.15698](http://arxiv.org/abs/2408.15698)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2024PASJ...76.1131H)\]
 
 Orell-Miquel, J.; Murgas, F.; Pallé, E.; Mallorquı́n, M.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[The MOPYS project: A survey
@@ -306,14 +307,6 @@ Astrophysics, **688**
 ([arXiv:2407.17372](http://arxiv.org/abs/2407.17372)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...688L..34G)\]
 
-Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
-Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
-Earth-sized exoplanet orbiting the nearby ultracool dwarf star
-SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
-Astronomy, **8**, 865
-([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[14
-citations](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..865G)\]
-
 Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Migration and Evolution of
 giant ExoPlanets (MEEP). I. Nine Newly Confirmed Hot Jupiters from the
@@ -321,6 +314,14 @@ TESS Mission](http://dx.doi.org/10.3847/1538-3881/ad4a57)*, The
 Astronomical Journal, **168**, 32
 ([arXiv:2401.05923](http://arxiv.org/abs/2401.05923)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...32S)\]
+
+Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
+Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
+Earth-sized exoplanet orbiting the nearby ultracool dwarf star
+SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
+Astronomy, **8**, 865
+([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[14
+citations](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..865G)\]
 
 Barkaoui, K.; Schwarz, R. P.; Narita, N.; Mistry, P.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Three short-period
@@ -717,7 +718,7 @@ Mayama, Satoshi; Pérez, Sebastián; Kusakabe, Nobuhiko; Muto, Takayuki;
 Imaging Polarimetry of Misaligned Disks around the SR 24 Hierarchical
 Triple System](http://dx.doi.org/10.3847/1538-3881/ab5850)*, The
 Astronomical Journal, **159**, 12
-([arXiv:1911.10941](http://arxiv.org/abs/1911.10941)) \[[8
+([arXiv:1911.10941](http://arxiv.org/abs/1911.10941)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159...12M)\]
 
 Jenkins, James S.; Dı́az, Matı́as R.; Kurtovic, Nicolás T.; Espinoza,
@@ -809,7 +810,7 @@ Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
 Inner Gas Disk inside the Large Cavity of a Transitional
 Disk](http://dx.doi.org/10.3847/2041-8213/aae88b)*, The Astrophysical
 Journal, **868** ([arXiv:1810.06941](http://arxiv.org/abs/1810.06941))
-\[[41
+\[[42
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...868L...3M)\]
 
 Takami, Michihiro; Fu, Guangwei; Liu, Hauyu Baobab; Karr, Jennifer L.;
@@ -818,7 +819,7 @@ High-resolution Imaging Polarimetry of FU Ori-type Objects: Toward a
 Unified Scheme for Low-mass Protostellar
 Evolution](http://dx.doi.org/10.3847/1538-4357/aad2e1)*, The
 Astrophysical Journal, **864**, 20
-([arXiv:1807.03499](http://arxiv.org/abs/1807.03499)) \[[50
+([arXiv:1807.03499](http://arxiv.org/abs/1807.03499)) \[[51
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...864...20T)\]
 
 Livingston, John H.; Endl, Michael; Dai, Fei; Cochran, William D.;
