@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 88 refereed papers mainly about exoplanets with
-2,064 total citations, and an h-index of 29, as of 2026-02-09[^1].
+2,069 total citations, and an h-index of 29, as of 2026-02-10[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 88 / first author: 3 / citations: 2,064 / h-index: 29 (as of
-2026-02-09)
+refereed: 88 / first author: 3 / citations: 2,069 / h-index: 29 (as of
+2026-02-10)
 
 <div class="list">
 
@@ -239,7 +239,8 @@ Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
 distribution of warm sub-Saturns in
 TESS](http://dx.doi.org/10.1093/mnras/staf759)*, Monthly Notices of the
 Royal Astronomical Society, **540**, 1144
-([arXiv:2505.04106](http://arxiv.org/abs/2505.04106))
+([arXiv:2505.04106](http://arxiv.org/abs/2505.04106)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2025MNRAS.540.1144F)\]
 
 Barkaoui, K.; Korth, J.; Gaidos, E.; Agol, E.; *et al.* (incl. **de
 Leon, J. P.**), 2025, *[TOI-2015 b: A sub-Neptune in strong
@@ -417,7 +418,7 @@ Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
 Orbiting a Metal-rich Early M Star Discovered in the TESS Full-frame
 Images](http://dx.doi.org/10.3847/1538-3881/acf56d)*, The Astronomical
 Journal, **166**, 165
-([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[13
+([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
 
 Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
@@ -490,7 +491,7 @@ Carmichael, Theron W.; Irwin, Jonathan M.; Murgas, Felipe; Pallé, Enric;
 brown dwarf orbiting an active M-dwarf from NASA’s TESS
 mission](http://dx.doi.org/10.1093/mnras/stac1666)*, Monthly Notices of
 the Royal Astronomical Society, **514**, 4944
-([arXiv:2202.08842](http://arxiv.org/abs/2202.08842)) \[[21
+([arXiv:2202.08842](http://arxiv.org/abs/2202.08842)) \[[22
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.4944C)\]
 
 Mori, Mayuko; Livingston, John H.; **de Leon, J. P.**; Narita, Norio;
@@ -537,7 +538,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[43
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -654,7 +655,7 @@ dwarfs. Two planets on opposite sides of the radius gap transiting the
 nearby M dwarf LTT
 3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
 Astrophysics, **642**
-([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[73
+([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[74
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
 
 Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
