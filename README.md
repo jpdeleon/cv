@@ -24,7 +24,7 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Published 88 refereed papers mainly about exoplanets with
-2,071 total citations, and an h-index of 29, as of 2026-02-13[^1].
+2,072 total citations, and an h-index of 29, as of 2026-02-14[^1].
 
 **Teaching:** Conducted 2 introductory courses in Astronomy for
 undergraduates; half of the class pursued graduate studies both in the
@@ -152,8 +152,8 @@ Leon et al.
 
 ## Publications
 
-refereed: 88 / first author: 3 / citations: 2,071 / h-index: 29 (as of
-2026-02-13)
+refereed: 88 / first author: 3 / citations: 2,072 / h-index: 29 (as of
+2026-02-14)
 
 <div class="list">
 
@@ -182,7 +182,7 @@ Mori, Mayuko; Fukui, Akihiko; Hirano, Teruyuki; Narita, Norio;
 Photometry of the Spot-crossing System TOI-3884: Refined System Geometry
 and Spot Properties](http://dx.doi.org/10.3847/1538-3881/ade2df)*, The
 Astronomical Journal, **170**, 204
-([arXiv:2506.06445](http://arxiv.org/abs/2506.06445)) \[[3
+([arXiv:2506.06445](http://arxiv.org/abs/2506.06445)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170..204M)\]
 
 Yee, Samuel W.; Winn, Joshua N.; Hartman, Joel D.; Rodriguez, Joseph E.;
