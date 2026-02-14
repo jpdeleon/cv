@@ -14,7 +14,7 @@ Postdoctoral researcher at The University of Tokyo
 [`jpdeleon[at]g.ecc.u-tokyo.ac.jp`](mailto:jpdeleon@g.ecc.u-tokyo.ac.jp)  
 <a href="+81 (0) 70 8944 2936" class="uri">+81 (0) 70 8944 2936</a>
 [Google
-scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=list_works&sortby=pubdate)
+Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=list_works&sortby=pubdate)
 [`linkedin.com/in/jpdeleonbsap`](https://www.linkedin.com/in/jpdeleonbsap/)  
 <https://jpdeleon.github.io></span>  
 
@@ -23,21 +23,23 @@ scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Published 88 refereed papers mainly about exoplanets with
-2,072 total citations, and an h-index of 29, as of 2026-02-14[^1].
+**Research:** Author of 88 refereed publications in exoplanet science
+with 2,072 total citations and an h-index of 29 (as of 2026-02-14).[^1]
+Research focuses on the discovery and characterization of transiting
+exoplanets using space- and ground-based telescopes and advanced data
+analyses.
 
-**Teaching:** Conducted 2 introductory courses in Astronomy for
-undergraduates; half of the class pursued graduate studies both in the
-Philippines and abroad.
+**Teaching:** Designed and delivered introductory astronomy courses for
+undergraduates, five of whom subsequently pursued graduate studies in
+the Philippines and abroad.
 
-**Mentorship:** Guided a dynamic research group consisting of 1 PhD, 3
-master, and 2 undergraduate students in cutting-edge exoplanet research
-initiatives. Developed publicly available code for Astronomy research
-and instruction.
+**Mentorship:** Supervised 2 PhD, 2 master’s, and 4 undergraduate
+students on astronomy research projects. Developed publicly available
+software tools to support research and instruction.
 
-**Outreach:** Presented several invited talks over the years,
-contributing to both research and public outreach. Founded Astronomy
-group for fostering a passion for the cosmos.
+**Outreach:** Delivered invited talks for academic and public audiences
+and founded an astronomy community initiative to promote engagement in
+astronomy.
 
 </div>
 
@@ -46,25 +48,27 @@ group for fostering a passion for the cosmos.
 <div class="list">
 
 
-**PhD, 2021** Department of Astronomy, The University of Tokyo, Japan.  
-Title: Discovery and Characterization of Transiting Exoplanets with
-Diverse Radii and Ages ([online
-version](https://repository.dl.itc.u-tokyo.ac.jp/record/2006678/files/A37944.pdf)).
-Advisor: [Prof. Motohide
+**PhD in Astronomy, 2021**  
+Department of Astronomy, The University of Tokyo, Japan  
+Dissertation: *Discovery and Characterization of Transiting Exoplanets
+with Diverse Radii and Ages*
+([online](https://repository.dl.itc.u-tokyo.ac.jp/record/2006678/files/A37944.pdf))  
+Advisor: [Prof. Motohide
 Tamura](https://www.s.u-tokyo.ac.jp/en/people/tamura_motohide/)
 
-**MSc, 2018** Department of Astronomy, The University of Tokyo, Japan.  
-Title: Multi-color Simultaneous Transit Observations of Low Density Hot
-Jupiters ([online
-version](https://github.com/jpdeleon/thesis-master/tree/master)).
-Advisor: Prof. Motohide Tamura
+**MSc in Astronomy, 2018**  
+Department of Astronomy, The University of Tokyo, Japan  
+Thesis: *Multi-color Simultaneous Transit Observations of Low-density
+Hot Jupiters*
+([online](https://github.com/jpdeleon/thesis-master/tree/master))  
+Advisor: Prof. Motohide Tamura
 
-**BSc, 2013**  
-Department of Physics, University of the Philippines, Los Baños, Laguna,
-Philippines.  
-Title: Thermal Differential and Image Analysis of a Fabricated 11-cm
-Solar Telescope using an Active-Passive Cooling System. Advisor: [Dr.
-Rogel Mari Sese](https://unisec-global.org/rogel.html)
+**BSc in Physics, 2013**  
+Department of Physics, University of the Philippines Los Baños, Laguna,
+Philippines  
+Thesis: *Thermal Differential and Image Analysis of a Fabricated 11-cm
+Solar Telescope Using an Active-Passive Cooling System*  
+Advisor: [Dr. Rogel Mari Sese](https://unisec-global.org/rogel.html)
 
 </div>
 
@@ -73,37 +77,43 @@ Rogel Mari Sese](https://unisec-global.org/rogel.html)
 <div class="list">
 
 
-**Project Assistant Professor (2025/4 - Present)**  
+**Project Assistant Professor (2025/4–Present)**  
 *Komaba Institute for Science, Graduate School of Arts and Sciences, The
 University of Tokyo, Japan*  
-*Role: Management of observations and data analysis with
+*Role: Lead coordination of observations and data analysis with
 [MuSCAT4](https://lco.global/observatory/instruments/muscat/) under the
-[Kiban
+JSPS [Kiban
 S](https://www.jsps.go.jp/file/storage/kaken_12_g1990/r_6_en_24h00017.pdf)
-project.*  
+project, including planning observing campaigns, overseeing data
+reduction, and maintaining analysis workflows.*
 
-**Project Research Assistant (2023/4 - 2025/3)**  
+**Project Research Assistant (2023/4–2025/3)**  
 *Department of Multi-Disciplinary Sciences, Graduate School of Arts and
 Sciences, The University of Tokyo, Japan*  
-*Role: Spearheading the discovery and in-depth characterization of young
-transiting exoplanets using the TESS telescope.* *Advisor: [Prof. Norio
+*Role: Led the discovery and detailed characterization of young
+transiting exoplanets using TESS photometry, including target vetting,
+light-curve modeling, and follow-up coordination.*  
+*Advisor: [Prof. Norio
 Narita](https://www.u-tokyo.ac.jp/focus/en/people/k0001_00784.html)*
-(Refer to [de Leon et al.
-2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522..750D/abstract))  
+(see [de Leon et
+al. 2023](https://ui.adsabs.harvard.edu/abs/2023MNRAS.522..750D/abstract))
 
-**Project Research Assistant (2021/4 - 2023/3)**  
+**Project Research Assistant (2021/4–2023/3)**  
 *Department of Astronomy, Graduate School of Science, The University of
 Tokyo, Japan*  
-*Role: Led an international group of astronomers towards the discovery
-of 37 new transiting exoplanets using the Kepler telescope.* *Advisor:
-[Prof. Motohide Tamura](tamuraurl)* (Refer to [de Leon et al.
-2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..195D/abstract))  
+*Role: Coordinated an international collaboration that identified 37
+transiting exoplanets from Kepler data, performing transit detection,
+validation, and system characterization.*  
+*Advisor: [Prof. Motohide
+Tamura](https://www.s.u-tokyo.ac.jp/en/people/tamura_motohide/)* (see
+[de Leon et
+al. 2021](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..195D/abstract))
 
-**Research Development Assistant (2013/4-2014/6)**  
+**Research Development Assistant (2013/4–2014/6)**  
 *Regulus SpaceTech, Inc., Los Baños, Laguna, Philippines*  
-*Role: Initiated the software development for automating solar telescope
-control and data analysis.* *Advisor: [Dr. Rogel
-Sese](https://unisec-global.org/rogel.html)*  
+*Role: Initiated and implemented software for automated solar telescope
+control and data analysis.*  
+*Advisor: [Dr. Rogel Sese](https://unisec-global.org/rogel.html)*
 
 </div>
 
@@ -112,41 +122,41 @@ Sese](https://unisec-global.org/rogel.html)*
 <div class="list">
 
 
-**Remote Lecturer (2021/6 - 2021/10)**  
+**Remote Lecturer (2021/6–2021/10)**  
 *Faculty of Aerospace Engineering, School of Engineering & Architecture,
 Ateneo de Davao University, Philippines*  
-*Role: Crafted and conducted lectures on Introduction to Astronomy &
-Astronomical Data Analysis.*
+*Role: Designed and delivered lectures on introductory astronomy and
+astronomical data analysis for senior undergraduates.*
 
-**Technical Assistant (2018/10-2019/3)**  
+**Technical Assistant (2018/10–2019/3)**  
 *Engineering Department, The University of Tokyo, Japan*  
-*Role: Developed innovative image processing software for stitching
-featureless high-resolution images *Advisor: [Assoc. Prof. Tomohiko
-Hayakawa](hayakawaurl)* (Refer to [Murakami et al.
-2018](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10679/106790Z/Real-time-high-speed-motion-blur-compensation-method-using-galvanometer/10.1117/12.2306621.short))*
+*Role: Designed and implemented image-processing software for stitching
+featureless high-resolution images.*  
+*Advisor: [Assoc. Prof. Tomohiko Hayakawa](hayakawaurl)* (see [Murakami
+et
+al. 2018](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10679/106790Z/Real-time-high-speed-motion-blur-compensation-method-using-galvanometer/10.1117/12.2306621.short))
 
-**Research Assistant (2017/4-2018/3)**  
+**Research Assistant (2017/4–2018/3)**  
 *Department of Astronomy, The University of Tokyo, Japan*  
-*Role: Developed a robust pipeline for modeling and analyzing
-multi-wavelength transit light curves and provided mentorship to new
-research group members.*
+*Role: Designed a pipeline for modeling and analyzing multi-wavelength
+transit light curves and mentored new group members in its use.*
 
-**Research Student (2015/9-2016/3)**  
+**Research Student (2015/9–2016/3)**  
 *Department of Astronomy, Graduate University for Advanced Studies
 (SOKENDAI), Japan*  
-*Role: Worked on data reduction and analysis of high-resolution
-astronomical images and contributed to scientific report writing.*
-*Advisor: [Dr. Satoshi
-Mayama](https://researchmap.jp/mayama_satoshi?lang=en)*  
+*Role: Conducted data reduction and analysis of high-resolution
+astronomical images and prepared technical content for scientific
+reports.*  
+*Advisor: [Dr. Satoshi
+Mayama](https://researchmap.jp/mayama_satoshi?lang=en)*
 
-**Intern (2014/7-2014/9)**  
+**Intern (2014/7–2014/9)**  
 *Academia Sinica Institute for Astronomy and Astrophysics (ASIAA),
 Taipei, Taiwan*  
-*Role: Developed an image processing pipeline for the analysis of
-high-resolution images of a young forming star using the 8-m Subaru
-telescope.* *Advisor: [Dr. Michihiro Takami](takamiurl) (Refer to [de
-Leon et al.
-2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))*  
+*Role: Developed an image-processing pipeline to analyze high-resolution
+images of a young forming star using the 8-m Subaru Telescope.*  
+*Advisor: [Dr. Michihiro Takami](takamiurl)* (see [de Leon et
+al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 
 </div>
 
@@ -869,31 +879,30 @@ citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D)\]
 <div class="list">
 
 
-**2022/12:** St. Joseph’s Academy, Centennial Achiever’s Award
+**2022/12:** St. Joseph’s Academy Centennial Achiever’s Award
 
-**2021/3:** Philippine Embassy in Japan, Medal for distinguished
-Filipino Graduates
+**2021/3:** Philippine Embassy in Japan Medal for Distinguished Filipino
+Graduates
 
-**2018/4-2021/3:** Ministry of Education, Culture, Sports (MEXT) PhD
-Scholarship (JPY 8.4M)
+**2018/4–2021/3:** MEXT PhD Scholarship, Ministry of Education, Culture,
+Sports, Science and Technology (JPY 8.4M)
 
-**2016/4-2018/3:** MEXT MSc Scholarship (JPY 5.6M)
+**2016/4–2018/3:** MEXT MSc Scholarship (JPY 5.6M)
 
-**2015/4-2016/3:** MEXT Japanese Language and Research Scholarship (JPY
+**2015/4–2016/3:** MEXT Japanese Language and Research Scholarship (JPY
 2.8M)
 
-**2015/10-2016/3:** Research Grant from the Graduate University for
-Advanced Studies (JPY 0.2M)
+**2015/10–2016/3:** Research Grant, Graduate University for Advanced
+Studies (JPY 0.2M)
 
 **2014/9:** SanDisk Japan Scholarship (USD 3.75k, deferred)
 
 **2013/3:** International Space University Scholarship (EUR 9k,
 deferred)
 
-**2011-Present:** Received multiple travel grants to attend workshops in
-the US and Taiwan related to data science, and participated in
-research-related conferences and observation runs in the U.S., Europe,
-South Africa, and South-east Asia
+**2011–present:** Multiple travel grants for data science workshops and
+research conferences, including observation runs in the U.S., Europe,
+South Africa, and Southeast Asia
 
 </div>
 
@@ -903,31 +912,32 @@ South Africa, and South-east Asia
 
 
 **Designed and Taught Courses:** Created and delivered two elective
-courses for 4th-year undergraduate Aerospace Engineering students at the
-[Ateneo de Davao
+courses for 4th-year Aerospace Engineering undergraduates at the [Ateneo
+de Davao
 University](http://sea.addu.edu.ph/programs/aerospace-engineering/)
 during the 2nd semester of 2021.
 
-**Research Collaborations:** Collaborated with M. Mori (Current postdoc)
-on the discovery and validation of a rare planet in the Neptune desert
-(Refer to [Mori et al.
-2022](https://ui.adsabs.harvard.edu/abs/2022AJ....163..298M/abstract)).
+**Research Collaborations:** Collaborated with several international
+teams on multi-year projects resulting in research publications in
+high-impact, peer-reviewed journals.
 
-**Pipeline Development:** Wrote a public Python code for easily
-analyzing data from TESS telescope appropriate for research and
-instruction (Refer to
-[github.com/jpdeleon/quicklook](https://github.com/jpdeleon/quicklook))
+**Pipeline Development:** Developed publicly available Python code to
+analyze data from the TESS telescope for research and instructional use
+(see
+[github.com/jpdeleon/quicklook](https://github.com/jpdeleon/quicklook)).
 
-**Thesis Advisory:** Worked with H. Kobayashi (Former undergraduate
-student) to develop a pipeline for finding young transiting planets and
-binary stars in nearby star clusters (Refer to
+**Undergraduate Thesis Advisory:** Mentored K.M. Shariat on Bayesian
+Statistical Modeling; mentored K. Uno on estimating stellar ages using
+multiple techniques as part of a Research Introduction class; mentored
+H. Kobayashi on developing a pipeline to find young transiting planets
+and binary stars in nearby clusters (see
 [github.com/hiremasa/ytps](https://github.com/hiremasa/ytps)). Also
-advised A. Nodado (Former student) on her undergraduate thesis focused
-on Mira variables.
+advised A. Nodado on an undergraduate thesis on variable star
+characterization.
 
-**MEXT Scholarship Guidance:** Provided guidance to A. Javier and C.
-Cabatlao from their scholarship application to acceptance, supporting
-their successful pursuit of graduate studies in Japan.
+**MEXT Scholarship Guidance:** Guided A. Javier and C. Cabatlao from
+application to acceptance, supporting their successful pursuit of
+graduate studies in Japan.
 
 </div>
 
@@ -936,82 +946,96 @@ their successful pursuit of graduate studies in Japan.
 <div class="list">
 
 
-[https://sites.google.com/g.ecc.u-tokyo.ac.jp/young-transiting-planet-worksh/home](Young Transiting Planet Workshop 2025),
-Ishigaki, Japan, Mar 12 - 15, 2025
+University of Tokyo Faculty Development ([UTokyo FD
+Open](https://utokyofd.com/en/ffdp/about/)) Program, Tokyo, Japan, Oct
+2025–Feb 2026
 
-[https://indico.narit.or.th/event/203/](JWST Data Analysis Workshop),
-Chiang Mai, Thailand, Jun 24 - Jul 5, 2024
+[5th ExoClock Meeting](https://www.exoclock.space/annual_meetings),
+Madrid, Spain, Oct 4–6, 2025
 
-Japan Planetary Atmosphere Research Society workshop II, Atami, Japan,
+[ARIEL Consortium
+Meeting](https://eventos.upm.es/132958/detail/ariel-consortium-meeting-madrid.html),
+Madrid, Spain, Sep 30–Oct 4, 2025
+
+[Young Transiting Planet Workshop
+2025](https://sites.google.com/g.ecc.u-tokyo.ac.jp/young-transiting-planet-worksh/home),
+Ishigaki, Japan, Mar 12–15, 2025
+
+[JWST Data Analysis Workshop](https://indico.narit.or.th/event/203/),
+Chiang Mai, Thailand, Jun 24–Jul 5, 2024
+
+Japan Planetary Atmosphere Research Society Workshop II, Atami, Japan,
 Mar 2023
 
-Japan Planetary Atmosphere Research Society workshop, Matsushima,
+Japan Planetary Atmosphere Research Society Workshop, Matsushima,
 Miyagi, Japan, Mar 2022
 
-RESCEU Symposium, From Protoplanetary Disks through Planetary System
+RESCEU Symposium: From Protoplanetary Disks through Planetary System
 Architecture to Planetary Atmospheres and Habitability, Okinawa, Japan,
-Oct 14-18, 2019
+Oct 14–18, 2019
 
-1st NARIT-EACOA Summer workshop on Astrostatistics and Informatics,
-Chiang Mai, Thailand, Aug 13-17, 2019
+[1st NARIT–EACOA Summer Workshop on Astrostatistics and
+Informatics](https://indico.narit.or.th/event/112/overview), Chiang Mai,
+Thailand, Aug 13–17, 2019
 
-Telluric Line Hack Week, Flatiron Institute, New York, USA, Feb 25-28,
+Telluric Line Hack Week, Flatiron Institute, New York, USA, Feb 25–28,
 2019
 
-NASA Sagan Exoplanet Summer Workshop, NASA Exoplanet Science Institute,
-California Institute of Technology, Pasadena, California, USA, Jul
-23-27, 2018
+[NASA Sagan Exoplanet Summer
+Workshop](https://nexsci.caltech.edu/workshop/2018/), NASA Exoplanet
+Science Institute, California Institute of Technology, Pasadena, CA,
+USA, Jul 23–27, 2018
 
-Japan Geoscience Union Meeting, Chiba, Japan, May 20-24, 2018
+Japan Geoscience Union Meeting, Chiba, Japan, May 20–24, 2018
 
 2nd Rencontres du Vietnam on Exoplanetary Science, Binh Dinh, Vietnam,
 Feb 2018
 
 TIARA Summer School on Astrostatistics and Big Data, Taipei, Taiwan, Sep
-4-8, 2017
+4–8, 2017
 
-Astronomy Hack Week, University of Washington, Seattle, USA, Aug 28- Sep
-1, 2017
+Astronomy Hack Week, University of Washington, Seattle, WA, USA, Aug
+28–Sep 1, 2017
 
 Protoplanetary Disk Dynamics and Planet Formation Workshop, Yokohama
-Institute for Earth Sciences, JAMSTEC, Kanagawa, Japan, Sep 29-Oct 2,
+Institute for Earth Sciences (JAMSTEC), Kanagawa, Japan, Sep 29–Oct 2,
 2015
 
-27th Spring School in Particle and Fields, Chang Gung University,
-Taoyuan City, Taiwan, Apr 2-5, 2014
+27th Spring School in Particles and Fields, Chang Gung University,
+Taoyuan City, Taiwan, Apr 2–5, 2014
 
-NARIT-KASI Radio Astronomy Winter School, Chiang Mai, Thailand, Jan
-27-30, 2014
+NARIT–KASI Radio Astronomy Winter School, Chiang Mai, Thailand, Jan
+27–30, 2014
 
-TEDx Diliman: Things that Matter, UP Diliman, Philippines, Oct 20, 2013
+TEDx Diliman: Things That Matter, UP Diliman, Philippines, Oct 20, 2013
 
 2nd Southeast Asian Astronomers Collaboration Meeting, Bandung,
-Indonesia, Nov 18-22, 2013
+Indonesia, Nov 18–22, 2013
 
 Sokendai Asian Winter School on Exoplanets, National Astronomical
-Observatory of Japan (NAOJ), Mitaka, Tokyo, Japan, Dec 3-5, 2012
+Observatory of Japan (NAOJ), Mitaka, Tokyo, Japan, Dec 3–5, 2012
 
 1st Southeast Asian Astronomers Collaboration Meeting, Palawan,
-Philippines, Nov 5-7, 2012
+Philippines, Nov 5–7, 2012
 
 Astronomy Training Workshop for Science Educators, Galileo Teacher
-Training Program (GTTP), UP Los Baños, Philippines, Apr 9-11, 2012
+Training Program (GTTP), UP Los Baños, Philippines, Apr 9–11, 2012
 
-The Universe Survives– 2012, NIDO Science Discovery Center, SM Mall of
+The Universe Survives 2012, NIDO Science Discovery Center, SM Mall of
 Asia, Pasay City, Philippines, Feb 18 and 24, 2012
 
-Search for Undiscovered Main Belt asteroids and other important NEO
-Observations International Asteroid Campaign (IASC), Philippines, Apr
-20—May 20, 2012
+Search for Undiscovered Main Belt Asteroids and Other Important NEO
+Observations, International Asteroid Campaign (IASC), Philippines, Apr
+20–May 20, 2012
 
 29th Samahang Pisika ng Pilipinas (Physics Society of the Philippines)
 National Physics Congress, National Institute of Physics, College of
-Science, UP Diliman, Philippines, Oct 24-26, 2011
+Science, UP Diliman, Philippines, Oct 24–26, 2011
 
 International Astronomical Union (IAU) Gala Night, NIDO Discovery
 Center, SM Mall of Asia, Pasay City, Philippines, Oct 21, 2011
 
-Developing Astronomy Education and Research in the Philippines,‖ UP Los
+Developing Astronomy Education and Research in the Philippines, UP Los
 Baños, Philippines, Oct 20, 2011
 
 </div>
@@ -1021,27 +1045,30 @@ Baños, Philippines, Oct 20, 2011
 <div class="list">
 
 
-2018-present: bi-monthly observations with MuSCAT2/TCS telescope, Teide
-Observatory, Tenerife, Spain (remote)
+2022–present: Regular remote observations using the LCO Global Telescope
+Network
 
-2022-2023: monthly remote observations with Subaru/IRD telescope
+2018–present: Bi-monthly observations with the MuSCAT2/TCS telescope,
+Teide Observatory, Tenerife, Spain (remote)
+
+2022–2023: Monthly remote observations with the Subaru/IRD telescope
 intensive program (remote; PI: Norio Narita)
 
-2018-2020: MuSCAT2/TCS telescope, Teide Observatory, Tenerife, Spain
+2018–2020: MuSCAT2/TCS telescope, Teide Observatory, Tenerife, Spain
 (on-site)
 
 2018: SIRIUS/IRSF telescope, Sutherland, South Africa (on-site, 2 weeks)
 
-2018: IRCS/Subaru telescope, Mauna Kea observatory, Hawaii, USA
+2018: IRCS/Subaru telescope, Mauna Kea Observatory, Hawaii, USA
 (on-site, 3 nights)
 
-2017: CHARIS/Subaru telescope, Mauna Kea observatory, Hawaii, USA
+2017: CHARIS/Subaru telescope, Mauna Kea Observatory, Hawaii, USA
 (on-site, 2 nights)
 
-2017: HDS/Gemini telescope, Mauna Kea observatory, Hawaii, USA (on-site,
+2017: HDS/Gemini telescope, Mauna Kea Observatory, Hawaii, USA (on-site,
 1 night)
 
-2017-2019: MuSCAT2/OAO telescope, Japan (on-site, 20+ nights)
+2017–2019: MuSCAT2/OAO telescope, Japan (on-site, 20+ nights)
 
 </div>
 
@@ -1050,33 +1077,42 @@ intensive program (remote; PI: Norio Narita)
 <div class="list">
 
 
-Resource speaker for the Philippine Astronomy Week 2024 led by PAGASA,
-Feb 2024
+Resource speaker for Junior High School Career Week, SJASQ, Philippines,
+Jan 24, 2026
 
-Featured at Pinoy Scientists in [Jan
-2023](https://www.facebook.com/pinoyscientists/posts/pfbid0Lj83pJZaaU35tdSpz5UKgkAodhBqMzudUjCS7z4UV32zqiqmkQzT7LdtpGTsu7Cql)
+Guest on a podcast titled “Are We Alone?” (published on
+[Spotify](https://open.spotify.com/episode/2hfoLrrP6TKyKE7mgu6pju?trackId=7BRD7x5pt8Lqa1eGYC4dzj)),
+Dec 2025
 
-Resource speaker for Science Week at De La Salle Integrated School, Mar
-2022
+Resource speaker for Philippine Astronomy Week 2024 led by PAGASA,
+Philippines, Feb 2024
 
-Resource speaker for the Philippine Science High School-Western Visayas
-Campus, Mar 2021
+Featured by Pinoy Scientists ([Jan
+2023](https://www.facebook.com/pinoyscientists/posts/pfbid0Lj83pJZaaU35tdSpz5UKgkAodhBqMzudUjCS7z4UV32zqiqmkQzT7LdtpGTsu7Cql))
 
-Courtesy call by the Director of the Philippine Space Agency (PhilSA),
+Resource speaker for Science Week at De La Salle Integrated School,
+Philippines, Mar 2022
+
+Resource speaker for the Philippine Science High School–Western Visayas
+Campus, Philippines, Mar 2021
+
+Courtesy call with the Director of the Philippine Space Agency (PhilSA),
 Mar 2021
 
-Invited speaker at National Insitute of Physics, University of the
+Invited speaker at the National Institute of Physics, University of the
 Philippines Diliman (UPD), Jan 2020
 
-Astronomy Over Coffee (self-funded Astronomy event) at UP Diliman Hotel,
+Astronomy Over Coffee (self-funded astronomy event), UP Diliman Hotel,
 Sep 2019
 
-Founding of Filipino Astronomy Community
+Founder of the Filipino Astronomy Community
 ([FAC](https://www.facebook.com/groups/filastrocomm); 2016)
 
-Invited speaker at Philippine Rural High School, Los Banos, Apr 2014
+Invited speaker at Philippine Rural High School, Los Baños, Philippines,
+Apr 2014
 
-Invited speaker at St. Joseph’s Academy Sariaya High School, Apr 2013
+Invited speaker at St. Joseph’s Academy Sariaya (SJASQ) High School,
+Philippines, Apr 2013
 
 </div>
 
@@ -1086,31 +1122,30 @@ Invited speaker at St. Joseph’s Academy Sariaya High School, Apr 2013
 
 
 Monthly Notices of the Royal Astronomical Society
-([MNRAS](https://academic.oup.com/mnras); Impact Factor: 4.8; Active
+([MNRAS](https://academic.oup.com/mnras); Impact Factor: 4.8; active
 referee)
 
-SPACETIDE Foundation ([spacetide.org](https://spacetide.jp/en/); Active
-intern, 2022-present)
+SPACETIDE Foundation ([spacetide.jp](https://spacetide.jp/en/); active
+intern, 2022–present)
 
 Science Integrated Direction for High School Investigators
-([SIDHI](https://www.sidhi.org/); mentor, 2022-present)
+([SIDHI](https://www.sidhi.org/); mentor, 2022–present)
 
-Science and Technology Advisory Council- Japan chapter
+Science and Technology Advisory Council–Japan Chapter
 ([STAC-J](https://www.facebook.com/profile.php?id=100083271798519);
-Member, 2019-present)
+member, 2019–present)
 
 Exoplanet Follow-up Observing Program
-([ExoFOP](https://exofop.ipac.caltech.edu/tess/); Member, 2018-present)
+([ExoFOP](https://exofop.ipac.caltech.edu/tess/); member, 2018–present)
 
 Association of Filipino Students in Japan
-([AFSJ](https://www.facebook.com/afsjpage); President, 2017-2018)
+([AFSJ](https://www.facebook.com/afsjpage); president, 2017–2018)
 
 Association of Filipino Scholars in Taiwan
-([AFST](https://www.facebook.com/AssocIskolar); Founding member, 2014)
+([AFST](https://www.facebook.com/AssocIskolar); founding member, 2014)
 
-[Gawad Kalinga](https://gk1world.com/volunteer) (Volunteer, 2009-2013)
+[Gawad Kalinga](https://gk1world.com/volunteer) (volunteer, 2009–2013)
 
 </div>
 
-[^1]: Publication data collected from [NASA Astrophysics Data
-    System](https://ui.adsabs.harvard.edu/)
+[^1]: Publication metrics from NASA ADS.
