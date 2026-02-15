@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 88 refereed publications in exoplanet science
-with 2,072 total citations and an h-index of 29 (as of 2026-02-14).[^1]
+with 2,073 total citations and an h-index of 29 (as of 2026-02-15).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -162,8 +162,8 @@ al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 
 ## Publications
 
-refereed: 88 / first author: 3 / citations: 2,072 / h-index: 29 (as of
-2026-02-14)
+refereed: 88 / first author: 3 / citations: 2,073 / h-index: 29 (as of
+2026-02-15)
 
 <div class="list">
 
@@ -374,7 +374,7 @@ starspots on a young M-dwarf K2-25: multiband observations of stellar
 photometric variability and planetary
 transits](http://dx.doi.org/10.1093/mnras/stae841)*, Monthly Notices of
 the Royal Astronomical Society, **530**, 167
-([arXiv:2403.13946](http://arxiv.org/abs/2403.13946)) \[[11
+([arXiv:2403.13946](http://arxiv.org/abs/2403.13946)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530..167M)\]
 
 Murgas, F.; Pallé, E.; Orell-Miquel, J.; Carleo, I.;
