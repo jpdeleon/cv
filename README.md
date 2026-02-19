@@ -122,6 +122,11 @@ control and data analysis.*
 <div class="list">
 
 
+**Consultant (2024/6–Present)**  
+*Telos Media (www.telos.so)*  
+*Role: Accuracy reviewer of Astronomy-related long-form educational
+videos published on youtube.*
+
 **Remote Lecturer (2021/6–2021/10)**  
 *Faculty of Aerospace Engineering, School of Engineering & Architecture,
 Ateneo de Davao University, Philippines*  
