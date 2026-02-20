@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 88 refereed publications in exoplanet science
-with 2,073 total citations and an h-index of 29 (as of 2026-02-19).[^1]
+with 2,075 total citations and an h-index of 29 (as of 2026-02-20).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -167,8 +167,8 @@ al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 
 ## Publications
 
-refereed: 88 / first author: 3 / citations: 2,073 / h-index: 29 (as of
-2026-02-19)
+refereed: 88 / first author: 3 / citations: 2,075 / h-index: 29 (as of
+2026-02-20)
 
 <div class="list">
 
@@ -789,7 +789,7 @@ Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
 with a Protoplanetary Disk around SU
 Aurigae](http://dx.doi.org/10.3847/1538-3881/ab0ae4)*, The Astronomical
 Journal, **157**, 165
-([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[43
+([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157..165A)\]
 
 Hayakawa, Tomohiko; Murakami, Kenichi; **de Leon, J. P.**; & Ishikawa,
@@ -874,7 +874,7 @@ Jun; *et al.*, 2015, *[Near-IR High-resolution Imaging Polarimetry of
 the SU Aur Disk: Clues for Tidal
 Tails?](http://dx.doi.org/10.1088/2041-8205/806/1/L10)*, The
 Astrophysical Journal, **806**
-([arXiv:1505.03610](http://arxiv.org/abs/1505.03610)) \[[17
+([arXiv:1505.03610](http://arxiv.org/abs/1505.03610)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D)\]
 
 </div>
