@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 89 refereed publications in exoplanet science
-with 2,089 total citations and an h-index of 29 (as of 2026-03-03).[^1]
+with 2,087 total citations and an h-index of 29 (as of 2026-03-04).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -167,8 +167,8 @@ al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 
 ## Publications
 
-refereed: 89 / first author: 3 / citations: 2,089 / h-index: 29 (as of
-2026-03-03)
+refereed: 89 / first author: 3 / citations: 2,087 / h-index: 29 (as of
+2026-03-04)
 
 <div class="list">
 
@@ -178,6 +178,7 @@ Felipe; *et al.* (incl. **de Leon, J. P.**), 2026, *[Multicolour
 Validation of Two Temperate Mini-Neptunes Around M-dwarf Habitable
 Zones](http://dx.doi.org/10.1093/mnras/stag367)*, Monthly Notices of the
 Royal Astronomical Society
+([arXiv:2512.06817](http://arxiv.org/abs/2512.06817))
 
 Livingston, John H.; Petigura, Erik A.; David, Trevor J.; Masuda, Kento;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[A young progenitor for the
@@ -211,7 +212,7 @@ Yee, Samuel W.; Winn, Joshua N.; Hartman, Joel D.; Rodriguez, Joseph E.;
 Jupiter Survey. III. Thirty More Giant
 Planets](http://dx.doi.org/10.3847/1538-4365/aded0d)*, The Astrophysical
 Journal Supplement Series, **280**, 30
-([arXiv:2507.01855](http://arxiv.org/abs/2507.01855)) \[[4
+([arXiv:2507.01855](http://arxiv.org/abs/2507.01855)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...30Y)\]
 
 Gomez Barrientos, Jonathan; Greklek-McKeon, Michael; Knutson, Heather
@@ -276,7 +277,7 @@ Stevenson, Kevin B.; *et al.* (incl. **de Leon, J. P.**), 2024, *[A
 Fourth Planet in the Kepler-51 System Revealed by Transit Timing
 Variations](http://dx.doi.org/10.3847/1538-3881/ad83d3)*, The
 Astronomical Journal, **168**, 294
-([arXiv:2410.01625](http://arxiv.org/abs/2410.01625)) \[[14
+([arXiv:2410.01625](http://arxiv.org/abs/2410.01625)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168..294M)\]
 
 Ehrhardt, Juliana; Thomas, Luis; Kellermann, Hanna; Freitag, Christine;
@@ -329,6 +330,14 @@ Astrophysics, **688**
 ([arXiv:2407.17372](http://arxiv.org/abs/2407.17372)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...688L..34G)\]
 
+Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
+*et al.* (incl. **de Leon, J. P.**), 2024, *[Migration and Evolution of
+giant ExoPlanets (MEEP). I. Nine Newly Confirmed Hot Jupiters from the
+TESS Mission](http://dx.doi.org/10.3847/1538-3881/ad4a57)*, The
+Astronomical Journal, **168**, 32
+([arXiv:2401.05923](http://arxiv.org/abs/2401.05923)) \[[14
+citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...32S)\]
+
 Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
 Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
 Earth-sized exoplanet orbiting the nearby ultracool dwarf star
@@ -336,14 +345,6 @@ SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
 Astronomy, **8**, 865
 ([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..865G)\]
-
-Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
-*et al.* (incl. **de Leon, J. P.**), 2024, *[Migration and Evolution of
-giant ExoPlanets (MEEP). I. Nine Newly Confirmed Hot Jupiters from the
-TESS Mission](http://dx.doi.org/10.3847/1538-3881/ad4a57)*, The
-Astronomical Journal, **168**, 32
-([arXiv:2401.05923](http://arxiv.org/abs/2401.05923)) \[[15
-citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...32S)\]
 
 Barkaoui, K.; Schwarz, R. P.; Narita, N.; Mistry, P.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Three short-period
@@ -787,7 +788,7 @@ Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
 a mini-Neptune in a triple-star
 system](http://dx.doi.org/10.1093/mnras/stz139)*, Monthly Notices of the
 Royal Astronomical Society, **484**, 3522
-([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[35
+([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3522H)\]
 
 Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
