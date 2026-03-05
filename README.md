@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 89 refereed publications in exoplanet science
-with 2,087 total citations and an h-index of 29 (as of 2026-03-04).[^1]
+with 2,088 total citations and an h-index of 29 (as of 2026-03-05).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -167,8 +167,8 @@ al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 
 ## Publications
 
-refereed: 89 / first author: 3 / citations: 2,087 / h-index: 29 (as of
-2026-03-04)
+refereed: 89 / first author: 3 / citations: 2,088 / h-index: 29 (as of
+2026-03-05)
 
 <div class="list">
 
@@ -360,7 +360,7 @@ A.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Gliese 12 b: A
 Temperate Earth-sized Planet at 12 pc Ideal for Atmospheric Transmission
 Spectroscopy](http://dx.doi.org/10.3847/2041-8213/ad3642)*, The
 Astrophysical Journal, **967**
-([arXiv:2405.14708](http://arxiv.org/abs/2405.14708)) \[[20
+([arXiv:2405.14708](http://arxiv.org/abs/2405.14708)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...967L..21K)\]
 
 Hori, Yasunori; Fukui, Akihiko; Hirano, Teruyuki; Narita, Norio;
