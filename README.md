@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 89 refereed publications in exoplanet science
-with 2,088 total citations and an h-index of 29 (as of 2026-03-05).[^1]
+with 2,089 total citations and an h-index of 29 (as of 2026-03-06).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -167,8 +167,8 @@ al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 
 ## Publications
 
-refereed: 89 / first author: 3 / citations: 2,088 / h-index: 29 (as of
-2026-03-05)
+refereed: 89 / first author: 3 / citations: 2,089 / h-index: 29 (as of
+2026-03-06)
 
 <div class="list">
 
@@ -261,7 +261,7 @@ Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
 distribution of warm sub-Saturns in
 TESS](http://dx.doi.org/10.1093/mnras/staf759)*, Monthly Notices of the
 Royal Astronomical Society, **540**, 1144
-([arXiv:2505.04106](http://arxiv.org/abs/2505.04106)) \[[2
+([arXiv:2505.04106](http://arxiv.org/abs/2505.04106)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2025MNRAS.540.1144F)\]
 
 Barkaoui, K.; Korth, J.; Gaidos, E.; Agol, E.; *et al.* (incl. **de
