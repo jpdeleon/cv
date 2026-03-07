@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 89 refereed publications in exoplanet science
-with 2,089 total citations and an h-index of 29 (as of 2026-03-06).[^1]
+with 2,090 total citations and an h-index of 29 (as of 2026-03-07).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -167,8 +167,8 @@ al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 
 ## Publications
 
-refereed: 89 / first author: 3 / citations: 2,089 / h-index: 29 (as of
-2026-03-06)
+refereed: 89 / first author: 3 / citations: 2,090 / h-index: 29 (as of
+2026-03-07)
 
 <div class="list">
 
@@ -184,7 +184,8 @@ Livingston, John H.; Petigura, Erik A.; David, Trevor J.; Masuda, Kento;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[A young progenitor for the
 most common planetary systems in the
 Galaxy](http://dx.doi.org/10.1038/s41586-025-09840-z)*, Nature, **649**,
-310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598))
+310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2026Natur.649..310L)\]
 
 Morello, G.; Peláez-Torres, A.; Pozuelos, F. J.; Dévora-Pajares, M.;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[The K-dwarfs Survey I. Four
