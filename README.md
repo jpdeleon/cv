@@ -23,8 +23,8 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Author of 89 refereed publications in exoplanet science
-with 2,090 total citations and an h-index of 29 (as of 2026-03-08).[^1]
+**Research:** Author of 90 refereed publications in exoplanet science
+with 2,090 total citations and an h-index of 29 (as of 2026-03-09).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -167,8 +167,8 @@ al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 
 ## Publications
 
-refereed: 89 / first author: 3 / citations: 2,090 / h-index: 29 (as of
-2026-03-08)
+refereed: 90 / first author: 3 / citations: 2,090 / h-index: 29 (as of
+2026-03-09)
 
 <div class="list">
 
@@ -179,6 +179,12 @@ Validation of Two Temperate Mini-Neptunes Around M-dwarf Habitable
 Zones](http://dx.doi.org/10.1093/mnras/stag367)*, Monthly Notices of the
 Royal Astronomical Society
 ([arXiv:2512.06817](http://arxiv.org/abs/2512.06817))
+
+Carleo, Ilaria; Castro-González, Amadeo; Pallé, Enric; Murgas, Felipe;
+*et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-3862 b: A dense
+super-Neptune deep in the hot Neptune
+desert](http://dx.doi.org/10.1051/0004-6361/202557186)*, Astronomy and
+Astrophysics, **707**
 
 Livingston, John H.; Petigura, Erik A.; David, Trevor J.; Masuda, Kento;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[A young progenitor for the
