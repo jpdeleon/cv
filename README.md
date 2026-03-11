@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 90 refereed publications in exoplanet science
-with 2,095 total citations and an h-index of 29 (as of 2026-03-10).[^1]
+with 2,091 total citations and an h-index of 29 (as of 2026-03-11).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -167,8 +167,8 @@ al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 
 ## Publications
 
-refereed: 90 / first author: 3 / citations: 2,095 / h-index: 29 (as of
-2026-03-10)
+refereed: 90 / first author: 3 / citations: 2,091 / h-index: 29 (as of
+2026-03-11)
 
 <div class="list">
 
@@ -185,6 +185,7 @@ Carleo, Ilaria; Castro-González, Amadeo; Pallé, Enric; Murgas, Felipe;
 super-Neptune deep in the hot Neptune
 desert](http://dx.doi.org/10.1051/0004-6361/202557186)*, Astronomy and
 Astrophysics, **707**
+([arXiv:2601.10450](http://arxiv.org/abs/2601.10450))
 
 Livingston, John H.; Petigura, Erik A.; David, Trevor J.; Masuda, Kento;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[A young progenitor for the
@@ -260,7 +261,7 @@ Heated Sub-Neptunes, Refined Planetary Compositions, and Confirmation of
 a Third Planet in the TOI-1266
 System](http://dx.doi.org/10.3847/1538-3881/adc0fe)*, The Astronomical
 Journal, **169**, 292
-([arXiv:2409.16374](http://arxiv.org/abs/2409.16374)) \[[5
+([arXiv:2409.16374](http://arxiv.org/abs/2409.16374)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....169..292G)\]
 
 Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
@@ -326,7 +327,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[40
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[39
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
@@ -473,7 +474,7 @@ evaporating atmosphere around the 650-Myr-old sub-Neptune HD 235088 b
 (TOI-1430 b) with
 CARMENES](http://dx.doi.org/10.1051/0004-6361/202346445)*, Astronomy and
 Astrophysics, **677**
-([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[25
+([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...677A..56O)\]
 
 Kagetani, Taiki; Narita, Norio; Kimura, Tadahiro; Hirano, Teruyuki;
@@ -606,7 +607,7 @@ Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
 I. Survey Description and Midsurvey
 Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
 Journal Supplement Series, **256**, 33
-([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[45
+([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
 
 Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
