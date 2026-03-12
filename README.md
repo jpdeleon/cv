@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 90 refereed publications in exoplanet science
-with 2,091 total citations and an h-index of 29 (as of 2026-03-11).[^1]
+with 2,093 total citations and an h-index of 29 (as of 2026-03-12).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -167,18 +167,11 @@ al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 
 ## Publications
 
-refereed: 90 / first author: 3 / citations: 2,091 / h-index: 29 (as of
-2026-03-11)
+refereed: 90 / first author: 3 / citations: 2,093 / h-index: 29 (as of
+2026-03-12)
 
 <div class="list">
 
-
-Jiang, Chengzi; Selezneva, Aleksandra; Parviainen, Hannu; Murgas,
-Felipe; *et al.* (incl. **de Leon, J. P.**), 2026, *[Multicolour
-Validation of Two Temperate Mini-Neptunes Around M-dwarf Habitable
-Zones](http://dx.doi.org/10.1093/mnras/stag367)*, Monthly Notices of the
-Royal Astronomical Society
-([arXiv:2512.06817](http://arxiv.org/abs/2512.06817))
 
 Carleo, Ilaria; Castro-González, Amadeo; Pallé, Enric; Murgas, Felipe;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-3862 b: A dense
@@ -187,11 +180,18 @@ desert](http://dx.doi.org/10.1051/0004-6361/202557186)*, Astronomy and
 Astrophysics, **707**
 ([arXiv:2601.10450](http://arxiv.org/abs/2601.10450))
 
+Jiang, Chengzi; Selezneva, Aleksandra; Parviainen, Hannu; Murgas,
+Felipe; *et al.* (incl. **de Leon, J. P.**), 2026, *[Multicolour
+Validation of Two Temperate Mini-Neptunes Around M-dwarf Habitable
+Zones](http://dx.doi.org/10.1093/mnras/stag367)*, Monthly Notices of the
+Royal Astronomical Society
+([arXiv:2512.06817](http://arxiv.org/abs/2512.06817))
+
 Livingston, John H.; Petigura, Erik A.; David, Trevor J.; Masuda, Kento;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[A young progenitor for the
 most common planetary systems in the
 Galaxy](http://dx.doi.org/10.1038/s41586-025-09840-z)*, Nature, **649**,
-310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[2
+310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2026Natur.649..310L)\]
 
 Morello, G.; Peláez-Torres, A.; Pozuelos, F. J.; Dévora-Pajares, M.;

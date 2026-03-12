@@ -1,40 +1,5 @@
 [
   {
-    "arxiv": "2512.06817",
-    "authors": [
-      "Jiang, Chengzi",
-      "Selezneva, Aleksandra",
-      "Parviainen, Hannu",
-      "Murgas, Felipe",
-      "Pall{\\'e}, Enric",
-      "Fern{\\'a}ndez-Rodr{\\'\\i}guez, Gareb",
-      "Gerald{\\'\\i}a-Gonz{\\'a}lez, Samuel",
-      "Orell-Miquel, Jaume",
-      "Narita, Norio",
-      "Fukui, Akihiko",
-      "de Leon, Jerome",
-      "Fukuda, Izuru",
-      "Ikuta, Kai",
-      "Kawauchi, Kiyoe",
-      "Howell, Steve B.",
-      "Littlefield, Colin",
-      "Deveny, Sarah J.",
-      "Twicken, Joseph D.",
-      "Schwarz, Richard P.",
-      "Shporer, Avi"
-    ],
-    "citations": 0,
-    "doctype": "article",
-    "doi": "10.1093/mnras/stag367",
-    "page": null,
-    "pub": "Monthly Notices of the Royal Astronomical Society",
-    "pubdate": "2026-02-00",
-    "title": "Multicolour Validation of Two Temperate Mini-Neptunes Around M-dwarf Habitable Zones",
-    "url": "https://ui.adsabs.harvard.edu/abs/2026MNRAS.tmp..333J",
-    "volume": null,
-    "year": "2026"
-  },
-  {
     "arxiv": "2601.10450",
     "authors": [
       "Carleo, Ilaria",
@@ -114,6 +79,41 @@
     "year": "2026"
   },
   {
+    "arxiv": "2512.06817",
+    "authors": [
+      "Jiang, Chengzi",
+      "Selezneva, Aleksandra",
+      "Parviainen, Hannu",
+      "Murgas, Felipe",
+      "Pall{\\'e}, Enric",
+      "Fern{\\'a}ndez-Rodr{\\'\\i}guez, Gareb",
+      "Gerald{\\'\\i}a-Gonz{\\'a}lez, Samuel",
+      "Orell-Miquel, Jaume",
+      "Narita, Norio",
+      "Fukui, Akihiko",
+      "de Leon, Jerome",
+      "Fukuda, Izuru",
+      "Ikuta, Kai",
+      "Kawauchi, Kiyoe",
+      "Howell, Steve B.",
+      "Littlefield, Colin",
+      "Deveny, Sarah J.",
+      "Twicken, Joseph D.",
+      "Schwarz, Richard P.",
+      "Shporer, Avi"
+    ],
+    "citations": 0,
+    "doctype": "article",
+    "doi": "10.1093/mnras/stag367",
+    "page": null,
+    "pub": "Monthly Notices of the Royal Astronomical Society",
+    "pubdate": "2026-02-00",
+    "title": "Multicolour Validation of Two Temperate Mini-Neptunes Around M-dwarf Habitable Zones",
+    "url": "https://ui.adsabs.harvard.edu/abs/2026MNRAS.tmp..333J",
+    "volume": null,
+    "year": "2026"
+  },
+  {
     "arxiv": "2601.10598",
     "authors": [
       "Livingston, John H.",
@@ -159,7 +159,7 @@
       "D{\\'e}sert, Jean-Michel",
       "Pino, Lorenzo"
     ],
-    "citations": 2,
+    "citations": 4,
     "doctype": "article",
     "doi": "10.1038/s41586-025-09840-z",
     "page": 310,
