@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 90 refereed publications in exoplanet science
-with 2,094 total citations and an h-index of 29 (as of 2026-03-15).[^1]
+with 2,098 total citations and an h-index of 29 (as of 2026-03-16).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -167,8 +167,8 @@ al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 
 ## Publications
 
-refereed: 90 / first author: 3 / citations: 2,094 / h-index: 29 (as of
-2026-03-15)
+refereed: 90 / first author: 3 / citations: 2,098 / h-index: 29 (as of
+2026-03-16)
 
 <div class="list">
 
@@ -310,7 +310,7 @@ Ghachoui, M.; Rackham, B. V.; Dévora-Pajares, M.; Chouqar, J.;
 super-Earths orbiting the M-dwarf stars TOI-6002 and TOI-5713 near the
 radius valley](http://dx.doi.org/10.1051/0004-6361/202451120)*,
 Astronomy and Astrophysics, **690**
-([arXiv:2408.00709](http://arxiv.org/abs/2408.00709)) \[[8
+([arXiv:2408.00709](http://arxiv.org/abs/2408.00709)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...690A.263G)\]
 
 Hayashi, Yuya; Narita, Norio; Fukui, Akihiko; Changeat, Quentin;
@@ -625,7 +625,7 @@ investigation](http://dx.doi.org/10.1126/science.abd7645)*, Science,
 ## 371
 
 , 1038 ([arXiv:2103.04950](http://arxiv.org/abs/2103.04950))
-\[[74
+\[[75
 citations](https://ui.adsabs.harvard.edu/abs/2021Sci...371.1038T)\]
 
 Parviainen, H.; Palle, E.; Zapatero-Osorio, M. R.; Nowak, G.;
@@ -676,7 +676,7 @@ transiting, Earth-sized planet and a second temperate, non-transiting
 planet around the M4 dwarf GJ 3473
 (TOI-488)](http://dx.doi.org/10.1051/0004-6361/202038967)*, Astronomy
 and Astrophysics, **642**
-([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[41
+([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[42
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
 
 Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -833,7 +833,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[137
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[138
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
