@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 90 refereed publications in exoplanet science
-with 2,098 total citations and an h-index of 29 (as of 2026-03-18).[^1]
+with 2,103 total citations and an h-index of 29 (as of 2026-03-19).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -167,8 +167,8 @@ al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 
 ## Publications
 
-refereed: 90 / first author: 3 / citations: 2,098 / h-index: 29 (as of
-2026-03-18)
+refereed: 90 / first author: 3 / citations: 2,103 / h-index: 29 (as of
+2026-03-19)
 
 <div class="list">
 
@@ -191,7 +191,7 @@ Livingston, John H.; Petigura, Erik A.; David, Trevor J.; Masuda, Kento;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[A young progenitor for the
 most common planetary systems in the
 Galaxy](http://dx.doi.org/10.1038/s41586-025-09840-z)*, Nature, **649**,
-310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[4
+310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2026Natur.649..310L)\]
 
 Morello, G.; Peláez-Torres, A.; Pozuelos, F. J.; Dévora-Pajares, M.;
@@ -237,7 +237,7 @@ Vowell, Noah; Rodriguez, Joseph E.; Latham, David W.; Quinn, Samuel N.;
 Dwarfs and Very-low-mass Stars from
 TESS](http://dx.doi.org/10.3847/1538-3881/addd17)*, The Astronomical
 Journal, **170**, 68
-([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[16
+([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[17
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...68V)\]
 
 Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
@@ -285,7 +285,7 @@ Stevenson, Kevin B.; *et al.* (incl. **de Leon, J. P.**), 2024, *[A
 Fourth Planet in the Kepler-51 System Revealed by Transit Timing
 Variations](http://dx.doi.org/10.3847/1538-3881/ad83d3)*, The
 Astronomical Journal, **168**, 294
-([arXiv:2410.01625](http://arxiv.org/abs/2410.01625)) \[[15
+([arXiv:2410.01625](http://arxiv.org/abs/2410.01625)) \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168..294M)\]
 
 Ehrhardt, Juliana; Thomas, Luis; Kellermann, Hanna; Freitag, Christine;
@@ -302,7 +302,7 @@ Peláez-Torres, A.; Esparza-Borges, E.; Pallé, E.; Parviainen, H.;
 TESS planet candidates through multi-colour transit photometry using
 MuSCAT2 data](http://dx.doi.org/10.1051/0004-6361/202347251)*, Astronomy
 and Astrophysics, **690**
-([arXiv:2409.07400](http://arxiv.org/abs/2409.07400)) \[[6
+([arXiv:2409.07400](http://arxiv.org/abs/2409.07400)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...690A..62P)\]
 
 Ghachoui, M.; Rackham, B. V.; Dévora-Pajares, M.; Chouqar, J.;
@@ -841,7 +841,7 @@ Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
 Inner Gas Disk inside the Large Cavity of a Transitional
 Disk](http://dx.doi.org/10.3847/2041-8213/aae88b)*, The Astrophysical
 Journal, **868** ([arXiv:1810.06941](http://arxiv.org/abs/1810.06941))
-\[[42
+\[[43
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...868L...3M)\]
 
 Takami, Michihiro; Fu, Guangwei; Liu, Hauyu Baobab; Karr, Jennifer L.;
