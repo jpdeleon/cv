@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 90 refereed publications in exoplanet science
-with 2,103 total citations and an h-index of 29 (as of 2026-03-20).[^1]
+with 2,106 total citations and an h-index of 29 (as of 2026-03-21).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -167,8 +167,8 @@ al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 
 ## Publications
 
-refereed: 90 / first author: 3 / citations: 2,103 / h-index: 29 (as of
-2026-03-20)
+refereed: 90 / first author: 3 / citations: 2,106 / h-index: 29 (as of
+2026-03-21)
 
 <div class="list">
 
@@ -440,7 +440,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[54
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[55
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -599,7 +599,7 @@ Hirano, Teruyuki; Livingston, John H.; Fukui, Akihiko; Narita, Norio;
 Ultra-Short-Period Super-Earths with Earth-like
 Compositions](http://dx.doi.org/10.3847/1538-3881/ac0fdc)*, The
 Astronomical Journal, **162**, 161
-([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[31
+([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[32
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..161H)\]
 
 Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
@@ -833,7 +833,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[138
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[139
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
