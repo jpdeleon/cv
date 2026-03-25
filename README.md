@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 90 refereed publications in exoplanet science
-with 2,108 total citations and an h-index of 29 (as of 2026-03-24).[^1]
+with 2,108 total citations and an h-index of 29 (as of 2026-03-25).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -168,7 +168,7 @@ al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 ## Publications
 
 refereed: 90 / first author: 3 / citations: 2,108 / h-index: 29 (as of
-2026-03-24)
+2026-03-25)
 
 <div class="list">
 
@@ -338,14 +338,6 @@ Astrophysics, **688**
 ([arXiv:2407.17372](http://arxiv.org/abs/2407.17372)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...688L..34G)\]
 
-Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
-*et al.* (incl. **de Leon, J. P.**), 2024, *[Migration and Evolution of
-giant ExoPlanets (MEEP). I. Nine Newly Confirmed Hot Jupiters from the
-TESS Mission](http://dx.doi.org/10.3847/1538-3881/ad4a57)*, The
-Astronomical Journal, **168**, 32
-([arXiv:2401.05923](http://arxiv.org/abs/2401.05923)) \[[14
-citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...32S)\]
-
 Gillon, Michaël; Pedersen, Peter P.; Rackham, Benjamin V.; Dransfield,
 Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
 Earth-sized exoplanet orbiting the nearby ultracool dwarf star
@@ -353,6 +345,14 @@ SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
 Astronomy, **8**, 865
 ([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..865G)\]
+
+Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
+*et al.* (incl. **de Leon, J. P.**), 2024, *[Migration and Evolution of
+giant ExoPlanets (MEEP). I. Nine Newly Confirmed Hot Jupiters from the
+TESS Mission](http://dx.doi.org/10.3847/1538-3881/ad4a57)*, The
+Astronomical Journal, **168**, 32
+([arXiv:2401.05923](http://arxiv.org/abs/2401.05923)) \[[14
+citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...32S)\]
 
 Barkaoui, K.; Schwarz, R. P.; Narita, N.; Mistry, P.;
 *et al.* (incl. **de Leon, J. P.**), 2024, *[Three short-period
