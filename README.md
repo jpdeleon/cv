@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 90 refereed publications in exoplanet science
-with 2,108 total citations and an h-index of 29 (as of 2026-03-25).[^1]
+with 2,108 total citations and an h-index of 29 (as of 2026-03-26).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -168,7 +168,7 @@ al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 ## Publications
 
 refereed: 90 / first author: 3 / citations: 2,108 / h-index: 29 (as of
-2026-03-25)
+2026-03-26)
 
 <div class="list">
 
@@ -568,7 +568,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[44
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[43
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -881,7 +881,7 @@ Yang, Yi; Hashimoto, Jun; Hayashi, Saeko S.; Tamura, Motohide;
 Polarimetry of Inner Region of GG Tau A
 Disk](http://dx.doi.org/10.3847/1538-3881/153/1/7)*, The Astronomical
 Journal, **153**, 7
-([arXiv:1610.09134](http://arxiv.org/abs/1610.09134)) \[[15
+([arXiv:1610.09134](http://arxiv.org/abs/1610.09134)) \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2017AJ....153....7Y)\]
 
 **de Leon, J. P.**; Takami, Michihiro; Karr, Jennifer L.; Hashimoto,
