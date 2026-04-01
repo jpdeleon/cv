@@ -966,8 +966,8 @@ graduate studies in Japan.
 <div class="list">
 
 
-Nature Masterclasses: Expert Trainer-led full-day workshopon Impressive
-Academic Presentations, University of Tokyo, March 18, 2026
+Nature Masterclasses: Impressive Academic Presentations (Expert
+trainer-led full-day workshop), University of Tokyo, March 18, 2026
 
 University of Tokyo Faculty Development ([UTokyo FD
 Open](https://utokyofd.com/en/ffdp/about/)) Program, Tokyo, Japan, Oct
