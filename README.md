@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 90 refereed publications in exoplanet science
-with 2,116 total citations and an h-index of 29 (as of 2026-04-07).[^1]
+with 2,119 total citations and an h-index of 29 (as of 2026-04-08).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -167,8 +167,8 @@ al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 
 ## Publications
 
-refereed: 90 / first author: 3 / citations: 2,116 / h-index: 29 (as of
-2026-04-07)
+refereed: 90 / first author: 3 / citations: 2,119 / h-index: 29 (as of
+2026-04-08)
 
 <div class="list">
 
@@ -240,6 +240,13 @@ Journal, **170**, 68
 ([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...68V)\]
 
+Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
+Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: a
+super-Earth in the radius valley orbiting a nearby M
+dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
+the Royal Astronomical Society, **541**, 3249
+([arXiv:2506.18550](http://arxiv.org/abs/2506.18550))
+
 Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[Discovery of a transiting
 hot water-world candidate orbiting Ross 176 with TESS and
@@ -247,13 +254,6 @@ CARMENES](http://dx.doi.org/10.1051/0004-6361/202553719)*, Astronomy and
 Astrophysics, **700**
 ([arXiv:2507.15763](http://arxiv.org/abs/2507.15763)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2025A&A...700A.216G)\]
-
-Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
-Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: a
-super-Earth in the radius valley orbiting a nearby M
-dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
-the Royal Astronomical Society, **541**, 3249
-([arXiv:2506.18550](http://arxiv.org/abs/2506.18550))
 
 Greklek-McKeon, Michael; Vissapragada, Shreyas; Knutson, Heather A.;
 Fukui, Akihiko; *et al.* (incl. **de Leon, J. P.**), 2025, *[Tidally
@@ -568,7 +568,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[43
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -676,7 +676,7 @@ transiting, Earth-sized planet and a second temperate, non-transiting
 planet around the M4 dwarf GJ 3473
 (TOI-488)](http://dx.doi.org/10.1051/0004-6361/202038967)*, Astronomy
 and Astrophysics, **642**
-([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[42
+([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[43
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
 
 Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -709,7 +709,7 @@ Nielsen, L. D.; Brahm, R.; Bouchy, F.; Espinoza, N.;
 from TESS. HIP 65Ab, TOI-157b, and
 TOI-169b](http://dx.doi.org/10.1051/0004-6361/202037941)*, Astronomy and
 Astrophysics, **639**
-([arXiv:2003.05932](http://arxiv.org/abs/2003.05932)) \[[35
+([arXiv:2003.05932](http://arxiv.org/abs/2003.05932)) \[[36
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...639A..76N)\]
 
 Šubjak, Ján; Sharma, Rishikesh; Carmichael, Theron W.; Johnson, Marshall
