@@ -39,7 +39,7 @@
               "name": "quicklook",
               "description": "Quick look lightcurve generator",
               "url": "https://github.com/jpdeleon/quicklook",
-              "homepageUrl": null,
+              "homepageUrl": "https://quicklook.readthedocs.io/en/latest/",
               "forkCount": 1,
               "stargazers": {
                 "totalCount": 18

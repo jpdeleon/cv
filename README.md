@@ -165,6 +165,35 @@ al. 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D/abstract))
 
 </div>
 
+## Skills
+
+<div class="list">
+
+
+**Programming & Scientific Computing:** Python (NumPy, SciPy, Pandas,
+JAX, NumPyro); experience in building complex data analysis pipelines
+for large temporal and spatial datasets
+
+**Data Analysis & Modeling:** Time-series analysis, Bayesian inference,
+probabilistic modeling, optimization, statistical analysis of large
+survey data, technical writing, project management
+
+**Software & Systems:** Linux/Unix environments, server administration
+(Grafana monitoring), Bash scripting, version control (Git), automation,
+reproducible research workflows
+
+**Visualization & Communication:** Matplotlib, scientific visualization,
+academic writing, conference presentations, public outreach
+
+**Leadership & Mentorship:** Research group supervision, student
+advising (PhD, MSc, undergraduate), curriculum design, international
+collaboration
+
+**Languages:** Filipino (native), English (fluent), Japanese (working
+proficiency)
+
+</div>
+
 ## Publications
 
 refereed: 90 / first author: 3 / citations: 2,119 / h-index: 29 (as of
@@ -1060,38 +1089,6 @@ Center, SM Mall of Asia, Pasay City, Philippines, Oct 21, 2011
 
 Developing Astronomy Education and Research in the Philippines, UP Los
 Baños, Philippines, Oct 20, 2011
-
-</div>
-
-## Field Work Experiences
-
-<div class="list">
-
-
-2022–present: Regular remote observations using the LCO Global Telescope
-Network
-
-2018–present: Bi-monthly observations with the MuSCAT2/TCS telescope,
-Teide Observatory, Tenerife, Spain (remote)
-
-2022–2023: Monthly remote observations with the Subaru/IRD telescope
-intensive program (remote; PI: Norio Narita)
-
-2018–2020: MuSCAT2/TCS telescope, Teide Observatory, Tenerife, Spain
-(on-site)
-
-2018: SIRIUS/IRSF telescope, Sutherland, South Africa (on-site, 2 weeks)
-
-2018: IRCS/Subaru telescope, Mauna Kea Observatory, Hawaii, USA
-(on-site, 3 nights)
-
-2017: CHARIS/Subaru telescope, Mauna Kea Observatory, Hawaii, USA
-(on-site, 2 nights)
-
-2017: HDS/Gemini telescope, Mauna Kea Observatory, Hawaii, USA (on-site,
-1 night)
-
-2017–2019: MuSCAT2/OAO telescope, Japan (on-site, 20+ nights)
 
 </div>
 
