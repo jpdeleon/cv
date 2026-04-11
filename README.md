@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 90 refereed publications in exoplanet science
-with 2,119 total citations and an h-index of 29 (as of 2026-04-10).[^1]
+with 2,120 total citations and an h-index of 29 (as of 2026-04-11).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 90 / first author: 3 / citations: 2,119 / h-index: 29 (as of
-2026-04-10)
+refereed: 90 / first author: 3 / citations: 2,120 / h-index: 29 (as of
+2026-04-11)
 
 <div class="list">
 
@@ -356,7 +356,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[40
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[41
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
