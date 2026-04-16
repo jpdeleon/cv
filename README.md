@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 90 refereed publications in exoplanet science
-with 2,122 total citations and an h-index of 29 (as of 2026-04-15).[^1]
+with 2,121 total citations and an h-index of 29 (as of 2026-04-16).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 90 / first author: 3 / citations: 2,122 / h-index: 29 (as of
-2026-04-15)
+refereed: 90 / first author: 3 / citations: 2,121 / h-index: 29 (as of
+2026-04-16)
 
 <div class="list">
 
@@ -597,7 +597,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[44
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[43
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
