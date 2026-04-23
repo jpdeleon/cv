@@ -23,8 +23,8 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Author of 90 refereed publications in exoplanet science
-with 2,127 total citations and an h-index of 29 (as of 2026-04-22).[^1]
+**Research:** Author of 91 refereed publications in exoplanet science
+with 2,129 total citations and an h-index of 29 (as of 2026-04-23).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 90 / first author: 3 / citations: 2,127 / h-index: 29 (as of
-2026-04-22)
+refereed: 91 / first author: 3 / citations: 2,129 / h-index: 29 (as of
+2026-04-23)
 
 <div class="list">
 
@@ -208,6 +208,12 @@ validation of two temperate mini-Neptunes around M-dwarf habitable
 zones](http://dx.doi.org/10.1093/mnras/stag367)*, Monthly Notices of the
 Royal Astronomical Society, **547**
 ([arXiv:2512.06817](http://arxiv.org/abs/2512.06817))
+
+Peláez-Torres, A.; Pozuelos, F. J.; Morello, G.; Dévora-Pajares, M.;
+*et al.* (incl. **de Leon, J. P.**), 2026, *[A gem system with a lava
+world and a habitable zone sub-Neptune orbiting
+TOI-1752](http://dx.doi.org/10.1093/mnras/stag713)*, Monthly Notices of
+the Royal Astronomical Society
 
 Carleo, Ilaria; Castro-González, Amadeo; Pallé, Enric; Murgas, Felipe;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-3862 b: A dense
@@ -469,7 +475,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[56
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[57
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -597,7 +603,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[44
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
