@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 91 refereed publications in exoplanet science
-with 2,130 total citations and an h-index of 29 (as of 2026-04-25).[^1]
+with 2,130 total citations and an h-index of 29 (as of 2026-04-26).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -197,7 +197,7 @@ proficiency)
 ## Publications
 
 refereed: 91 / first author: 3 / citations: 2,130 / h-index: 29 (as of
-2026-04-25)
+2026-04-26)
 
 <div class="list">
 
@@ -280,8 +280,7 @@ Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
 hot water-world candidate orbiting Ross 176 with TESS and
 CARMENES](http://dx.doi.org/10.1051/0004-6361/202553719)*, Astronomy and
 Astrophysics, **700**
-([arXiv:2507.15763](http://arxiv.org/abs/2507.15763)) \[[2
-citations](https://ui.adsabs.harvard.edu/abs/2025A&A...700A.216G)\]
+([arXiv:2507.15763](http://arxiv.org/abs/2507.15763))
 
 Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
 Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: a
