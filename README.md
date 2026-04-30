@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 91 refereed publications in exoplanet science
-with 2,133 total citations and an h-index of 29 (as of 2026-04-29).[^1]
+with 2,137 total citations and an h-index of 29 (as of 2026-04-30).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 91 / first author: 3 / citations: 2,133 / h-index: 29 (as of
-2026-04-29)
+refereed: 91 / first author: 3 / citations: 2,137 / h-index: 29 (as of
+2026-04-30)
 
 <div class="list">
 
@@ -467,14 +467,14 @@ Mallorquı́n, M.; Goffo, E.; Pallé, E.; Lodieu, N.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[TOI-1801 b: A temperate mini-Neptune around a
 young M0.5 dwarf](http://dx.doi.org/10.1051/0004-6361/202347346)*,
 Astronomy and Astrophysics, **680**
-([arXiv:2310.10244](http://arxiv.org/abs/2310.10244)) \[[11
+([arXiv:2310.10244](http://arxiv.org/abs/2310.10244)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...680A..76M)\]
 
 Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[58
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[59
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -571,7 +571,7 @@ A.; *et al.* (incl. **de Leon, J. P.**), 2022, *[A Possible Alignment
 Between the Orbits of Planetary Systems and their Visual Binary
 Companions](http://dx.doi.org/10.3847/1538-3881/ac517f)*, The
 Astronomical Journal, **163**, 207
-([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[48
+([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[49
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..207C)\]
 
 Watanabe, Noriharu; Narita, Norio; Palle, Enric; Fukui, Akihiko;
@@ -867,7 +867,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[141
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[142
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
