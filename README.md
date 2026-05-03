@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 91 refereed publications in exoplanet science
-with 2,134 total citations and an h-index of 29 (as of 2026-05-01).[^1]
+with 2,136 total citations and an h-index of 29 (as of 2026-05-03).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 91 / first author: 3 / citations: 2,134 / h-index: 29 (as of
-2026-05-01)
+refereed: 91 / first author: 3 / citations: 2,136 / h-index: 29 (as of
+2026-05-03)
 
 <div class="list">
 
@@ -377,7 +377,7 @@ Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
 Earth-sized exoplanet orbiting the nearby ultracool dwarf star
 SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
 Astronomy, **8**, 865
-([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[14
+([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[15
 citations](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..865G)\]
 
 Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
@@ -474,7 +474,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[58
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[59
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
