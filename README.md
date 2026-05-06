@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 91 refereed publications in exoplanet science
-with 2,135 total citations and an h-index of 29 (as of 2026-05-05).[^1]
+with 2,141 total citations and an h-index of 29 (as of 2026-05-06).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 91 / first author: 3 / citations: 2,135 / h-index: 29 (as of
-2026-05-05)
+refereed: 91 / first author: 3 / citations: 2,141 / h-index: 29 (as of
+2026-05-06)
 
 <div class="list">
 
@@ -328,7 +328,7 @@ Jupiters detected by TESS using follow-up spectroscopy from MaHPS at
 Wendelstein together with NEID and
 TRES](http://dx.doi.org/10.1051/0004-6361/202451404)*, Astronomy and
 Astrophysics, **692**
-([arXiv:2501.04383](http://arxiv.org/abs/2501.04383)) \[[2
+([arXiv:2501.04383](http://arxiv.org/abs/2501.04383)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...692A.220E)\]
 
 Peláez-Torres, A.; Esparza-Borges, E.; Pallé, E.; Parviainen, H.;
@@ -452,7 +452,7 @@ Parviainen, H.; Murgas, F.; Esparza-Borges, E.; Peláez-Torres, A.;
 super-Earth at the edge of the M dwarf radius
 valley](http://dx.doi.org/10.1051/0004-6361/202347431)*, Astronomy and
 Astrophysics, **683**
-([arXiv:2401.11879](http://arxiv.org/abs/2401.11879)) \[[5
+([arXiv:2401.11879](http://arxiv.org/abs/2401.11879)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...683A.170P)\]
 
 Kang, H.; Chen, G.; Pallé, E.; Murgas, F.; *et al.* (incl. **de Leon, J.
@@ -499,7 +499,7 @@ Discovery of Two Transiting Giant Planets around M-dwarf Stars and
 Revised Parameters for Three
 Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
-([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[19
+([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
 
 Orell-Miquel, J.; Lampón, M.; López-Puertas, M.; Mallorquı́n, M.;
@@ -531,7 +531,7 @@ Leon, J. P.**), 2023, *[TOI-1442 b and TOI-2445 b: Two potentially rocky
 ultra-short period planets around M
 dwarfs](http://dx.doi.org/10.1051/0004-6361/202243592)*, Astronomy and
 Astrophysics, **673**
-([arXiv:2201.13274](http://arxiv.org/abs/2201.13274)) \[[10
+([arXiv:2201.13274](http://arxiv.org/abs/2201.13274)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...673A..32M)\]
 
 Vines, Jose I.; Jenkins, James S.; Berdiñas, Zaira; Soto, Maritza G.;
@@ -602,7 +602,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[45
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[46
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -867,7 +867,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[140
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[141
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
