@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 91 refereed publications in exoplanet science
-with 2,141 total citations and an h-index of 29 (as of 2026-05-08).[^1]
+with 2,144 total citations and an h-index of 29 (as of 2026-05-09).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 91 / first author: 3 / citations: 2,141 / h-index: 29 (as of
-2026-05-08)
+refereed: 91 / first author: 3 / citations: 2,144 / h-index: 29 (as of
+2026-05-09)
 
 <div class="list">
 
@@ -226,7 +226,7 @@ Livingston, John H.; Petigura, Erik A.; David, Trevor J.; Masuda, Kento;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[A young progenitor for the
 most common planetary systems in the
 Galaxy](http://dx.doi.org/10.1038/s41586-025-09840-z)*, Nature, **649**,
-310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[6
+310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2026Natur.649..310L)\]
 
 Morello, G.; Peláez-Torres, A.; Pozuelos, F. J.; Dévora-Pajares, M.;
@@ -891,7 +891,7 @@ Livingston, John H.; Endl, Michael; Dai, Fei; Cochran, William D.;
 *et al.* (incl. **de Leon, J. P.**), 2018, *[44 Validated Planets from
 K2 Campaign 10](http://dx.doi.org/10.3847/1538-3881/aaccde)*, The
 Astronomical Journal, **156**, 78
-([arXiv:1806.11504](http://arxiv.org/abs/1806.11504)) \[[65
+([arXiv:1806.11504](http://arxiv.org/abs/1806.11504)) \[[66
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...78L)\]
 
 Uyama, Taichi; Hashimoto, Jun; Muto, Takayuki; Akiyama, Eiji;
@@ -923,7 +923,7 @@ Jun; *et al.*, 2015, *[Near-IR High-resolution Imaging Polarimetry of
 the SU Aur Disk: Clues for Tidal
 Tails?](http://dx.doi.org/10.1088/2041-8205/806/1/L10)*, The
 Astrophysical Journal, **806**
-([arXiv:1505.03610](http://arxiv.org/abs/1505.03610)) \[[18
+([arXiv:1505.03610](http://arxiv.org/abs/1505.03610)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D)\]
 
 </div>
