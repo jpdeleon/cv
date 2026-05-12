@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 91 refereed publications in exoplanet science
-with 2,147 total citations and an h-index of 29 (as of 2026-05-11).[^1]
+with 2,147 total citations and an h-index of 29 (as of 2026-05-12).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -197,10 +197,17 @@ proficiency)
 ## Publications
 
 refereed: 91 / first author: 3 / citations: 2,147 / h-index: 29 (as of
-2026-05-11)
+2026-05-12)
 
 <div class="list">
 
+
+Peláez-Torres, A.; Pozuelos, F. J.; Morello, G.; Dévora-Pajares, M.;
+*et al.* (incl. **de Leon, J. P.**), 2026, *[A gem system with a lava
+world and a habitable zone sub-Neptune orbiting
+TOI–1752](http://dx.doi.org/10.1093/mnras/stag713)*, Monthly Notices of
+the Royal Astronomical Society, **548**
+([arXiv:2604.15816](http://arxiv.org/abs/2604.15816))
 
 Jiang, Chengzi; Selezneva, Aleksandra; Parviainen, Hannu; Murgas,
 Felipe; *et al.* (incl. **de Leon, J. P.**), 2026, *[Multicolour
@@ -208,12 +215,6 @@ validation of two temperate mini-Neptunes around M-dwarf habitable
 zones](http://dx.doi.org/10.1093/mnras/stag367)*, Monthly Notices of the
 Royal Astronomical Society, **547**
 ([arXiv:2512.06817](http://arxiv.org/abs/2512.06817))
-
-Peláez-Torres, A.; Pozuelos, F. J.; Morello, G.; Dévora-Pajares, M.;
-*et al.* (incl. **de Leon, J. P.**), 2026, *[A gem system with a lava
-world and a habitable zone sub-Neptune orbiting
-TOI-1752](http://dx.doi.org/10.1093/mnras/stag713)*, Monthly Notices of
-the Royal Astronomical Society
 
 Carleo, Ilaria; Castro-González, Amadeo; Pallé, Enric; Murgas, Felipe;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-3862 b: A dense
