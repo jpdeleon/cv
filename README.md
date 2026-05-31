@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 92 refereed publications in exoplanet science
-with 2,170 total citations and an h-index of 29 (as of 2026-05-30).[^1]
+with 2,179 total citations and an h-index of 29 (as of 2026-05-31).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 92 / first author: 3 / citations: 2,170 / h-index: 29 (as of
-2026-05-30)
+refereed: 92 / first author: 3 / citations: 2,179 / h-index: 29 (as of
+2026-05-31)
 
 <div class="list">
 
@@ -262,7 +262,7 @@ Yee, Samuel W.; Winn, Joshua N.; Hartman, Joel D.; Rodriguez, Joseph E.;
 Jupiter Survey. III. Thirty More Giant
 Planets](http://dx.doi.org/10.3847/1538-4365/aded0d)*, The Astrophysical
 Journal Supplement Series, **280**, 30
-([arXiv:2507.01855](http://arxiv.org/abs/2507.01855)) \[[5
+([arXiv:2507.01855](http://arxiv.org/abs/2507.01855)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...30Y)\]
 
 Gomez Barrientos, Jonathan; Greklek-McKeon, Michael; Knutson, Heather
@@ -392,7 +392,7 @@ Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
 giant ExoPlanets (MEEP). I. Nine Newly Confirmed Hot Jupiters from the
 TESS Mission](http://dx.doi.org/10.3847/1538-3881/ad4a57)*, The
 Astronomical Journal, **168**, 32
-([arXiv:2401.05923](http://arxiv.org/abs/2401.05923)) \[[15
+([arXiv:2401.05923](http://arxiv.org/abs/2401.05923)) \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168...32S)\]
 
 Barkaoui, K.; Schwarz, R. P.; Narita, N.; Mistry, P.;
@@ -481,7 +481,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[59
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[61
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -506,7 +506,7 @@ Discovery of Two Transiting Giant Planets around M-dwarf Stars and
 Revised Parameters for Three
 Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
-([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[20
+([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
 
 Orell-Miquel, J.; Lampón, M.; López-Puertas, M.; Mallorquı́n, M.;
@@ -562,7 +562,7 @@ Carmichael, Theron W.; Irwin, Jonathan M.; Murgas, Felipe; Pallé, Enric;
 brown dwarf orbiting an active M-dwarf from NASA’s TESS
 mission](http://dx.doi.org/10.1093/mnras/stac1666)*, Monthly Notices of
 the Royal Astronomical Society, **514**, 4944
-([arXiv:2202.08842](http://arxiv.org/abs/2202.08842)) \[[22
+([arXiv:2202.08842](http://arxiv.org/abs/2202.08842)) \[[23
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.4944C)\]
 
 Mori, Mayuko; Livingston, John H.; **de Leon, J. P.**; Narita, Norio;
@@ -609,7 +609,7 @@ Wong, Ian; Shporer, Avi; Zhou, George; Kitzmann, Daniel;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-2109: An Ultrahot Gas
 Giant on a 16 hr Orbit](http://dx.doi.org/10.3847/1538-3881/ac26bd)*,
 The Astronomical Journal, **162**, 256
-([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[45
+([arXiv:2111.12074](http://arxiv.org/abs/2111.12074)) \[[46
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..256W)\]
 
 Garai, Z.; Pribulla, T.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -734,7 +734,7 @@ Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
 atmospheric characterisation of the WASP-74 planetary
 system](http://dx.doi.org/10.1051/0004-6361/202038703)*, Astronomy and
 Astrophysics, **642**
-([arXiv:2007.11851](http://arxiv.org/abs/2007.11851)) \[[19
+([arXiv:2007.11851](http://arxiv.org/abs/2007.11851)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A..50L)\]
 
 Nowak, Grzegorz; Palle, Enric; Gandolfi, Davide; Deeg, Hans J.;
@@ -837,7 +837,7 @@ Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
 a mini-Neptune in a triple-star
 system](http://dx.doi.org/10.1093/mnras/stz139)*, Monthly Notices of the
 Royal Astronomical Society, **484**, 3522
-([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[34
+([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[35
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3522H)\]
 
 Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
