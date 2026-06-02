@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 92 refereed publications in exoplanet science
-with 2,181 total citations and an h-index of 29 (as of 2026-06-01).[^1]
+with 2,180 total citations and an h-index of 29 (as of 2026-06-02).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 92 / first author: 3 / citations: 2,181 / h-index: 29 (as of
-2026-06-01)
+refereed: 92 / first author: 3 / citations: 2,180 / h-index: 29 (as of
+2026-06-02)
 
 <div class="list">
 
@@ -882,7 +882,7 @@ Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
 Inner Gas Disk inside the Large Cavity of a Transitional
 Disk](http://dx.doi.org/10.3847/2041-8213/aae88b)*, The Astrophysical
 Journal, **868** ([arXiv:1810.06941](http://arxiv.org/abs/1810.06941))
-\[[44
+\[[43
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...868L...3M)\]
 
 Takami, Michihiro; Fu, Guangwei; Liu, Hauyu Baobab; Karr, Jennifer L.;
