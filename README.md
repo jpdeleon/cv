@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 92 refereed publications in exoplanet science
-with 2,181 total citations and an h-index of 29 (as of 2026-06-03).[^1]
+with 2,183 total citations and an h-index of 29 (as of 2026-06-04).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 92 / first author: 3 / citations: 2,181 / h-index: 29 (as of
-2026-06-03)
+refereed: 92 / first author: 3 / citations: 2,183 / h-index: 29 (as of
+2026-06-04)
 
 <div class="list">
 
@@ -790,7 +790,7 @@ Mayama, Satoshi; Pérez, Sebastián; Kusakabe, Nobuhiko; Muto, Takayuki;
 Imaging Polarimetry of Misaligned Disks around the SR 24 Hierarchical
 Triple System](http://dx.doi.org/10.3847/1538-3881/ab5850)*, The
 Astronomical Journal, **159**, 12
-([arXiv:1911.10941](http://arxiv.org/abs/1911.10941)) \[[9
+([arXiv:1911.10941](http://arxiv.org/abs/1911.10941)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159...12M)\]
 
 Jenkins, James S.; Dı́az, Matı́as R.; Kurtovic, Nicolás T.; Espinoza,
@@ -845,7 +845,7 @@ Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
 with a Protoplanetary Disk around SU
 Aurigae](http://dx.doi.org/10.3847/1538-3881/ab0ae4)*, The Astronomical
 Journal, **157**, 165
-([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[44
+([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157..165A)\]
 
 Hayakawa, Tomohiko; Murakami, Kenichi; **de Leon, J. P.**; & Ishikawa,
