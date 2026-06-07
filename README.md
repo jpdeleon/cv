@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 92 refereed publications in exoplanet science
-with 2,184 total citations and an h-index of 29 (as of 2026-06-06).[^1]
+with 2,184 total citations and an h-index of 29 (as of 2026-06-07).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -197,7 +197,7 @@ proficiency)
 ## Publications
 
 refereed: 92 / first author: 3 / citations: 2,184 / h-index: 29 (as of
-2026-06-06)
+2026-06-07)
 
 <div class="list">
 
@@ -282,19 +282,19 @@ Journal, **170**, 68
 ([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...68V)\]
 
-Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
-*et al.* (incl. **de Leon, J. P.**), 2025, *[Discovery of a transiting
-hot water-world candidate orbiting Ross 176 with TESS and
-CARMENES](http://dx.doi.org/10.1051/0004-6361/202553719)*, Astronomy and
-Astrophysics, **700**
-([arXiv:2507.15763](http://arxiv.org/abs/2507.15763))
-
 Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
 Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: a
 super-Earth in the radius valley orbiting a nearby M
 dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
 the Royal Astronomical Society, **541**, 3249
 ([arXiv:2506.18550](http://arxiv.org/abs/2506.18550))
+
+Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
+*et al.* (incl. **de Leon, J. P.**), 2025, *[Discovery of a transiting
+hot water-world candidate orbiting Ross 176 with TESS and
+CARMENES](http://dx.doi.org/10.1051/0004-6361/202553719)*, Astronomy and
+Astrophysics, **700**
+([arXiv:2507.15763](http://arxiv.org/abs/2507.15763))
 
 Greklek-McKeon, Michael; Vissapragada, Shreyas; Knutson, Heather A.;
 Fukui, Akihiko; *et al.* (incl. **de Leon, J. P.**), 2025, *[Tidally
@@ -368,7 +368,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[42
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[41
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
@@ -717,7 +717,7 @@ transiting, Earth-sized planet and a second temperate, non-transiting
 planet around the M4 dwarf GJ 3473
 (TOI-488)](http://dx.doi.org/10.1051/0004-6361/202038967)*, Astronomy
 and Astrophysics, **642**
-([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[43
+([arXiv:2009.10432](http://arxiv.org/abs/2009.10432)) \[[44
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.236K)\]
 
 Nowak, G.; Luque, R.; Parviainen, H.; Pallé, E.; *et al.* (incl. **de
@@ -800,14 +800,6 @@ Nature Astronomy, **4**, 1148
 ([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[83
 citations](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J)\]
 
-Fukui, A.; Suzuki, D.; Koshimoto, N.; Bachelet, E.; *et al.* (incl. **de
-Leon, J. P.**), 2019, *[Kojima-1Lb Is a Mildly Cold Neptune around the
-Brightest Microlensing Host
-Star](http://dx.doi.org/10.3847/1538-3881/ab487f)*, The Astronomical
-Journal, **158**, 206
-([arXiv:1909.11802](http://arxiv.org/abs/1909.11802)) \[[30
-citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..206F)\]
-
 Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
 *et al.* (incl. **de Leon, J. P.**), 2019, *[Radial velocity
 confirmation of K2-100b: a young, highly irradiated, and low-density
@@ -815,6 +807,14 @@ transiting hot Neptune](http://dx.doi.org/10.1093/mnras/stz2569)*,
 Monthly Notices of the Royal Astronomical Society, **490**, 698
 ([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[67
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..698B)\]
+
+Fukui, A.; Suzuki, D.; Koshimoto, N.; Bachelet, E.; *et al.* (incl. **de
+Leon, J. P.**), 2019, *[Kojima-1Lb Is a Mildly Cold Neptune around the
+Brightest Microlensing Host
+Star](http://dx.doi.org/10.3847/1538-3881/ab487f)*, The Astronomical
+Journal, **158**, 206
+([arXiv:1909.11802](http://arxiv.org/abs/1909.11802)) \[[30
+citations](https://ui.adsabs.harvard.edu/abs/2019AJ....158..206F)\]
 
 Quinn, Samuel N.; Becker, Juliette C.; Rodriguez, Joseph E.; Hadden,
 Sam; *et al.* (incl. **de Leon, J. P.**), 2019, *[Near-resonance in a
