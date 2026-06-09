@@ -23,8 +23,8 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Author of 92 refereed publications in exoplanet science
-with 2,184 total citations and an h-index of 29 (as of 2026-06-08).[^1]
+**Research:** Author of 93 refereed publications in exoplanet science
+with 2,185 total citations and an h-index of 29 (as of 2026-06-09).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 92 / first author: 3 / citations: 2,184 / h-index: 29 (as of
-2026-06-08)
+refereed: 93 / first author: 3 / citations: 2,185 / h-index: 29 (as of
+2026-06-09)
 
 <div class="list">
 
@@ -208,6 +208,12 @@ world and a habitable zone sub-Neptune orbiting
 TOI–1752](http://dx.doi.org/10.1093/mnras/stag713)*, Monthly Notices of
 the Royal Astronomical Society, **548**
 ([arXiv:2604.15816](http://arxiv.org/abs/2604.15816))
+
+Khandelwal, Akanksha; Das, Shubhendra Nath; Sharma, Rishikesh;
+Chakraborty, Abhijit; *et al.* (incl. **de Leon, J. P.**), 2026,
+*[TOI-6884b: A low-mass brown dwarf transiting a slightly evolved
+star](http://dx.doi.org/10.1093/mnras/stag988)*, Monthly Notices of the
+Royal Astronomical Society
 
 Jiang, Chengzi; Selezneva, Aleksandra; Parviainen, Hannu; Murgas,
 Felipe; *et al.* (incl. **de Leon, J. P.**), 2026, *[Multicolour
@@ -254,7 +260,7 @@ Mori, Mayuko; Fukui, Akihiko; Hirano, Teruyuki; Narita, Norio;
 Photometry of the Spot-crossing System TOI-3884: Refined System Geometry
 and Spot Properties](http://dx.doi.org/10.3847/1538-3881/ade2df)*, The
 Astronomical Journal, **170**, 204
-([arXiv:2506.06445](http://arxiv.org/abs/2506.06445)) \[[7
+([arXiv:2506.06445](http://arxiv.org/abs/2506.06445)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170..204M)\]
 
 Yee, Samuel W.; Winn, Joshua N.; Hartman, Joel D.; Rodriguez, Joseph E.;
@@ -262,7 +268,7 @@ Yee, Samuel W.; Winn, Joshua N.; Hartman, Joel D.; Rodriguez, Joseph E.;
 Jupiter Survey. III. Thirty More Giant
 Planets](http://dx.doi.org/10.3847/1538-4365/aded0d)*, The Astrophysical
 Journal Supplement Series, **280**, 30
-([arXiv:2507.01855](http://arxiv.org/abs/2507.01855)) \[[7
+([arXiv:2507.01855](http://arxiv.org/abs/2507.01855)) \[[8
 citations](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...30Y)\]
 
 Gomez Barrientos, Jonathan; Greklek-McKeon, Michael; Knutson, Heather
@@ -882,7 +888,7 @@ Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
 Inner Gas Disk inside the Large Cavity of a Transitional
 Disk](http://dx.doi.org/10.3847/2041-8213/aae88b)*, The Astrophysical
 Journal, **868** ([arXiv:1810.06941](http://arxiv.org/abs/1810.06941))
-\[[44
+\[[43
 citations](https://ui.adsabs.harvard.edu/abs/2018ApJ...868L...3M)\]
 
 Takami, Michihiro; Fu, Guangwei; Liu, Hauyu Baobab; Karr, Jennifer L.;
