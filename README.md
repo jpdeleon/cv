@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 93 refereed publications in exoplanet science
-with 2,185 total citations and an h-index of 29 (as of 2026-06-09).[^1]
+with 2,184 total citations and an h-index of 29 (as of 2026-06-10).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 93 / first author: 3 / citations: 2,185 / h-index: 29 (as of
-2026-06-09)
+refereed: 93 / first author: 3 / citations: 2,184 / h-index: 29 (as of
+2026-06-10)
 
 <div class="list">
 
@@ -260,7 +260,7 @@ Mori, Mayuko; Fukui, Akihiko; Hirano, Teruyuki; Narita, Norio;
 Photometry of the Spot-crossing System TOI-3884: Refined System Geometry
 and Spot Properties](http://dx.doi.org/10.3847/1538-3881/ade2df)*, The
 Astronomical Journal, **170**, 204
-([arXiv:2506.06445](http://arxiv.org/abs/2506.06445)) \[[8
+([arXiv:2506.06445](http://arxiv.org/abs/2506.06445)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170..204M)\]
 
 Yee, Samuel W.; Winn, Joshua N.; Hartman, Joel D.; Rodriguez, Joseph E.;
@@ -692,7 +692,7 @@ of the Royal Astronomical Society, **500**, 5420
 ([arXiv:2011.06329](http://arxiv.org/abs/2011.06329)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5420C)\]
 
-Castro González, A.; Dı́ez Alonso, E.; Menéndez Blanco, J.; Livingston,
+Castro-González, A.; Dı́ez Alonso, E.; Menéndez Blanco, J.; Livingston,
 John H.; *et al.* (incl. **de Leon, J. P.**), 2020, *[Planetary
 candidates transiting cool dwarf stars from campaigns 12 to 15 of
 K2](http://dx.doi.org/10.1093/mnras/staa2353)*, Monthly Notices of the
