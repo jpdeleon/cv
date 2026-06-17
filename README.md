@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 93 refereed publications in exoplanet science
-with 2,184 total citations and an h-index of 29 (as of 2026-06-16).[^1]
+with 2,188 total citations and an h-index of 29 (as of 2026-06-17).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 93 / first author: 3 / citations: 2,184 / h-index: 29 (as of
-2026-06-16)
+refereed: 93 / first author: 3 / citations: 2,188 / h-index: 29 (as of
+2026-06-17)
 
 <div class="list">
 
@@ -239,13 +239,14 @@ Carleo, Ilaria; Castro-González, Amadeo; Pallé, Enric; Murgas, Felipe;
 super-Neptune deep in the hot Neptune
 desert](http://dx.doi.org/10.1051/0004-6361/202557186)*, Astronomy and
 Astrophysics, **707**
-([arXiv:2601.10450](http://arxiv.org/abs/2601.10450))
+([arXiv:2601.10450](http://arxiv.org/abs/2601.10450)) \[[2
+citations](https://ui.adsabs.harvard.edu/abs/2026A&A...707A...4C)\]
 
 Livingston, John H.; Petigura, Erik A.; David, Trevor J.; Masuda, Kento;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[A young progenitor for the
 most common planetary systems in the
 Galaxy](http://dx.doi.org/10.1038/s41586-025-09840-z)*, Nature, **649**,
-310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[8
+310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2026Natur.649..310L)\]
 
 Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
@@ -714,7 +715,7 @@ Leon, J. P.**), 2020, *[Cluster Difference Imaging Photometric Survey.
 II. TOI 837: A Young Validated Planet in IC
 2602](http://dx.doi.org/10.3847/1538-3881/abb9ab)*, The Astronomical
 Journal, **160**, 239
-([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[61
+([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[62
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
 
 Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
