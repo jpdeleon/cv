@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 93 refereed publications in exoplanet science
-with 2,188 total citations and an h-index of 29 (as of 2026-06-17).[^1]
+with 2,196 total citations and an h-index of 29 (as of 2026-06-18).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 93 / first author: 3 / citations: 2,188 / h-index: 29 (as of
-2026-06-17)
+refereed: 93 / first author: 3 / citations: 2,196 / h-index: 29 (as of
+2026-06-18)
 
 <div class="list">
 
@@ -333,7 +333,7 @@ Stevenson, Kevin B.; *et al.* (incl. **de Leon, J. P.**), 2024, *[A
 Fourth Planet in the Kepler-51 System Revealed by Transit Timing
 Variations](http://dx.doi.org/10.3847/1538-3881/ad83d3)*, The
 Astronomical Journal, **168**, 294
-([arXiv:2410.01625](http://arxiv.org/abs/2410.01625)) \[[16
+([arXiv:2410.01625](http://arxiv.org/abs/2410.01625)) \[[17
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168..294M)\]
 
 Ehrhardt, Juliana; Thomas, Luis; Kellermann, Hanna; Freitag, Christine;
@@ -350,7 +350,7 @@ Peláez-Torres, A.; Esparza-Borges, E.; Pallé, E.; Parviainen, H.;
 TESS planet candidates through multi-colour transit photometry using
 MuSCAT2 data](http://dx.doi.org/10.1051/0004-6361/202347251)*, Astronomy
 and Astrophysics, **690**
-([arXiv:2409.07400](http://arxiv.org/abs/2409.07400)) \[[8
+([arXiv:2409.07400](http://arxiv.org/abs/2409.07400)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...690A..62P)\]
 
 Ghachoui, M.; Rackham, B. V.; Dévora-Pajares, M.; Chouqar, J.;
@@ -358,7 +358,7 @@ Ghachoui, M.; Rackham, B. V.; Dévora-Pajares, M.; Chouqar, J.;
 super-Earths orbiting the M-dwarf stars TOI-6002 and TOI-5713 near the
 radius valley](http://dx.doi.org/10.1051/0004-6361/202451120)*,
 Astronomy and Astrophysics, **690**
-([arXiv:2408.00709](http://arxiv.org/abs/2408.00709)) \[[10
+([arXiv:2408.00709](http://arxiv.org/abs/2408.00709)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...690A.263G)\]
 
 Hayashi, Yuya; Narita, Norio; Fukui, Akihiko; Changeat, Quentin;
@@ -391,7 +391,7 @@ Georgina; *et al.* (incl. **de Leon, J. P.**), 2024, *[Detection of an
 Earth-sized exoplanet orbiting the nearby ultracool dwarf star
 SPECULOOS-3](http://dx.doi.org/10.1038/s41550-024-02271-2)*, Nature
 Astronomy, **8**, 865
-([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[15
+([arXiv:2406.00794](http://arxiv.org/abs/2406.00794)) \[[16
 citations](https://ui.adsabs.harvard.edu/abs/2024NatAs...8..865G)\]
 
 Schulte, Jack; Rodriguez, Joseph E.; Bieryla, Allyson; Quinn, Samuel N.;
@@ -408,7 +408,7 @@ Earth-sized planets around M dwarfs discovered by TESS: TOI-5720 b,
 TOI-6008 b, and TOI-6086
 b](http://dx.doi.org/10.1051/0004-6361/202349127)*, Astronomy and
 Astrophysics, **687**
-([arXiv:2405.06350](http://arxiv.org/abs/2405.06350)) \[[9
+([arXiv:2405.06350](http://arxiv.org/abs/2405.06350)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...687A.264B)\]
 
 Kuzuhara, Masayuki; Fukui, Akihiko; Livingston, John H.; Caballero, José
@@ -545,7 +545,7 @@ Leon, J. P.**), 2023, *[TOI-1442 b and TOI-2445 b: Two potentially rocky
 ultra-short period planets around M
 dwarfs](http://dx.doi.org/10.1051/0004-6361/202243592)*, Astronomy and
 Astrophysics, **673**
-([arXiv:2201.13274](http://arxiv.org/abs/2201.13274)) \[[11
+([arXiv:2201.13274](http://arxiv.org/abs/2201.13274)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...673A..32M)\]
 
 Vines, Jose I.; Jenkins, James S.; Berdiñas, Zaira; Soto, Maritza G.;
@@ -789,7 +789,7 @@ P.; *et al.* (incl. **de Leon, J. P.**), 2020, *[MuSCAT2 multicolour
 validation of TESS candidates: an ultra-short-period substellar object
 around an M dwarf](http://dx.doi.org/10.1051/0004-6361/201935958)*,
 Astronomy and Astrophysics, **633**
-([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[46
+([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[47
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...633A..28P)\]
 
 Mayama, Satoshi; Pérez, Sebastián; Kusakabe, Nobuhiko; Muto, Takayuki;
@@ -881,7 +881,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[141
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[142
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
