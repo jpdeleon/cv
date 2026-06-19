@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 93 refereed publications in exoplanet science
-with 2,196 total citations and an h-index of 29 (as of 2026-06-18).[^1]
+with 2,197 total citations and an h-index of 29 (as of 2026-06-19).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 93 / first author: 3 / citations: 2,196 / h-index: 29 (as of
-2026-06-18)
+refereed: 93 / first author: 3 / citations: 2,197 / h-index: 29 (as of
+2026-06-19)
 
 <div class="list">
 
@@ -663,7 +663,7 @@ Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
 Trio of Planets including a Near-resonant
 Pair](http://dx.doi.org/10.3847/1538-3881/ac13a5)*, The Astronomical
 Journal, **162**, 167
-([arXiv:2107.05430](http://arxiv.org/abs/2107.05430)) \[[8
+([arXiv:2107.05430](http://arxiv.org/abs/2107.05430)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..167F)\]
 
 Trifonov, T.; Caballero, J. A.; Morales, J. C.; Seifahrt, A.;
