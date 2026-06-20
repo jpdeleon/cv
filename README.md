@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 93 refereed publications in exoplanet science
-with 2,197 total citations and an h-index of 29 (as of 2026-06-19).[^1]
+with 2,199 total citations and an h-index of 29 (as of 2026-06-20).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 93 / first author: 3 / citations: 2,197 / h-index: 29 (as of
-2026-06-19)
+refereed: 93 / first author: 3 / citations: 2,199 / h-index: 29 (as of
+2026-06-20)
 
 <div class="list">
 
@@ -278,7 +278,7 @@ A.; Giacalone, Steven; *et al.* (incl. **de Leon, J. P.**), 2025,
 Photometry and
 TRICERATOPS+](http://dx.doi.org/10.3847/1538-3881/ade68b)*, The
 Astronomical Journal, **170**, 148
-([arXiv:2508.02782](http://arxiv.org/abs/2508.02782)) \[[4
+([arXiv:2508.02782](http://arxiv.org/abs/2508.02782)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170..148G)\]
 
 Vowell, Noah; Rodriguez, Joseph E.; Latham, David W.; Quinn, Samuel N.;
@@ -342,7 +342,7 @@ Jupiters detected by TESS using follow-up spectroscopy from MaHPS at
 Wendelstein together with NEID and
 TRES](http://dx.doi.org/10.1051/0004-6361/202451404)*, Astronomy and
 Astrophysics, **692**
-([arXiv:2501.04383](http://arxiv.org/abs/2501.04383)) \[[3
+([arXiv:2501.04383](http://arxiv.org/abs/2501.04383)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...692A.220E)\]
 
 Peláez-Torres, A.; Esparza-Borges, E.; Pallé, E.; Parviainen, H.;
