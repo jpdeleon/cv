@@ -23,8 +23,8 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Author of 93 refereed publications in exoplanet science
-with 2,199 total citations and an h-index of 29 (as of 2026-06-22).[^1]
+**Research:** Author of 92 refereed publications in exoplanet science
+with 2,199 total citations and an h-index of 29 (as of 2026-06-23).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 93 / first author: 3 / citations: 2,199 / h-index: 29 (as of
-2026-06-22)
+refereed: 92 / first author: 3 / citations: 2,199 / h-index: 29 (as of
+2026-06-23)
 
 <div class="list">
 
@@ -214,12 +214,6 @@ world and a habitable zone sub-Neptune orbiting
 TOI–1752](http://dx.doi.org/10.1093/mnras/stag713)*, Monthly Notices of
 the Royal Astronomical Society, **548**
 ([arXiv:2604.15816](http://arxiv.org/abs/2604.15816))
-
-Khandelwal, Akanksha; Das, Shubhendra Nath; Sharma, Rishikesh;
-Chakraborty, Abhijit; *et al.* (incl. **de Leon, J. P.**), 2026,
-*[TOI-6884b: A low-mass brown dwarf transiting a slightly evolved
-star](http://dx.doi.org/10.1093/mnras/stag988)*, Monthly Notices of the
-Royal Astronomical Society
 
 Jiang, Chengzi; Selezneva, Aleksandra; Parviainen, Hannu; Murgas,
 Felipe; *et al.* (incl. **de Leon, J. P.**), 2026, *[Multicolour
