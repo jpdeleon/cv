@@ -23,8 +23,8 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Author of 92 refereed publications in exoplanet science
-with 2,199 total citations and an h-index of 29 (as of 2026-06-23).[^1]
+**Research:** Author of 93 refereed publications in exoplanet science
+with 2,201 total citations and an h-index of 29 (as of 2026-06-24).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 92 / first author: 3 / citations: 2,199 / h-index: 29 (as of
-2026-06-23)
+refereed: 93 / first author: 3 / citations: 2,201 / h-index: 29 (as of
+2026-06-24)
 
 <div class="list">
 
@@ -207,6 +207,12 @@ Morello, G.; Peláez-Torres, A.; Pozuelos, F. J.; Dévora-Pajares, M.;
 Four validated planets from the radius valley to the Neptune
 desert](http://dx.doi.org/10.1093/mnras/stag183)*, Monthly Notices of
 the Royal Astronomical Society, **549**
+
+Khandelwal, Akanksha; Das, Shubhendra Nath; Sharma, Rishikesh;
+Chakraborty, Abhijit; *et al.* (incl. **de Leon, J. P.**), 2026,
+*[TOI-6884b: a low-mass brown dwarf transiting a slightly evolved
+star](http://dx.doi.org/10.1093/mnras/stag988)*, Monthly Notices of the
+Royal Astronomical Society, **549**
 
 Peláez-Torres, A.; Pozuelos, F. J.; Morello, G.; Dévora-Pajares, M.;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[A gem system with a lava
@@ -240,7 +246,7 @@ Livingston, John H.; Petigura, Erik A.; David, Trevor J.; Masuda, Kento;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[A young progenitor for the
 most common planetary systems in the
 Galaxy](http://dx.doi.org/10.1038/s41586-025-09840-z)*, Nature, **649**,
-310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[9
+310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2026Natur.649..310L)\]
 
 Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
@@ -436,7 +442,7 @@ starspots on a young M-dwarf K2-25: multiband observations of stellar
 photometric variability and planetary
 transits](http://dx.doi.org/10.1093/mnras/stae841)*, Monthly Notices of
 the Royal Astronomical Society, **530**, 167
-([arXiv:2403.13946](http://arxiv.org/abs/2403.13946)) \[[13
+([arXiv:2403.13946](http://arxiv.org/abs/2403.13946)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530..167M)\]
 
 Murgas, F.; Pallé, E.; Orell-Miquel, J.; Carleo, I.;
