@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 93 refereed publications in exoplanet science
-with 2,201 total citations and an h-index of 29 (as of 2026-06-24).[^1]
+with 2,205 total citations and an h-index of 29 (as of 2026-06-25).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 93 / first author: 3 / citations: 2,201 / h-index: 29 (as of
-2026-06-24)
+refereed: 93 / first author: 3 / citations: 2,205 / h-index: 29 (as of
+2026-06-25)
 
 <div class="list">
 
@@ -286,7 +286,7 @@ Vowell, Noah; Rodriguez, Joseph E.; Latham, David W.; Quinn, Samuel N.;
 Dwarfs and Very-low-mass Stars from
 TESS](http://dx.doi.org/10.3847/1538-3881/addd17)*, The Astronomical
 Journal, **170**, 68
-([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[20
+([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[22
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...68V)\]
 
 Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
@@ -375,7 +375,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[41
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[42
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
@@ -881,7 +881,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[142
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[143
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
