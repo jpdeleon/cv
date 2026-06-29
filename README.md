@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 93 refereed publications in exoplanet science
-with 2,205 total citations and an h-index of 29 (as of 2026-06-28).[^1]
+with 2,205 total citations and an h-index of 29 (as of 2026-06-29).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -197,7 +197,7 @@ proficiency)
 ## Publications
 
 refereed: 93 / first author: 3 / citations: 2,205 / h-index: 29 (as of
-2026-06-28)
+2026-06-29)
 
 <div class="list">
 
