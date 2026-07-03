@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 93 refereed publications in exoplanet science
-with 2,222 total citations and an h-index of 29 (as of 2026-07-02).[^1]
+with 2,225 total citations and an h-index of 29 (as of 2026-07-03).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 93 / first author: 3 / citations: 2,222 / h-index: 29 (as of
-2026-07-02)
+refereed: 93 / first author: 3 / citations: 2,225 / h-index: 29 (as of
+2026-07-03)
 
 <div class="list">
 
@@ -213,6 +213,7 @@ Chakraborty, Abhijit; *et al.* (incl. **de Leon, J. P.**), 2026,
 *[TOI-6884b: a low-mass brown dwarf transiting a slightly evolved
 star](http://dx.doi.org/10.1093/mnras/stag988)*, Monthly Notices of the
 Royal Astronomical Society, **549**
+([arXiv:2606.29666](http://arxiv.org/abs/2606.29666))
 
 Peláez-Torres, A.; Pozuelos, F. J.; Morello, G.; Dévora-Pajares, M.;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[A gem system with a lava
@@ -458,7 +459,7 @@ Serrano Bell, J.; Dı́az, R. F.; Hébrard, G.; Martioli, E.;
 Two new transiting hot Saturns detected and characterized with SOPHIE
 and TESS](http://dx.doi.org/10.1051/0004-6361/202348288)*, Astronomy and
 Astrophysics, **684**
-([arXiv:2402.07861](http://arxiv.org/abs/2402.07861)) \[[5
+([arXiv:2402.07861](http://arxiv.org/abs/2402.07861)) \[[6
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...684A...6S)\]
 
 Parviainen, H.; Murgas, F.; Esparza-Borges, E.; Peláez-Torres, A.;
@@ -488,7 +489,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[62
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[64
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -553,7 +554,7 @@ Vines, Jose I.; Jenkins, James S.; Berdiñas, Zaira; Soto, Maritza G.;
 orbiting the bright young star HD
 18599](http://dx.doi.org/10.1093/mnras/stac2845)*, Monthly Notices of
 the Royal Astronomical Society, **518**, 2627
-([arXiv:2210.07945](http://arxiv.org/abs/2210.07945)) \[[12
+([arXiv:2210.07945](http://arxiv.org/abs/2210.07945)) \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.2627V)\]
 
 Kawauchi, K.; Murgas, F.; Palle, E.; Narita, N.; *et al.* (incl. **de
@@ -561,7 +562,7 @@ Leon, J. P.**), 2022, *[Validation and atmospheric exploration of the
 sub-Neptune TOI-2136b around a nearby M3
 dwarf](http://dx.doi.org/10.1051/0004-6361/202243381)*, Astronomy and
 Astrophysics, **666**
-([arXiv:2202.10182](http://arxiv.org/abs/2202.10182)) \[[12
+([arXiv:2202.10182](http://arxiv.org/abs/2202.10182)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2022A&A...666A...4K)\]
 
 Carmichael, Theron W.; Irwin, Jonathan M.; Murgas, Felipe; Pallé, Enric;
@@ -663,7 +664,7 @@ Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
 Trio of Planets including a Near-resonant
 Pair](http://dx.doi.org/10.3847/1538-3881/ac13a5)*, The Astronomical
 Journal, **162**, 167
-([arXiv:2107.05430](http://arxiv.org/abs/2107.05430)) \[[10
+([arXiv:2107.05430](http://arxiv.org/abs/2107.05430)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..167F)\]
 
 Trifonov, T.; Caballero, J. A.; Morales, J. C.; Seifahrt, A.;
@@ -789,7 +790,7 @@ P.; *et al.* (incl. **de Leon, J. P.**), 2020, *[MuSCAT2 multicolour
 validation of TESS candidates: an ultra-short-period substellar object
 around an M dwarf](http://dx.doi.org/10.1051/0004-6361/201935958)*,
 Astronomy and Astrophysics, **633**
-([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[47
+([arXiv:1911.04366](http://arxiv.org/abs/1911.04366)) \[[48
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...633A..28P)\]
 
 Mayama, Satoshi; Pérez, Sebastián; Kusakabe, Nobuhiko; Muto, Takayuki;

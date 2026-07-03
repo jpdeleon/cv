@@ -97,7 +97,7 @@
     "year": "2026"
   },
   {
-    "arxiv": null,
+    "arxiv": "2606.29666",
     "authors": [
       "Khandelwal, Akanksha",
       "Das, Shubhendra Nath",
@@ -135,7 +135,7 @@
       "Horne, Keith",
       "Nguyen, Kendra",
       "Lad, Kevikumar",
-      "Marcano, Manuel Pichardo",
+      "Pichardo Marcano, Manuel",
       "Magno, Micaela",
       "Prasad, Neelam J. S. S. V.",
       "Watanabe, Noriharu",
@@ -2497,7 +2497,7 @@
       "Stassun, K. G.",
       "Winn, J. N."
     ],
-    "citations": 5,
+    "citations": 6,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202348288",
     "page": null,
@@ -2912,7 +2912,7 @@
       "Winn, J. N.",
       "Zingales, T."
     ],
-    "citations": 62,
+    "citations": 64,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06692-3",
     "page": 932,
@@ -3428,7 +3428,7 @@
       "Okumura, Jack",
       "Samadi-Ghadim, Anya"
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1093/mnras/stac2845",
     "page": 2627,
@@ -3497,7 +3497,7 @@
       "Ueda, A.",
       "Vievard, S."
     ],
-    "citations": 12,
+    "citations": 11,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202243381",
     "page": null,
@@ -4402,7 +4402,7 @@
       "Harbeck, D.",
       "Volgenau, N. H."
     ],
-    "citations": 10,
+    "citations": 9,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac13a5",
     "page": 167,
@@ -5416,7 +5416,7 @@
       "Vezie, M.",
       "Winn, J. N."
     ],
-    "citations": 47,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201935958",
     "page": null,
