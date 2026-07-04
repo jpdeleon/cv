@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 93 refereed publications in exoplanet science
-with 2,225 total citations and an h-index of 29 (as of 2026-07-03).[^1]
+with 2,226 total citations and an h-index of 29 (as of 2026-07-04).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 93 / first author: 3 / citations: 2,225 / h-index: 29 (as of
-2026-07-03)
+refereed: 93 / first author: 3 / citations: 2,226 / h-index: 29 (as of
+2026-07-04)
 
 <div class="list">
 
@@ -247,7 +247,7 @@ Livingston, John H.; Petigura, Erik A.; David, Trevor J.; Masuda, Kento;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[A young progenitor for the
 most common planetary systems in the
 Galaxy](http://dx.doi.org/10.1038/s41586-025-09840-z)*, Nature, **649**,
-310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[11
+310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2026Natur.649..310L)\]
 
 Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
