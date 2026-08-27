@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 97 refereed publications in exoplanet science
-with 2,329 total citations and an h-index of 30 (as of 2026-08-26).[^1]
+with 2,329 total citations and an h-index of 30 (as of 2026-08-27).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -197,7 +197,7 @@ proficiency)
 ## Publications
 
 refereed: 97 / first author: 3 / citations: 2,329 / h-index: 30 (as of
-2026-08-26)
+2026-08-27)
 
 <div class="list">
 
@@ -208,6 +208,12 @@ Jupiter Transiting a Metal-poor
 Star](http://dx.doi.org/10.3847/1538-3881/ae7f02)*, The Astronomical
 Journal, **172**, 118
 ([arXiv:2603.25787](http://arxiv.org/abs/2603.25787))
+
+Thomas, Luis; Nielsen, Louise D.; Kellermann, Hanna; Prinoth, Bibiana;
+*et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-2147 b and TOI-6019 b:
+Two eccentric warm Jupiters detected and characterized with TESS and
+MaHPS](http://dx.doi.org/10.1051/0004-6361/202660426)*, Astronomy and
+Astrophysics, **712**
 
 Fukuda, Izuru; Narita, Norio; Fukui, Akihiko; Hirano, Teruyuki;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[The mass of TOI-1883 b: A
@@ -223,12 +229,6 @@ of HIP 41378 f and new constraints on the outer
 system](http://dx.doi.org/10.1051/0004-6361/202660305)*, Astronomy and
 Astrophysics, **712**
 ([arXiv:2606.23551](http://arxiv.org/abs/2606.23551))
-
-Thomas, Luis; Nielsen, Louise D.; Kellermann, Hanna; Prinoth, Bibiana;
-*et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-2147 b and TOI-6019 b:
-Two eccentric warm Jupiters detected and characterized with TESS and
-MaHPS](http://dx.doi.org/10.1051/0004-6361/202660426)*, Astronomy and
-Astrophysics, **712**
 
 Morello, G.; Peláez-Torres, A.; Pozuelos, F. J.; Dévora-Pajares, M.;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[The K-dwarfs survey – I.
