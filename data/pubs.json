@@ -56,7 +56,7 @@
     "year": "2026"
   },
   {
-    "arxiv": null,
+    "arxiv": "2606.20224",
     "authors": [
       "Thomas, Luis",
       "Nielsen, Louise D.",
@@ -294,7 +294,7 @@
       "Maxted, P. F. L.",
       "G{\\\"u}nther, M. N."
     ],
-    "citations": 1,
+    "citations": 0,
     "doctype": "article",
     "doi": "10.1093/mnras/stag183",
     "page": null,
@@ -839,7 +839,7 @@
       "Kotani, Takayuki",
       "Tamura, Motohide"
     ],
-    "citations": 2,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.1093/pasj/psaf090",
     "page": 1101,
@@ -1485,7 +1485,7 @@
       "Ziegler, C.",
       "Z{\\'u}{\\~n}iga-Fern{\\'a}ndez, S."
     ],
-    "citations": 9,
+    "citations": 10,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202452916",
     "page": null,
@@ -1627,7 +1627,7 @@
       "Ziegler, Carl",
       "Z{\\\"o}ller, Raphael"
     ],
-    "citations": 4,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202451404",
     "page": null,
@@ -1857,7 +1857,7 @@
       "Schweitzer, A.",
       "Vico Linares, J. I."
     ],
-    "citations": 46,
+    "citations": 47,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202449411",
     "page": null,
@@ -3261,7 +3261,7 @@
       "Zapatero-Osorio, M. R.",
       "Zechmeister, M."
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202244261",
     "page": null,
@@ -3390,7 +3390,7 @@
       "Stangret, M.",
       "Yan, F."
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202346445",
     "page": null,
@@ -3706,7 +3706,7 @@
       "Ueda, A.",
       "Vievard, S."
     ],
-    "citations": 12,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202243381",
     "page": null,
@@ -4087,7 +4087,7 @@
       "Bachelet, Etienne",
       "Harbeck, Daniel"
     ],
-    "citations": 15,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.1093/pasj/psab106",
     "page": null,
@@ -4133,7 +4133,7 @@
       "Santos Rodr{\\'\\i}guez, J. D.",
       "de Cos Juez, F. J."
     ],
-    "citations": 29,
+    "citations": 30,
     "doctype": "article",
     "doi": "10.1093/mnras/stab2669",
     "page": 1075,
@@ -4442,7 +4442,7 @@
       "Watanabe, Noriharu",
       "Winn, Joshua N."
     ],
-    "citations": 35,
+    "citations": 36,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac0fdc",
     "page": 161,
@@ -5625,7 +5625,7 @@
       "Vezie, M.",
       "Winn, J. N."
     ],
-    "citations": 50,
+    "citations": 51,
     "doctype": "article",
     "doi": "10.1051/0004-6361/201935958",
     "page": null,
@@ -6344,7 +6344,7 @@
       "Liu, Sheng-Yuan",
       "Tamura, Motohide"
     ],
-    "citations": 47,
+    "citations": 46,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab0ae4",
     "page": 165,
@@ -6586,7 +6586,7 @@
       "Henning, Thomas",
       "de Leon, Jerome"
     ],
-    "citations": 51,
+    "citations": 50,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aad2e1",
     "page": 20,
