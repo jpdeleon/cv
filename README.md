@@ -23,8 +23,8 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Author of 97 refereed publications in exoplanet science
-with 2,338 total citations and an h-index of 30 (as of 2026-08-29).[^1]
+**Research:** Author of 98 refereed publications in exoplanet science
+with 2,339 total citations and an h-index of 30 (as of 2026-08-30).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,11 +196,17 @@ proficiency)
 
 ## Publications
 
-refereed: 97 / first author: 3 / citations: 2,338 / h-index: 30 (as of
-2026-08-29)
+refereed: 98 / first author: 3 / citations: 2,339 / h-index: 30 (as of
+2026-08-30)
 
 <div class="list">
 
+
+Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
+*et al.* (incl. **de Leon, J. P.**), 2026, *[The Orbital
+Eccentricity–Radius Distribution for Warm, Single Planets in
+TESS](http://dx.doi.org/10.3847/2041-8213/ae9612)*, The Astrophysical
+Journal Letters, **1008**
 
 Simon, Joshua D.; Rodriguez, Joseph E.; Yana Galarza, Jhon; Latham,
 David W.; *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-7169 b: A Hot
@@ -730,7 +736,7 @@ John H.; *et al.* (incl. **de Leon, J. P.**), 2020, *[Planetary
 candidates transiting cool dwarf stars from campaigns 12 to 15 of
 K2](http://dx.doi.org/10.1093/mnras/staa2353)*, Monthly Notices of the
 Royal Astronomical Society, **499**, 5416
-([arXiv:2007.12744](http://arxiv.org/abs/2007.12744)) \[[17
+([arXiv:2007.12744](http://arxiv.org/abs/2007.12744)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5416C)\]
 
 Narita, Norio; Fukui, Akihiko; Yamamuro, Tomoyasu; Harbeck, Daniel;
