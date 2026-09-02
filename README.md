@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 98 refereed publications in exoplanet science
-with 2,339 total citations and an h-index of 30 (as of 2026-09-01).[^1]
+with 2,342 total citations and an h-index of 30 (as of 2026-09-02).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 98 / first author: 3 / citations: 2,339 / h-index: 30 (as of
-2026-09-01)
+refereed: 98 / first author: 3 / citations: 2,342 / h-index: 30 (as of
+2026-09-02)
 
 <div class="list">
 
@@ -207,6 +207,8 @@ Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
 Eccentricity–Radius Distribution for Warm, Single Planets in
 TESS](http://dx.doi.org/10.3847/2041-8213/ae9612)*, The Astrophysical
 Journal Letters, **1008**
+([arXiv:2602.20015](http://arxiv.org/abs/2602.20015)) \[[3
+citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1008L...6F)\]
 
 Simon, Joshua D.; Rodriguez, Joseph E.; Yana Galarza, Jhon; Latham,
 David W.; *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-7169 b: A Hot

@@ -1,6 +1,6 @@
 [
   {
-    "arxiv": null,
+    "arxiv": "2602.20015",
     "authors": [
       "Fairnington, Tyler R.",
       "Dong, Jiayin",
@@ -46,7 +46,7 @@
       "Wilkin, Francis P.",
       "Williams, Joe"
     ],
-    "citations": 0,
+    "citations": 3,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ae9612",
     "page": null,
