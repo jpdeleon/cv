@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 98 refereed publications in exoplanet science
-with 2,344 total citations and an h-index of 30 (as of 2026-09-04).[^1]
+with 2,344 total citations and an h-index of 30 (as of 2026-09-05).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -197,7 +197,7 @@ proficiency)
 ## Publications
 
 refereed: 98 / first author: 3 / citations: 2,344 / h-index: 30 (as of
-2026-09-04)
+2026-09-05)
 
 <div class="list">
 
@@ -224,13 +224,6 @@ MaHPS](http://dx.doi.org/10.1051/0004-6361/202660426)*, Astronomy and
 Astrophysics, **712**
 ([arXiv:2606.20224](http://arxiv.org/abs/2606.20224))
 
-Fukuda, Izuru; Narita, Norio; Fukui, Akihiko; Hirano, Teruyuki;
-*et al.* (incl. **de Leon, J. P.**), 2026, *[The mass of TOI-1883 b: A
-low-density super-Neptune in the ridge regime transiting an early-M
-dwarf](http://dx.doi.org/10.1093/pasj/psag084)*, Publications of the
-Astronomical Society of Japan, **78**, 1602
-([arXiv:2606.06868](http://arxiv.org/abs/2606.06868))
-
 Leonardi, P.; Santerne, A.; Borsato, L.; Grouffal, S.;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[Observing a 542-day
 transiting giant with large transit-timing variations: The 2025 transit
@@ -238,6 +231,13 @@ of HIP 41378 f and new constraints on the outer
 system](http://dx.doi.org/10.1051/0004-6361/202660305)*, Astronomy and
 Astrophysics, **712**
 ([arXiv:2606.23551](http://arxiv.org/abs/2606.23551))
+
+Fukuda, Izuru; Narita, Norio; Fukui, Akihiko; Hirano, Teruyuki;
+*et al.* (incl. **de Leon, J. P.**), 2026, *[The mass of TOI-1883 b: A
+low-density super-Neptune in the ridge regime transiting an early-M
+dwarf](http://dx.doi.org/10.1093/pasj/psag084)*, Publications of the
+Astronomical Society of Japan, **78**, 1602
+([arXiv:2606.06868](http://arxiv.org/abs/2606.06868))
 
 Morello, G.; Peláez-Torres, A.; Pozuelos, F. J.; Dévora-Pajares, M.;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[The K-dwarfs survey – I.
