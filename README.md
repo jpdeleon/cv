@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 98 refereed publications in exoplanet science
-with 2,344 total citations and an h-index of 30 (as of 2026-09-06).[^1]
+with 2,132 total citations and an h-index of 29 (as of 2026-09-07).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 98 / first author: 3 / citations: 2,344 / h-index: 30 (as of
-2026-09-06)
+refereed: 98 / first author: 3 / citations: 2,132 / h-index: 29 (as of
+2026-09-07)
 
 <div class="list">
 
@@ -209,6 +209,18 @@ TESS](http://dx.doi.org/10.3847/2041-8213/ae9612)*, The Astrophysical
 Journal Letters, **1008**
 ([arXiv:2602.20015](http://arxiv.org/abs/2602.20015)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1008L...6F)\]
+
+Sha, Lizhou; Vanderburg, Andrew M.; Huang, Chelsea X.; Christian,
+Samuel; *et al.* (incl. **de Leon, J. P.**), 2026, *[The Occurrence Rate
+of Nearby Planetary Companions to Hot
+Jupiters](http://dx.doi.org/10.3847/1538-3881/ae8bb0)*, The Astronomical
+Journal, **172**, 183
+
+Mantovan, G.; Nascimbeni, V.; Desidera, S.; Malavolta, L.; *et al.*,
+2026, *[The GAPS programme at TNG: LXXVI. TOI-1533: A compact system
+hosting a super-Neptune-mass pair with disparate
+radii](http://dx.doi.org/10.1051/0004-6361/202660961)*, Astronomy and
+Astrophysics, **713**
 
 Simon, Joshua D.; Rodriguez, Joseph E.; Yana Galarza, Jhon; Latham,
 David W.; *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-7169 b: A Hot
@@ -750,14 +762,6 @@ North](http://dx.doi.org/10.1117/12.2559947)*, Proceedings of the SPIE,
  \[[23
 citations](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10925/1092507/Focus-adjustable-motion-blur-compensation-method-using-deformable-mirror/10.1117/12.2509567.short)\]
 
-Bouma, L. G.; Hartman, J. D.; Brahm, R.; Evans, P.; *et al.* (incl. **de
-Leon, J. P.**), 2020, *[Cluster Difference Imaging Photometric Survey.
-II. TOI 837: A Young Validated Planet in IC
-2602](http://dx.doi.org/10.3847/1538-3881/abb9ab)*, The Astronomical
-Journal, **160**, 239
-([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[63
-citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
-
 Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
 *et al.* (incl. **de Leon, J. P.**), 2020, *[Discovery of a hot,
 transiting, Earth-sized planet and a second temperate, non-transiting
@@ -915,14 +919,6 @@ cluster](http://dx.doi.org/10.1093/mnras/sty3464)*, Monthly Notices of
 the Royal Astronomical Society, **484**, 8
 ([arXiv:1809.01968](http://arxiv.org/abs/1809.01968)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484....8L)\]
-
-Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
-*et al.* (incl. **de Leon, J. P.**), 2019, *[MuSCAT2: four-color
-simultaneous camera for the 1.52-m Telescopio Carlos
-Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
-Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[149
-citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
 *et al.* (incl. **de Leon, J. P.**), 2018, *[ALMA Reveals a Misaligned
