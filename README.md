@@ -23,8 +23,8 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Author of 98 refereed publications in exoplanet science
-with 2,132 total citations and an h-index of 29 (as of 2026-09-07).[^1]
+**Research:** Author of 100 refereed publications in exoplanet science
+with 2,344 total citations and an h-index of 30 (as of 2026-09-08).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 98 / first author: 3 / citations: 2,132 / h-index: 29 (as of
-2026-09-07)
+refereed: 100 / first author: 3 / citations: 2,344 / h-index: 30 (as of
+2026-09-08)
 
 <div class="list">
 
@@ -341,19 +341,19 @@ Journal, **170**, 68
 ([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...68V)\]
 
-Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
-Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: a
-super-Earth in the radius valley orbiting a nearby M
-dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
-the Royal Astronomical Society, **541**, 3249
-([arXiv:2506.18550](http://arxiv.org/abs/2506.18550))
-
 Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[Discovery of a transiting
 hot water-world candidate orbiting Ross 176 with TESS and
 CARMENES](http://dx.doi.org/10.1051/0004-6361/202553719)*, Astronomy and
 Astrophysics, **700**
 ([arXiv:2507.15763](http://arxiv.org/abs/2507.15763))
+
+Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
+Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: a
+super-Earth in the radius valley orbiting a nearby M
+dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
+the Royal Astronomical Society, **541**, 3249
+([arXiv:2506.18550](http://arxiv.org/abs/2506.18550))
 
 Greklek-McKeon, Michael; Vissapragada, Shreyas; Knutson, Heather A.;
 Fukui, Akihiko; *et al.* (incl. **de Leon, J. P.**), 2025, *[Tidally
@@ -702,14 +702,6 @@ Astronomical Journal, **162**, 161
 ([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[36
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..161H)\]
 
-Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
-*et al.* (incl. **de Leon, J. P.**), 2021, *[The Magellan-TESS Survey.
-I. Survey Description and Midsurvey
-Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
-Journal Supplement Series, **256**, 33
-([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[45
-citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
-
 Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-1749: an M dwarf with a
 Trio of Planets including a Near-resonant
@@ -717,6 +709,14 @@ Pair](http://dx.doi.org/10.3847/1538-3881/ac13a5)*, The Astronomical
 Journal, **162**, 167
 ([arXiv:2107.05430](http://arxiv.org/abs/2107.05430)) \[[10
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..167F)\]
+
+Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
+*et al.* (incl. **de Leon, J. P.**), 2021, *[The Magellan-TESS Survey.
+I. Survey Description and Midsurvey
+Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
+Journal Supplement Series, **256**, 33
+([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[45
+citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
 
 Trifonov, T.; Caballero, J. A.; Morales, J. C.; Seifahrt, A.;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[A nearby transiting rocky
@@ -761,6 +761,14 @@ North](http://dx.doi.org/10.1117/12.2559947)*, Proceedings of the SPIE,
 
  \[[23
 citations](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10925/1092507/Focus-adjustable-motion-blur-compensation-method-using-deformable-mirror/10.1117/12.2509567.short)\]
+
+Bouma, L. G.; Hartman, J. D.; Brahm, R.; Evans, P.; *et al.* (incl. **de
+Leon, J. P.**), 2020, *[Cluster Difference Imaging Photometric Survey.
+II. TOI 837: A Young Validated Planet in IC
+2602](http://dx.doi.org/10.3847/1538-3881/abb9ab)*, The Astronomical
+Journal, **160**, 239
+([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[63
+citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
 
 Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
 *et al.* (incl. **de Leon, J. P.**), 2020, *[Discovery of a hot,
@@ -919,6 +927,14 @@ cluster](http://dx.doi.org/10.1093/mnras/sty3464)*, Monthly Notices of
 the Royal Astronomical Society, **484**, 8
 ([arXiv:1809.01968](http://arxiv.org/abs/1809.01968)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484....8L)\]
+
+Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
+*et al.* (incl. **de Leon, J. P.**), 2019, *[MuSCAT2: four-color
+simultaneous camera for the 1.52-m Telescopio Carlos
+Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
+Astronomical Telescopes, Instruments, and Systems, **5**, 15001
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[149
+citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
 *et al.* (incl. **de Leon, J. P.**), 2018, *[ALMA Reveals a Misaligned
