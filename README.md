@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 100 refereed publications in exoplanet science
-with 2,344 total citations and an h-index of 30 (as of 2026-09-08).[^1]
+with 2,344 total citations and an h-index of 30 (as of 2026-09-10).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -197,7 +197,7 @@ proficiency)
 ## Publications
 
 refereed: 100 / first author: 3 / citations: 2,344 / h-index: 30 (as of
-2026-09-08)
+2026-09-10)
 
 <div class="list">
 
@@ -341,19 +341,19 @@ Journal, **170**, 68
 ([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...68V)\]
 
-Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
-*et al.* (incl. **de Leon, J. P.**), 2025, *[Discovery of a transiting
-hot water-world candidate orbiting Ross 176 with TESS and
-CARMENES](http://dx.doi.org/10.1051/0004-6361/202553719)*, Astronomy and
-Astrophysics, **700**
-([arXiv:2507.15763](http://arxiv.org/abs/2507.15763))
-
 Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
 Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: a
 super-Earth in the radius valley orbiting a nearby M
 dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
 the Royal Astronomical Society, **541**, 3249
 ([arXiv:2506.18550](http://arxiv.org/abs/2506.18550))
+
+Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
+*et al.* (incl. **de Leon, J. P.**), 2025, *[Discovery of a transiting
+hot water-world candidate orbiting Ross 176 with TESS and
+CARMENES](http://dx.doi.org/10.1051/0004-6361/202553719)*, Astronomy and
+Astrophysics, **700**
+([arXiv:2507.15763](http://arxiv.org/abs/2507.15763))
 
 Greklek-McKeon, Michael; Vissapragada, Shreyas; Knutson, Heather A.;
 Fukui, Akihiko; *et al.* (incl. **de Leon, J. P.**), 2025, *[Tidally
@@ -702,14 +702,6 @@ Astronomical Journal, **162**, 161
 ([arXiv:2103.12760](http://arxiv.org/abs/2103.12760)) \[[36
 citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..161H)\]
 
-Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
-*et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-1749: an M dwarf with a
-Trio of Planets including a Near-resonant
-Pair](http://dx.doi.org/10.3847/1538-3881/ac13a5)*, The Astronomical
-Journal, **162**, 167
-([arXiv:2107.05430](http://arxiv.org/abs/2107.05430)) \[[10
-citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..167F)\]
-
 Teske, Johanna; Wang, Sharon Xuesong; Wolfgang, Angie; Gan, Tianjun;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[The Magellan-TESS Survey.
 I. Survey Description and Midsurvey
@@ -717,6 +709,14 @@ Results](http://dx.doi.org/10.3847/1538-4365/ac0f0a)*, The Astrophysical
 Journal Supplement Series, **256**, 33
 ([arXiv:2011.11560](http://arxiv.org/abs/2011.11560)) \[[45
 citations](https://ui.adsabs.harvard.edu/abs/2021ApJS..256...33T)\]
+
+Fukui, A.; Korth, J.; Livingston, J. H.; Twicken, J. D.;
+*et al.* (incl. **de Leon, J. P.**), 2021, *[TOI-1749: an M dwarf with a
+Trio of Planets including a Near-resonant
+Pair](http://dx.doi.org/10.3847/1538-3881/ac13a5)*, The Astronomical
+Journal, **162**, 167
+([arXiv:2107.05430](http://arxiv.org/abs/2107.05430)) \[[10
+citations](https://ui.adsabs.harvard.edu/abs/2021AJ....162..167F)\]
 
 Trifonov, T.; Caballero, J. A.; Morales, J. C.; Seifahrt, A.;
 *et al.* (incl. **de Leon, J. P.**), 2021, *[A nearby transiting rocky
