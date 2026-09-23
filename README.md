@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 100 refereed publications in exoplanet science
-with 2,356 total citations and an h-index of 30 (as of 2026-09-22).[^1]
+with 2,356 total citations and an h-index of 30 (as of 2026-09-23).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -197,7 +197,7 @@ proficiency)
 ## Publications
 
 refereed: 100 / first author: 3 / citations: 2,356 / h-index: 30 (as of
-2026-09-22)
+2026-09-23)
 
 <div class="list">
 
@@ -224,6 +224,12 @@ hosting a super-Neptune-mass pair with disparate
 radii](http://dx.doi.org/10.1051/0004-6361/202660961)*, Astronomy and
 Astrophysics, **713**
 ([arXiv:2606.30799](http://arxiv.org/abs/2606.30799))
+
+Lang, F. Zong; Demory, B. O.; Gómez Maqueo Chew, Y.; Schmid, Y.;
+*et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-4616 b: an Earth-sized
+planet transiting a nearby M4
+dwarf](http://dx.doi.org/10.1093/mnras/stag1610)*, Monthly Notices of
+the Royal Astronomical Society
 
 Simon, Joshua D.; Rodriguez, Joseph E.; Yana Galarza, Jhon; Latham,
 David W.; *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-7169 b: A Hot
@@ -280,13 +286,6 @@ validation of two temperate mini-Neptunes around M-dwarf habitable
 zones](http://dx.doi.org/10.1093/mnras/stag367)*, Monthly Notices of the
 Royal Astronomical Society, **547**
 ([arXiv:2512.06817](http://arxiv.org/abs/2512.06817))
-
-Wilson, Thomas G.; Simpson, Anna M.; Collier Cameron, Andrew; Cloutier,
-Ryan; *et al.* (incl. **de Leon, J. P.**), 2026, *[Gas-depleted planet
-formation occurred in the four-planet system around the red dwarf LHS
-1903](http://dx.doi.org/10.1126/science.adl2348)*, Science, **392**
-([arXiv:2602.11271](http://arxiv.org/abs/2602.11271)) \[[2
-citations](https://ui.adsabs.harvard.edu/abs/2026Sci...392l2348W)\]
 
 Carleo, Ilaria; Castro-González, Amadeo; Pallé, Enric; Murgas, Felipe;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-3862 b: A dense
@@ -430,7 +429,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[48
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[50
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
