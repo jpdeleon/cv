@@ -23,8 +23,8 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Author of 100 refereed publications in exoplanet science
-with 2,356 total citations and an h-index of 30 (as of 2026-09-23).[^1]
+**Research:** Author of 101 refereed publications in exoplanet science
+with 2,362 total citations and an h-index of 30 (as of 2026-09-24).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 100 / first author: 3 / citations: 2,356 / h-index: 30 (as of
-2026-09-23)
+refereed: 101 / first author: 3 / citations: 2,362 / h-index: 30 (as of
+2026-09-24)
 
 <div class="list">
 
@@ -207,7 +207,7 @@ Samuel; *et al.* (incl. **de Leon, J. P.**), 2026, *[The Occurrence Rate
 of Nearby Planetary Companions to Hot
 Jupiters](http://dx.doi.org/10.3847/1538-3881/ae8bb0)*, The Astronomical
 Journal, **172**, 183
-([arXiv:2601.13302](http://arxiv.org/abs/2601.13302)) \[[10
+([arXiv:2601.13302](http://arxiv.org/abs/2601.13302)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....172..183S)\]
 
 Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
@@ -230,6 +230,7 @@ Lang, F. Zong; Demory, B. O.; Gómez Maqueo Chew, Y.; Schmid, Y.;
 planet transiting a nearby M4
 dwarf](http://dx.doi.org/10.1093/mnras/stag1610)*, Monthly Notices of
 the Royal Astronomical Society
+([arXiv:2603.10905](http://arxiv.org/abs/2603.10905))
 
 Simon, Joshua D.; Rodriguez, Joseph E.; Yana Galarza, Jhon; Latham,
 David W.; *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-7169 b: A Hot
@@ -295,11 +296,17 @@ Astrophysics, **707**
 ([arXiv:2601.10450](http://arxiv.org/abs/2601.10450)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2026A&A...707A...4C)\]
 
+Wilson, Thomas G.; Simpson, Anna M.; Collier Cameron, Andrew; Cloutier,
+Ryan; *et al.* (incl. **de Leon, J. P.**), 2026, *[Gas-depleted planet
+formation occurred in the four-planet system around the red dwarf LHS
+1903](http://dx.doi.org/10.1126/science.adl2348)*, Science, **392**
+([arXiv:2602.11271](http://arxiv.org/abs/2602.11271))
+
 Livingston, John H.; Petigura, Erik A.; David, Trevor J.; Masuda, Kento;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[A young progenitor for the
 most common planetary systems in the
 Galaxy](http://dx.doi.org/10.1038/s41586-025-09840-z)*, Nature, **649**,
-310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[17
+310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2026Natur.649..310L)\]
 
 Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
@@ -315,7 +322,7 @@ Mori, Mayuko; Fukui, Akihiko; Hirano, Teruyuki; Narita, Norio;
 Photometry of the Spot-crossing System TOI-3884: Refined System Geometry
 and Spot Properties](http://dx.doi.org/10.3847/1538-3881/ade2df)*, The
 Astronomical Journal, **170**, 204
-([arXiv:2506.06445](http://arxiv.org/abs/2506.06445)) \[[8
+([arXiv:2506.06445](http://arxiv.org/abs/2506.06445)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170..204M)\]
 
 Yee, Samuel W.; Winn, Joshua N.; Hartman, Joel D.; Rodriguez, Joseph E.;
@@ -323,7 +330,7 @@ Yee, Samuel W.; Winn, Joshua N.; Hartman, Joel D.; Rodriguez, Joseph E.;
 Jupiter Survey. III. Thirty More Giant
 Planets](http://dx.doi.org/10.3847/1538-4365/aded0d)*, The Astrophysical
 Journal Supplement Series, **280**, 30
-([arXiv:2507.01855](http://arxiv.org/abs/2507.01855)) \[[10
+([arXiv:2507.01855](http://arxiv.org/abs/2507.01855)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...30Y)\]
 
 Gomez Barrientos, Jonathan; Greklek-McKeon, Michael; Knutson, Heather
@@ -639,7 +646,7 @@ A.; *et al.* (incl. **de Leon, J. P.**), 2022, *[A Possible Alignment
 Between the Orbits of Planetary Systems and their Visual Binary
 Companions](http://dx.doi.org/10.3847/1538-3881/ac517f)*, The
 Astronomical Journal, **163**, 207
-([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[49
+([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[50
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..207C)\]
 
 Watanabe, Noriharu; Narita, Norio; Palle, Enric; Fukui, Akihiko;
@@ -935,7 +942,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[149
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[150
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
