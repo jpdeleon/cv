@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 101 refereed publications in exoplanet science
-with 2,364 total citations and an h-index of 30 (as of 2026-09-29).[^1]
+with 2,371 total citations and an h-index of 30 (as of 2026-10-01).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 101 / first author: 3 / citations: 2,364 / h-index: 30 (as of
-2026-09-29)
+refereed: 101 / first author: 3 / citations: 2,371 / h-index: 30 (as of
+2026-10-01)
 
 <div class="list">
 
@@ -306,7 +306,7 @@ Livingston, John H.; Petigura, Erik A.; David, Trevor J.; Masuda, Kento;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[A young progenitor for the
 most common planetary systems in the
 Galaxy](http://dx.doi.org/10.1038/s41586-025-09840-z)*, Nature, **649**,
-310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[18
+310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2026Natur.649..310L)\]
 
 Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
@@ -347,7 +347,7 @@ Vowell, Noah; Rodriguez, Joseph E.; Latham, David W.; Quinn, Samuel N.;
 Dwarfs and Very-low-mass Stars from
 TESS](http://dx.doi.org/10.3847/1538-3881/addd17)*, The Astronomical
 Journal, **170**, 68
-([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[24
+([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[25
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...68V)\]
 
 Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
@@ -477,7 +477,7 @@ A.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Gliese 12 b: A
 Temperate Earth-sized Planet at 12 pc Ideal for Atmospheric Transmission
 Spectroscopy](http://dx.doi.org/10.3847/2041-8213/ad3642)*, The
 Astrophysical Journal Letters, **967**
-([arXiv:2405.14708](http://arxiv.org/abs/2405.14708)) \[[22
+([arXiv:2405.14708](http://arxiv.org/abs/2405.14708)) \[[23
 citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...967L..21K)\]
 
 Hori, Yasunori; Fukui, Akihiko; Hirano, Teruyuki; Narita, Norio;
@@ -557,7 +557,7 @@ Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
 Orbiting a Metal-rich Early M Star Discovered in the TESS Full-frame
 Images](http://dx.doi.org/10.3847/1538-3881/acf56d)*, The Astronomical
 Journal, **166**, 165
-([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[18
+([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[19
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
 
 Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
@@ -630,7 +630,7 @@ Carmichael, Theron W.; Irwin, Jonathan M.; Murgas, Felipe; Pallé, Enric;
 brown dwarf orbiting an active M-dwarf from NASA’s TESS
 mission](http://dx.doi.org/10.1093/mnras/stac1666)*, Monthly Notices of
 the Royal Astronomical Society, **514**, 4944
-([arXiv:2202.08842](http://arxiv.org/abs/2202.08842)) \[[23
+([arXiv:2202.08842](http://arxiv.org/abs/2202.08842)) \[[24
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514.4944C)\]
 
 Mori, Mayuko; Livingston, John H.; **de Leon, J. P.**; Narita, Norio;
@@ -942,7 +942,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[149
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[150
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
@@ -966,7 +966,7 @@ Livingston, John H.; Endl, Michael; Dai, Fei; Cochran, William D.;
 *et al.* (incl. **de Leon, J. P.**), 2018, *[44 Validated Planets from
 K2 Campaign 10](http://dx.doi.org/10.3847/1538-3881/aaccde)*, The
 Astronomical Journal, **156**, 78
-([arXiv:1806.11504](http://arxiv.org/abs/1806.11504)) \[[67
+([arXiv:1806.11504](http://arxiv.org/abs/1806.11504)) \[[68
 citations](https://ui.adsabs.harvard.edu/abs/2018AJ....156...78L)\]
 
 Uyama, Taichi; Hashimoto, Jun; Muto, Takayuki; Akiyama, Eiji;

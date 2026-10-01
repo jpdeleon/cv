@@ -652,7 +652,7 @@
       "de Wit, J.",
       "Lang, F. Zong"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnras/stag713",
     "page": null,
@@ -957,7 +957,7 @@
       "Zambelli, Roberto",
       "Ziegler, Carl"
     ],
-    "citations": 1,
+    "citations": 0,
     "doctype": "article",
     "doi": "10.1126/science.adl2348",
     "page": null,
@@ -1014,7 +1014,7 @@
       "D{\\'e}sert, Jean-Michel",
       "Pino, Lorenzo"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.1038/s41586-025-09840-z",
     "page": 310,
@@ -1354,7 +1354,7 @@
       "Swift, Jonathan J.",
       "Winn, Joshua N."
     ],
-    "citations": 24,
+    "citations": 25,
     "doctype": "article",
     "doi": "10.3847/1538-3881/addd17",
     "page": 68,
@@ -2499,7 +2499,7 @@
       "Winn, Joshua N.",
       "Zapatero Osorio, Maria Rosa"
     ],
-    "citations": 22,
+    "citations": 23,
     "doctype": "article",
     "doi": "10.3847/2041-8213/ad3642",
     "page": null,
@@ -3413,7 +3413,7 @@
       "Vezie, Michael",
       "de Wit, Julien"
     ],
-    "citations": 18,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acf56d",
     "page": 165,
@@ -3984,7 +3984,7 @@
       "Twicken, Joseph D.",
       "Winn, Joshua N."
     ],
-    "citations": 23,
+    "citations": 24,
     "doctype": "article",
     "doi": "10.1093/mnras/stac1666",
     "page": 4944,
@@ -6754,7 +6754,7 @@
       "Luque, Rafael",
       "Nishiumi, Taku"
     ],
-    "citations": 149,
+    "citations": 150,
     "doctype": "article",
     "doi": "10.1117/1.JATIS.5.1.015001",
     "page": 15001,
@@ -6868,7 +6868,7 @@
       "Van Eylen, Vincent",
       "Winn, Joshua N."
     ],
-    "citations": 67,
+    "citations": 68,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aaccde",
     "page": 78,
