@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 101 refereed publications in exoplanet science
-with 2,371 total citations and an h-index of 30 (as of 2026-10-01).[^1]
+with 2,374 total citations and an h-index of 30 (as of 2026-10-02).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 101 / first author: 3 / citations: 2,371 / h-index: 30 (as of
-2026-10-01)
+refereed: 101 / first author: 3 / citations: 2,374 / h-index: 30 (as of
+2026-10-02)
 
 <div class="list">
 
@@ -494,7 +494,7 @@ the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
 JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[40
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[41
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
@@ -692,7 +692,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.5514G)\]
 2021, *[37 new validated planets in overlapping K2
 campaigns](http://dx.doi.org/10.1093/mnras/stab2305)*, Monthly Notices
 of the Royal Astronomical Society, **508**, 195
-([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[31
+([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[32
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..195D)\]
 
 Scarsdale, Nicholas; Murphy, Joseph M. Akana; Batalha, Natalie M.;
@@ -913,7 +913,7 @@ Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
 with a Protoplanetary Disk around SU
 Aurigae](http://dx.doi.org/10.3847/1538-3881/ab0ae4)*, The Astronomical
 Journal, **157**, 165
-([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[47
+([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[48
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157..165A)\]
 
 Hayakawa, Tomohiko; Murakami, Kenichi; **de Leon, J. P.**; & Ishikawa,
