@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 101 refereed publications in exoplanet science
-with 2,375 total citations and an h-index of 30 (as of 2026-10-04).[^1]
+with 2,375 total citations and an h-index of 30 (as of 2026-10-05).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -197,7 +197,7 @@ proficiency)
 ## Publications
 
 refereed: 101 / first author: 3 / citations: 2,375 / h-index: 30 (as of
-2026-10-04)
+2026-10-05)
 
 <div class="list">
 
@@ -209,6 +209,13 @@ Jupiters](http://dx.doi.org/10.3847/1538-3881/ae8bb0)*, The Astronomical
 Journal, **172**, 183
 ([arXiv:2601.13302](http://arxiv.org/abs/2601.13302)) \[[11
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....172..183S)\]
+
+Lang, F. Zong; Demory, B. O.; Gómez Maqueo Chew, Y.; Schmid, Y.;
+*et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-4616 b: an Earth-sized
+planet transiting a nearby M4
+dwarf](http://dx.doi.org/10.1093/mnras/stag1610)*, Monthly Notices of
+the Royal Astronomical Society
+([arXiv:2603.10905](http://arxiv.org/abs/2603.10905))
 
 Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[The Orbital
@@ -224,13 +231,6 @@ hosting a super-Neptune-mass pair with disparate
 radii](http://dx.doi.org/10.1051/0004-6361/202660961)*, Astronomy and
 Astrophysics, **713**
 ([arXiv:2606.30799](http://arxiv.org/abs/2606.30799))
-
-Lang, F. Zong; Demory, B. O.; Gómez Maqueo Chew, Y.; Schmid, Y.;
-*et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-4616 b: an Earth-sized
-planet transiting a nearby M4
-dwarf](http://dx.doi.org/10.1093/mnras/stag1610)*, Monthly Notices of
-the Royal Astronomical Society
-([arXiv:2603.10905](http://arxiv.org/abs/2603.10905))
 
 Simon, Joshua D.; Rodriguez, Joseph E.; Yana Galarza, Jhon; Latham,
 David W.; *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-7169 b: A Hot
@@ -288,6 +288,12 @@ zones](http://dx.doi.org/10.1093/mnras/stag367)*, Monthly Notices of the
 Royal Astronomical Society, **547**
 ([arXiv:2512.06817](http://arxiv.org/abs/2512.06817))
 
+Wilson, Thomas G.; Simpson, Anna M.; Collier Cameron, Andrew; Cloutier,
+Ryan; *et al.* (incl. **de Leon, J. P.**), 2026, *[Gas-depleted planet
+formation occurred in the four-planet system around the red dwarf LHS
+1903](http://dx.doi.org/10.1126/science.adl2348)*, Science, **392**
+([arXiv:2602.11271](http://arxiv.org/abs/2602.11271))
+
 Carleo, Ilaria; Castro-González, Amadeo; Pallé, Enric; Murgas, Felipe;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-3862 b: A dense
 super-Neptune deep in the hot Neptune
@@ -296,26 +302,12 @@ Astrophysics, **707**
 ([arXiv:2601.10450](http://arxiv.org/abs/2601.10450)) \[[4
 citations](https://ui.adsabs.harvard.edu/abs/2026A&A...707A...4C)\]
 
-Wilson, Thomas G.; Simpson, Anna M.; Collier Cameron, Andrew; Cloutier,
-Ryan; *et al.* (incl. **de Leon, J. P.**), 2026, *[Gas-depleted planet
-formation occurred in the four-planet system around the red dwarf LHS
-1903](http://dx.doi.org/10.1126/science.adl2348)*, Science, **392**
-([arXiv:2602.11271](http://arxiv.org/abs/2602.11271))
-
 Livingston, John H.; Petigura, Erik A.; David, Trevor J.; Masuda, Kento;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[A young progenitor for the
 most common planetary systems in the
 Galaxy](http://dx.doi.org/10.1038/s41586-025-09840-z)*, Nature, **649**,
 310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2026Natur.649..310L)\]
-
-Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
-*et al.* (incl. **de Leon, J. P.**), 2025, *[The mass of TOI-654 b: A
-short-period sub-Neptune transiting a mid-M
-dwarf](http://dx.doi.org/10.1093/pasj/psaf090)*, Publications of the
-Astronomical Society of Japan, **77**, 1101
-([arXiv:2507.16222](http://arxiv.org/abs/2507.16222)) \[[3
-citations](https://ui.adsabs.harvard.edu/abs/2025PASJ...77.1101I)\]
 
 Mori, Mayuko; Fukui, Akihiko; Hirano, Teruyuki; Narita, Norio;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[Multiband, Multiepoch
@@ -324,6 +316,14 @@ and Spot Properties](http://dx.doi.org/10.3847/1538-3881/ade2df)*, The
 Astronomical Journal, **170**, 204
 ([arXiv:2506.06445](http://arxiv.org/abs/2506.06445)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170..204M)\]
+
+Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
+*et al.* (incl. **de Leon, J. P.**), 2025, *[The mass of TOI-654 b: A
+short-period sub-Neptune transiting a mid-M
+dwarf](http://dx.doi.org/10.1093/pasj/psaf090)*, Publications of the
+Astronomical Society of Japan, **77**, 1101
+([arXiv:2507.16222](http://arxiv.org/abs/2507.16222)) \[[3
+citations](https://ui.adsabs.harvard.edu/abs/2025PASJ...77.1101I)\]
 
 Yee, Samuel W.; Winn, Joshua N.; Hartman, Joel D.; Rodriguez, Joseph E.;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[The TESS Grand Unified Hot
@@ -350,19 +350,19 @@ Journal, **170**, 68
 ([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[25
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...68V)\]
 
-Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
-Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: a
-super-Earth in the radius valley orbiting a nearby M
-dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
-the Royal Astronomical Society, **541**, 3249
-([arXiv:2506.18550](http://arxiv.org/abs/2506.18550))
-
 Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[Discovery of a transiting
 hot water-world candidate orbiting Ross 176 with TESS and
 CARMENES](http://dx.doi.org/10.1051/0004-6361/202553719)*, Astronomy and
 Astrophysics, **700**
 ([arXiv:2507.15763](http://arxiv.org/abs/2507.15763))
+
+Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
+Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: a
+super-Earth in the radius valley orbiting a nearby M
+dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
+the Royal Astronomical Society, **541**, 3249
+([arXiv:2506.18550](http://arxiv.org/abs/2506.18550))
 
 Greklek-McKeon, Michael; Vissapragada, Shreyas; Knutson, Heather A.;
 Fukui, Akihiko; *et al.* (incl. **de Leon, J. P.**), 2025, *[Tidally
