@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 101 refereed publications in exoplanet science
-with 2,385 total citations and an h-index of 30 (as of 2026-10-10).[^1]
+with 2,387 total citations and an h-index of 30 (as of 2026-10-11).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,25 +196,18 @@ proficiency)
 
 ## Publications
 
-refereed: 101 / first author: 3 / citations: 2,385 / h-index: 30 (as of
-2026-10-10)
+refereed: 101 / first author: 3 / citations: 2,387 / h-index: 30 (as of
+2026-10-11)
 
 <div class="list">
 
-
-Mantovan, G.; Nascimbeni, V.; Desidera, S.; Malavolta, L.; *et al.*,
-2026, *[The GAPS programme at TNG: LXXVI. TOI-1533: A compact system
-hosting a super-Neptune-mass pair with disparate
-radii](http://dx.doi.org/10.1051/0004-6361/202660961)*, Astronomy and
-Astrophysics, **713**
-([arXiv:2606.30799](http://arxiv.org/abs/2606.30799))
 
 Sha, Lizhou; Vanderburg, Andrew M.; Huang, Chelsea X.; Christian,
 Samuel; *et al.* (incl. **de Leon, J. P.**), 2026, *[The Occurrence Rate
 of Nearby Planetary Companions to Hot
 Jupiters](http://dx.doi.org/10.3847/1538-3881/ae8bb0)*, The Astronomical
 Journal, **172**, 183
-([arXiv:2601.13302](http://arxiv.org/abs/2601.13302)) \[[13
+([arXiv:2601.13302](http://arxiv.org/abs/2601.13302)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....172..183S)\]
 
 Lang, F. Zong; Demory, B. O.; Gómez Maqueo Chew, Y.; Schmid, Y.;
@@ -231,6 +224,13 @@ TESS](http://dx.doi.org/10.3847/2041-8213/ae9612)*, The Astrophysical
 Journal Letters, **1008**
 ([arXiv:2602.20015](http://arxiv.org/abs/2602.20015)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1008L...6F)\]
+
+Mantovan, G.; Nascimbeni, V.; Desidera, S.; Malavolta, L.; *et al.*,
+2026, *[The GAPS programme at TNG: LXXVI. TOI-1533: A compact system
+hosting a super-Neptune-mass pair with disparate
+radii](http://dx.doi.org/10.1051/0004-6361/202660961)*, Astronomy and
+Astrophysics, **713**
+([arXiv:2606.30799](http://arxiv.org/abs/2606.30799))
 
 Simon, Joshua D.; Rodriguez, Joseph E.; Yana Galarza, Jhon; Latham,
 David W.; *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-7169 b: A Hot
@@ -309,14 +309,6 @@ Galaxy](http://dx.doi.org/10.1038/s41586-025-09840-z)*, Nature, **649**,
 310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2026Natur.649..310L)\]
 
-Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
-*et al.* (incl. **de Leon, J. P.**), 2025, *[The mass of TOI-654 b: A
-short-period sub-Neptune transiting a mid-M
-dwarf](http://dx.doi.org/10.1093/pasj/psaf090)*, Publications of the
-Astronomical Society of Japan, **77**, 1101
-([arXiv:2507.16222](http://arxiv.org/abs/2507.16222)) \[[3
-citations](https://ui.adsabs.harvard.edu/abs/2025PASJ...77.1101I)\]
-
 Mori, Mayuko; Fukui, Akihiko; Hirano, Teruyuki; Narita, Norio;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[Multiband, Multiepoch
 Photometry of the Spot-crossing System TOI-3884: Refined System Geometry
@@ -325,12 +317,20 @@ Astronomical Journal, **170**, 204
 ([arXiv:2506.06445](http://arxiv.org/abs/2506.06445)) \[[9
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170..204M)\]
 
+Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
+*et al.* (incl. **de Leon, J. P.**), 2025, *[The mass of TOI-654 b: A
+short-period sub-Neptune transiting a mid-M
+dwarf](http://dx.doi.org/10.1093/pasj/psaf090)*, Publications of the
+Astronomical Society of Japan, **77**, 1101
+([arXiv:2507.16222](http://arxiv.org/abs/2507.16222)) \[[3
+citations](https://ui.adsabs.harvard.edu/abs/2025PASJ...77.1101I)\]
+
 Yee, Samuel W.; Winn, Joshua N.; Hartman, Joel D.; Rodriguez, Joseph E.;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[The TESS Grand Unified Hot
 Jupiter Survey. III. Thirty More Giant
 Planets](http://dx.doi.org/10.3847/1538-4365/aded0d)*, The Astrophysical
 Journal Supplement Series, **280**, 30
-([arXiv:2507.01855](http://arxiv.org/abs/2507.01855)) \[[12
+([arXiv:2507.01855](http://arxiv.org/abs/2507.01855)) \[[13
 citations](https://ui.adsabs.harvard.edu/abs/2025ApJS..280...30Y)\]
 
 Gomez Barrientos, Jonathan; Greklek-McKeon, Michael; Knutson, Heather
