@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 103 refereed publications in exoplanet science
-with 2,387 total citations and an h-index of 30 (as of 2026-10-16).[^1]
+with 2,400 total citations and an h-index of 30 (as of 2026-10-17).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 103 / first author: 3 / citations: 2,387 / h-index: 30 (as of
-2026-10-16)
+refereed: 103 / first author: 3 / citations: 2,400 / h-index: 30 (as of
+2026-10-17)
 
 <div class="list">
 
@@ -351,7 +351,7 @@ A.; Giacalone, Steven; *et al.* (incl. **de Leon, J. P.**), 2025,
 Photometry and
 TRICERATOPS+](http://dx.doi.org/10.3847/1538-3881/ade68b)*, The
 Astronomical Journal, **170**, 148
-([arXiv:2508.02782](http://arxiv.org/abs/2508.02782)) \[[5
+([arXiv:2508.02782](http://arxiv.org/abs/2508.02782)) \[[7
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170..148G)\]
 
 Vowell, Noah; Rodriguez, Joseph E.; Latham, David W.; Quinn, Samuel N.;
@@ -423,7 +423,7 @@ Peláez-Torres, A.; Esparza-Borges, E.; Pallé, E.; Parviainen, H.;
 TESS planet candidates through multi-colour transit photometry using
 MuSCAT2 data](http://dx.doi.org/10.1051/0004-6361/202347251)*, Astronomy
 and Astrophysics, **690**
-([arXiv:2409.07400](http://arxiv.org/abs/2409.07400)) \[[13
+([arXiv:2409.07400](http://arxiv.org/abs/2409.07400)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...690A..62P)\]
 
 Ghachoui, M.; Rackham, B. V.; Dévora-Pajares, M.; Chouqar, J.;
@@ -506,7 +506,7 @@ the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
 JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[41
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[42
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
@@ -561,7 +561,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[67
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[68
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -634,7 +634,7 @@ Leon, J. P.**), 2022, *[Validation and atmospheric exploration of the
 sub-Neptune TOI-2136b around a nearby M3
 dwarf](http://dx.doi.org/10.1051/0004-6361/202243381)*, Astronomy and
 Astrophysics, **666**
-([arXiv:2202.10182](http://arxiv.org/abs/2202.10182)) \[[13
+([arXiv:2202.10182](http://arxiv.org/abs/2202.10182)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2022A&A...666A...4K)\]
 
 Carmichael, Theron W.; Irwin, Jonathan M.; Murgas, Felipe; Pallé, Enric;
@@ -666,7 +666,7 @@ Watanabe, Noriharu; Narita, Norio; Palle, Enric; Fukui, Akihiko;
 WASP-33b for 11 yr by Doppler tomographic and transit photometric
 observations](http://dx.doi.org/10.1093/mnras/stac620)*, Monthly Notices
 of the Royal Astronomical Society, **512**, 4404
-([arXiv:2203.02003](http://arxiv.org/abs/2203.02003)) \[[16
+([arXiv:2203.02003](http://arxiv.org/abs/2203.02003)) \[[17
 citations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.4404W)\]
 
 Fukui, Akihiko; Kimura, Tadahiro; Hirano, Teruyuki; Narita, Norio;
@@ -755,7 +755,7 @@ substellar object around an M dwarf validated using multicolour
 photometry and phase curve
 analysis](http://dx.doi.org/10.1051/0004-6361/202038934)*, Astronomy and
 Astrophysics, **645**
-([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[30
+([arXiv:2011.11458](http://arxiv.org/abs/2011.11458)) \[[31
 citations](https://ui.adsabs.harvard.edu/abs/2021A&A...645A..16P)\]
 
 Chen, G.; Pallé, E.; Parviainen, H.; Wang, H.; *et al.* (incl. **de
@@ -806,7 +806,7 @@ dwarfs. Two planets on opposite sides of the radius gap transiting the
 nearby M dwarf LTT
 3780](http://dx.doi.org/10.1051/0004-6361/202037867)*, Astronomy and
 Astrophysics, **642**
-([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[78
+([arXiv:2003.01140](http://arxiv.org/abs/2003.01140)) \[[79
 citations](https://ui.adsabs.harvard.edu/abs/2020A&A...642A.173N)\]
 
 Luque, R.; Casasayas-Barris, N.; Parviainen, H.; Chen, G.;
@@ -838,7 +838,7 @@ C.; *et al.* (incl. **de Leon, J. P.**), 2020, *[TOI-503: The First
 Known Brown-dwarf Am-star Binary from the TESS
 Mission](http://dx.doi.org/10.3847/1538-3881/ab7245)*, The Astronomical
 Journal, **159**, 151
-([arXiv:1909.07984](http://arxiv.org/abs/1909.07984)) \[[52
+([arXiv:1909.07984](http://arxiv.org/abs/1909.07984)) \[[53
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....159..151S)\]
 
 Hidalgo, D.; Pallé, E.; Alonso, R.; Gandolfi, D.; *et al.*, 2020,
@@ -917,7 +917,7 @@ Hjorth, M.; Justesen, A. B.; Hirano, T.; Albrecht, S.;
 a mini-Neptune in a triple-star
 system](http://dx.doi.org/10.1093/mnras/stz139)*, Monthly Notices of the
 Royal Astronomical Society, **484**, 3522
-([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[37
+([arXiv:1901.03716](http://arxiv.org/abs/1901.03716)) \[[38
 citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.484.3522H)\]
 
 Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
@@ -954,7 +954,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[151
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[152
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
