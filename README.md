@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 103 refereed publications in exoplanet science
-with 2,398 total citations and an h-index of 30 (as of 2026-10-18).[^1]
+with 2,397 total citations and an h-index of 30 (as of 2026-10-19).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 103 / first author: 3 / citations: 2,398 / h-index: 30 (as of
-2026-10-18)
+refereed: 103 / first author: 3 / citations: 2,397 / h-index: 30 (as of
+2026-10-19)
 
 <div class="list">
 
@@ -214,13 +214,12 @@ hot super-jupiter leaving the transiting geometry of the early-A-type
 star TOI-1355](http://dx.doi.org/10.1093/pasj/psag103)*, Publications of
 the Astronomical Society of Japan, **78**, 1992
 
-Sha, Lizhou; Vanderburg, Andrew M.; Huang, Chelsea X.; Christian,
-Samuel; *et al.* (incl. **de Leon, J. P.**), 2026, *[The Occurrence Rate
-of Nearby Planetary Companions to Hot
-Jupiters](http://dx.doi.org/10.3847/1538-3881/ae8bb0)*, The Astronomical
-Journal, **172**, 183
-([arXiv:2601.13302](http://arxiv.org/abs/2601.13302)) \[[14
-citations](https://ui.adsabs.harvard.edu/abs/2026AJ....172..183S)\]
+Mantovan, G.; Nascimbeni, V.; Desidera, S.; Malavolta, L.; *et al.*,
+2026, *[The GAPS programme at TNG: LXXVI. TOI-1533: A compact system
+hosting a super-Neptune-mass pair with disparate
+radii](http://dx.doi.org/10.1051/0004-6361/202660961)*, Astronomy and
+Astrophysics, **713**
+([arXiv:2606.30799](http://arxiv.org/abs/2606.30799))
 
 Lang, F. Zong; Demory, B. O.; Gómez Maqueo Chew, Y.; Schmid, Y.;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-4616 b: an Earth-sized
@@ -229,6 +228,14 @@ dwarf](http://dx.doi.org/10.1093/mnras/stag1610)*, Monthly Notices of
 the Royal Astronomical Society
 ([arXiv:2603.10905](http://arxiv.org/abs/2603.10905))
 
+Sha, Lizhou; Vanderburg, Andrew M.; Huang, Chelsea X.; Christian,
+Samuel; *et al.* (incl. **de Leon, J. P.**), 2026, *[The Occurrence Rate
+of Nearby Planetary Companions to Hot
+Jupiters](http://dx.doi.org/10.3847/1538-3881/ae8bb0)*, The Astronomical
+Journal, **172**, 183
+([arXiv:2601.13302](http://arxiv.org/abs/2601.13302)) \[[14
+citations](https://ui.adsabs.harvard.edu/abs/2026AJ....172..183S)\]
+
 Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[The Orbital
 Eccentricity–Radius Distribution for Warm, Single Planets in
@@ -236,13 +243,6 @@ TESS](http://dx.doi.org/10.3847/2041-8213/ae9612)*, The Astrophysical
 Journal Letters, **1008**
 ([arXiv:2602.20015](http://arxiv.org/abs/2602.20015)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1008L...6F)\]
-
-Mantovan, G.; Nascimbeni, V.; Desidera, S.; Malavolta, L.; *et al.*,
-2026, *[The GAPS programme at TNG: LXXVI. TOI-1533: A compact system
-hosting a super-Neptune-mass pair with disparate
-radii](http://dx.doi.org/10.1051/0004-6361/202660961)*, Astronomy and
-Astrophysics, **713**
-([arXiv:2606.30799](http://arxiv.org/abs/2606.30799))
 
 Simon, Joshua D.; Rodriguez, Joseph E.; Yana Galarza, Jhon; Latham,
 David W.; *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-7169 b: A Hot
@@ -362,19 +362,19 @@ Journal, **170**, 68
 ([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...68V)\]
 
-Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
-Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: a
-super-Earth in the radius valley orbiting a nearby M
-dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
-the Royal Astronomical Society, **541**, 3249
-([arXiv:2506.18550](http://arxiv.org/abs/2506.18550))
-
 Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
 *et al.* (incl. **de Leon, J. P.**), 2025, *[Discovery of a transiting
 hot water-world candidate orbiting Ross 176 with TESS and
 CARMENES](http://dx.doi.org/10.1051/0004-6361/202553719)*, Astronomy and
 Astrophysics, **700**
 ([arXiv:2507.15763](http://arxiv.org/abs/2507.15763))
+
+Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
+Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: a
+super-Earth in the radius valley orbiting a nearby M
+dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
+the Royal Astronomical Society, **541**, 3249
+([arXiv:2506.18550](http://arxiv.org/abs/2506.18550))
 
 Greklek-McKeon, Michael; Vissapragada, Shreyas; Knutson, Heather A.;
 Fukui, Akihiko; *et al.* (incl. **de Leon, J. P.**), 2025, *[Tidally
@@ -569,7 +569,7 @@ Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
 Orbiting a Metal-rich Early M Star Discovered in the TESS Full-frame
 Images](http://dx.doi.org/10.3847/1538-3881/acf56d)*, The Astronomical
 Journal, **166**, 165
-([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[19
+([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
 
 Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
@@ -586,7 +586,7 @@ Discovery of Two Transiting Giant Planets around M-dwarf Stars and
 Revised Parameters for Three
 Others](http://dx.doi.org/10.3847/1538-3881/acf56e)*, The Astronomical
 Journal, **166**, 163
-([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[22
+([arXiv:2307.06809](http://arxiv.org/abs/2307.06809)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..163H)\]
 
 Orell-Miquel, J.; Lampón, M.; López-Puertas, M.; Mallorquı́n, M.;
@@ -658,7 +658,7 @@ A.; *et al.* (incl. **de Leon, J. P.**), 2022, *[A Possible Alignment
 Between the Orbits of Planetary Systems and their Visual Binary
 Companions](http://dx.doi.org/10.3847/1538-3881/ac517f)*, The
 Astronomical Journal, **163**, 207
-([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[51
+([arXiv:2202.00042](http://arxiv.org/abs/2202.00042)) \[[52
 citations](https://ui.adsabs.harvard.edu/abs/2022AJ....163..207C)\]
 
 Watanabe, Noriharu; Narita, Norio; Palle, Enric; Fukui, Akihiko;
@@ -954,7 +954,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[151
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[150
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
