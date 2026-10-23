@@ -23,8 +23,8 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Author of 102 refereed publications in exoplanet science
-with 2,331 total citations and an h-index of 29 (as of 2026-10-22).[^1]
+**Research:** Author of 103 refereed publications in exoplanet science
+with 2,401 total citations and an h-index of 30 (as of 2026-10-23).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 102 / first author: 3 / citations: 2,331 / h-index: 29 (as of
-2026-10-22)
+refereed: 103 / first author: 3 / citations: 2,401 / h-index: 30 (as of
+2026-10-23)
 
 <div class="list">
 
@@ -311,7 +311,7 @@ Carleo, Ilaria; Castro-González, Amadeo; Pallé, Enric; Murgas, Felipe;
 super-Neptune deep in the hot Neptune
 desert](http://dx.doi.org/10.1051/0004-6361/202557186)*, Astronomy and
 Astrophysics, **707**
-([arXiv:2601.10450](http://arxiv.org/abs/2601.10450)) \[[4
+([arXiv:2601.10450](http://arxiv.org/abs/2601.10450)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2026A&A...707A...4C)\]
 
 Livingston, John H.; Petigura, Erik A.; David, Trevor J.; Masuda, Kento;
@@ -561,7 +561,7 @@ Luque, R.; Osborn, H. P.; Leleu, A.; Pallé, E.; *et al.* (incl. **de
 Leon, J. P.**), 2023, *[A resonant sextuplet of sub-Neptunes transiting
 the bright star HD
 110067](http://dx.doi.org/10.1038/s41586-023-06692-3)*, Nature, **623**,
-932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[68
+932 ([arXiv:2311.17775](http://arxiv.org/abs/2311.17775)) \[[69
 citations](https://ui.adsabs.harvard.edu/abs/2023Natur.623..932L)\]
 
 Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
@@ -877,8 +877,16 @@ Jenkins, James S.; Dı́az, Matı́as R.; Kurtovic, Nicolás T.; Espinoza,
 Néstor; *et al.* (incl. **de Leon, J. P.**), 2020, *[An ultrahot Neptune
 in the Neptune desert](http://dx.doi.org/10.1038/s41550-020-1142-z)*,
 Nature Astronomy, **4**, 1148
-([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[93
+([arXiv:2009.12832](http://arxiv.org/abs/2009.12832)) \[[94
 citations](https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J)\]
+
+Barragán, O.; Aigrain, S.; Kubyshkina, D.; Gandolfi, D.;
+*et al.* (incl. **de Leon, J. P.**), 2019, *[Radial velocity
+confirmation of K2-100b: a young, highly irradiated, and low-density
+transiting hot Neptune](http://dx.doi.org/10.1093/mnras/stz2569)*,
+Monthly Notices of the Royal Astronomical Society, **490**, 698
+([arXiv:1909.05252](http://arxiv.org/abs/1909.05252)) \[[68
+citations](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490..698B)\]
 
 Fukui, A.; Suzuki, D.; Koshimoto, N.; Bachelet, E.; *et al.* (incl. **de
 Leon, J. P.**), 2019, *[Kojima-1Lb Is a Mildly Cold Neptune around the
