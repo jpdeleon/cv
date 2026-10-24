@@ -23,8 +23,8 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Author of 103 refereed publications in exoplanet science
-with 2,401 total citations and an h-index of 30 (as of 2026-10-23).[^1]
+**Research:** Author of 102 refereed publications in exoplanet science
+with 2,401 total citations and an h-index of 30 (as of 2026-10-24).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 103 / first author: 3 / citations: 2,401 / h-index: 30 (as of
-2026-10-23)
+refereed: 102 / first author: 3 / citations: 2,401 / h-index: 30 (as of
+2026-10-24)
 
 <div class="list">
 
@@ -207,12 +207,6 @@ Collier, Michael; Giacalone, Steven; Derfer, Brian; Ciardi, David R.;
 High-resolution Imaging on Statistical Validation of TESS Planet
 Candidates](http://dx.doi.org/10.3847/1538-3881/aea4aa)*, The
 Astronomical Journal, **172**, 247
-
-Watanabe, Noriharu; Narita, Norio; Fukui, Akihiko; Sato, Bun’ei;
-*et al.* (incl. **de Leon, J. P.**), 2026, *[Discovery of an eccentric
-hot super-jupiter leaving the transiting geometry of the early-A-type
-star TOI-1355](http://dx.doi.org/10.1093/pasj/psag103)*, Publications of
-the Astronomical Society of Japan, **78**, 1992
 
 Sha, Lizhou; Vanderburg, Andrew M.; Huang, Chelsea X.; Christian,
 Samuel; *et al.* (incl. **de Leon, J. P.**), 2026, *[The Occurrence Rate
