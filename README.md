@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 103 refereed publications in exoplanet science
-with 2,401 total citations and an h-index of 30 (as of 2026-10-25).[^1]
+with 2,401 total citations and an h-index of 30 (as of 2026-10-26).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -197,7 +197,7 @@ proficiency)
 ## Publications
 
 refereed: 103 / first author: 3 / citations: 2,401 / h-index: 30 (as of
-2026-10-25)
+2026-10-26)
 
 <div class="list">
 
@@ -214,20 +214,6 @@ hot super-jupiter leaving the transiting geometry of the early-A-type
 star TOI-1355](http://dx.doi.org/10.1093/pasj/psag103)*, Publications of
 the Astronomical Society of Japan, **78**, 1992
 
-Mantovan, G.; Nascimbeni, V.; Desidera, S.; Malavolta, L.; *et al.*,
-2026, *[The GAPS programme at TNG: LXXVI. TOI-1533: A compact system
-hosting a super-Neptune-mass pair with disparate
-radii](http://dx.doi.org/10.1051/0004-6361/202660961)*, Astronomy and
-Astrophysics, **713**
-([arXiv:2606.30799](http://arxiv.org/abs/2606.30799))
-
-Lang, F. Zong; Demory, B. O.; Gómez Maqueo Chew, Y.; Schmid, Y.;
-*et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-4616 b: an Earth-sized
-planet transiting a nearby M4
-dwarf](http://dx.doi.org/10.1093/mnras/stag1610)*, Monthly Notices of
-the Royal Astronomical Society
-([arXiv:2603.10905](http://arxiv.org/abs/2603.10905))
-
 Sha, Lizhou; Vanderburg, Andrew M.; Huang, Chelsea X.; Christian,
 Samuel; *et al.* (incl. **de Leon, J. P.**), 2026, *[The Occurrence Rate
 of Nearby Planetary Companions to Hot
@@ -236,6 +222,13 @@ Journal, **172**, 183
 ([arXiv:2601.13302](http://arxiv.org/abs/2601.13302)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....172..183S)\]
 
+Lang, F. Zong; Demory, B. O.; Gómez Maqueo Chew, Y.; Schmid, Y.;
+*et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-4616 b: an Earth-sized
+planet transiting a nearby M4
+dwarf](http://dx.doi.org/10.1093/mnras/stag1610)*, Monthly Notices of
+the Royal Astronomical Society
+([arXiv:2603.10905](http://arxiv.org/abs/2603.10905))
+
 Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[The Orbital
 Eccentricity–Radius Distribution for Warm, Single Planets in
@@ -243,6 +236,13 @@ TESS](http://dx.doi.org/10.3847/2041-8213/ae9612)*, The Astrophysical
 Journal Letters, **1008**
 ([arXiv:2602.20015](http://arxiv.org/abs/2602.20015)) \[[3
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1008L...6F)\]
+
+Mantovan, G.; Nascimbeni, V.; Desidera, S.; Malavolta, L.; *et al.*,
+2026, *[The GAPS programme at TNG: LXXVI. TOI-1533: A compact system
+hosting a super-Neptune-mass pair with disparate
+radii](http://dx.doi.org/10.1051/0004-6361/202660961)*, Astronomy and
+Astrophysics, **713**
+([arXiv:2606.30799](http://arxiv.org/abs/2606.30799))
 
 Simon, Joshua D.; Rodriguez, Joseph E.; Yana Galarza, Jhon; Latham,
 David W.; *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-7169 b: A Hot
@@ -362,19 +362,19 @@ Journal, **170**, 68
 ([arXiv:2501.09795](http://arxiv.org/abs/2501.09795)) \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170...68V)\]
 
-Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
-*et al.* (incl. **de Leon, J. P.**), 2025, *[Discovery of a transiting
-hot water-world candidate orbiting Ross 176 with TESS and
-CARMENES](http://dx.doi.org/10.1051/0004-6361/202553719)*, Astronomy and
-Astrophysics, **700**
-([arXiv:2507.15763](http://arxiv.org/abs/2507.15763))
-
 Soubkiou, Abderahmane; Barkaoui, Khalid; Benkhaldoun, Zouhair; Ghachoui,
 Mourad; *et al.* (incl. **de Leon, J. P.**), 2025, *[TOI-1846 b: a
 super-Earth in the radius valley orbiting a nearby M
 dwarf](http://dx.doi.org/10.1093/mnras/staf1030)*, Monthly Notices of
 the Royal Astronomical Society, **541**, 3249
 ([arXiv:2506.18550](http://arxiv.org/abs/2506.18550))
+
+Geraldı́a-González, S.; Orell-Miquel, J.; Pallé, E.; Murgas, F.;
+*et al.* (incl. **de Leon, J. P.**), 2025, *[Discovery of a transiting
+hot water-world candidate orbiting Ross 176 with TESS and
+CARMENES](http://dx.doi.org/10.1051/0004-6361/202553719)*, Astronomy and
+Astrophysics, **700**
+([arXiv:2507.15763](http://arxiv.org/abs/2507.15763))
 
 Greklek-McKeon, Michael; Vissapragada, Shreyas; Knutson, Heather A.;
 Fukui, Akihiko; *et al.* (incl. **de Leon, J. P.**), 2025, *[Tidally
