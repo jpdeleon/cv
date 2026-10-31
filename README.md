@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 103 refereed publications in exoplanet science
-with 2,522 total citations and an h-index of 30 (as of 2026-10-30).[^1]
+with 2,526 total citations and an h-index of 30 (as of 2026-10-31).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 103 / first author: 3 / citations: 2,522 / h-index: 30 (as of
-2026-10-30)
+refereed: 103 / first author: 3 / citations: 2,526 / h-index: 30 (as of
+2026-10-31)
 
 <div class="list">
 
@@ -219,7 +219,7 @@ Samuel; *et al.* (incl. **de Leon, J. P.**), 2026, *[The Occurrence Rate
 of Nearby Planetary Companions to Hot
 Jupiters](http://dx.doi.org/10.3847/1538-3881/ae8bb0)*, The Astronomical
 Journal, **172**, 183
-([arXiv:2601.13302](http://arxiv.org/abs/2601.13302)) \[[20
+([arXiv:2601.13302](http://arxiv.org/abs/2601.13302)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....172..183S)\]
 
 Lang, F. Zong; Demory, B. O.; Gómez Maqueo Chew, Y.; Schmid, Y.;
@@ -307,8 +307,7 @@ Wilson, Thomas G.; Simpson, Anna M.; Collier Cameron, Andrew; Cloutier,
 Ryan; *et al.* (incl. **de Leon, J. P.**), 2026, *[Gas-depleted planet
 formation occurred in the four-planet system around the red dwarf LHS
 1903](http://dx.doi.org/10.1126/science.adl2348)*, Science, **392**
-([arXiv:2602.11271](http://arxiv.org/abs/2602.11271)) \[[3
-citations](https://ui.adsabs.harvard.edu/abs/2026Sci...392..271W)\]
+([arXiv:2602.11271](http://arxiv.org/abs/2602.11271))
 
 Carleo, Ilaria; Castro-González, Amadeo; Pallé, Enric; Murgas, Felipe;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-3862 b: A dense
@@ -322,7 +321,7 @@ Livingston, John H.; Petigura, Erik A.; David, Trevor J.; Masuda, Kento;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[A young progenitor for the
 most common planetary systems in the
 Galaxy](http://dx.doi.org/10.1038/s41586-025-09840-z)*, Nature, **649**,
-310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[26
+310 ([arXiv:2601.10598](http://arxiv.org/abs/2601.10598)) \[[27
 citations](https://ui.adsabs.harvard.edu/abs/2026Natur.649..310L)\]
 
 Ikuta, Kai; Narita, Norio; Takarada, Takuya; Hirano, Teruyuki;
@@ -338,7 +337,7 @@ Mori, Mayuko; Fukui, Akihiko; Hirano, Teruyuki; Narita, Norio;
 Photometry of the Spot-crossing System TOI-3884: Refined System Geometry
 and Spot Properties](http://dx.doi.org/10.3847/1538-3881/ade2df)*, The
 Astronomical Journal, **170**, 204
-([arXiv:2506.06445](http://arxiv.org/abs/2506.06445)) \[[11
+([arXiv:2506.06445](http://arxiv.org/abs/2506.06445)) \[[12
 citations](https://ui.adsabs.harvard.edu/abs/2025AJ....170..204M)\]
 
 Yee, Samuel W.; Winn, Joshua N.; Hartman, Joel D.; Rodriguez, Joseph E.;
@@ -411,7 +410,7 @@ Stevenson, Kevin B.; *et al.* (incl. **de Leon, J. P.**), 2024, *[A
 Fourth Planet in the Kepler-51 System Revealed by Transit Timing
 Variations](http://dx.doi.org/10.3847/1538-3881/ad83d3)*, The
 Astronomical Journal, **168**, 294
-([arXiv:2410.01625](http://arxiv.org/abs/2410.01625)) \[[24
+([arXiv:2410.01625](http://arxiv.org/abs/2410.01625)) \[[25
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....168..294M)\]
 
 Ehrhardt, Juliana; Thomas, Luis; Kellermann, Hanna; Freitag, Christine;
@@ -494,7 +493,7 @@ A.; *et al.* (incl. **de Leon, J. P.**), 2024, *[Gliese 12 b: A
 Temperate Earth-sized Planet at 12 pc Ideal for Atmospheric Transmission
 Spectroscopy](http://dx.doi.org/10.3847/2041-8213/ad3642)*, The
 Astrophysical Journal Letters, **967**
-([arXiv:2405.14708](http://arxiv.org/abs/2405.14708)) \[[24
+([arXiv:2405.14708](http://arxiv.org/abs/2405.14708)) \[[25
 citations](https://ui.adsabs.harvard.edu/abs/2024ApJ...967L..21K)\]
 
 Hori, Yasunori; Fukui, Akihiko; Hirano, Teruyuki; Narita, Norio;
@@ -600,7 +599,7 @@ evaporating atmosphere around the 650-Myr-old sub-Neptune HD 235088 b
 (TOI-1430 b) with
 CARMENES](http://dx.doi.org/10.1051/0004-6361/202346445)*, Astronomy and
 Astrophysics, **677**
-([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[25
+([arXiv:2307.05191](http://arxiv.org/abs/2307.05191)) \[[26
 citations](https://ui.adsabs.harvard.edu/abs/2023A&A...677A..56O)\]
 
 Kagetani, Taiki; Narita, Norio; Kimura, Tadahiro; Hirano, Teruyuki;
