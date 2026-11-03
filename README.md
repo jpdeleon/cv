@@ -23,8 +23,8 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 <div class="list">
 
 
-**Research:** Author of 103 refereed publications in exoplanet science
-with 2,535 total citations and an h-index of 30 (as of 2026-11-02).[^1]
+**Research:** Author of 104 refereed publications in exoplanet science
+with 2,546 total citations and an h-index of 30 (as of 2026-11-03).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 103 / first author: 3 / citations: 2,535 / h-index: 30 (as of
-2026-11-02)
+refereed: 104 / first author: 3 / citations: 2,546 / h-index: 30 (as of
+2026-11-03)
 
 <div class="list">
 
@@ -208,11 +208,32 @@ High-resolution Imaging on Statistical Validation of TESS Planet
 Candidates](http://dx.doi.org/10.3847/1538-3881/aea4aa)*, The
 Astronomical Journal, **172**, 247
 
+Lang, F. Zong; Demory, B. O.; Chew, Y. Gómez Maqueo; Schmid, Y.;
+*et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-4616 b: an Earth-sized
+planet transiting a nearby M4
+dwarf](http://dx.doi.org/10.1093/mnras/stag1610)*, Monthly Notices of
+the Royal Astronomical Society, **553**
+([arXiv:2603.10905](http://arxiv.org/abs/2603.10905))
+
 Watanabe, Noriharu; Narita, Norio; Fukui, Akihiko; Sato, Bun’ei;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[Discovery of an eccentric
 hot super-jupiter leaving the transiting geometry of the early-A-type
 star TOI-1355](http://dx.doi.org/10.1093/pasj/psag103)*, Publications of
 the Astronomical Society of Japan, **78**, 1992
+
+Mancini, L.; Manni, F.; Kubyshkina, D.; van Dijk, E. A.;
+*et al.* (incl. **de Leon, J. P.**), 2026, *[The Hot Neptune Initiative
+(HONEI): III. An ultra-hot super Neptune orbiting the metal-rich
+subgiant star TOI-5646: the largest host for a desert
+dweller](http://dx.doi.org/10.1051/0004-6361/202661303)*, Astronomy and
+Astrophysics, **714**
+
+Mantovan, G.; Nascimbeni, V.; Desidera, S.; Malavolta, L.; *et al.*,
+2026, *[The GAPS programme at TNG: LXXVI. TOI-1533: A compact system
+hosting a super-Neptune-mass pair with disparate
+radii](http://dx.doi.org/10.1051/0004-6361/202660961)*, Astronomy and
+Astrophysics, **713**
+([arXiv:2606.30799](http://arxiv.org/abs/2606.30799))
 
 Sha, Lizhou; Vanderburg, Andrew M.; Huang, Chelsea X.; Christian,
 Samuel; *et al.* (incl. **de Leon, J. P.**), 2026, *[The Occurrence Rate
@@ -222,14 +243,6 @@ Journal, **172**, 183
 ([arXiv:2601.13302](http://arxiv.org/abs/2601.13302)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2026AJ....172..183S)\]
 
-Lang, F. Zong; Demory, B. O.; Gómez Maqueo Chew, Y.; Schmid, Y.;
-*et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-4616 b: an Earth-sized
-planet transiting a nearby M4
-dwarf](http://dx.doi.org/10.1093/mnras/stag1610)*, Monthly Notices of
-the Royal Astronomical Society
-([arXiv:2603.10905](http://arxiv.org/abs/2603.10905)) \[[2
-citations](https://ui.adsabs.harvard.edu/abs/2026MNRAS.tmp.1622L)\]
-
 Fairnington, Tyler R.; Dong, Jiayin; Huang, Chelsea X.; Nabbie, Emma;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[The Orbital
 Eccentricity–Radius Distribution for Warm, Single Planets in
@@ -237,13 +250,6 @@ TESS](http://dx.doi.org/10.3847/2041-8213/ae9612)*, The Astrophysical
 Journal Letters, **1008**
 ([arXiv:2602.20015](http://arxiv.org/abs/2602.20015)) \[[5
 citations](https://ui.adsabs.harvard.edu/abs/2026ApJ..1008L...6F)\]
-
-Mantovan, G.; Nascimbeni, V.; Desidera, S.; Malavolta, L.; *et al.*,
-2026, *[The GAPS programme at TNG: LXXVI. TOI-1533: A compact system
-hosting a super-Neptune-mass pair with disparate
-radii](http://dx.doi.org/10.1051/0004-6361/202660961)*, Astronomy and
-Astrophysics, **713**
-([arXiv:2606.30799](http://arxiv.org/abs/2606.30799))
 
 Simon, Joshua D.; Rodriguez, Joseph E.; Yana Galarza, Jhon; Latham,
 David W.; *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-7169 b: A Hot
@@ -308,7 +314,8 @@ Wilson, Thomas G.; Simpson, Anna M.; Collier Cameron, Andrew; Cloutier,
 Ryan; *et al.* (incl. **de Leon, J. P.**), 2026, *[Gas-depleted planet
 formation occurred in the four-planet system around the red dwarf LHS
 1903](http://dx.doi.org/10.1126/science.adl2348)*, Science, **392**
-([arXiv:2602.11271](http://arxiv.org/abs/2602.11271))
+([arXiv:2602.11271](http://arxiv.org/abs/2602.11271)) \[[5
+citations](https://ui.adsabs.harvard.edu/abs/2026Sci...392..271W)\]
 
 Carleo, Ilaria; Castro-González, Amadeo; Pallé, Enric; Murgas, Felipe;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-3862 b: A dense
@@ -428,7 +435,7 @@ Peláez-Torres, A.; Esparza-Borges, E.; Pallé, E.; Parviainen, H.;
 TESS planet candidates through multi-colour transit photometry using
 MuSCAT2 data](http://dx.doi.org/10.1051/0004-6361/202347251)*, Astronomy
 and Astrophysics, **690**
-([arXiv:2409.07400](http://arxiv.org/abs/2409.07400)) \[[16
+([arXiv:2409.07400](http://arxiv.org/abs/2409.07400)) \[[18
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...690A..62P)\]
 
 Ghachoui, M.; Rackham, B. V.; Dévora-Pajares, M.; Chouqar, J.;
@@ -436,7 +443,7 @@ Ghachoui, M.; Rackham, B. V.; Dévora-Pajares, M.; Chouqar, J.;
 super-Earths orbiting the M-dwarf stars TOI-6002 and TOI-5713 near the
 radius valley](http://dx.doi.org/10.1051/0004-6361/202451120)*,
 Astronomy and Astrophysics, **690**
-([arXiv:2408.00709](http://arxiv.org/abs/2408.00709)) \[[13
+([arXiv:2408.00709](http://arxiv.org/abs/2408.00709)) \[[14
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...690A.263G)\]
 
 Hayashi, Yuya; Narita, Norio; Fukui, Akihiko; Changeat, Quentin;
@@ -453,7 +460,7 @@ of 70 planets in search of extended He I and H atmospheres: No evidence
 of enhanced evaporation in young
 planets](http://dx.doi.org/10.1051/0004-6361/202449411)*, Astronomy and
 Astrophysics, **689**
-([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[56
+([arXiv:2404.16732](http://arxiv.org/abs/2404.16732)) \[[57
 citations](https://ui.adsabs.harvard.edu/abs/2024A&A...689A.179O)\]
 
 Gaidos, E.; Parviainen, H.; Esparza-Borges, E.; Fukui, A.;
@@ -574,7 +581,7 @@ Gan, Tianjun; Cadieux, Charles; Jahandar, Farbod; Vazan, Allona;
 Orbiting a Metal-rich Early M Star Discovered in the TESS Full-frame
 Images](http://dx.doi.org/10.3847/1538-3881/acf56d)*, The Astronomical
 Journal, **166**, 165
-([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[20
+([arXiv:2307.07329](http://arxiv.org/abs/2307.07329)) \[[21
 citations](https://ui.adsabs.harvard.edu/abs/2023AJ....166..165G)\]
 
 Palle, E.; Orell-Miquel, J.; Brady, M.; Bean, J.; *et al.* (incl. **de
@@ -709,7 +716,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.5514G)\]
 2021, *[37 new validated planets in overlapping K2
 campaigns](http://dx.doi.org/10.1093/mnras/stab2305)*, Monthly Notices
 of the Royal Astronomical Society, **508**, 195
-([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[32
+([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[33
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..195D)\]
 
 Scarsdale, Nicholas; Murphy, Joseph M. Akana; Batalha, Natalie M.;
@@ -793,7 +800,7 @@ Leon, J. P.**), 2020, *[Cluster Difference Imaging Photometric Survey.
 II. TOI 837: A Young Validated Planet in IC
 2602](http://dx.doi.org/10.3847/1538-3881/abb9ab)*, The Astronomical
 Journal, **160**, 239
-([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[65
+([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[66
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
 
 Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
@@ -959,7 +966,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[155
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[156
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
