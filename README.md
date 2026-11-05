@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 104 refereed publications in exoplanet science
-with 2,547 total citations and an h-index of 30 (as of 2026-11-04).[^1]
+with 2,546 total citations and an h-index of 30 (as of 2026-11-05).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 104 / first author: 3 / citations: 2,547 / h-index: 30 (as of
-2026-11-04)
+refereed: 104 / first author: 3 / citations: 2,546 / h-index: 30 (as of
+2026-11-05)
 
 <div class="list">
 
@@ -207,18 +207,21 @@ Collier, Michael; Giacalone, Steven; Derfer, Brian; Ciardi, David R.;
 High-resolution Imaging on Statistical Validation of TESS Planet
 Candidates](http://dx.doi.org/10.3847/1538-3881/aea4aa)*, The
 Astronomical Journal, **172**, 247
+([arXiv:2608.21560](http://arxiv.org/abs/2608.21560))
 
 Lang, F. Zong; Demory, B. O.; Chew, Y. Gómez Maqueo; Schmid, Y.;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[TOI-4616 b: an Earth-sized
 planet transiting a nearby M4
 dwarf](http://dx.doi.org/10.1093/mnras/stag1610)*, Monthly Notices of
 the Royal Astronomical Society, **553**
+([arXiv:2603.10905](http://arxiv.org/abs/2603.10905))
 
 Watanabe, Noriharu; Narita, Norio; Fukui, Akihiko; Sato, Bun’ei;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[Discovery of an eccentric
 hot super-jupiter leaving the transiting geometry of the early-A-type
 star TOI-1355](http://dx.doi.org/10.1093/pasj/psag103)*, Publications of
 the Astronomical Society of Japan, **78**, 1992
+([arXiv:2608.17387](http://arxiv.org/abs/2608.17387))
 
 Mancini, L.; Manni, F.; Kubyshkina, D.; van Dijk, E. A.;
 *et al.* (incl. **de Leon, J. P.**), 2026, *[The Hot Neptune Initiative
@@ -226,6 +229,7 @@ Mancini, L.; Manni, F.; Kubyshkina, D.; van Dijk, E. A.;
 subgiant star TOI-5646: the largest host for a desert
 dweller](http://dx.doi.org/10.1051/0004-6361/202661303)*, Astronomy and
 Astrophysics, **714**
+([arXiv:2608.24311](http://arxiv.org/abs/2608.24311))
 
 Sha, Lizhou; Vanderburg, Andrew M.; Huang, Chelsea X.; Christian,
 Samuel; *et al.* (incl. **de Leon, J. P.**), 2026, *[The Occurrence Rate
@@ -313,7 +317,7 @@ Wilson, Thomas G.; Simpson, Anna M.; Collier Cameron, Andrew; Cloutier,
 Ryan; *et al.* (incl. **de Leon, J. P.**), 2026, *[Gas-depleted planet
 formation occurred in the four-planet system around the red dwarf LHS
 1903](http://dx.doi.org/10.1126/science.adl2348)*, Science, **392**
-([arXiv:2602.11271](http://arxiv.org/abs/2602.11271)) \[[5
+([arXiv:2602.11271](http://arxiv.org/abs/2602.11271)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2026Sci...392..271W)\]
 
 Carleo, Ilaria; Castro-González, Amadeo; Pallé, Enric; Murgas, Felipe;
@@ -774,7 +778,7 @@ Leon, J. P.**), 2021, *[An enhanced slope in the transmission spectrum
 of the hot Jupiter
 WASP-104b](http://dx.doi.org/10.1093/mnras/staa3555)*, Monthly Notices
 of the Royal Astronomical Society, **500**, 5420
-([arXiv:2011.06329](http://arxiv.org/abs/2011.06329)) \[[19
+([arXiv:2011.06329](http://arxiv.org/abs/2011.06329)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.500.5420C)\]
 
 Castro-González, A.; Dı́ez Alonso, E.; Menéndez Blanco, J.; Livingston,
@@ -965,7 +969,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[156
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[157
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
