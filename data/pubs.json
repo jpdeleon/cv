@@ -44,7 +44,7 @@
       "Wilkin, Francis P.",
       "Yal{\\c{c}}{\\i}nkaya, Sel{\\c{c}}uk"
     ],
-    "citations": 0,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-3881/aea4aa",
     "page": 247,
@@ -239,7 +239,7 @@
       "Wilkin, Francis P.",
       "Zhou, George"
     ],
-    "citations": 21,
+    "citations": 19,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ae8bb0",
     "page": 183,
@@ -420,7 +420,7 @@
       "Soubkiou, Abderahmane",
       "Wilkin, Francis P."
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ae7f02",
     "page": 118,
@@ -852,7 +852,7 @@
       "Schwarz, Richard P.",
       "Shporer, Avi"
     ],
-    "citations": 2,
+    "citations": 1,
     "doctype": "article",
     "doi": "10.1093/mnras/stag367",
     "page": null,
@@ -1405,7 +1405,7 @@
       "Van Zandt, Judah",
       "Ziegler, Carl"
     ],
-    "citations": 17,
+    "citations": 15,
     "doctype": "article",
     "doi": "10.3847/1538-4365/aded0d",
     "page": 30,
@@ -1456,7 +1456,7 @@
       "Zambelli, Roberto",
       "Howell, Steve B."
     ],
-    "citations": 10,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ade68b",
     "page": 148,
@@ -1519,7 +1519,7 @@
       "Swift, Jonathan J.",
       "Winn, Joshua N."
     ],
-    "citations": 29,
+    "citations": 28,
     "doctype": "article",
     "doi": "10.3847/1538-3881/addd17",
     "page": 68,
@@ -2105,7 +2105,7 @@
       "Ziegler, C.",
       "Zou, Y."
     ],
-    "citations": 18,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202347251",
     "page": null,
@@ -2168,7 +2168,7 @@
       "Gerasimov, R.",
       "Davoudi, F."
     ],
-    "citations": 14,
+    "citations": 13,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202451120",
     "page": null,
@@ -2255,7 +2255,7 @@
       "Schweitzer, A.",
       "Vico Linares, J. I."
     ],
-    "citations": 58,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202449411",
     "page": null,
@@ -2944,7 +2944,7 @@
       "Ziegler, Carl",
       "Zucker, Shay"
     ],
-    "citations": 43,
+    "citations": 42,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ad3068",
     "page": 233,
@@ -3255,7 +3255,7 @@
       "Tamura, M.",
       "Watanabe, N."
     ],
-    "citations": 6,
+    "citations": 5,
     "doctype": "article",
     "doi": "10.1093/mnras/stae072",
     "page": 1930,
@@ -3519,7 +3519,7 @@
       "Winn, J. N.",
       "Zingales, T."
     ],
-    "citations": 78,
+    "citations": 76,
     "doctype": "article",
     "doi": "10.1038/s41586-023-06692-3",
     "page": 932,
@@ -3578,7 +3578,7 @@
       "Vezie, Michael",
       "de Wit, Julien"
     ],
-    "citations": 21,
+    "citations": 20,
     "doctype": "article",
     "doi": "10.3847/1538-3881/acf56d",
     "page": 165,
@@ -4104,7 +4104,7 @@
       "Ueda, A.",
       "Vievard, S."
     ],
-    "citations": 15,
+    "citations": 14,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202243381",
     "page": null,
@@ -4375,7 +4375,7 @@
       "Wittrock, Justin",
       "Ziegler, Carl"
     ],
-    "citations": 56,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ac517f",
     "page": 207,
@@ -5093,7 +5093,7 @@
       "Vanderspek, R.",
       "Winn, J. N."
     ],
-    "citations": 86,
+    "citations": 85,
     "doctype": "article",
     "doi": "10.1126/science.abd7645",
     "page": 1038,
@@ -5516,7 +5516,7 @@
       "Ziegler, C.",
       "Zohrabi, F."
     ],
-    "citations": 81,
+    "citations": 80,
     "doctype": "article",
     "doi": "10.1051/0004-6361/202037867",
     "page": null,
@@ -6206,7 +6206,7 @@
       "Law, Nicholas",
       "Mann, Andrew W."
     ],
-    "citations": 106,
+    "citations": 103,
     "doctype": "article",
     "doi": "10.1038/s41550-020-1142-z",
     "page": 1148,
@@ -6720,7 +6720,7 @@
       "Smith, A. M. S.",
       "Trifonov, T."
     ],
-    "citations": 39,
+    "citations": 38,
     "doctype": "article",
     "doi": "10.1093/mnras/stz139",
     "page": 3522,
@@ -6742,7 +6742,7 @@
       "Liu, Sheng-Yuan",
       "Tamura, Motohide"
     ],
-    "citations": 50,
+    "citations": 49,
     "doctype": "article",
     "doi": "10.3847/1538-3881/ab0ae4",
     "page": 165,
@@ -6919,7 +6919,7 @@
       "Luque, Rafael",
       "Nishiumi, Taku"
     ],
-    "citations": 157,
+    "citations": 155,
     "doctype": "article",
     "doi": "10.1117/1.JATIS.5.1.015001",
     "page": 15001,
