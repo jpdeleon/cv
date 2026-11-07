@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 104 refereed publications in exoplanet science
-with 2,516 total citations and an h-index of 30 (as of 2026-11-06).[^1]
+with 2,517 total citations and an h-index of 30 (as of 2026-11-07).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 104 / first author: 3 / citations: 2,516 / h-index: 30 (as of
-2026-11-06)
+refereed: 104 / first author: 3 / citations: 2,517 / h-index: 30 (as of
+2026-11-07)
 
 <div class="list">
 
@@ -717,7 +717,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.5514G)\]
 2021, *[37 new validated planets in overlapping K2
 campaigns](http://dx.doi.org/10.1093/mnras/stab2305)*, Monthly Notices
 of the Royal Astronomical Society, **508**, 195
-([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[33
+([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..195D)\]
 
 Scarsdale, Nicholas; Murphy, Joseph M. Akana; Batalha, Natalie M.;
