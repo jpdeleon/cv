@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 104 refereed publications in exoplanet science
-with 2,524 total citations and an h-index of 30 (as of 2026-11-11).[^1]
+with 2,520 total citations and an h-index of 30 (as of 2026-11-12).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 104 / first author: 3 / citations: 2,524 / h-index: 30 (as of
-2026-11-11)
+refereed: 104 / first author: 3 / citations: 2,520 / h-index: 30 (as of
+2026-11-12)
 
 <div class="list">
 
@@ -315,7 +315,7 @@ Wilson, Thomas G.; Simpson, Anna M.; Collier Cameron, Andrew; Cloutier,
 Ryan; *et al.* (incl. **de Leon, J. P.**), 2026, *[Gas-depleted planet
 formation occurred in the four-planet system around the red dwarf LHS
 1903](http://dx.doi.org/10.1126/science.adl2348)*, Science, **392**
-([arXiv:2602.11271](http://arxiv.org/abs/2602.11271)) \[[5
+([arXiv:2602.11271](http://arxiv.org/abs/2602.11271)) \[[2
 citations](https://ui.adsabs.harvard.edu/abs/2026Sci...392..271W)\]
 
 Carleo, Ilaria; Castro-González, Amadeo; Pallé, Enric; Murgas, Felipe;
@@ -519,7 +519,7 @@ the Top TESS Objects of Interest for Atmospheric Characterization of
 Transiting Exoplanets with
 JWST](http://dx.doi.org/10.3847/1538-3881/ad3068)*, The Astronomical
 Journal, **167**, 233
-([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[43
+([arXiv:2308.09617](http://arxiv.org/abs/2308.09617)) \[[42
 citations](https://ui.adsabs.harvard.edu/abs/2024AJ....167..233H)\]
 
 Mori, Mayuko; Ikuta, Kai; Fukui, Akihiko; Narita, Norio;
@@ -717,7 +717,7 @@ citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.5514G)\]
 2021, *[37 new validated planets in overlapping K2
 campaigns](http://dx.doi.org/10.1093/mnras/stab2305)*, Monthly Notices
 of the Royal Astronomical Society, **508**, 195
-([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[35
+([arXiv:2108.05621](http://arxiv.org/abs/2108.05621)) \[[34
 citations](https://ui.adsabs.harvard.edu/abs/2021MNRAS.508..195D)\]
 
 Scarsdale, Nicholas; Murphy, Joseph M. Akana; Batalha, Natalie M.;
@@ -801,7 +801,7 @@ Leon, J. P.**), 2020, *[Cluster Difference Imaging Photometric Survey.
 II. TOI 837: A Young Validated Planet in IC
 2602](http://dx.doi.org/10.3847/1538-3881/abb9ab)*, The Astronomical
 Journal, **160**, 239
-([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[66
+([arXiv:2009.07845](http://arxiv.org/abs/2009.07845)) \[[65
 citations](https://ui.adsabs.harvard.edu/abs/2020AJ....160..239B)\]
 
 Kemmer, J.; Stock, S.; Kossakowski, D.; Kaminski, A.;
@@ -938,7 +938,7 @@ Akiyama, Eiji; Vorobyov, Eduard I.; Liu, Hauyu Baobabu; Dong, Ruobing;
 with a Protoplanetary Disk around SU
 Aurigae](http://dx.doi.org/10.3847/1538-3881/ab0ae4)*, The Astronomical
 Journal, **157**, 165
-([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[49
+([arXiv:1902.10306](http://arxiv.org/abs/1902.10306)) \[[50
 citations](https://ui.adsabs.harvard.edu/abs/2019AJ....157..165A)\]
 
 Hayakawa, Tomohiko; Murakami, Kenichi; **de Leon, J. P.**; & Ishikawa,
@@ -967,7 +967,7 @@ Narita, Norio; Fukui, Akihiko; Kusakabe, Nobuhiko; Watanabe, Noriharu;
 simultaneous camera for the 1.52-m Telescopio Carlos
 Sánchez](http://dx.doi.org/10.1117/1.JATIS.5.1.015001)*, Journal of
 Astronomical Telescopes, Instruments, and Systems, **5**, 15001
-([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[154
+([arXiv:1807.01908](http://arxiv.org/abs/1807.01908)) \[[155
 citations](https://ui.adsabs.harvard.edu/abs/2019JATIS...5a5001N)\]
 
 Mayama, Satoshi; Akiyama, Eiji; Panić, Olja; Miley, James;
