@@ -24,7 +24,7 @@ Scholar](https://scholar.google.com/citations?hl=en&user=_Z8ialwAAAAJ&view_op=li
 
 
 **Research:** Author of 104 refereed publications in exoplanet science
-with 2,520 total citations and an h-index of 30 (as of 2026-11-12).[^1]
+with 2,521 total citations and an h-index of 30 (as of 2026-11-13).[^1]
 Research focuses on the discovery and characterization of transiting
 exoplanets using space- and ground-based telescopes and advanced data
 analyses.
@@ -196,8 +196,8 @@ proficiency)
 
 ## Publications
 
-refereed: 104 / first author: 3 / citations: 2,520 / h-index: 30 (as of
-2026-11-12)
+refereed: 104 / first author: 3 / citations: 2,521 / h-index: 30 (as of
+2026-11-13)
 
 <div class="list">
 
@@ -1023,7 +1023,7 @@ Jun; *et al.*, 2015, *[Near-IR High-resolution Imaging Polarimetry of
 the SU Aur Disk: Clues for Tidal
 Tails?](http://dx.doi.org/10.1088/2041-8205/806/1/L10)*, The
 Astrophysical Journal Letters, **806**
-([arXiv:1505.03610](http://arxiv.org/abs/1505.03610)) \[[19
+([arXiv:1505.03610](http://arxiv.org/abs/1505.03610)) \[[20
 citations](https://ui.adsabs.harvard.edu/abs/2015ApJ...806L..10D)\]
 
 </div>
